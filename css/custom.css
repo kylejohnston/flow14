@@ -432,6 +432,7 @@ p.flex-caption {
 		height: 60px;
 	}
 	#fresh {
+		margin: 1em auto;
 		width: auto;
 	}
 	.nav div { margin: 0 0 .5em 0; }
