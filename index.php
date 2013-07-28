@@ -10,53 +10,14 @@
 	<?php include('includes/head.php'); ?>
 </head>
 <body>
-	<?php include('includes/header-nav.php'); ?>
-    <!-- Carousel
-    ================================================== -->
-    <div class="carousel ">
-      <div class="carousel-inner">
-        <div class="item active">
-          <img src="img/banner.png" alt="">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1><strong>Design Works. Anywhere.</strong><br>Whether it’s on-screen or on paper, flow14 specializes in helping small businesses, non-profits, and political groups connect with customers through engaging websites, logo design, collateral materials and more.<br><a href="work" onClick="_gaq.push(['_trackEvent', 'Homepage Promos', 'Click', 'View Work']);">See the work I’ve created</a> or <a href="contact" onClick="_gaq.push(['_trackEvent', 'Homepage Promos', 'Click', 'Contact']);">contact me for a quote</a>.</h1>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div><!-- /.carousel -->
-
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-	<div class="container items">
-		<div class="row">
-			<h2 class="span12">Recent Work</h2>
-			<div class="span4 item">
-				<a href="lisa-for-kansas-senate" onClick="_gaq.push(['_trackEvent', 'Homepage Promos', 'Click', 'Lisa for Kansas Senate']);"><img src="img/samples/lisa-for-kansas-senate/thumb.png" alt="Lisa for Kansas Senate"></a>
-				<div class="inner">
-					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
-					<p>+ <a href="lisa-for-kansas-senate">Read the Case Study</a></p>
-				</div>
-			</div>
-			<div class="span4 item">
-				<a href="creative-outfitters" onClick="_gaq.push(['_trackEvent', 'Homepage Promos', 'Click', 'Creative Outfitters']);"><img src="img/samples/creative-outfitters/thumb.png" width="300" height="150" alt="Creative Outfitters"></a>
-				<div class="inner">
-					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
-					<p>+ <a href="creative-outfitters">Read the Case Study</a></p>
-				</div>
-			</div>
-			<div class="span4 item">
-				<a href="jocart" onClick="_gaq.push(['_trackEvent', 'Homepage Promos', 'Click', 'JoCART']);"><img src="img/samples/jocart/thumb.png" alt="JoCART - Johnson County Animal Response Team"></a>
-				<div class="inner">
-					<h2><a href="jocart">JoCART</a></h2>
-					<p>+ <a href="jocart">Read the Case Study</a></p>
-				</div>
-			</div>
-			<p>&nbsp;</p>
-			<div class="caption"><h3 class="span12"><a href="work">View more work samples ></a></h3></div>
+		<div id="fresh">
+			<img src="img/flow14-logo_lg.png" alt="flow14 - Design Works.">
+			<p>We use outstanding design to help your small business, <nobr>non-profit</nobr>, or political group connect with your audience.</p>
+			<p>See <a href="work">samples of our work</a>, learn more <a href="about">about us</a> or <a href="contact">contact us</a> for a quote today.</p>
 		</div>
-	</div>
+
+
+
 	<div class="container marketing">
 		<?php include('includes/footer.php'); ?>
 	</div>
