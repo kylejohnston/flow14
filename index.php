@@ -15,13 +15,9 @@
 			<p>We use outstanding design to help your small business, <nobr>non-profit</nobr>, or political group connect with your audience.</p>
 			<p>See <a href="work">samples of our work</a>, learn more <a href="about">about us</a> or <a href="contact">contact us</a> for a quote today.</p>
 		</div>
-
-
-
 	<div class="container marketing">
 		<?php include('includes/footer.php'); ?>
 	</div>
-
 	<?php include('includes/foot.php'); ?>
 </body>
 </html>
