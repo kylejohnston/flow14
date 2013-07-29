@@ -107,6 +107,13 @@
 					<p>+ <a href="ibgreek">Read the Case Study</a></p>
 				</div>
 			</div>
+			<div class="span3 item">
+				<a href="borrowersrep"><img src="img/samples/borrowersrep/thumb.png" width="300" height="150" alt="BorrowersRep.com"></a>
+				<div class="inner">
+					<h2><a href="borrowersrep">BorrowersRep.com</a></h2>
+					<p>+ <a href="borrowersrep">Read the Case Study</a></p>
+				</div>
+			</div>
 		</div>
 	</div><!-- Row 3 -->
 
