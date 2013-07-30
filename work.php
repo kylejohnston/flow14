@@ -83,35 +83,35 @@
 				</div>
 			</div>
 			<div class="span3 item">
-				<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumb.png" width="300" height="150" alt="Harmony Hearing Aids"></a>
+				<a href="borrowersrep"><img src="img/samples/borrowersrep/thumb.png" width="300" height="150" alt="BorrowersRep.com"></a>
 				<div class="inner">
-					<h2><a href="harmony-hearing-aids">Harmony Hearing Aids</a></h2>
-					<p>+ <a href="harmony-hearing-aids">Read the Case Study</a></p>
+					<h2><a href="borrowersrep">BorrowersRep.com</a></h2>
+					<p>+ <a href="borrowersrep">Read the Case Study</a></p>
 				</div>
 			</div>
 		</div>
 	</div><!-- Row 2 -->
 	<div class="container items">
 		<div class="row">
-			<div class="span3 item">
+			<div class="span4 item">
 				<a href="96kx"><img src="img/samples/96kx/thumb.png" width="300" height="150" alt="96KX"></a>
 				<div class="inner">
 					<h2><a href="96kx">96KX</a></h2>
 					<p>+ <a href="96kx">Read the Case Study</a></p>
 				</div>
 			</div>
-			<div class="span3 item">
+			<div class="span4 item">
 				<a href="ibgreek"><img src="img/samples/ibgreek/thumb.png" width="300" height="150" alt="IBGreek"></a>
 				<div class="inner">
 					<h2><a href="ibgreek">IBGreek</a></h2>
 					<p>+ <a href="ibgreek">Read the Case Study</a></p>
 				</div>
 			</div>
-			<div class="span3 item">
-				<a href="borrowersrep"><img src="img/samples/borrowersrep/thumb.png" width="300" height="150" alt="BorrowersRep.com"></a>
+			<div class="span4 item">
+				<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumb.png" width="300" height="150" alt="Harmony Hearing Aids"></a>
 				<div class="inner">
-					<h2><a href="borrowersrep">BorrowersRep.com</a></h2>
-					<p>+ <a href="borrowersrep">Read the Case Study</a></p>
+					<h2><a href="harmony-hearing-aids">Harmony Hearing Aids</a></h2>
+					<p>+ <a href="harmony-hearing-aids">Read the Case Study</a></p>
 				</div>
 			</div>
 		</div>
