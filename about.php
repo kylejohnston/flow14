@@ -28,6 +28,7 @@
 				<p>Here are a few of the other places you can find me on the web:<br>
 					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a><br>
 					<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a> (Photos)<br>
+					<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a> (Photos)<br>
 					<a class="facebook" href="http://www.facebook.com/thekylejohnston">Facebook</a><br>
 					<a class="vimeo" href="http://vimeo.com/kylejohnston">Vimeo</a> (Videos)<br>
 					<a class="tumblr" href="http://kylejohnston.tumblr.com">Tumblr</a><br>
