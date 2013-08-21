@@ -7,11 +7,6 @@
 	<meta name="description" content="Learn more about flow14, a design studio that specializes in helping small businesses, non-profits, and political groups with logo design, website design and more">
 	<meta name="author" content="Kyle Johnston">
 	<?php include('includes/head.php'); ?>
-	<script type="text/javascript" src="//use.typekit.net/edk8gtn.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	<style type="text/css">
-	.tk-bello-pro { font-family: "bello-pro"; font-size: 6.2em; }
-	</style>
 </head>
 <body>
 	<?php include('includes/header-nav.php'); ?>
@@ -19,7 +14,6 @@
 		<div class="row">
 			<div class="span7">
 				<h1>Greetings!</h1>
-				<h1 class="tk-bello-pro">Kyle Johnston</h1>
 				<p><strong>flow14</strong> is a cozy little freelance design studio that specializes in helping small businesses, non-profits, and political groups connect with customers through engaging websites, logo design, collateral materials and more.</p>
 				<p>We love design – you can see it in our work and you’ll love seeing the results of our creative energy come through in your pocketbook. After you’ve had some time to peruse the site and see a few of the things we’ve created for others, contact us and we’ll talk about all of the wonderful things we can create for you.</p>
 				<h2>The Founder.</h2>
