@@ -126,28 +126,29 @@
 					<div class="span4">
 						<p><strong>Small Businesses</strong><br>
 						BorrowersRep.com<br>
-						CampaignAndWin.com<br>
-						Creative Outfitters<br>
+						<a href="http://www.campaignandwin.com/">CampaignAndWin.com</a><br>
+						<a href="http://www.creativeoutfitters.com/">Creative Outfitters</a><br>
 						Harmony Hearing Aids<br>
 						IBGreek<br>
-						Mariposa Veterinary Wellness Clinic<br>
+						<a href="http://www.mariposavet.com/">Mariposa Veterinary Wellness Clinic</a><br>
 						96KX</p>
 						<p><strong>Education</strong><br>
-						Baker University<br>
-						KCPDC</p>
+						<a href="http://www.bakeru.edu">Baker University</a><br>
+						<a href="http://www.kcpdc.org">KCPDC</a></p>
 					</div>
 					<div class="span4">
 						<p><strong>Non-Profits</strong><br>
 						Animal Haven<br>
-						Great Plains SPCA<br>
-						JoCART<br>
-						KC Pet Project<br>
-						Wayside Waifs</p>
+						<a href="http://www.greatplainsspca.org/">Great Plains SPCA</a><br>
+						<a href="http://jocartks.org/">JoCART</a><br>
+						<a href="http://kcpetproject.org/">KC Pet Project</a><br>
+						Siraba School<br>
+						<a href="http://www.waysidewaifs.org/">Wayside Waifs</a></p>
 						<p><strong>Political</strong><br>
-						Kansas Dems<br>
-						Lisa for Kansas<br>
+						<a href="http://www.kansasdems.org/">Kansas Dems</a><br>
+						<a href="http://www.lisaforkansas.com">Lisa for Kansas</a><br>
 						Dennis McKinney<br>
-						Sapphire Wire</p>
+						<a href="http://www.sapphirewire.com">Sapphire Wire</a></p>
 					</div>
 				</div>
 			</div>
