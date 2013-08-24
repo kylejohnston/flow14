@@ -136,6 +136,13 @@
 					<p>+ <a href="iphone-365">Watch the Videos</a></p>
 				</div>
 			</div>
+			<div class="span4 item">
+				<a href="fonts"><img src="img/fonts/sporty.png" alt="Fonts"></a>
+				<div class="inner">
+					<h2><a href="fonts">Custom Fonts</a></h2>
+					<p>+ <a href="fonts">View &amp; download fonts</a></p>
+				</div>
+			</div>
 		</div>
 	</div>
 
