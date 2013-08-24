@@ -16,6 +16,22 @@
 		<h1>Work Samples</h1>
 		<div class="row">
 			<div class="span4 item">
+				<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumb.png" width="300" height="150" alt="Creative Outfitters"></a>
+				<div class="inner">
+					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
+					<p>+ <a href="creative-outfitters">Read the Case Study</a><br>
+					Client type: Small business</p>
+				</div>
+			</div>
+			<div class="span4 item">
+				<a href="borrowersrep"><img src="img/samples/borrowersrep/thumb.png" width="300" height="150" alt="BorrowersRep.com"></a>
+				<div class="inner">
+					<h2><a href="borrowersrep">BorrowersRep.com</a></h2>
+					<p>+ <a href="borrowersrep">Read the Case Study</a><br>
+					Client type: Small business</p>
+				</div>
+			</div>
+			<div class="span4 item">
 				<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumb.png" alt="Lisa for Kansas Senate"></a>
 				<div class="inner">
 					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
@@ -30,22 +46,6 @@
 					<p><strong>What I did:</strong> Logo design, web presence</p>
 				</div>
 			</div>-->
-			<div class="span4 item">
-				<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumb.png" width="300" height="150" alt="Creative Outfitters"></a>
-				<div class="inner">
-					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
-					<p>+ <a href="creative-outfitters">Read the Case Study</a><br>
-					Client type: Small business</p>
-				</div>
-			</div>
-			<div class="span4 item">
-				<a href="jocart"><img src="img/samples/jocart/thumb.png" width="300" height="150" alt="JoCART - Johnson County Animal Response Team"></a>
-				<div class="inner">
-					<h2><a href="jocart">JoCART</a></h2>
-					<p>+ <a href="jocart">Read the Case Study</a><br>
-					Client type: Non-profit</p>
-				</div>
-			</div>
 			<!--<div class="span3 item">
 				<a href="sapphire-wire"><img src="img/samples/sapphirewire/thumb.png" alt="Sapphire Wire"></a>
 				<div class="inner">
@@ -89,11 +89,11 @@
 				</div>
 			</div>
 			<div class="span3 item">
-				<a href="borrowersrep"><img src="img/samples/borrowersrep/thumb.png" width="300" height="150" alt="BorrowersRep.com"></a>
+				<a href="jocart"><img src="img/samples/jocart/thumb.png" width="300" height="150" alt="JoCART - Johnson County Animal Response Team"></a>
 				<div class="inner">
-					<h2><a href="borrowersrep">BorrowersRep.com</a></h2>
-					<p>+ <a href="borrowersrep">Read the Case Study</a><br>
-					Client type: Small business</p>
+					<h2><a href="jocart">JoCART</a></h2>
+					<p>+ <a href="jocart">Read the Case Study</a><br>
+					Client type: Non-profit</p>
 				</div>
 			</div>
 		</div>
