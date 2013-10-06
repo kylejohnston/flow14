@@ -14,7 +14,7 @@
 		<div class="row">
 			<div class="span7">
 				<h1>Greetings!</h1>
-				<p><strong>flow14</strong> is a cozy little freelance design studio that specializes in helping small businesses, non-profits, and political groups connect with customers through engaging websites, logo design, collateral materials and more.</p>
+				<p><strong>flow14</strong> is a cozy little freelance design studio based in Overland Park, Kansas that specializes in helping small businesses, non-profits, and political groups connect with customers through engaging websites, logo design, collateral materials and more.</p>
 				<p>We love design – you can see it in our work and you’ll love seeing the results of our creative energy come through in your pocketbook. After you’ve had some time to peruse the site and see a few of the things we’ve created for others, contact us and we’ll talk about all of the wonderful things we can create for you.</p>
 				<h2>The Founder.</h2>
 				<img style="float:right; margin:0 0 0 1em;" src="img/headshot.png" class="img-circle" alt="">
