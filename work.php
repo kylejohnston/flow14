@@ -172,7 +172,7 @@
 							<a href="http://www.greatplainsspca.org/">Great Plains SPCA</a><br>
 							<a href="http://jocartks.org/">JoCART</a><br>
 							<a href="http://kcpetproject.org/">KC Pet Project</a><br>
-							Siraba School<br>
+							<a href="https://www.facebook.com/SirabaSchoolInBoiVillage">Siraba School</a><br>
 							<a href="http://www.waysidewaifs.org/">Wayside Waifs</a></p>
 						</div>
 					</div>
