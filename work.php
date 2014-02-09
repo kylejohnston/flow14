@@ -181,6 +181,7 @@
 							<p><strong>Political</strong><br>
 							<a href="http://www.kansasdems.org/">Kansas Dems</a><br>
 							<a href="http://www.lisaforkansas.com">Lisa for Kansas</a><br>
+							<a href="http://www.mcguireforkansas.com">Don McGuire</a><br>
 							Dennis McKinney<br>
 							<a href="http://www.sapphirewire.com">Sapphire Wire</a></p>
 							<p><strong>Education</strong><br>
