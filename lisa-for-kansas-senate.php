@@ -76,7 +76,7 @@
 						</li>
 					</ul>
 				</div>
-				<p>Lisa’s distinctive website was developed to work in any browser – from desktop to mobile (mobile devices accounted for 14% of traffic during the campaign). We maintained the URL from the last campaign to ensure the site came out at the top of most search results, an important advantage in a short election cycle.</p><p>Reactions were positive; we heard other candidates wanted to copy the design and the was reviewed on a <a href="http://blog.propaganda3.com/blog/2012/8/8/election-site-rumble-iii.html">local design blog</a>.</p>
+				<p>Lisa’s distinctive website was developed to work in any browser – from desktop to mobile (mobile devices accounted for 14% of traffic during the campaign). We maintained the URL from the last campaign to ensure the site came out at the top of most search results, an important advantage in a short election cycle.</p><p>Reactions were positive; we heard other candidates wanted to copy the design and the site was reviewed on a <a href="http://blog.propaganda3.com/blog/2012/8/8/election-site-rumble-iii.html">local design blog</a>.</p>
 			</div>
 		</div>
 		<?php include('includes/footer.php'); ?>
