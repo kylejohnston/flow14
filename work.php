@@ -183,7 +183,8 @@
 							<a href="http://www.lisaforkansas.com">Lisa for Kansas</a><br>
 							<a href="http://www.mcguireforkansas.com">Don McGuire</a><br>
 							Dennis McKinney<br>
-							<a href="http://www.sapphirewire.com">Sapphire Wire</a></p>
+							<a href="http://www.sapphirewire.com">Sapphire Wire</a><br>
+							<a href="http://www.ronworley.com">Ron Worley</a></p>
 							<p><strong>Education</strong><br>
 							<a href="http://www.bakeru.edu">Baker University</a><br>
 							<a href="http://www.kcpdc.org">KCPDC</a></p>
