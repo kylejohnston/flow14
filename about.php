@@ -14,11 +14,11 @@
 		<div class="row">
 			<div class="span7">
 				<h1>Greetings!</h1>
-				<p><strong>flow14</strong> is a cozy little freelance design studio based in Overland Park, Kansas that specializes in helping small businesses, non-profits, and political groups connect with customers through engaging websites, logo design, collateral materials and more.</p>
+				<p><span itemprop="name"><strong>flow14</strong></span> is a cozy little freelance design studio based in <span itemprop="addressLocality">Overland Park</span>, <span itemprop="addressRegion">Kansas</span> that specializes in helping small businesses, non-profits, and political groups connect with customers through engaging websites, logo design, collateral materials and more.</p>
 				<p>We love design – you can see it in our work and you’ll love seeing the results of our creative energy come through in your pocketbook. After you’ve had some time to peruse the site and see a few of the things we’ve created for others, contact us and we’ll talk about all of the wonderful things we can create for you.</p>
 				<h2>The Founder.</h2>
 				<img style="float:right; margin:0 0 0 1em;" src="img/headshot.png" class="img-circle" alt="">
-				<p>I'm <strong>Kyle Johnston</strong>, the founder and owner of flow14. When I’m not designing here, I hold down a fantastic day job as the Creative Director at Garmin.</p>
+				<p>I'm <strong>Kyle Johnston</strong>, the founder and owner of <span itemprop="name">flow14</span>. When I’m not designing here, I hold down a fantastic day job as the Creative Director at Garmin.</p>
 				<p>Here are a few of the other places you can find me on the web:<br>
 					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a><br>
 					<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a> (Photos)<br>
