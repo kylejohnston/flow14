@@ -12,7 +12,7 @@
 					<div class="span4">
 						<div class="inner" itemscope itemtype="http://schema.org/LocalBusiness">
 							<p><strong>Contact</strong><br>
-							<span style="color:#333;" itemprop="telephone">913 738-4080</span><br><a href="contact" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Email']);"><meta itemprop="email" content="contact"><strong>Email</strong></a><br>12725 W 126th St,<br>Overland Park, KS</p>
+							<span itemprop="telephone">913 738-4080</span><br><a href="contact" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Email']);"><meta itemprop="email" content="contact"><strong>Email</strong></a><br><span itemprop="streetAddress">12725 W 126th St</span>,<br><span itemprop="addressLocality">Overland Park</span>, <span itemprop="addressRegion">KS</span></p>
 						</div>
 					</div>
 					<div class="span4">
