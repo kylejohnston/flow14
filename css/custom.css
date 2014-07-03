@@ -72,6 +72,10 @@ a span {
 	color: #bfbfbf;
 	font-weight: 200;
 }
+p span {
+	color: #333;
+	font-weight: 300;
+	}
 label {
 	font-weight: 300;
 	font-size: 19px;
