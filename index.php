@@ -10,7 +10,7 @@
 	<?php include('includes/head.php'); ?>
 </head>
 <body>
-		<div id="fresh" class="intro" style="background-color:#0ea0db;">
+		<div id="fresh" class="dark intro" style="background-color:#0ea0db;">
 			<div class="container">
 				<div class="row">
 					<div class="introduction">
