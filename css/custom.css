@@ -83,15 +83,15 @@ label {
 }
 /* HEADER STYLES
 ------------------------------------------ */
-.nav div {
-	float: left;
-	margin: 1.2em 1em 1em 0;
-	width: 90px;
-}
-.nav div.logo {
-	float: left;
+.logo div {
 	margin: .6em 1em 0 0;
 	width: 180px;
+}
+.nav-wrap { float: right; } 
+.nav-wrap div {
+	float: left;
+	margin: 1.2em 0 1em 0;
+	width: 90px;
 }
 .nav div a {
 	display: block;
@@ -120,7 +120,8 @@ label {
 ------------------------------------------ */
 #fresh {
 	text-align: center;
-	margin: 2em auto;
+	margin: 0 auto 1em 0;
+	padding: 2em 0 1em 0;
 	width:600px;
 	font-size: 1.5rem;
 }
@@ -223,11 +224,26 @@ label {
 }
 .introduction h1,
 .introduction p {
-	width: 45%;
-	text-align:left;	
-}	
+	width: 50%;
+	text-align:left;
+	color: #111;
+}
+.dark .introduction h1,
+.dark .introduction p {
+	color: #fff;
+}
+
 .introduction h1 { margin: 0 auto; }
 .introduction p { margin: .5em auto; }
+.introduction span { color: #fff; }
+.introduction a:link,
+.introduction a:visited {
+	color: #fff;
+	text-decoration: underline;
+}
+.introduction a:hover,
+.introduction a:active { text-decoration: none; }
+
 
 /* Featurettes */
 .featurette {
@@ -435,8 +451,12 @@ p.flex-caption {
 		margin: 0;
 		height: 60px;
 	}
+	.nav .nav-wrap {
+		float: left;
+	}
 	#fresh {
-		margin: 1em auto;
+		margin: -20px -20px 1em;
+		padding: 2em 20px 1em;
 		width: auto;
 	}
 	.nav div { margin: 0 0 .5em 0; }

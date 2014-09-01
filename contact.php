@@ -119,7 +119,6 @@ if(isset($_POST['submit'])) {
 					<a class="vimeo" href="http://vimeo.com/kylejohnston">Vimeo</a> (Videos)<br>
 					<a class="tumblr" href="http://kylejohnston.tumblr.com">Tumblr</a><br>
 					<a class="google-plus" href="https://plus.google.com/103758963959064535451/?rel=author">Google+</a><br>
-					<a class="garminconnect" href="http://connect.garmin.com/explore?owner=flow14">Garmin Connect</a>
 				</p>
 			</div>
 		</div>

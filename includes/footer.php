@@ -5,7 +5,7 @@
 						<div class="inner">
 							<p>
 								<img src="//flow14.com/img/flow14-logo.png" width="90" height="30" alt=""><br>
-								<a href="/" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Home']);">Home</a> / <a href="work" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Work']);">Work</a> / <a href="about" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'About']);">About</a> / <a href="contact" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Contact']);">Contact</a> / <a href="fonts" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Fonts']);">Fonts</a>
+								<a href="/" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Home']);">Home</a> / <a href="/#work" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Work']);">Work</a> / <a href="about" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'About']);">About</a> / <a href="contact" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Contact']);">Contact</a> / <a href="fonts" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Fonts']);">Fonts</a>
 							</p>
 						</div>
 					</div>
