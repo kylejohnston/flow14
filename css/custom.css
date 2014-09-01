@@ -226,8 +226,13 @@ label {
 .introduction p {
 	width: 50%;
 	text-align:left;
+	color: #111;
+}
+.dark .introduction h1,
+.dark .introduction p {
 	color: #fff;
 }
+
 .introduction h1 { margin: 0 auto; }
 .introduction p { margin: .5em auto; }
 .introduction span { color: #fff; }
