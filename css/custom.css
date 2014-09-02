@@ -289,7 +289,8 @@ label {
 	margin: 0 auto;
 	width: 90%;
 }
-.overflow { overflow: hidden; height: 300px; }
+.overflow { overflow: hidden; width: 100%; }
+.overflow img { margin: -55px 40px; }
 
 /* FOOTER STYLES
 ------------------------------------------ */
@@ -439,6 +440,7 @@ p.flex-caption {
   .flex-direction-nav .flex-prev { left: 0;opacity: 1;}
   .flex-direction-nav .flex-next { right: 0;opacity: 1;}
 	.overflow { overflow: visible; height: auto; }
+	.overflow img { margin: -55px auto 0 auto; }
 }
 @media (max-width: 767px) {
 	h1,
