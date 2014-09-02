@@ -34,8 +34,8 @@
 			</div>
 		</div>
 		<!-- Business Cards -->
-		<div class="featurette featurette-alt overflow">
-			<img class="pull-right" style="margin: -55px 40px 0 40px;" src="img/samples/creative-outfitters/creativeoutfitters-card.png" width="460" height="421">
+		<div class="featurette featurette-alt overflow" style="width: 100%;">
+			<img class="pull-right" src="img/samples/creative-outfitters/creativeoutfitters-card.png" width="460" height="421">
 			<div class="inner">
 				<h2>Business Cards</h2>
 				<p>Contact information printed on stickers creates a versatile solution that can be used on business cards, shirt boxes and more.</p>
