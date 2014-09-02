@@ -87,7 +87,7 @@ label {
 	margin: .6em 1em 0 0;
 	width: 180px;
 }
-.nav-wrap { float: right; } 
+.nav-wrap { float: right; }
 .nav-wrap div {
 	float: left;
 	margin: 1.2em 0 1em 0;
@@ -114,7 +114,7 @@ label {
 }
 .dark {
 	color: #fff;
-}	
+}
 
 /* BODY STYLES
 ------------------------------------------ */
@@ -161,10 +161,10 @@ label {
 	margin-bottom: 1.5em;
 	text-align: center;
 }
-.caption img { 
+.caption img {
 	margin: 0 auto;
 }
-.caption p { 
+.caption p {
 	margin: 0;
 	color: #777777;
 	font-style: italic;
@@ -259,7 +259,7 @@ label {
 .featurette p {
 	margin: 1em auto;
 	width: 60%;
-	text-align:left;	
+	text-align:left;
 }
 .featurette h3 { margin: 1em auto; }
 .featurette-alt {
@@ -287,10 +287,9 @@ label {
 
 .inner {
 	margin: 0 auto;
-	/* padding-top: 1em; */
-	/* padding-bottom: 1em; */
 	width: 90%;
 }
+.overflow { overflow: hidden; height: 300px; }
 
 /* FOOTER STYLES
 ------------------------------------------ */
@@ -331,18 +330,18 @@ footer:after {
 .flexslider a:focus  { outline: none; }
 .slides,
 .flex-control-nav,
-.flex-direction-nav { margin: 0; padding: 0; list-style: none; } 
+.flex-direction-nav { margin: 0; padding: 0; list-style: none; }
 
 /* FlexSlider Necessary Styles
-*********************************/ 
+*********************************/
 .flexslider { /* margin: 0; */ padding: 0;}
 .flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides img { display: block;width: 100%;}
 .flex-pauseplay span {text-transform: capitalize;}
 
 /* Clearfix for the .slides element */
-.slides:after { display: block; visibility: hidden; clear: both; height: 0;content: "."; line-height: 0;} 
-html[xmlns] .slides {display: block;} 
+.slides:after { display: block; visibility: hidden; clear: both; height: 0;content: "."; line-height: 0;}
+html[xmlns] .slides {display: block;}
 * html .slides {height: 1%;}
 
 /* No JavaScript Fallback */
@@ -420,7 +419,7 @@ p.flex-caption {
 	.featurette p {
 		margin: 1em auto;
 		width: 80%;
-		text-align:left;	
+		text-align:left;
 	}
 	.featurette-image {
 		display: block;
@@ -439,6 +438,7 @@ p.flex-caption {
 @media screen and (max-width: 860px) {
   .flex-direction-nav .flex-prev { left: 0;opacity: 1;}
   .flex-direction-nav .flex-next { right: 0;opacity: 1;}
+	.overflow { overflow: visible; height: auto; }
 }
 @media (max-width: 767px) {
 	h1,
@@ -501,6 +501,6 @@ p.flex-caption {
 
 /* TO DO ITEMS
 ------------------------------------------ */
-/* 
+/*
 - Mobile-optimized image loading (see L4K code)
 */
