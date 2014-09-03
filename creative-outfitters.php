@@ -34,7 +34,7 @@
 			</div>
 		</div>
 		<!-- Business Cards -->
-		<div class="featurette featurette-alt overflow" style="width: 100%;">
+		<div class="featurette featurette-alt overflow">
 			<img class="pull-right" src="img/samples/creative-outfitters/creativeoutfitters-card.png" width="460" height="421">
 			<div class="inner">
 				<h2>Business Cards</h2>
