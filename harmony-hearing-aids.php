@@ -33,10 +33,10 @@
 			</div>
 		</div>
 		<!-- Business Cards -->
-		<div class="featurette featurette-alt">
+		<div class="featurette featurette-alt overflow">
+<img class="pull-right" src="img/samples/harmony/harmony-collateral.png" alt="Harmony Hearing Aids Collateral Materials">
 			<div class="inner">
 				<h2>Collateral Materials</h2>
-				<img class="featurette-image" src="img/samples/harmony/harmony-collateral.png" alt="Harmony Hearing Aids Collateral Materials">
 				<p>Created with an older audience in mind, the collateral materials are easy to read with a clean, uncluttered design.</p>
 			</div>
 		</div>
