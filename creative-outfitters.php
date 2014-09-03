@@ -26,20 +26,36 @@
 	<div class="container marketing">
 		<!-- Logo Design -->
 		<div class="featurette">
-			<img class="pull-left" style="margin-top: -20px;" src="img/samples/creative-outfitters/logo.png" width="700">
-			<div class="inner">
-				<h2>Logo Design</h2>
-				<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
-				<p><a href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flow14.com%2Fcreative-outfitters&media=http%3A%2F%2Fwww.flow14.com%2Fimg%2Fsamples%2Fcreative-outfitters%2Flogo_pin.png&description=Creative%20Outfitters%20-%20Logo" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></p>
+			<div class="container">
+				<div class="row">
+					<div class="span7">
+						<img  src="img/samples/creative-outfitters/logo.png" width="700">
+					</div>
+					<div class="span5">
+						<div class="inner">
+							<h2>Logo Design</h2>
+							<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
+							<p><a href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flow14.com%2Fcreative-outfitters&media=http%3A%2F%2Fwww.flow14.com%2Fimg%2Fsamples%2Fcreative-outfitters%2Flogo_pin.png&description=Creative%20Outfitters%20-%20Logo" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></p>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 		<!-- Business Cards -->
 		<div class="featurette featurette-alt overflow">
-			<img class="pull-right" src="img/samples/creative-outfitters/creativeoutfitters-card.png" width="460" height="421">
-			<div class="inner">
-				<h2>Business Cards</h2>
-				<p>Contact information printed on stickers creates a versatile solution that can be used on business cards, shirt boxes and more.</p>
-				<p><a href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flow14.com%2Fcreative-outfitters&media=http%3A%2F%2Fwww.flow14.com%2Fimg%2Fsamples%2Fcreative-outfitters%2Fcreativeoutfitters-card_pin.png&description=Creative%20Outfitters%20-%20Business%20Cards" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></p>
+			<div class="container">
+				<div class="row">
+					<div class="span5 offset1">
+						<div class="inner">
+							<h2>Business Cards</h2>
+							<p>Contact information printed on stickers creates a versatile solution that can be used on business cards, shirt boxes and more.</p>
+							<p><a href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flow14.com%2Fcreative-outfitters&media=http%3A%2F%2Fwww.flow14.com%2Fimg%2Fsamples%2Fcreative-outfitters%2Fcreativeoutfitters-card_pin.png&description=Creative%20Outfitters%20-%20Business%20Cards" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></p>
+						</div>
+					</div>
+					<div class="span6">
+						<img class="" src="img/samples/creative-outfitters/creativeoutfitters-card.png">
+					</div>
+				</div>
 			</div>
 		</div>
 		<?php include('includes/footer.php'); ?>
