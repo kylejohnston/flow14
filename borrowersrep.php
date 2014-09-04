@@ -27,28 +27,45 @@
 	<div class="container marketing">
 		<!-- Logo Design -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>Logo Design</h2>
-				<img class="featurette-image" src="img/samples/borrowersrep/br-logo.png">
-				<p>&nbsp;</p>
+			<div class="container">
+				<div class="row">
+					<div class="span4">
+						<div class="inner">
+							<h2>Logo Design</h2>
+							<p>&#160;</p>
+						</div>
+					</div>
+					<div class="span8">
+						<img class="featurette-image" src="img/samples/borrowersrep/br-logo.png">
+					</div>
+				</div>
 			</div>
 		</div>
-		<!-- Directory Design -->
+
+		<!-- Website -->
 		<div class="featurette featurette-alt">
-			<div class="inner">
-				<h2>Website</h2>
-				<div id="main-slider" class="flexslider flexslider-50">
-					<ul class="slides">
-						<li>
-							<img src="img/samples/borrowersrep/web-home.png">
-							<p class="flex-caption">Homepage</p>
-						</li>
-						<li style="text-align:center;">
-							<img src="img/samples/borrowersrep/web-how-it-works.png">
-							<p class="flex-caption">How It Works</p>
-					</ul>
+			<div class="container">
+				<div class="row">
+					<div class="span4">
+							<div  class="inner">
+								<h2>Website</h2>
+								<p>The website was designed to quickly communicate the benefits of BorrwersRep and invite visitors to learn more about the service.</p>
+							</div>
+					</div>
+					<div class="span8">
+						<div id="main-slider" class="flexslider">
+							<ul class="slides">
+								<li>
+									<p class="flex-caption">Homepage</p>
+									<img src="img/samples/borrowersrep/web-home.png">
+								</li>
+								<li style="text-align:center;">
+									<p class="flex-caption">How It Works</p>
+									<img src="img/samples/borrowersrep/web-how-it-works.png">
+							</ul>
+						</div>
+					</div>
 				</div>
-				<p>The website was designed to quickly communicate the benefits of BorrwersRep and invite visitors to learn more about the service.</p>
 			</div>
 		</div>
 		<?php include('includes/footer.php'); ?>

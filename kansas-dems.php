@@ -26,42 +26,70 @@
 
 	<div class="container marketing">
 		<!-- Logo Design -->
-		<div class="featurette">
-			<div class="inner">
+<div class="featurette">
+	<div class="container">
+		<div class="row">
+			<div class="span5 offset1">
+				<div class="inner">
 				<h2>Logo Design</h2>
-				<img class="featurette-image" src="img/samples/kansas-dems/kdp-logo.png">
 				<p>The logo incorporates a stylized sunflower, bold type and vivid colors. The graphic treatment in the flower petals ensures the design can be reproduced at any size while maintaining detail and dimension.</p>
+				</div>
+			</div>
+			<div class="span6">
+				<img class="featurette-image" src="img/samples/kansas-dems/kdp-logo.png">
 			</div>
 		</div>
-		<div class="featurette featurette-alt">
-			<div class="inner">
-				<h2>Logo Design – Washington Days</h2>
+	</div>
+</div>
+
+<!-- Logo Design -->
+<div class="featurette featurette-alt">
+	<div class="container">
+		<div class="row">
+			<div class="span6">
 				<img class="featurette-image" src="img/samples/kansas-dems/washington-days-logo.png">
-				<p>In 2012, I also developed a mark for Washington Days – an annual event that attracts hundreds of Democrats from across the state.</p>
+			</div>
+			<div class="span6">
+				<div class="inner">
+					<h2>Logo Design – Washington Days</h2>
+					<p>In 2012, I also developed a mark for Washington Days – an annual event that attracts hundreds of Democrats from across the state.</p>
+				</div>
 			</div>
 		</div>
-		<!-- Directory Design -->
-		<div class="featurette">
-			<div class="inner">
-				<h2>Directory Design</h2>
-				<div id="main-slider" class="flexslider flexslider-70">
+	</div>
+</div>
+
+<!-- Directory Design -->
+<div class="featurette">
+	<div class="container">
+		<div class="row">
+			<div class="span4">
+				<div class="inner">
+					<h2>Directory Design</h2>
+					<p>Each year, the Kansas Dems produce an expansive directory; printed copies are distributed across the state and electronic copies are available through their website. Starting in 2012, I redesigned the layout of the internal pages and designed the directory cover.</p>
+				</div>
+			</div>
+			<div class="span8">
+				<div id="main-slider" class="flexslider">
 					<ul class="slides">
 						<li>
-							<img src="img/samples/kansas-dems/directory.png">
 							<p class="flex-caption">Directory Covers, 2013 &amp; 2012</p>
+							<img src="img/samples/kansas-dems/directory.png">
 						</li>
 						<li style="text-align:center;">
-							<img src="img/samples/kansas-dems/spread-before.png">
 							<p class="flex-caption">Interior Spread - Before</p>
+							<img src="img/samples/kansas-dems/spread-before.png">
 						<li>
-							<img src="img/samples/kansas-dems/spread-after.png">
 							<p class="flex-caption">Interior Spread - After</p>
+							<img src="img/samples/kansas-dems/spread-after.png">
 						</li>
 					</ul>
 				</div>
-				<p>Each year, the Kansas Dems produce an expansive directory; printed copies are distributed across the state and electronic copies are available through their website. Starting in 2012, I redesigned the layout of the internal pages and designed the directory cover.</p>
 			</div>
 		</div>
+	</div>
+</div>
+
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 

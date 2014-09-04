@@ -26,21 +26,37 @@
 	<div class="container marketing">
 		<!-- Logo Design -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>Logo Design</h2>
-				<img class="featurette-image" src="img/samples/harmony/harmony-logo.png" alt="Harmony Hearing Aids Logo">
-				<p>I designed a logo using a classic typeface and added a unique twist that sets it apart from the competition.</p>
-			</div>
-		</div>
+			<div class="container">
+				<div class="row">
+					<div class="span8">
+						<img class="featurette-image" src="img/samples/harmony/harmony-logo.png" alt="Harmony Hearing Aids Logo">
+					</div>
+					<div class="span4">
+						<div class="inner">
+							<h2>Logo Design</h2>
+							<p>I designed a logo using a classic typeface and added a unique twist that sets it apart from the competition.</p>
+						</div>
+					</div>
+				</div><!-- /row -->
+			</div><!-- /container -->
+		</div><!-- /featurette -->
 		<!-- Business Cards -->
 		<div class="featurette featurette-alt overflow">
-<img class="pull-right" src="img/samples/harmony/harmony-collateral.png" alt="Harmony Hearing Aids Collateral Materials">
-			<div class="inner">
-				<h2>Collateral Materials</h2>
-				<p>Created with an older audience in mind, the collateral materials are easy to read with a clean, uncluttered design.</p>
-			</div>
-		</div>
-		<?php include('includes/footer.php'); ?>
+			<div class="container">
+				<div class="row">
+					<div class="span5">
+						<div class="inner">
+							<h2>Collateral Materials</h2>
+							<p>Created with an older audience in mind, the collateral materials are easy to read with a clean, uncluttered design.</p>
+						</div>
+					</div>
+					<div class="span7">
+						<img src="img/samples/harmony/harmony-collateral.png" alt="Harmony Hearing Aids Collateral Materials">
+					</div>
+				</div><!-- /row -->
+			</div><!-- /container -->
+		</div><!-- /featurette -->
+	<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
 	<?php include('includes/foot.php'); ?>

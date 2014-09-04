@@ -13,7 +13,7 @@
 <body>
 	<div class="intro dark" style="background-color:#103553;">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">		
+		<div class="container">
 			<div class="row">
 				<div class="introduction">
 					<h1>AnimalHavenKC.org</h1>
@@ -25,32 +25,38 @@
 	</div>
 
 	<div class="container marketing">
-		<!-- Logo Design -->
+		<!-- Website Design -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>Website Design</h2>
-				<div id="main-slider" class="flexslider flexslider-50">
-					<ul class="slides">
-						<li>
-							<img src="img/samples/animalhavenkc/web-home.png" />
-							<p class="flex-caption">Homepage</p>
-						</li>
-						<li style="text-align:center;">
-							<img src="img/samples/animalhavenkc/web-about.png" />
-							<p class="flex-caption">Internal Page - About Us</p>
-						</li>
-						<li>
-							<img src="img/samples/animalhavenkc/web-volunteer.png" />
-							<p class="flex-caption">Internal Page - Volunteer</p>
-						</li>
-					</ul>
+			<div class="container">
+				<div class="row">
+					<div class="span5">
+						<div class="inner">
+							<h2>Website Design</h2>
+							<p>The homepage was revamped to prominently feature adoptions; photos of their featured pets are immediately visible, and visitors can view all of Animal Haven’s adoptable pets without leaving the site.</p>
+							<p>Thanks to the new content management system, they can easily manage the site and incorporate content from tools they were already using, like Google Calendar for event listings and Google checkout for donations. Last but not least, I added a blog to help them share their success stories, shelter news, event information and more.</p>
+							<h3>The Results</h3>
+							<p>Since launching the site, overall visits have increased 70%. Pageviews have increased 173%. The bounce rate has dropped over 72% – from 66% to 18%, the average time spent on the site has increased 69%, and blog subscribers continue to grow.</p>
+						</div>
+					</div>
+					<div class="span7">
+						<div id="main-slider" class="flexslider">
+							<ul class="slides">
+								<li>
+									<p class="flex-caption">Homepage</p>
+									<img src="img/samples/animalhavenkc/web-home.png" />
+								</li>
+								<li style="text-align:center;">
+									<p class="flex-caption">Internal Page - About Us</p>
+									<img src="img/samples/animalhavenkc/web-about.png" />
+								</li>
+								<li>
+									<p class="flex-caption">Internal Page - Volunteer</p>
+									<img src="img/samples/animalhavenkc/web-volunteer.png" />
+								</li>
+							</ul>
+						</div>
+					</div>
 				</div>
-
-				<h3>The Solution</h3>
-				<p>The homepage was revamped to prominently feature adoptions; photos of their featured pets are immediately visible, and visitors can view all of Animal Haven’s adoptable pets without leaving the site.</p>
-				<p>Thanks to the new content management system, they can easily manage the site and incorporate content from tools they were already using, like Google Calendar for event listings and Google checkout for donations. Last but not least, I added a blog to help them share their success stories, shelter news, event information and more.</p>
-				<h3>The Results</h3>
-				<p>Since launching the site, overall visits have increased 70%. Pageviews have increased 173%. The bounce rate has dropped over 72% – from 66% to 18%, the average time spent on the site has increased 69%, and blog subscribers continue to grow.</p>
 			</div>
 		</div>
 		<?php include('includes/footer.php'); ?>

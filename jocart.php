@@ -27,45 +27,70 @@
 	<div class="container marketing">
 		<!-- Logo Design -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>Logo Design</h2>
-				<img class="featurette-image" src="img/samples/jocart/jocart-logo_.png">
-				<p>The logo is fashioned after a badge, underscoring the idea that JoCART is a source of authority and an organization dedicated to public service.</p>
+			<div class="container">
+				<div class="row">
+					<div class="span5 offset2">
+						<div class="inner">
+							<h2>Logo Design</h2>
+							<p>The logo is fashioned after a badge, underscoring the idea that JoCART is a source of authority and an organization dedicated to public service.</p>
+						</div>
+					</div>
+					<div class="span5">
+							<img class="featurette-image" src="img/samples/jocart/jocart-logo_.png">
+					</div>
+				</div>
 			</div>
 		</div>
 		<!-- Yard Sign -->
 		<div class="featurette featurette-alt">
-			<div class="inner">
-				<h2>Logotype</h2>
-				<img class="featurette-image" src="img/samples/jocart/logotype_.png">
-				<p>When separated from the badge, the logotype accommodates a broader range of sizes and applications while maintaining a distinctive brand identity.</p>
+			<div class="container">
+				<div class="row">
+					<div class="span7">
+						<img class="featurette-image" src="img/samples/jocart/logotype_.png">
+					</div>
+					<div class="span5">
+						<div class="inner">
+							<h2>Logotype</h2>
+							<p>When separated from the badge, the logotype accommodates a broader range of sizes and applications while maintaining a distinctive brand identity.</p>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
+
 		<!-- Website -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>Website Redesign</h2>
-				<div id="main-slider" class="flexslider flexslider-50">
-					<ul class="slides">
-						<li>
-							<img src="img/samples/jocart/wireframe-home.png" />
-							<p class="flex-caption">Wireframes - Homepage</p>
-						</li>
-						<li>
-							<img src="img/samples/jocart/web-home.png" />
-							<p class="flex-caption">Homepage</p>
-						</li>
-						<li>
-							<img src="img/samples/jocart/wireframe-content.png" />
-							<p class="flex-caption">Wireframes - Content</p>
-						</li>
-						<li>
-							<img src="img/samples/jocart/web-train.png" />
-							<p class="flex-caption">Training Resources</p>
-						</li>
-					</ul>
+			<div class="container">
+				<div class="row">
+					<div class="span4">
+						<div class="inner">
+							<h2>Website Redesign</h2>
+							<p>JoCART existing website was built with a generic template and the functions weren't meeting the needs of the organization. I started the site redesign by designing wireframes for key pages, which allowed the JoCART team to quickly provide feedback on content organization, site structure, and other key considerations.</p>
+						</div>
+					</div>
+					<div class="span8">
+						<div id="main-slider" class="flexslider">
+							<ul class="slides">
+								<li>
+									<p class="flex-caption">Wireframes - Homepage</p>
+									<img src="img/samples/jocart/wireframe-home.png" />
+								</li>
+								<li>
+									<p class="flex-caption">Homepage</p>
+									<img src="img/samples/jocart/web-home.png" />
+								</li>
+								<li>
+									<p class="flex-caption">Wireframes - Content</p>
+									<img src="img/samples/jocart/wireframe-content.png" />
+								</li>
+								<li>
+									<p class="flex-caption">Training Resources</p>
+									<img src="img/samples/jocart/web-train.png" />
+								</li>
+							</ul>
+						</div>
+					</div>
 				</div>
-				<p>JoCART existing website was built with a generic template and the functions weren't meeting the needs of the organization. I started the site redesign by designing wireframes for key pages, which allowed the JoCART team to quickly provide feedback on content organization, site structure, and other key considerations.</p>
 			</div>
 		</div>
 		<?php include('includes/footer.php'); ?>

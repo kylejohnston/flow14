@@ -24,73 +24,98 @@
 		</div>
 	</div>
 
-
 	<div class="container marketing">
 		<!-- 2013 -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>2013</h2>
-				<div class="container">
-					<div class="row">
-						<div class="span9 offset2 video" style="text-align:center;">
+			<div class="container">
+				<div class="row">
+					<div class="span3">
+						<div class="inner" style="text-align: center;">
+							<h2>2013</h2>
+						</div>
+					</div>
+					<div class="span9 video">
+						<div class="inner">
 							<iframe src="http://player.vimeo.com/video/83177011?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
 		<!-- 2012 -->
 		<div class="featurette featurette-alt">
-			<div class="inner">
-				<h2>2012 <span class="caption">(Leap Year)</span></h2>
-				<div class="container">
-					<div class="row">
-						<div class="span9 offset2 video" style="text-align:center;">
+			<div class="container">
+				<div class="row">
+					<div class="span3">
+						<div class="inner" style="text-align: center;">
+							<h2>2012 <span class="caption">(Leap Year)</span></h2>
+						</div>
+					</div>
+					<div class="span9 video">
+						<div class="inner">
 							<iframe src="http://player.vimeo.com/video/56615870?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
 		<!-- 2011 -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>2011</h2>
-				<div class="container">
-					<div class="row">
-						<div class="span9 offset2 video" style="text-align:center;">
+			<div class="container">
+				<div class="row">
+					<div class="span3">
+						<div class="inner" style="text-align: center;">
+							<h2>2011</h2>
+						</div>
+					</div>
+					<div class="span9 video">
+						<div class="inner">
 							<iframe src="http://player.vimeo.com/video/34446500?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
 		<!-- 2010 -->
 		<div class="featurette featurette-alt">
-			<div class="inner">
-				<h2>2010</h2>
-				<div class="container">
-					<div class="row">
-						<div class="span9 offset2 video" style="text-align:center;">
+			<div class="container">
+				<div class="row">
+					<div class="span3">
+						<div class="inner" style="text-align: center;">
+							<h2>2010</h2>
+						</div>
+					</div>
+					<div class="span9 video">
+						<div class="inner">
 							<iframe src="http://player.vimeo.com/video/18376909?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
 		<!-- 2009 -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>2009</h2>
-				<div class="container">
-					<div class="row">
-						<div class="span9 offset2 video" style="text-align:center;">
+			<div class="container">
+				<div class="row">
+					<div class="span3">
+						<div class="inner" style="text-align: center;">
+							<h2>2009</h2>
+						</div>
+					</div>
+					<div class="span9 video">
+						<div class="inner">
 							<iframe src="http://player.vimeo.com/video/8490705?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
+		<!-- 2009 -->
 		<?php include('includes/footer.php'); ?>
 	</div>
 	<?php include('includes/foot.php'); ?>

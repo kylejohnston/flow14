@@ -25,58 +25,62 @@
 	</div>
 
 	<div class="container marketing">
+
 		<!-- Custom Type -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>Custom Type</h2>
-				<img class="featurette-image" src="img/samples/ibgreek/custom-type.png">
-				<p>I started with the type; Eurostile was the base font, but it lacked personality. So edges were rounded & softened; certain characters – like “e” and “r” – were infused with personality.</p>
+			<div class="container">
+				<div class="row">
+					<div class="span4">
+						<div class="inner">
+							<h2>Custom Type</h2>
+							<p>I started with the type; Eurostile was the base font, but it lacked personality. So edges were rounded &amp; softened; certain characters – like “e” and “r” – were infused with personality.</p>
+						</div>
+					</div>
+					<div class="span8">
+						<img class="featurette-image" src="img/samples/ibgreek/custom-type.png">
+					</div>
+				</div>
 			</div>
 		</div>
+
 		<!-- Logo Design -->
 		<div class="featurette featurette-alt">
-			<div class="inner">
-				<h2>Logo Design</h2>
-				<img class="featurette-image" src="img/samples/ibgreek/logo.png">
-				<p>With the right logotypes in the hopper, IBGreek needed a complete logo that would stand out from the crowd.</p>
-			</div>
-		</div>
-		<!-- Business Cards + Hang Tags -->
-		<div class="featurette">
-			<div class="inner">
-				<h2>Business Cards + Hang Tags</h2>
-				<img class="featurette-image" src="img/samples/ibgreek/ibgreek-card.png">
-				<p>With a logo in hand, it was time to develop business cards. As a young company with a tight budget, IBGreek needed more than the same old same old, so these cards serve double-duty as t-shirt hang tags.</p>
-				<p>Multiple sets of cards were printed; some bear the founders’ names, others are blanks that can be passed out to new sales reps &amp; designers or attached to shirts.</p>
-			</div>
-		</div>
-		<!-- Website Design -->
-		<div class="featurette featurette-alt">
-			<div class="inner">
-				<h2>Website Design</h2>
-				<div id="main-slider" class="flexslider flexslider-50">
-					<ul class="slides">
-						<li><img src="img/samples/ibgreek/web-home.png" /></li>
-						<li><img src="img/samples/ibgreek/web-designs.png" /></li>
-					</ul>
+			<div class="container">
+				<div class="row">
+					<div class="span4">
+						<div class="inner">
+							<h2>Logo Design</h2>
+							<p>With the right logotypes in the hopper, IBGreek needed a complete logo that would stand out from the crowd.</p>
+						</div>
+					</div>
+					<div class="span8">
+						<img class="featurette-image" src="img/samples/ibgreek/logo.png">
+					</div>
 				</div>
-				<p>IBGreek’s website features a catalog of t-shirt designs, multiple points of contact and a clear call to action on nearly every page.</p>
 			</div>
 		</div>
+
+		<!-- Business Cards + Hang Tags -->
+		<div class="featurette overflow">
+			<div class="container">
+				<div class="row">
+					<div class="span6">
+						<img class="featurette-image" src="img/samples/ibgreek/ibgreek-card.png">
+					</div>
+					<div class="span6">
+						<div class="inner">
+							<h2>Business Cards + Hang Tags</h2>
+							<p>With a logo in hand, it was time to develop business cards. As a young company with a tight budget, IBGreek needed more than the same old same old, so these cards serve double-duty as t-shirt hang tags.</p>
+							<p>Multiple sets of cards were printed; some bear the founders’ names, others are blanks that can be passed out to new sales reps &amp; designers or attached to shirts.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
 	<?php include('includes/foot.php'); ?>
-	<script type="text/javascript">
-	$(window).load(function(){
-		$('#main-slider').flexslider({
-			animation: "slide",
-			controlsContainer: '.flex-container',
-			start: function(slider){
-				$('body').removeClass('loading');
-			}
-		});
-	});
-	</script>
 </body>
 </html>
