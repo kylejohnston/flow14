@@ -16,7 +16,7 @@
 					<div class="introduction">
 						<img src="img/flow14-logo_lg_wh.png" width="281" height="128" alt="flow14 - Design Works.">
 						<p><span itemprop="name">flow14</span> is a <span itemprop="addressLocality">Kansas City</span>-based design studio &#8211; we&rsquo;re here to help your small business, <nobr>non-profit</nobr>, or political group connect with your audience through exceptional graphic design and web design.</p>
-						<p>Check out <a href="#work">examples of our work</a>, learn more <a href="about">about us</a> or <a href="contact">contact us</a> for an estimate on your next project.</p>
+						<p>Check out <a href="#work">samples of our work</a>, learn more <a href="about">about us</a> or <a href="contact">contact us</a> for an estimate on your next project.</p>
 					</div>
 				</div>
 			</div>
