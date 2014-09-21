@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>flow14 - Design Works | Overland Park, Kansas Graphic & Web Design</title>
+	<title>flow14 - Design Works | A Kansas City Design Studio</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Based in Overland Park, Kansas, flow14 helps small businesses, non-profits, and political groups stand out with exceptional graphic design and web design.">
+	<meta name="description" content="flow14 is a KC design studio – we're here to help your small business, non-profit, or political group stand out with exceptional graphic design and web design.">
 	<meta name="keywords" content="graphic design, web design, business cards, website, logo design, overland park, kansas, kansas city">
 	<meta name="author" content="Kyle Johnston">
 	<?php include('includes/head.php'); ?>
@@ -15,8 +15,8 @@
 				<div class="row">
 					<div class="introduction">
 						<img src="img/flow14-logo_lg_wh.png" width="281" height="128" alt="flow14 - Design Works.">
-						<p>Based in <span itemprop="addressLocality">Overland Park</span>, <span itemprop="addressRegion">Kansas</span>, <span itemprop="name">flow14</span> helps your small business, <nobr>non-profit</nobr>, or political group connect with your audience with exceptional graphic design and web design.</p>
-						<p>Check out <a href="#work">examples of our work</a>, learn more <a href="about">about us</a> or <a href="contact">contact us</a> for a quote on your next project.</p>
+						<p><span itemprop="name">flow14</span> is a <span itemprop="addressLocality">Kansas City</span>-based design studio &#8211; we&rsquo;re here to help your small business, <nobr>non-profit</nobr>, or political group connect with your audience through exceptional graphic design and web design.</p>
+						<p>Check out <a href="#work">examples of our work</a>, learn more <a href="about">about us</a> or <a href="contact">contact us</a> for an estimate on your next project.</p>
 					</div>
 				</div>
 			</div>
