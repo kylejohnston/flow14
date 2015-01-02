@@ -132,7 +132,7 @@
 			<div class="span4 item">
 				<a href="iphone-365"><img src="img/samples/iphone-365/thumb.png" alt="iPhone 365"></a>
 				<div class="inner">
-					<h2><a href="iphone-365">iPhone 365</a></h2>
+					<h2><a href="iphone-365">iPhone 365 Project</a></h2>
 					<p>+ <a href="iphone-365">Watch the Videos</a></p>
 				</div>
 			</div>
