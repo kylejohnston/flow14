@@ -35,7 +35,7 @@
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="borrowersrep"><img src="img/samples/borrowersrep/thumb.png" width="300" height="150" alt="BorrowersRep.com"></a>
+				<a href="borrowersrep"><img src="img/samples/borrowersrep/thumb.2x.png" width="300" height="150" alt="BorrowersRep.com"></a>
 				<div class="inner">
 					<h2><a href="borrowersrep">BorrowersRep.com</a></h2>
 					<p>+ <a href="borrowersrep">View additional samples…</a><br>
@@ -43,7 +43,7 @@
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumb.png" alt="Lisa for Kansas Senate"></a>
+				<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumb.2x.png" alt="Lisa for Kansas Senate"></a>
 				<div class="inner">
 					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
 					<p>+ <a href="lisa-for-kansas-senate">View additional samples…</a><br>
@@ -69,7 +69,7 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span3 item">
-				<a href="kansas-dems"><img src="img/samples/kansas-dems/thumb.png" alt="Kansas Dems"></a>
+				<a href="kansas-dems"><img src="img/samples/kansas-dems/thumb.2x.png" alt="Kansas Dems"></a>
 				<div class="inner">
 					<h2><a href="kansas-dems">Kansas Dems</a></h2>
 					<p>+ <a href="kansas-dems">View additional samples…</a><br>
@@ -84,7 +84,7 @@
 				</div>
 			</div>-->
 			<div class="span3 item">
-				<a href="lisa-for-kansas"><img src="img/samples/lisa-for-kansas/thumb.png" alt="Lisa for U.S. Senate"></a>
+				<a href="lisa-for-kansas"><img src="img/samples/lisa-for-kansas/thumb.2x.png" alt="Lisa for U.S. Senate"></a>
 				<div class="inner">
 					<h2><a href="lisa-for-kansas">Lisa for U.S. Senate</a></h2>
 					<p>+ <a href="lisa-for-kansas">View additional samples…</a><br>
@@ -100,7 +100,7 @@
 				</div>
 			</div>
 			<div class="span3 item">
-				<a href="jocart"><img src="img/samples/jocart/thumb.png" width="300" height="150" alt="JoCART - Johnson County Animal Response Team"></a>
+				<a href="jocart"><img src="img/samples/jocart/thumb.2x.png" width="300" height="150" alt="JoCART - Johnson County Animal Response Team"></a>
 				<div class="inner">
 					<h2><a href="jocart">JoCART</a></h2>
 					<p>+ <a href="jocart">View additional samples…</a><br>
@@ -128,7 +128,7 @@
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumb.png" width="300" height="150" alt="Harmony Hearing Aids"></a>
+				<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumb.2x.png" width="300" height="150" alt="Harmony Hearing Aids"></a>
 				<div class="inner">
 					<h2><a href="harmony-hearing-aids">Harmony Hearing Aids</a></h2>
 					<p>+ <a href="harmony-hearing-aids">View additional samples…</a><br>
@@ -141,7 +141,7 @@
 		<h2>Personal Projects</h2>
 		<div class="row">
 			<div class="span4 item">
-				<a href="iphone-365-project"><img src="img/samples/iphone-365/thumb.png" alt="iPhone 365 Project"></a>
+				<a href="iphone-365-project"><img src="img/samples/iphone-365/thumb.2x.jpg" alt="iPhone 365 Project"></a>
 				<div class="inner">
 					<h2><a href="iphone-365-project">iPhone 365 Project</a></h2>
 					<p>+ <a href="iphone-365-project">Watch the Videos</a></p>
