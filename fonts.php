@@ -51,13 +51,21 @@
 	<div class="container marketing">
 		<!-- Logo Design -->
 		<div class="featurette">
-			<div class="inner">
-				<h2>Fonts in Progress</h2>
-				<img class="featurette-image" src="img/fonts/milk-xs.png" alt="Font Sample - Milk">
-				<img class="featurette-image" src="img/fonts/milk-sample-ol.png" alt="Font Sample - Milk">
-					<p><a href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flow14.com%2Ffonts&media=http%3A%2F%2Fwww.flow14.com%2Fimg%2Ffonts%2Fmilk-xs_pin.png&description=Milk%20-%20A%20font%20based%20on%20tag-style%20handwriting" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></p> 
-				<p>–. <strong>milk</strong> is a font based on my tag-style handwriting; created using Sharpies, paper, a scanner and Illustrator.</p>
-				<p>Currently a work in progress; when completed each character will feature 4 alternate characters which allows for the creation of a truly handwritten look.</p>
+			<div class="container">
+				<div class="row">
+					<div class="span4">
+						<div class="inner">
+							<h2>Fonts in Progress</h2>
+							<p>–. <strong>milk</strong> is a font based on my tag-style handwriting; created using Sharpies, paper, a scanner and Illustrator.</p>
+							<p>Currently a work in progress; when completed each character will feature 4 alternate characters which allows for the creation of a truly handwritten look.</p>
+						</div>
+					</div>
+					<div class="span8">
+						<img class="featurette-image" src="img/fonts/milk-xs.png" alt="Font Sample - Milk">
+						<img class="featurette-image" src="img/fonts/milk-sample-ol.png" alt="Font Sample - Milk">
+						<p><a href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flow14.com%2Ffonts&media=http%3A%2F%2Fwww.flow14.com%2Fimg%2Ffonts%2Fmilk-xs_pin.png&description=Milk%20-%20A%20font%20based%20on%20tag-style%20handwriting" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></p> 
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
