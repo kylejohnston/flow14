@@ -41,7 +41,7 @@
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/iphone-365</loc>
+		<loc>http://www.flow14.com/iphone-365-project</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
@@ -204,12 +204,6 @@
 	<url>
 		<loc>http://blog.flow14.com/2008/best-of-the-web/</loc>
 		<lastmod>2008-09-17T01:22:16+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://blog.flow14.com/2008/kitten-vs-baby-08/</loc>
-		<lastmod>2008-09-10T05:27:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
