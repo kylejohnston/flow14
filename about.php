@@ -21,12 +21,14 @@
 				<p>I'm <strong>Kyle Johnston</strong>, the founder and owner of <span itemprop="name">flow14</span>. When I’m not designing here, I hold down a fantastic day job as the Creative Director at Garmin.</p>
 				<p>Here are a few of the other places you can find me on the web:<br>
 					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a><br>
-					<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a> (Photos)<br>
-					<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a> (Photos)<br>
-					<a class="facebook" href="http://www.facebook.com/thekylejohnston">Facebook</a><br>
-					<a class="vimeo" href="http://vimeo.com/kylejohnston">Vimeo</a> (Videos)<br>
-					<a class="tumblr" href="http://kylejohnston.tumblr.com">Tumblr</a><br>
-					<a rel="author" class="google-plus" href="https://plus.google.com/103758963959064535451/?rel=author" >Google+</a><br>
+					<a class="twitter" href="https://twitter.com/creativecohort">Twitter</a><br>
+					<a class="instagram" href="https://instagram.com/kylejohnston/">Instagram</a><br>
+					<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a><br>
+					<a class="github" href="https://github.com/kylejohnston">GitHub</a><br>
+					<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a><br>
+					<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a><br>
+					<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a><br>
+					<a class="vimeo" href="http://vimeo.com/kylejohnston">Vimeo</a><br>
 				</p>
 			</div>
 		</div>
