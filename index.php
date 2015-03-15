@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>flow14 - Design Works | A Kansas City Design Studio</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="flow14 is a KC design studio – we're here to help your small business, non-profit, or political group stand out with exceptional graphic design and web design.">
+	<meta name="description" content="flow14 is a KC design studio – here to help your small business, non-profit, or political group stand out with exceptional graphic design and web design.">
 	<meta name="keywords" content="graphic design, web design, business cards, website, logo design, overland park, kansas, kansas city">
 	<meta name="author" content="Kyle Johnston">
 	<?php include('includes/head.php'); ?>
@@ -15,7 +15,7 @@
 				<div class="row">
 					<div class="introduction">
 						<img src="img/flow14-logo_lg_wh.png" width="281" height="128" alt="flow14 - Design Works.">
-						<p><span itemprop="name">flow14</span> is a <span itemprop="addressLocality">Kansas City</span>-based design studio &#8211; we&rsquo;re here to help your small business, <nobr>non-profit</nobr>, or political group connect with your audience through exceptional graphic design and web design.</p>
+						<p><span itemprop="name">flow14</span> is a <span itemprop="addressLocality">Kansas City</span>-based design studio &#8211; here to help your small business, <nobr>non-profit</nobr>, or political group connect with your audience through exceptional graphic design and web design.</p>
 						<p>Check out <a href="#work">samples of our work</a>, learn more <a href="about">about us</a> or <a href="contact">contact us</a> for an estimate on your next project.</p>
 					</div>
 				</div>
@@ -138,19 +138,25 @@
 		</div>
 	</div><!-- Row 3 -->
 	<div class="container items">
-		<h2>Personal Projects</h2>
 		<div class="row">
+			<div class="span4 item">
+				<a href="http://www.kylewjohnston.com"><img src="img/samples/youtube.2x.jpg" alt="Kyle W Johnston - Advertising Portfolio"></a>
+				<div class="inner">
+					<h2><a href="http://www.kylewjohnston.com">Advertising Portfolio</a></h2>
+					<p>+ <a href="http://www.kylewjohnston.com">Visit KyleWJohnston.com</a><br>Samples of my advertising work at Garmin</p>
+				</div>
+			</div>
 			<div class="span4 item">
 				<a href="iphone-365-project"><img src="img/samples/iphone-365/thumb.2x.jpg" alt="iPhone 365 Project"></a>
 				<div class="inner">
-					<h2><a href="iphone-365-project">iPhone 365 Project</a></h2>
+					<h2><a href="iphone-365-project">Personal Work: 365 Project</a></h2>
 					<p>+ <a href="iphone-365-project">Watch the Videos</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
 				<a href="fonts"><img src="img/fonts/fonts.2x.png" alt="Fonts"></a>
 				<div class="inner">
-					<h2><a href="fonts">Custom Fonts</a></h2>
+					<h2><a href="fonts">Personal Work: Custom Fonts</a></h2>
 					<p>+ <a href="fonts">View &amp; download fonts</a></p>
 				</div>
 			</div>
