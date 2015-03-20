@@ -50,24 +50,18 @@
 					Client type: Political</p>
 				</div>
 			</div>
-			<!--<div class="span3 item">
-				<a href="campaign-and-win"><img src="img/samples/campaign-and-win/thumb.png" alt="Campaign and Win"></a>
-				<div class="inner">
-					<h2><a href="campaign-and-win">Campaign &amp; Win</a></h2>
-					<p><strong>What I did:</strong> Logo design, web presence</p>
-				</div>
-			</div>-->
-			<!--<div class="span3 item">
-				<a href="sapphire-wire"><img src="img/samples/sapphirewire/thumb.png" alt="Sapphire Wire"></a>
-				<div class="inner">
-					<h2><a href="sapphire-wire">Sapphire Wire</a></h2>
-					<p><strong>What I did:</strong> Logo Design, Website Design</p>
-				</div>
-			</div>-->
 		</div>
 	</div><!-- Row 1 -->
 	<div class="container items">
 		<div class="row">
+			<div class="span3 item">
+				<a href="websites"><img src="img/samples/websites/thumbnail.2x.jpg" width="300" height="150" alt="Responsive Website Designs"></a>
+				<div class="inner">
+					<h2><a href="websites">Responsive Websites</a></h2>
+					<p>+ <a href="websites">View additional samples…</a><br>
+					Client type: Various</p>
+				</div>
+			</div>
 			<div class="span3 item">
 				<a href="kansas-dems"><img src="img/samples/kansas-dems/thumb.2x.png" alt="Kansas Dems"></a>
 				<div class="inner">
@@ -76,13 +70,6 @@
 					Client type: Political</p>
 				</div>
 			</div>
-			<!--<div class="span3 item">
-				<a href="jocart"><img src="img/samples/jocart/thumb.png" alt="JoCART"></a>
-				<div class="inner">
-					<h2><a href="jocart">JoCART</a></h2>
-					<p><strong>What I did:</strong> Logo Design, Website Design</p>
-				</div>
-			</div>-->
 			<div class="span3 item">
 				<a href="lisa-for-kansas"><img src="img/samples/lisa-for-kansas/thumb.2x.png" alt="Lisa for U.S. Senate"></a>
 				<div class="inner">
@@ -99,6 +86,10 @@
 					Client type: Non-profit</p>
 				</div>
 			</div>
+		</div>
+	</div><!-- Row 2 -->
+	<div class="container items">
+		<div class="row">
 			<div class="span3 item">
 				<a href="jocart"><img src="img/samples/jocart/thumb.2x.png" width="300" height="150" alt="JoCART - Johnson County Animal Response Team"></a>
 				<div class="inner">
@@ -107,11 +98,7 @@
 					Client type: Non-profit</p>
 				</div>
 			</div>
-		</div>
-	</div><!-- Row 2 -->
-	<div class="container items">
-		<div class="row">
-			<div class="span4 item">
+			<div class="span3 item">
 				<a href="96kx"><img src="img/samples/96kx/thumb.png" width="300" height="150" alt="96KX"></a>
 				<div class="inner">
 					<h2><a href="96kx">96KX</a></h2>
@@ -119,7 +106,7 @@
 					Client type: Small business</p>
 				</div>
 			</div>
-			<div class="span4 item">
+			<div class="span3 item">
 				<a href="ibgreek"><img src="img/samples/ibgreek/thumb.png" width="300" height="150" alt="IBGreek"></a>
 				<div class="inner">
 					<h2><a href="ibgreek">IBGreek</a></h2>
@@ -127,7 +114,7 @@
 					Client type: Small business</p>
 				</div>
 			</div>
-			<div class="span4 item">
+			<div class="span3 item">
 				<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumb.2x.png" width="300" height="150" alt="Harmony Hearing Aids"></a>
 				<div class="inner">
 					<h2><a href="harmony-hearing-aids">Harmony Hearing Aids</a></h2>
