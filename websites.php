@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<div class="intro" style="background-color:#aac1de;">
+	<div class="intro dark" style="background-color:#3079b0;">
 		<?php include('includes/header-nav.php'); ?>
 		<div class="container">
 			<div class="row">
