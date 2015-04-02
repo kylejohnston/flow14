@@ -45,7 +45,7 @@
 								</li>
 								<li style="text-align:center;">
 									<p class="flex-caption">A small portion of the complex source data</p>
-									<img src="img/samples/kc-lisc/source-data.jpg" />
+									<img src="img/samples/kc-lisc/source-data.png" />
 								</li>
 							</ul>
 						</div>
