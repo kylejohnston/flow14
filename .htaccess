@@ -33,7 +33,6 @@
 
 </IfModule>
 
-Redirect 301 /portfolio/animalhavenkc/ http://www.flow14.com/animal-haven
 Redirect 301 /animalhavenkc http://www.flow14.com/animal-haven
 Redirect 301 /portfolio/creative-outfitters/ http://www.flow14.com/creative-outfitters
 Redirect 301 /portfolio/ibgreek/ http://www.flow14.com/ibgreek
