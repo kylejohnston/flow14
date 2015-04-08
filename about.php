@@ -28,7 +28,7 @@
 					<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a><br>
 					<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a><br>
 					<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a><br>
-					<a class="vimeo" href="http://vimeo.com/kylejohnston">Vimeo</a><br>
+					<a class="vimeo" href="http://vimeo.com/flow14">Vimeo</a><br>
 				</p>
 			</div>
 		</div>
