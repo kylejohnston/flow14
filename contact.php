@@ -16,46 +16,22 @@
 		<div class="row">
 			<div class="span4">
 				<h2>Email</h2>
-				<!--<p>For new business inquiries, please contact <a href="#">Hello (at) flow14.com</a></p>-->
-
-				<div id="contactWrapper" role="form">
-					<?php if(isset($hasError)) { //If errors are found ?>
-					<p class="error">Please check if you've filled all the fields with valid information and try again. Thank you.</p>
-					<?php } ?>
-					
-					<?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?>
-					<div class="success">
-						<h3>Thank You</h3>
-						<p>Thank you for contacting flow14, <?php echo $name;?>. Your email was successfully sent and we’ll be in touch with you soon.</p>
-					</div>
-					<?php } ?>
-					
-					<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
-						<div class="stage clear">
-							<label for="name">Name: <em>*</em></label>
-							<input type="text" name="contactname" id="contactname" value="" class="required" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="email" >Email: <em>*</em></label>
-							<input type="email" name="email" id="email" value="" class="required email" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="subject">Subject: <em>*</em></label>
-							<input type="text" name="subject" id="subject" value="" class="required" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="message">Message: <em>*</em></label>
-							<textarea rows="8" name="message" id="message" class="required" role="textbox" aria-required="true"></textarea>
-						</div>
-						
-						<p class="requiredNote"><em>*</em> Denotes a required field.</p>
-						
-						<input class="btn" type="submit" value="Send Message" name="submit" id="submitButton" title="Click here to submit your message!" />
-					</form>
-				</div>
+				<p>For new business inquiries, please contact <script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+"=93){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+".substr(0,ol);}f(\")401,\\\"v|pckv&iy),!ot610\\\\IRP]z?#\\\"\\\\($uh520\\\\" +
+"j330\\\\{ (7+5`530\\\\bPSX420\\\\r\\\\t\\\\@YYR320\\\\_^BI610\\\\HKJYZMJ600" +
+"\\\\d130\\\\WADJ}kn#vuz6#'b{771\\\\tQ771\\\\cbhd1e}dngh&_?ge410\\\\520\\\\\\"+
+"\\\\\\230\\\\F[P130\\\\230\\\\020\\\\000\\\\230\\\\000\\\\600\\\\^330\\\\00" +
+"0\\\\010\\\\100\\\\630\\\\t\\\\600\\\\410\\\\\\\"(f};o nruter};))++y(^)i(tA" +
+"edoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y;i=+y)401==i(fi{)++i;l<i;0=i(rof;ht" +
+"gnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                ;
+while(x=eval(x));
+//-->
+//]]>
+</script></p>
 			</div>
 			<div class="span4">
 				<h2>Phone</h2>
