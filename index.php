@@ -29,21 +29,21 @@
 			<div class="span4 item">
 				<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumb.png" width="300" height="150" alt="Creative Outfitters"></a>
 				<div class="inner">
-					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
+					<h2><a href="creative-outfitters">Creative Outfitters &#187;</a></h2>
 					<p>Brand identity, business cards, &amp; website<br>Client type: Small business</p>
 				</div>
 			</div>
 			<div class="span4 item">
 				<a href="kc-lisc"><img src="img/samples/kc-lisc/thumb.2x.jpg" width="300" height="150" alt="Kansas City LISC"></a>
 				<div class="inner">
-					<h2><a href="kc-lisc">Kansas City LISC</a></h2>
+					<h2><a href="kc-lisc">Kansas City LISC &#187;</a></h2>
 					<p>Infographic &amp; data visualization<br>Client type: Non-profit</p>
 				</div>
 			</div>
 			<div class="span4 item">
 				<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumb.2x.png" alt="Lisa for Kansas Senate"></a>
 				<div class="inner">
-					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
+					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate &#187;</a></h2>
 					<p>Brand identity, yard signs, &amp; website<br>
 					Client type: Political</p>
 				</div>
@@ -55,7 +55,7 @@
 			<div class="span3 item">
 				<a href="websites"><img src="img/samples/websites/thumbnail.2x.jpg" width="300" height="150" alt="Responsive Website Designs"></a>
 				<div class="inner">
-					<h2><a href="websites">Responsive Websites</a></h2>
+					<h2><a href="websites">Responsive Websites &#187;</a></h2>
 					<p>Responsive website design &amp; development<br>
 					Client type: Various</p>
 				</div>
@@ -63,7 +63,7 @@
 			<div class="span3 item">
 				<a href="kansas-dems"><img src="img/samples/kansas-dems/thumb.2x.png" alt="Kansas Dems"></a>
 				<div class="inner">
-					<h2><a href="kansas-dems">Kansas Dems</a></h2>
+					<h2><a href="kansas-dems">Kansas Dems &#187;</a></h2>
 					<p>Brand identity<br>
 					Client type: Political</p>
 				</div>
@@ -71,7 +71,7 @@
 			<div class="span3 item">
 				<a href="lisa-for-kansas"><img src="img/samples/lisa-for-kansas/thumb.2x.png" alt="Lisa for U.S. Senate"></a>
 				<div class="inner">
-					<h2><a href="lisa-for-kansas">Lisa for U.S. Senate</a></h2>
+					<h2><a href="lisa-for-kansas">Lisa for U.S. Senate &#187;</a></h2>
 					<p>Logo design, website, printed materials, & TV spots<br>
 					Client type: Political</p>
 				</div>
@@ -79,7 +79,7 @@
 			<div class="span3 item">
 				<a href="animal-haven"><img src="img/samples/animalhavenkc/thumb.png" width="300" height="150" alt="Animal Haven"></a>
 				<div class="inner">
-					<h2><a href="animal-haven">Animal Haven</a></h2>
+					<h2><a href="animal-haven">Animal Haven &#187;</a></h2>
 					<p>Website redesign<br>
 					Client type: Non-profit</p>
 				</div>
@@ -91,7 +91,7 @@
 			<div class="span3 item">
 				<a href="jocart"><img src="img/samples/jocart/thumb.2x.png" width="300" height="150" alt="JoCART - Johnson County Animal Response Team"></a>
 				<div class="inner">
-					<h2><a href="jocart">JoCART</a></h2>
+					<h2><a href="jocart">JoCART &#187;</a></h2>
 					<p>Brand identity, website<br>
 					Client type: Non-profit</p>
 				</div>
@@ -99,7 +99,7 @@
 			<div class="span3 item">
 				<a href="96kx"><img src="img/samples/96kx/thumb.png" width="300" height="150" alt="96KX"></a>
 				<div class="inner">
-					<h2><a href="96kx">96KX</a></h2>
+					<h2><a href="96kx">96KX &#187;</a></h2>
 					<p>Logo design<br>
 					Client type: Small business</p>
 				</div>
@@ -107,7 +107,7 @@
 			<div class="span3 item">
 				<a href="ibgreek"><img src="img/samples/ibgreek/thumb.png" width="300" height="150" alt="IBGreek"></a>
 				<div class="inner">
-					<h2><a href="ibgreek">IBGreek</a></h2>
+					<h2><a href="ibgreek">IBGreek &#187;</a></h2>
 					<p>Brand identity, business cards<br>
 					Client type: Small business</p>
 				</div>
@@ -115,7 +115,7 @@
 			<div class="span3 item">
 				<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumb.2x.png" width="300" height="150" alt="Harmony Hearing Aids"></a>
 				<div class="inner">
-					<h2><a href="harmony-hearing-aids">Harmony Hearing Aids</a></h2>
+					<h2><a href="harmony-hearing-aids">Harmony Hearing Aids &#187;</a></h2>
 					<p>Brand identity, business cards<br>
 					Client type: Small business</p>
 				</div>
@@ -127,22 +127,22 @@
 			<div class="span4 item">
 				<a href="http://www.kylewjohnston.com"><img src="img/samples/youtube.2x.jpg" alt="Kyle W Johnston - Advertising Portfolio"></a>
 				<div class="inner">
-					<h2><a href="http://www.kylewjohnston.com">Advertising Portfolio</a></h2>
-					<p>+ <a href="http://www.kylewjohnston.com">Visit KyleWJohnston.com</a><br>Samples of my advertising work at Garmin</p>
+					<h2><a href="http://www.kylewjohnston.com">Advertising Portfolio &#187;</a></h2>
+					<p><a href="http://www.kylewjohnston.com">Visit KyleWJohnston.com &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
 				<a href="iphone-365-project"><img src="img/samples/iphone-365/thumb.2x.jpg" alt="iPhone 365 Project"></a>
 				<div class="inner">
-					<h2><a href="iphone-365-project">Personal Work: 365 Project</a></h2>
-					<p>+ <a href="iphone-365-project">Watch the Videos</a></p>
+					<h2><a href="iphone-365-project">Personal Work: 365 Project &#187;</a></h2>
+					<p><a href="iphone-365-project">Watch the Videos &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
 				<a href="fonts"><img src="img/fonts/fonts.2x.png" alt="Fonts"></a>
 				<div class="inner">
-					<h2><a href="fonts">Personal Work: Custom Fonts</a></h2>
-					<p>+ <a href="fonts">View &amp; download fonts</a></p>
+					<h2><a href="fonts">Personal Work: Custom Fonts &#187;</a></h2>
+					<p><a href="fonts">View &amp; download fonts &#187;</a></p>
 				</div>
 			</div>
 		</div>
