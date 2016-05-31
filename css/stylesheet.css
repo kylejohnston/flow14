@@ -1,0 +1,263 @@
+/**
+*** BASED ONSIMPLE GRID
+*** (C) ZACH COLE 2016
+**/
+
+@import url("http://overpass-30e2.kxcdn.com/overpass.css");
+@import url(https://fonts.googleapis.com/css?family=Passion+One:700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
+
+/* UNIVERSAL */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  font-size: 100%;
+  font-family: 'Overpass', Helvetica, sans-serif;
+  color: #343434;
+}
+img { margin:-.22em 0; }
+
+/* TYPOGRAPHY */
+
+h1 {
+  font-size: 2.8rem;
+  text-transform: uppercase;
+  font-family: 'Passion One';
+  text-align: center;
+}
+h2 {
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-family: 'Passion One';
+}
+
+h3 { font-size: 1.375rem; }
+.item h3 { text-align: center; }
+h4 { font-size: 1.125rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.875rem; }
+
+p {
+  font-size: 1.2rem;
+  font-weight: 200;
+  line-height: 1.8;
+  font-weight: 400;
+  font-family: 'Overpass', sans-serif;
+}
+.mono { font-family: 'Roboto Mono', sans-serif; }
+p.mono {
+  font-size: 1rem;
+  font-family: 'Roboto Mono', sans-serif;
+  text-align: center;
+  line-height: 1;
+}
+p.mono-light { color: #fff; }
+
+.font-light { font-weight: 200; }
+.font-regular { font-weight: 400; }
+.font-heavy { font-weight: 700; }
+
+/* POSITIONING */
+
+.left { text-align: left; }
+.right { text-align: right; }
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+.justify { text-align: justify; }
+
+/* ==== GRID SYSTEM ==== */
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.row {
+  position: relative;
+  width: 100%;
+}
+
+.row [class^="col"] {
+  float: left;
+  /*margin: 0.5rem 2%;*/
+  margin: 0;
+  min-height: 0;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+  width: 100%;
+}
+
+.col-1-sm { width: 8.33%; }
+.col-2-sm { width: 16.66%; }
+.col-3-sm { width: 25%; }
+.col-4-sm { width: 33.33%; }
+.col-5-sm { width: 41.66%; }
+.col-6-sm { width: 50%; }
+.col-7-sm { width: 58.33%; }
+.col-8-sm { width: 64.66%; }
+.col-9-sm { width: 75%; }
+.col-10-sm { width: 83.33%; }
+.col-11-sm { width: 91.66%; }
+.col-12-sm { width: 100%; }
+
+.push-1 { margin-left: 8.33%; }
+.push-2 { margin-left: 16.66%; }
+.push-3 { margin-left: 25%; }
+.push-4 { margin-left: 33.33%; }
+.push-5 { margin-left: 41.66%; }
+.push-6 { margin-left: 50%; }
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.hidden-sm {
+  display: none;
+}
+
+/* CUSTOM */
+/*header {
+  height:200px;
+  background-color:#F6DF32;
+  background-image: linear-gradient(45deg, rgb(246, 223, 50), rgb(255, 253, 56));
+}*/
+.shade { background-color: rgba(52,52,52,.1); }
+.shade a { color: #343434; margin: .45em; white-space: nowrap; }
+nav { padding: 0 .8em .8em;  }
+nav a {
+  display: block;
+  white-space: nowrap;
+  margin: .4em;
+  padding: .4em .2em;
+  border: 1px solid rgba(52,52,52,.8);
+  color: #343434;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 2px;
+}
+.inner {
+  margin:0;
+  padding: 1em 2em;
+}
+.item h1 {
+  margin: .4em 0;
+  padding: 0;
+  line-height: 1;
+  color: #343434;
+}
+h1 span {
+  padding: 0 .2em;
+  background-color: #343434;
+  color: #FDC139;
+}
+
+.overlay {
+  margin: .8em .4em .2em 0;
+  padding: .4em;
+  line-height: 1.1rem;
+  color: #fff;
+  border-top: 2px solid white;
+  border-bottom: 1px solid white;
+  position:absolute;
+  z-index:10;
+  font-size: .8rem;
+  font-weight: 400;
+  font-family: 'Roboto Mono';
+  text-transform: uppercase;
+}
+.overlay-dark {
+  color: #343434;
+  border-top: 2px solid #343434;
+  border-bottom: 1px solid #343434;
+  background-color: rgba(255,255,255,.6);
+}
+.background-white { background-color: #fff; }
+
+footer {
+  margin-top: 2em;
+  padding-bottom: 2em;
+  color: #FDC139;
+  background-color: #343434;
+  border-bottom: 10px solid #FFCC3A;
+}
+footer h2 { font-size: 1.45rem; letter-spacing: .05em; }
+footer p { font-size: .85rem; }
+footer a { color: #FDC139; }
+
+.gap { margin: 1em 0; }
+
+@media only screen and (max-width: 33.75em) {
+  .push-1,.push-2,.push-3,.push-4,.push-5,.push-6 { margin-left: 0; }
+  .inner { padding: 1em; }
+  .gap img { margin: 0; }
+  .flex { display: flex; flex-wrap: wrap; }
+  .item-one { order: 2; }
+  .item-two { order: 1; }
+  .item-three { order: 3; }
+}
+
+@media only screen and (min-width: 33.75em) {  /* 540px */
+  .container { width: 100%; }
+}
+
+@media only screen and (min-width: 45em) {  /* 720px */
+  .col-1 { width: 8.33%; }
+  .col-2 { width: 16.67%; }
+  .col-3 { width: 25%; }
+  .col-4 { width: 33.33%; }
+  .col-5 { width: 41.66%; }
+  .col-6 { width: 50%; }
+  .col-7 { width: 58.33%; }
+  .col-8 { width: 66.66%; }
+  .col-9 { width: 75%; }
+  .col-10 { width: 83.33%; }
+  .col-11 { width: 91.66%; }
+  .col-12 { width: 100%; }
+  .hidden-sm { display: block; }
+}
+
+@media only screen and (min-width: 60em) { /* 960px */
+  .container {
+    width: 100%;
+    max-width: 90rem;
+  }
+}
+/*
+COLOR STUDY
+rgb(255, 253, 56)
+F6DF32
+crgb(246, 223, 50)
+Yellow: #FFCC3A
+Gold: #FBC246
+Green: #BFF942
+Red: #EA3F51
+Red: #D2044B
+
+Yellows:
+#FDC139 via stikwood (Ember)
+#FFFD38 via http://www.ostreet.co.uk | #E9D42F, #F6DF32
+#FFCE38 /via @TadCarpenter
+*/
+
