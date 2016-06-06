@@ -21,13 +21,13 @@
 				<a href="#">About &times; Contact &#187;</a>
 			</nav>
 		</div>
-		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
 				<h1 class="center"><span>Rounding Up Undies</span></h1>
 				<p><strong>The Story.</strong> Creative Outfitters is a company with a simple message—we love t-shirts. Creative Outfitters’ attitude sets them apart from the competition, and they needed a look that would do the same.</p>
 				<p class="mono"><strong>The Services:</strong> Logo Design</p>
+				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
 	</div>
@@ -36,7 +36,7 @@
 	<div class="row">
 		<div class="col-3">
 			<div class="inner">
-				<h3><span class="mono">01.</span>Research &times; Sketches</h3>
+				<h2>Research &times; Sketches</h2>
 				<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
 			</div>
 		</div>
@@ -54,7 +54,7 @@
 	<div class="row">
 		<div class="push-3 col-6">
 			<div class="inner">
-				<h3><span class="mono">02.</span>Logo Exploration</h3>
+				<h2>Logo Exploration</h2>
 				<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
 			</div>
 		</div>
@@ -76,7 +76,7 @@
 			</div>
 			<div class="col-4 item-two">
 				<div class="inner">
-					<h3><span class="mono">03.</span>Logo Design Options</h3>
+					<h2>Logo Design Options</h2>
 					<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
 				</div>
 			</div>
@@ -91,7 +91,7 @@
 	<div class="row">
 		<div class="col-4">
 			<div class="inner">
-				<h3><span class="mono">04.</span>Final Logo Design</h3>
+				<h2>Final Logo Design</h2>
 				<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
 			</div>
 		</div>
