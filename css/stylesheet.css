@@ -7,11 +7,21 @@
 @import url(https://fonts.googleapis.com/css?family=Passion+One:700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
 
+/*
+* COLOR PALETTE
+* BASE: #FEC931;
+* TEXT: #343434;
+* BLUE: #1FBAC3;
+* GREEN: #D7C115;
+* TAN: #B19F51;
+* ORANGE: #FE8D1D;
+*/
+
 /* UNIVERSAL */
 
 html,
 body {
-  height: 100%;
+  /*height: 100%;*/
   width: 100%;
   margin: 0;
   padding: 0;
@@ -20,8 +30,11 @@ body {
   font-size: 100%;
   font-family: 'Overpass', Helvetica, sans-serif;
   color: #343434;
+  background-color: #FEC931;
 }
+
 img { margin:-.22em 0; }
+a { color: #0E584D; }
 
 /* TYPOGRAPHY */
 
@@ -55,7 +68,7 @@ p.mono {
   font-size: 1rem;
   font-family: 'Roboto Mono', sans-serif;
   text-align: center;
-  line-height: 1;
+  line-height: 1.4;
 }
 p.mono-light { color: #fff; }
 
@@ -69,7 +82,8 @@ p.mono-light { color: #fff; }
 .right { text-align: right; }
 .center {
   text-align: center;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 .justify { text-align: justify; }
 
@@ -77,7 +91,8 @@ p.mono-light { color: #fff; }
 
 .container {
   width: 100%;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .row {
@@ -138,11 +153,8 @@ p.mono-light { color: #fff; }
 }
 
 /* CUSTOM */
-/*header {
-  height:200px;
-  background-color:#F6DF32;
-  background-image: linear-gradient(45deg, rgb(246, 223, 50), rgb(255, 253, 56));
-}*/
+.gap { margin-top: 1em; margin-bottom: 1em; }
+.video { padding-bottom: 2em; text-align: center; }
 .shade { background-color: rgba(52,52,52,.1); }
 .shade a { color: #343434; margin: .45em; white-space: nowrap; }
 nav { padding: 0 .8em .8em;  }
@@ -170,11 +182,23 @@ nav a {
 h1 span {
   padding: 0 .2em;
   background-color: #343434;
-  color: #FDC139;
+  color: #FEC931;
+}
+.item h2 {
+  margin: .6em 0;
+  padding: 0;
+  line-height: 1;
+  text-align: center;
+}
+.item h2 span {
+  margin: .4em 0;
+  padding: 0 .2em;
+  background-color: #343434;
+  color: #FEC931;
 }
 
 .overlay {
-  margin: .8em .4em .2em 0;
+  margin: .4em .4em .2em 0;
   padding: .4em;
   line-height: 1.1rem;
   color: #fff;
@@ -193,20 +217,42 @@ h1 span {
   border-bottom: 1px solid #343434;
   background-color: rgba(255,255,255,.6);
 }
-.background-white { background-color: #fff; }
+.background-white { background-color: #fff; padding-top: .4em; }
+
 
 footer {
   margin-top: 2em;
-  padding-bottom: 2em;
-  color: #FDC139;
+  /*padding-bottom: 2em;*/
+  color: #FEC931;
   background-color: #343434;
-  border-bottom: 10px solid #FFCC3A;
+  /*border-bottom: 10px solid #b19f51;*/
 }
 footer h2 { font-size: 1.45rem; letter-spacing: .05em; }
 footer p { font-size: .85rem; }
-footer a { color: #FDC139; }
+footer a { color: #FEC931; }
 
-.gap { margin: 1em 0; }
+body.blue { background-color: #1FBAC3; }
+  body.blue h1 span,
+  body.blue h2 span,
+  body.blue footer,
+  body.blue footer a { color: #1FBAC3; }
+body.green { background-color: #D7C115; }
+  body.green h1 span,
+  body.green h2 span,
+  body.green footer,
+  body.green footer a { color: #D7C115; }
+body.orange { background-color: #FE8D1D; }
+  body.orange h1 span,
+  body.orange h2 span,
+  body.orange footer,
+  body.orange footer a { color: #FE8D1D; }
+
+
+.ft-c-1,.ft-c-2,.ft-c-3,.ft-c-4 { padding: .4em 0; white-space: nowrap; }
+.ft-c-1 { background-color: #FEC931; }
+.ft-c-2 { background-color: #1FBAC3; }
+.ft-c-3 { background-color: #D7C115; }
+.ft-c-4 { background-color: #FE8D1D; }
 
 @media only screen and (max-width: 33.75em) {
   .push-1,.push-2,.push-3,.push-4,.push-5,.push-6 { margin-left: 0; }
@@ -256,8 +302,7 @@ Red: #EA3F51
 Red: #D2044B
 
 Yellows:
-#FDC139 via stikwood (Ember)
+#FEC931 via stikwood (Ember)
 #FFFD38 via http://www.ostreet.co.uk | #E9D42F, #F6DF32
 #FFCE38 /via @TadCarpenter
 */
-
