@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<?php include('includes/head.php'); ?>
 </head>
-<body class="green">
+<body class="cool">
 	<div class="container">
 		<div class="row">
 			<?php include('includes/header-nav.php'); ?>

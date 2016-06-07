@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<?php include('includes/head.php'); ?>
 </head>
-<body class="orange">
+<body class="cool">
 <div class="container">
 	<div class="row">
 		<?php include('includes/header-nav.php'); ?>
@@ -25,7 +25,7 @@
 	<div class="row">
 		<div class="col-6">
 			<div class="inner">
-				<h2><span>365 Project - 2015</span></h2>
+				<h2>365 Project - 2015</h2>
 				<p class="mono">Production Notes:</p>
 				All photos & video were shot with an iPhone 5<br>
 				<strong>Apps - Shooting:</strong> Camera (default), <a href="https://itunes.apple.com/us/app/id357404131">SlowShutter</a> (long exposures)<br>
