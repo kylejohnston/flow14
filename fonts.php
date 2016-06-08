@@ -5,6 +5,8 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>+ fonts + for free + for show | flow14 design works.</title>
+	<meta name="description" content="A description of the page">
+	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="cool">
