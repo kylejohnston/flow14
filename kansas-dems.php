@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>Work Sample: Kansas Dems | Logo Design, Directory Design | flow14</title>

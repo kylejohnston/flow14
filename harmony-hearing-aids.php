@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>Work Sample: Harmony Hearing Aids | Logo Design, Collateral Materials | flow14</title>

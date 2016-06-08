@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>Work Sample: Lisa for Kansas Senate | Logo Design, Printed Materials, Web Presence | flow14</title>

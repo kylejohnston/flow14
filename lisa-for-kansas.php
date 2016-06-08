@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>Work Sample: Lisa Johnston for U.S. Senate |  Logo Design, Printed Materials, Printed Ads, Web Presence, TV Ads | flow14</title>
