@@ -5,6 +5,8 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Lisa for Kansas Senate | Logo Design, Printed Materials, Web Presence | flow14</title>
+	<meta name="description" content="A description of the page">
+	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
 <body>
@@ -12,17 +14,7 @@
 </header>
 <div class="container">
 	<div class="row">
-		<div class="col-2 center shade">
-				<!--<a href="#">Design Works &#187;</a>
-				<a href="#">About &#187;</a>
-				<a href="#">Contact &#187;</a>-->
-			<h1>Logo</h1>
-			<nav>
-				<a href="#">Design Works &#187;</a>
-				<a href="#">About &times; Contact &#187;</a>
-			</nav>
-		</div>
-		<!--<div class="col-2 hidden-sm">&#160;</div>-->
+		<?php include('includes/header-nav.php'); ?>
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
