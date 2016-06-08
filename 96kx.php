@@ -2,8 +2,11 @@
 <html>
 <head>
 	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: 96KX | Logo Design, Custom Type | flow14</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="A description of the page">
+	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
 <body>
