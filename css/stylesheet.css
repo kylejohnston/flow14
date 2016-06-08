@@ -161,11 +161,22 @@ p.mono-light { color: #fff; }
 }
 
 /* CUSTOM */
+header h1 { margin: auto; }
+header h1.logo a {
+  margin: .2em auto 0 auto;
+  padding: 0;
+  display: block;
+  width: 266px;
+  height: 86px;
+  background: url(../img/flow14-logo.svg);
+  background-size: 266px 86px;
+  text-indent: -9999px;
+}
 .gap { margin-top: 1em; margin-bottom: 1em; }
 .video { padding-bottom: 2em; text-align: center; }
 .shade { background-color: rgba(52,52,52,.1); }
 .shade a { color: #343434; margin: .45em; white-space: nowrap; }
-nav { padding: 0 .8em .8em;  }
+nav { padding: 0 .8em .8em; }
 nav a {
   display: block;
   white-space: nowrap;
@@ -270,6 +281,11 @@ body.orange { background-color: #FE8D1D; }
   .item-one { order: 2; }
   .item-two { order: 1; }
   .item-three { order: 3; }
+  /*header h1.logo a {
+    width: 200px;
+    height: 65px;
+    background-size: 200px 65px;
+  }*/
 }
 
 @media only screen and (min-width: 33.75em) {  /* 540px */
@@ -277,6 +293,9 @@ body.orange { background-color: #FE8D1D; }
 }
 
 @media only screen and (min-width: 45em) {  /* 720px */
+}
+
+@media only screen and (min-width: 60em) { /* 960px */
   .col-1 { width: 8.33%; }
   .col-2 { width: 16.67%; }
   .col-3 { width: 25%; }
@@ -290,27 +309,8 @@ body.orange { background-color: #FE8D1D; }
   .col-11 { width: 91.66%; }
   .col-12 { width: 100%; }
   .hidden-sm { display: block; }
-}
-
-@media only screen and (min-width: 60em) { /* 960px */
   .container {
     width: 100%;
     max-width: 90rem;
   }
 }
-/*
-COLOR STUDY
-rgb(255, 253, 56)
-F6DF32
-crgb(246, 223, 50)
-Yellow: #FFCC3A
-Gold: #FBC246
-Green: #BFF942
-Red: #EA3F51
-Red: #D2044B
-
-Yellows:
-#FEC931 via stikwood (Ember)
-#FFFD38 via http://www.ostreet.co.uk | #E9D42F, #F6DF32
-#FFCE38 /via @TadCarpenter
-*/
