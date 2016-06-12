@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 class="center"><span>Kansas Dems</span></h1>
+				<h1 id="fittext" class="center"><span>Kansas Dems</span></h1>
 					<p><strong>The Story.</strong> In late 2011, the Kansas Dems put out a call for entries – they wanted to refresh their brand, starting with a new logo that could be used across a variety of materials, both in print and online.</p>
 					<p class="mono"><strong>The Services.</strong> Logo Design, Printed Materials</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -77,7 +77,9 @@
 
 <?php include('includes/footer.php'); ?>
 
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .6)
+</script>
 
 </body>
 </html>

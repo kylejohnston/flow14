@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 class="center"><span>Responsive Websites</span></h1>
+				<h1 id="fittext" class="center"><span>Responsive Websites</span></h1>
 					<p><strong>The Story.</strong> Since 2010, I've been designing and developing mobile-optimized websites for many of my freelance clients. Select designs for political and small business clients are featured here.</p>
 					<p class="mono"><strong>The Services.</strong> Website Design &amp; Development</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -84,7 +84,9 @@
 
 <?php include('includes/footer.php'); ?>
 
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .52)
+</script>
 
 </body>
 </html>

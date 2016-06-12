@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 class="center"><span>96KX 30th Anniversary Logo</span></h1>
+				<h1 id="fittext" class="center"><span>96KX 30th Anniversary Logo</span></h1>
 				<p><strong>The Story.</strong> 96KX, a radio station in Lincoln, Nebraska needed a logo to commemorate their 30th anniversary.</p>
 				<p class="mono"><strong>The Services.</strong> Logo Design, Custom Type</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -50,7 +50,7 @@
 				<h2>Refining the Logotype</h2>
 				<p class="mono"><span style="color:#fff;">Original Logotype</span> &times; Refined Logotype</p>
 			</div>
-			<img src="img/samples/96kx/96kx-new-old-comp-1400.png" width="100%">
+			<img class="scale1_2" src="img/samples/96kx/96kx-new-old-comp-1400.png" width="100%">
 		</div>
 	</div>
 </div>
@@ -78,7 +78,9 @@
 
 <?php include('includes/footer.php'); ?>
 
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .84)
+</script>
 
 </body>
 </html>

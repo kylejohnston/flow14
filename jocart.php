@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 class="center"><span>JoCART</span></h1>
+				<h1 id="fittext" class="center"><span>JoCART</span></h1>
 					<p><strong>The Story.</strong> JoCART is a non-profit organization dedicated providing training and resources to help communities support displaced pets in the event of a disaster. They wanted to create a distinctive identity that would allow them to present a professional image to the communities they serve.</p>
 					<p class="mono"><strong>The Services.</strong> Logo Design, Web Presence</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -101,7 +101,9 @@
 
 <?php include('includes/footer.php'); ?>
 
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .52)
+</script>
 
 </body>
 </html>

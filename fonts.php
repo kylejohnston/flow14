@@ -16,7 +16,7 @@
 			<div class="col-8 item">
 				<div class="inner">
 					<p class="mono mono-light">Collect &lsquo;em all.</p>
-					<h1 class="center"><span>Free Fonts</span></h1>
+					<h1 id="fittext" class="center"><span>Free Fonts</span></h1>
 					<p class="mono mono-light">&therefore;</p>
 				</div>
 			</div>
@@ -81,13 +81,8 @@
 
 	<?php include('includes/footer.php'); ?>
 
-	<script src="js/jquery.js"></script>
-	<script src="js/jquery.fitvids.min.js"></script>
-	<script>
-		$(document).ready(function(){
-			// Target your .container, .wrapper, .post, etc.
-			$(".video").fitVids();
-		});
+	<script type="text/javascript">
+		window.fitText(document.getElementById("fittext"), .52)
 	</script>
 
 

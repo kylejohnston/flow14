@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 class="center"><span>Kansas City LISC</span></h1>
+				<h1 id="fittext" class="center"><span>Kansas City LISC</span></h1>
 					<p><strong>The Story.</strong> Greater Kansas City LISC (Local Initiative Support Corporation) approached me with a need for an infographic they could use to communicate their ties to the community, both in the services and causes they support and how they compare to and interact with other local organizations.</p>
 					<p class="mono"><strong>The Services.</strong> Infographic design &amp; data visualization</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -73,7 +73,9 @@
 
 <?php include('includes/footer.php'); ?>
 
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .73)
+</script>
 
 </body>
 </html>

@@ -16,7 +16,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">404</p>
-				<h1 class="center"><span>Oops</span></h1>
+				<h1 id="fittext" class="center"><span>Oops</span></h1>
 				<p>Sorry, the page you’re looking for is has moved or is no longer available. What&rsquo;s next? Go <a href="http://www.flow14.com">back to the homepage</a>, check out <a href="http://www.flow14.com/work">recent work</a>, or <a href="http://www.flow14.com/contact">get in touch</a> with any questions.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
@@ -36,7 +36,9 @@
 
 <?php include('includes/footer.php'); ?>
 
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .52)
+</script>
 
 </body>
 </html>

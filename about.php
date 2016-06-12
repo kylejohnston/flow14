@@ -16,7 +16,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Greetings!</p>
-				<h1 class="center"><span>About &times; Contact</span></h1>
+				<h1 id="fittext" class="center"><span>About &times; Contact</span></h1>
 			</div>
 		</div>
 	</div>
@@ -24,7 +24,8 @@
 
 <div class="container item">
 	<div class="row">
-		<div class="push-2 col-8">
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-8">
 			<div class="inner">
 				<h2>Greetings!</h2>
 				<p>flow14 is a cozy little design studio based in Kansas City. We specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, collateral materials and more.</p>
@@ -34,15 +35,15 @@
 	</div>
 	<div class="row">
 		<div class="col-6">
-			<div class="inner">
 				<h2>Contact.</h2>
+			<div class="inner">
 				<p>Blah. Blah. Blah.</p>
 			</div>
 		</div>
 		<div class="col-6">
-			<div class="inner">
 				<h2>The Founder.</h2>
-				<p><strong>IMAGE</strong></p>
+				<img src="img/kyle-johnston.jpg" width="100%">
+			<div class="inner">
 				<p>I&rsquo;m Kyle Johnston, the founder and owner of flow14. When I&rsquo;m not designing here, I hold down a fantastic day job as the Creative Director at DEG.</p>
 				<p>Here are a few of the other places you can find me on the web:<br>
 					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a>, 
@@ -72,7 +73,9 @@
 
 <?php include('includes/footer.php'); ?>
 
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .76)
+</script>
 
 </body>
 </html>

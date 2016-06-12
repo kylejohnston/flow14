@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 class="center"><span>Rounding Up Undies</span></h1>
+				<h1 id="fittext" class="center"><span>Rounding Up Undies</span></h1>
 				<p><strong>The Story.</strong> Creative Outfitters is a company with a simple message—we love t-shirts. Creative Outfitters’ attitude sets them apart from the competition, and they needed a look that would do the same.</p>
 				<p class="mono"><strong>The Services:</strong> Logo Design</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -108,6 +108,10 @@
 </div>
 
 <?php include('includes/footer.php'); ?>
+
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .52)
+</script>
 
 
 

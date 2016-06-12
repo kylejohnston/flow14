@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 class="center"><span>Creative Outfitters</span></h1>
+				<h1 id="fittext" class="center"><span>Creative Outfitters</span></h1>
 					<p><strong>The Story.</strong> Creative Outfitters is a company with a simple message—we love t-shirts. Creative Outfitters’ attitude sets them apart from the competition, and they needed a look that would do the same.</p>
 					<p class="mono"><strong>The Services.</strong> Logo Design, Business Cards, Website</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -27,10 +27,10 @@
 	</div>
 </div>
 
-<div class="container item">
+<div class="container item gap">
 	<div class="row">
 		<div class="col-6">
-			<img src="img/samples/creative-outfitters/logo-1400.png" width="100%">
+			<img class="scale1_3" src="img/samples/creative-outfitters/logo-1400.png" width="100%">
 		</div>
 		<div class="col-4">
 			<div class="inner">
@@ -71,7 +71,9 @@
 </div>
 
 <?php include('includes/footer.php'); ?>
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .52)
+</script>
 
 
 </body>

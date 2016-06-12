@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 class="center"><span>Harmony Hearing Aids</span></h1>
+				<h1 id="fittext" class="center"><span>Harmony Hearing Aids</span></h1>
 					<p><strong>The Story.</strong> Harmony Hearing Aids came to flow14 as a new, small business looking for a professional set of materials that would allow them to quickly establish a foothold in a small, highly competitive market.</p>
 					<p class="mono"><strong>The Services.</strong> Logo Design, Collateral Materials</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -29,9 +29,9 @@
 
 <div class="container item">
 	<div class="row">
-		<div class="col-4 hidden-sm">&#160;</div>
-		<div class="col-4">
-			<img src="img/samples/harmony/harmony-logo-700.png" alt="Harmony Hearing Aids Logo" width="100%">
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-6">
+			<img src="img/samples/harmony/harmony-logo-1400.png" alt="Harmony Hearing Aids Logo" width="100%">
 		</div>
 		<div class="col-4">
 			<div class="inner">
@@ -67,7 +67,9 @@
 
 <?php include('includes/footer.php'); ?>
 
-
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .6)
+</script>
 
 </body>
 </html>

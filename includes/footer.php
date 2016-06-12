@@ -33,3 +33,5 @@
 		</div>
 	</div>
 </footer>
+
+<script src="js/fittext.js"></script>
