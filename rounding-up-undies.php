@@ -19,7 +19,7 @@
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center"><span>Rounding Up Undies</span></h1>
-				<p><strong>The Story.</strong> Creative Outfitters is a company with a simple message—we love t-shirts. Creative Outfitters’ attitude sets them apart from the competition, and they needed a look that would do the same.</p>
+				<p><strong>The Story.</strong> Rounding Up Undies is a charity that provides hygiene kits to young women in Uganda and Mali. These kits directly impact young womens' health and access to education. The team at Rounding Up Undies approached me about designing a logo that could be used for their packaging, promotional materials and social presence.</p>
 				<p class="mono"><strong>The Services:</strong> Logo Design</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
@@ -31,7 +31,7 @@
 		<div class="col-3">
 			<div class="inner">
 				<h2>Research &times; Sketches</h2>
-				<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
+				<p>I started by researching Ugandan art and textiles to gain an understanding of dominant colors and patterns present in the culture. At the same time, I began sketching ideas for shapes and type treatments.</p>
 			</div>
 		</div>
 		<div class="col-6">
@@ -46,10 +46,11 @@
 </div>
 <div class="container item">
 	<div class="row">
-		<div class="push-3 col-6">
+		<div class="col-3 hidden-sm">&#160;</div>
+		<div class="col-6">
 			<div class="inner">
 				<h2>Logo Exploration</h2>
-				<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
+				<p>Based on my research and initial sketches, I explored a variety of visual directions and type treatments. At this stage, I started to incorporate hand-drawn shapes and patterns. I also realized that when the underwear shape was 'folded' in half, it resembled the shape of Africa, so it became a key element in my design recommendations.</p>
 			</div>
 		</div>
 	</div>
@@ -71,7 +72,7 @@
 			<div class="col-4 item-two">
 				<div class="inner">
 					<h2>Logo Design Options</h2>
-					<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
+					<p>I narrowed the first round of ideas to these three options, which I presented to the Rounding Up Undies team.</p>
 				</div>
 			</div>
 			<div class="col-4 item-three">
