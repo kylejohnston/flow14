@@ -32,7 +32,7 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img src="img/fonts/sporty.2x.png" width="100%" alt="Free Font - Sporty">
+				<img src="img/fonts/sporty-14006.png" width="100%" alt="Free Font - Sporty">
 			</div>
 		</div>
 	</div>
@@ -46,7 +46,7 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img src="img/fonts/bodolive.2x.png" width="100%" alt="Free Font - Bodolive">
+				<img src="img/fonts/bodolive-1400.png" width="100%" alt="Free Font - Bodolive">
 			</div>
 		</div>
 	</div>
@@ -60,7 +60,7 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img src="img/fonts/meteors.2x.png" width="100%" alt="Free Font - Meteors">
+				<img src="img/fonts/meteors-1400.png" width="100%" alt="Free Font - Meteors">
 			</div>
 		</div>
 	</div>
@@ -74,7 +74,7 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img src="img/fonts/jellyphant.2x.png" width="100%" alt="Free Font - jellyphant">
+				<img src="img/fonts/jellyphant-1400.png" width="100%" alt="Free Font - jellyphant">
 			</div>
 		</div>
 	</div>
