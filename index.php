@@ -33,7 +33,6 @@
 		<div class="col-4"><div class="inner">
 			<p><a href="harmony-hearing-aids.php">Harmony Hearing Aids</a></p>
 			<p><a href="iphone-365-project.php">iPhone 365 Project</a></p>
-			<p><a href="jocart.php">JoCART</a></p>
 			<p><a href="kansas-dems.php">Kansas Dems</a></p>
 			<p><a href="kc-lisc.php">KC LISC</a></p>
 		</div></div>
