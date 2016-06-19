@@ -19,13 +19,14 @@
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center"><span>Rounding Up Undies</span></h1>
-				<p><strong>The Story.</strong> Rounding Up Undies is a charity that provides hygiene kits to young women in Uganda and Mali. These kits directly impact young womens' health and access to education. The team at Rounding Up Undies approached me about designing a logo that could be used for their packaging, promotional materials and social presence.</p>
-				<p class="mono"><strong>The Services:</strong> Logo Design</p>
+				<p>Rounding Up Undies is a charity that provides hygiene kits to young women in Uganda and Mali. The team at Rounding Up Undies approached me about designing a logo that could be used for their hygiene kit packaging, promotional materials and social presence.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
 	</div>
 </div>
+
+
 <div class="container item gap">
 	<div class="row">
 		<div class="col-3">
@@ -49,8 +50,8 @@
 		<div class="col-3 hidden-sm">&#160;</div>
 		<div class="col-6">
 			<div class="inner">
-				<h2>Logo Exploration</h2>
-				<p>Based on my research and initial sketches, I explored a variety of visual directions and type treatments. At this stage, I started to incorporate hand-drawn shapes and patterns. I also realized that when the underwear shape was 'folded' in half, it resembled the shape of Africa, so it became a key element in my design recommendations.</p>
+				<h2>Design Exploration</h2>
+				<p>Based on my research and initial sketches, I explored a variety of visual directions and type treatments. At this stage, I started to incorporate hand-drawn shapes and patterns. I also realized that when the underwear shape was 'folded', it resembled the shape of Africa, so it became a key element in my design recommendations.</p>
 			</div>
 		</div>
 	</div>
@@ -72,7 +73,8 @@
 			<div class="col-4 item-two">
 				<div class="inner">
 					<h2>Logo Design Options</h2>
-					<p>I narrowed the first round of ideas to these three options, which I presented to the Rounding Up Undies team.</p>
+					<p>After exploring many design ideas, I selected three options and presented them to the Rounding Up Undies team. They quickly gravitated to one design. After a round of refinements, we had a design that everyone loved.</p>
+					<p>
 				</div>
 			</div>
 			<div class="col-4 item-three">
@@ -87,7 +89,9 @@
 		<div class="col-4">
 			<div class="inner">
 				<h2>Final Logo Design</h2>
-				<p>The logo was designed with a hand-painted font to echo the personal touch Creative Outfitters offers its customers.</p>
+				<p>After a few additional finishing touches (details matter) &#8212; I delivered the final logo along with brand guidelines that ensure the logo will look great as it's used to support and promote the important mission of Rounding Up Undies.</p>
+				<h1 id="fittexttwo">$1,000</h1>
+				<p class="mono">Money raised in the first 6 hours of promoting Rounding Up Undies using the new logo.</p>
 			</div>
 		</div>
 		<div class="col-4">
@@ -98,6 +102,7 @@
 		</div>
 	</div>
 </div>
+
 <div class="container">
 	<div class="row">
 		<div class="col-12 center">
@@ -112,6 +117,7 @@
 
 <script type="text/javascript">
 	window.fitText(document.getElementById("fittext"), .52)
+	window.fitText(document.getElementById("fittexttwo"), .35)
 </script>
 
 
