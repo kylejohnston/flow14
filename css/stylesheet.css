@@ -74,7 +74,7 @@ p {
 }
 .mono { font-family: 'Roboto Mono', sans-serif; }
 p.mono {
-  font-size: 1rem;
+  font-size: .85rem;
   font-family: 'Roboto Mono', sans-serif;
   text-align: center;
   line-height: 1.4;
