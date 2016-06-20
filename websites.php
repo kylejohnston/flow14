@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Responsive Websites | flow14</title>
-	<meta name="description" content="A description of the page">
+	<meta name="description" content="Examples of responsive, mobile-friendly websites we've designed and developed for various small businesses and political groups.">
 	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
@@ -19,8 +19,7 @@
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center"><span>Responsive Websites</span></h1>
-					<p><strong>The Story.</strong> Since 2010, I've been designing and developing mobile-optimized websites for many of my freelance clients. Select designs for political and small business clients are featured here.</p>
-					<p class="mono"><strong>The Services.</strong> Website Design &amp; Development</p>
+					<p>Since 2010, I've been designing and developing mobile-optimized websites for many of my freelance clients. Select designs for political and small business clients are featured here.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>

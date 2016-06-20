@@ -23,33 +23,30 @@
 </div>
 <div class="container">
 	<div class="row">
-		<div class="col-4"><div class="inner">
+		<div class="col-4">
+			<div class="inner">
 			<p><a href="96kx.php">96kx</a></p>
 			<p><a href="404.php">404</a></p>
 			<p><a href="about.php">About &times; Contact</a></p>
 			<p><a href="creative-outfitters.php">Creative Outfitters</a></p>
 			<p><a href="fonts.php">Fonts</a></p>
-		</div></div>
-		<div class="col-4"><div class="inner">
+		</div>
+		</div>
+		<div class="col-4">
+		<div class="inner">
 			<p><a href="harmony-hearing-aids.php">Harmony Hearing Aids</a></p>
 			<p><a href="iphone-365-project.php">iPhone 365 Project</a></p>
 			<p><a href="kansas-dems.php">Kansas Dems</a></p>
 			<p><a href="kc-lisc.php">KC LISC</a></p>
-		</div></div>
-		<div class="col-4"><div class="inner">
+		</div>
+		</div>
+		<div class="col-4">
+		<div class="inner">
 			<p><a href="lisa-for-kansas-senate.php">Lisa for Kansas Senate</a></p>
 			<p><a href="lisa-for-kansas.php">Lisa for US Senate</a></p>
 			<p><a href="rounding-up-undies.php">Rounding Up Undies</a></p>
 			<p><a href="websites.php">Websites</a></p>
-		</div></div>
-	</div>
-</div>
-<div class="container">
-	<div class="row">
-		<div class="col-12 center">
-			<div class="inner">
-				<?php include('includes/cta.php'); ?>
-			</div>
+		</div>
 		</div>
 	</div>
 </div>

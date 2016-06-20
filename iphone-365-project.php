@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>iPhone 365 Project | flow14 design works.</title>
-	<meta name="description" content="A description of the page">
+	<meta name="description" content="The iPhone 365 project, taking a photo a day, every day, since 2009.">
 	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
@@ -17,7 +17,7 @@
 			<div class="inner">
 				<p class="mono mono-light">Personal Work.</p>
 				<h1 id="fittext" class="center"><span>iPhone 365 Project</span></h1>
-				<p><strong>The Story.</strong> Since 2009, I’ve participated in iPhone 365, a project created by a couple of friends who challenged themselves to take a photo a day, every day. At the end of each year, I’ve compiled my photos into a short video, set to the song I listened to the most during the year.</p>
+				<p>Since 2009, I’ve participated in iPhone 365, a project created by a couple of friends who challenged themselves to take a photo a day, every day. At the end of each year, I’ve compiled my photos into a short video, set to the song I listened to the most during the year.</p>
 				<p><strong>Stats.</strong> 2,318 photos since 2009. Year-by-year: 2009: 212 photos, 2010: 280 photos, 2011: 365 photos, 2012: 366 photos (leap year), 2013: 365 photos, 2014: 365 photos, 2015: 365 photos</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
@@ -26,18 +26,18 @@
 </div>
 <div class="container item">
 	<div class="row">
-		<div class="col-6">
+		<div class="col-5">
 			<div class="inner">
 				<h2>365 Project - 2015</h2>
 				<p class="mono">Production Notes:</p>
-				All photos & video were shot with an iPhone 5<br>
+				<p>All photos & video were shot with an iPhone 5<br>
 				<strong>Apps - Shooting:</strong> Camera (default), <a href="https://itunes.apple.com/us/app/id357404131">SlowShutter</a> (long exposures)<br>
 				<strong>Apps - Editing:</strong> <a href="https://itunes.apple.com/us/app/vsco-cam/id588013838?mt=8">VSCOcam</a>, <a href="https://itunes.apple.com/us/app/skrwt/id834248867?mt=8">SKRWT</a>, <a href="https://itunes.apple.com/us/app/image-blender/id414544492?mt%3D8">Image Blender</a><br>
 				<strong>365 Video:</strong> Downloaded photos and videos from my <a href="https://www.flickr.com/photos/flow14/albums/72157649651125667">365 Flickr album</a> then compiled and edited the video with Adobe Premiere.<br>
 				<strong>Music:</strong> <em>Home</em> by LCD Soundsystem, edited with <a href="http://audacityteam.org">Audacity</a></p>
 			</div>
 		</div>
-		<div class="col-6 video">
+		<div class="col-7 video">
 			<iframe width="600" height="450" src="https://www.youtube.com/embed/Q9bN0umbgK8?rel=0" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>

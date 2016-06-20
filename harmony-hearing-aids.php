@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Harmony Hearing Aids | Logo Design, Collateral Materials | flow14</title>
-	<meta name="description" content="A description of the page">
+	<meta name="description" content="Logo design and collateral design developed for Harmony Hearing Aids, a small business based in Kansas.">
 	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
@@ -19,8 +19,7 @@
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center"><span>Harmony Hearing Aids</span></h1>
-					<p><strong>The Story.</strong> Harmony Hearing Aids came to flow14 as a new, small business looking for a professional set of materials that would allow them to quickly establish a foothold in a small, highly competitive market.</p>
-					<p class="mono"><strong>The Services.</strong> Logo Design, Collateral Materials</p>
+					<p>Harmony Hearing Aids came to flow14 as a new, small business looking for a professional set of materials that would allow them to quickly establish a foothold in a small, highly competitive market.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>

@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>About &times; Contact flow14 - Design Works.</title>
-	<meta name="description" content="A description of the page">
+	<meta name="description" content="A graphic design studio that specializes in helping small businesses, non-profits, and political groups with logo design, website design and more.">
 	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
@@ -56,16 +56,6 @@
 					<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a>, 
 					<a class="vimeo" href="http://vimeo.com/flow14">Vimeo</a>
 				</p>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="container">
-	<div class="row">
-		<div class="col-12 center">
-			<div class="inner">
-				<?php include('includes/cta.php'); ?>
 			</div>
 		</div>
 	</div>

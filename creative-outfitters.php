@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Creative Outfitters | Logo Design, Business Cards, Website | flow14</title>
-	<meta name="description" content="A description of the page">
+	<meta name="description" content="Logo design and business card design developed for Creative Outfitters, a small business based in Kansas.">
 	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
@@ -19,8 +19,7 @@
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center"><span>Creative Outfitters</span></h1>
-					<p><strong>The Story.</strong> Creative Outfitters is a company with a simple message—we love t-shirts. Creative Outfitters’ attitude sets them apart from the competition, and they needed a look that would do the same.</p>
-					<p class="mono"><strong>The Services.</strong> Logo Design, Business Cards, Website</p>
+					<p>Creative Outfitters is a company with a simple message—we love t-shirts. Creative Outfitters’ attitude sets them apart from the competition, and they needed a look that would do the same.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>

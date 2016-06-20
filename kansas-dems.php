@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Kansas Dems | Logo Design, Directory Design | flow14</title>
-	<meta name="description" content="A description of the page">
+	<meta name="description" content="Logo design and directory design developed for the Kansas Democratic Party.">
 	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
@@ -19,8 +19,7 @@
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center"><span>Kansas Dems</span></h1>
-					<p><strong>The Story.</strong> In late 2011, the Kansas Dems put out a call for entries – they wanted to refresh their brand, starting with a new logo that could be used across a variety of materials, both in print and online.</p>
-					<p class="mono"><strong>The Services.</strong> Logo Design, Printed Materials</p>
+					<p>In late 2011, the Kansas Dems put out a call for entries – they wanted to refresh their brand, starting with a new logo that could be used across a variety of materials, both in print and online.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
