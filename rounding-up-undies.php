@@ -59,7 +59,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-12">
-			<img src="img/samples/rounding-up-undies/logo-exploration.jpg" width="100%">
+			<img data-src="img/samples/rounding-up-undies/logo-exploration.jpg" class="lazyload" width="100%">
 		</div>
 	</div>
 </div>
@@ -68,7 +68,7 @@
 		<div class="flex">
 			<div class="col-4 item-one">
 				<div class="overlay overlay-dark">Round 1</div>
-				<img src="img/samples/rounding-up-undies/logo-options-r1.jpg" width="100%">
+				<img data-src="img/samples/rounding-up-undies/logo-options-r1.jpg" class="lazyload" width="100%">
 			</div>
 			<div class="col-4 item-two">
 				<div class="inner">
@@ -79,7 +79,7 @@
 			</div>
 			<div class="col-4 item-three">
 				<div class="overlay overlay-dark">Round 2</div>
-				<img src="img/samples/rounding-up-undies/logo-options-r2.jpg" width="100%">
+				<img data-src="img/samples/rounding-up-undies/logo-options-r2.jpg" class="lazyload" width="100%">
 			</div>
 		</div>
 	</div>
@@ -95,10 +95,10 @@
 			</div>
 		</div>
 		<div class="col-4">
-			<img src="img/samples/rounding-up-undies/final-logo.jpg" width="100%">
+			<img data-src="img/samples/rounding-up-undies/final-logo.jpg" class="lazyload" width="100%">
 		</div>
 		<div class="col-4">
-			<img src="img/samples/rounding-up-undies/final-logo-guidelines.jpg" width="100%">
+			<img data-src="img/samples/rounding-up-undies/final-logo-guidelines.jpg" class="lazyload" width="100%">
 		</div>
 	</div>
 </div>

@@ -34,4 +34,5 @@
 	</div>
 </footer>
 
+<script src="js/lazysizes.min.js" async=""></script>
 <script src="js/fittext.js"></script>
