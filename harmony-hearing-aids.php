@@ -50,7 +50,7 @@
 			</div>
 		</div>
 		<div class="col-8">
-			<img src="img/samples/harmony/harmony-card-1400.png" alt="Harmony Hearing Aids Collateral Materials" width="100%">
+			<img data-src="img/samples/harmony/harmony-card-1400.png" class="lazyload" alt="Harmony Hearing Aids Collateral Materials" width="100%">
 		</div>
 	</div>
 </div>

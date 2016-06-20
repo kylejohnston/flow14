@@ -49,17 +49,17 @@
 			</div>
 		</div>
 		<div class="col-8">
-			<img src="img/samples/kansas-dems/directory-covers.jpg" width="100%">
+			<img data-src="img/samples/kansas-dems/directory-covers.jpg" class="lazyload" width="100%">
 			<p class="mono">Directory Covers, 2012 &mdash; 2014</p>
 		</div>
 	</div>
 	<div class="row gap">
 		<div class="col-5">
-			<img src="img/samples/kansas-dems/spread-before.png" width="100%">
+			<img data-src="img/samples/kansas-dems/spread-before.png" class="lazyload" width="100%">
 			<p class="mono">Interior Spread - Before</p>
 		</div>
 		<div class="col-7">
-			<img src="img/samples/kansas-dems/directory-spread-after.jpg" width="100%">
+			<img data-src="img/samples/kansas-dems/directory-spread-after.jpg" class="lazyload" width="100%">
 			<p class="mono">Interior Spread - After</p>
 		</div>
 	</div>

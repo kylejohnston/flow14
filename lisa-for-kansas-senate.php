@@ -47,11 +47,11 @@
 				<h2>Yard Signs</h2>
 				<p>The yard signs were designed to be extremely readable and highly visible. Before printing the signs, I created full-size prototypes, placed them in a yard and drove by to ensure they would be easy to read.</p>
 				<p class="mono">Prototype Yard Sign:</p>
-				<img src="img/samples/lisa-for-kansas-senate/yard-sign-prototype.png" width="100%">
+				<img data-src="img/samples/lisa-for-kansas-senate/yard-sign-prototype.png" class="lazyload" width="100%">
 			</div>
 		</div>
 		<div class="col-6">
-			<div class="inner"><img src="img/samples/lisa-for-kansas-senate/yard-sign-700.jpg" width="100%"></div>
+			<div class="inner"><img data-src="img/samples/lisa-for-kansas-senate/yard-sign-700.jpg" class="lazyload" width="100%"></div>
 		</div>
 	</div>
 </div>
@@ -60,7 +60,7 @@
 		<div class="flex">
 		<div class="col-8 item-one">
 			<div class="inner">
-				<img src="img/samples/lisa-for-kansas-senate/web-home-combo.png" width="100%">
+				<img data-src="img/samples/lisa-for-kansas-senate/web-home-combo.png" class="lazyload" width="100%">
 				<p class="mono">Homepage - Desktop &amp; Mobile</p>
 			</div>
 		</div>
@@ -75,19 +75,19 @@
 	<div class="row">
 		<div class="col-4">
 			<div class="inner">
-				<img src="img/samples/lisa-for-kansas-senate/web-candidate.png" width="100%">
+				<img data-src="img/samples/lisa-for-kansas-senate/web-candidate.png" class="lazyload" width="100%">
 				<p class="mono">About Lisa</p>
 			</div>
 		</div>
 		<div class="col-4">
 			<div class="inner">
-				<img src="img/samples/lisa-for-kansas-senate/web-issues.png" width="100%">
+				<img data-src="img/samples/lisa-for-kansas-senate/web-issues.png" class="lazyload" width="100%">
 				<p class="mono">On the Issues</p>
 			</div>
 		</div>
 		<div class="col-4">
 			<div class="inner">
-				<img src="img/samples/lisa-for-kansas-senate/web-news.png" width="100%">
+				<img data-src="img/samples/lisa-for-kansas-senate/web-news.png" class="lazyload" width="100%">
 				<p class="mono">Events, News, &amp; Endorsements</p>
 			</div>
 		</div>

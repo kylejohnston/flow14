@@ -53,15 +53,15 @@
 		<div class="col-4">
 			<div class="inner">
 				<div class="overlay overlay-dark">Donation Envelope</div>
-				<img src="img/samples/lisa-for-kansas/envelope-700.jpg" width="100%">
+				<img data-src="img/samples/lisa-for-kansas/envelope-700.jpg" class="lazyload" width="100%">
 			</div>
 			<div class="overlay overlay-dark">Yard Sign</div>
-			<img src="img/samples/lisa-for-kansas/yard-sign-700.jpg" width="100%">
+			<img data-src="img/samples/lisa-for-kansas/yard-sign-700.jpg" class="lazyload" width="100%">
 		</div>
 		<div class="col-4">
 			<div class="inner">
 				<div class="overlay overlay-dark">Walk Card</div>
-				<img src="img/samples/lisa-for-kansas/walk-card-700.png" width="100%">
+				<img data-src="img/samples/lisa-for-kansas/walk-card-700.png" class="lazyload" width="100%">
 			</div>
 		</div>
 	</div>
@@ -71,7 +71,7 @@
 		<div class="flex">
 		<div class="col-4 item-one">
 			<div class="inner">
-			<img src="img/samples/lisa-for-kansas/ad-newspaper.png" width="100%">
+			<img data-src="img/samples/lisa-for-kansas/ad-newspaper.png" class="lazyload" width="100%">
 			</div>
 		</div>
 		<div class="col-4 item-two">
@@ -82,7 +82,7 @@
 		</div>
 		<div class="col-4 item-three">
 			<div class="inner">
-			<img src="img/samples/lisa-for-kansas/ad-brochure.png" width="100%">
+			<img data-src="img/samples/lisa-for-kansas/ad-brochure.png" class="lazyload" width="100%">
 			</div>
 		</div>
 		</div>
@@ -97,13 +97,13 @@
 	<div class="row">
 		<div class="col-6">
 			<div class="inner">
-			<img src="img/samples/lisa-for-kansas/web-homepage.png" width="100%">
+			<img data-src="img/samples/lisa-for-kansas/web-homepage.png" class="lazyload" width="100%">
 			<p class="mono">Homepage</p>
 			</div>
 		</div>
 		<div class="col-6">
 			<div class="inner">
-			<img src="img/samples/lisa-for-kansas/web-about.png" width="100%">
+			<img data-src="img/samples/lisa-for-kansas/web-about.png" class="lazyload" width="100%">
 			<p class="mono">About Page</p>
 			</div>
 		</div>

@@ -42,7 +42,7 @@
 		</div>
 		<div class="col-6">
 				<h2>The Founder.</h2>
-				<img src="img/kyle-johnston.jpg" width="100%">
+				<img data-src="img/kyle-johnston.jpg" class="lazyload" width="100%">
 			<div class="inner">
 				<p>I&rsquo;m Kyle Johnston, the founder and owner of flow14. When I&rsquo;m not designing here, I hold down a fantastic day job as the Creative Director at DEG.</p>
 				<p>Here are a few of the other places you can find me on the web:<br>

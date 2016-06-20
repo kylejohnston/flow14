@@ -34,7 +34,7 @@
 			<div class="inner">
 				<h2>Reggie Marselus for U.S. Congress</h2>
 				<p class="mono"><a href="http://www.reggieforcongress.com">Visit ReggieForCongress.com</a></p>
-				<img src="img/samples/websites/reggie-for-congress.png" width="100%" alt="Responsive Website Design - Reggie Marselus for U.S. Congress">
+				<img data-src="img/samples/websites/reggie-for-congress.png" class="lazyload" width="100%" alt="Responsive Website Design - Reggie Marselus for U.S. Congress">
 			</div>
 		</div>
 	</div>
@@ -46,7 +46,7 @@
 			<div class="inner">
 			<h2 class>Alliance Pump &amp; Mechanical Service</h2>
 			<p class="mono"><a href="http://www.alliancepump.com">Visit AlliancePump.com</a></p>
-			<img src="img/samples/websites/alliance.png" width="100%" alt="Responsive Website Design - Alliance Pump &amp; Mechanical Service">
+			<img data-src="img/samples/websites/alliance.png" class="lazyload" width="100%" alt="Responsive Website Design - Alliance Pump &amp; Mechanical Service">
 			</div>
 		</div>
 	</div>
@@ -58,7 +58,7 @@
 			<div class="inner">
 				<h2>Johnson County Democrats</h2>
 				<p class="mono"><a href="http://www.jocodems.org">Visit JoCoDems.org</a></p>
-				<img src="img/samples/websites/joco-dems.png" width="100%" alt="Responsive Website Design - Johnson County Democrats">
+				<img data-src="img/samples/websites/joco-dems.png" class="lazyload" width="100%" alt="Responsive Website Design - Johnson County Democrats">
 			</div>
 		</div>
 		<div class="col-4 item-two">
@@ -74,7 +74,7 @@
 			<div class="inner">
 				<h2>Lisa Johnston</h2>
 				<p class="mono"><a href="http://www.lisaforkansas.com">Visit LisaForKansas.com</a></p>
-				<img src="img/samples/websites/lisa-johnston.png" width="100%" alt="Responsive Website Design - Lisa Johnston">
+				<img data-src="img/samples/websites/lisa-johnston.png" class="lazyload" width="100%" alt="Responsive Website Design - Lisa Johnston">
 			</div>
 		</div>
 	</div>
