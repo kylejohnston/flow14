@@ -29,7 +29,8 @@
 
 <div class="container item">
 	<div class="row">
-		<div class="push-2 col-8 item-one">
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-8">
 			<div class="inner">
 				<h2>Reggie Marselus for U.S. Congress</h2>
 				<p class="mono"><a href="http://www.reggieforcongress.com">Visit ReggieForCongress.com</a></p>
@@ -40,7 +41,8 @@
 </div>
 <div class="container item">
 	<div class="row">
-		<div class="push-2 col-8">
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-8">
 			<div class="inner">
 			<h2 class>Alliance Pump &amp; Mechanical Service</h2>
 			<p class="mono"><a href="http://www.alliancepump.com">Visit AlliancePump.com</a></p>
@@ -51,7 +53,8 @@
 </div>
 <div class="container item">
 	<div class="row">
-		<div class="push-2 col-8">
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-8">
 			<div class="inner">
 				<h2>Johnson County Democrats</h2>
 				<p class="mono"><a href="http://www.jocodems.org">Visit JoCoDems.org</a></p>
@@ -66,7 +69,8 @@
 </div>
 <div class="container item">
 	<div class="row">
-		<div class="push-2 col-8">
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-8">
 			<div class="inner">
 				<h2>Lisa Johnston</h2>
 				<p class="mono"><a href="http://www.lisaforkansas.com">Visit LisaForKansas.com</a></p>
