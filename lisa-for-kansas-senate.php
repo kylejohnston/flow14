@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 id="fittext" class="center"><span>Lisa for Kansas Senate</span></h1>
+				<h1 id="fittext" class="center">Lisa for Kansas Senate</h1>
 					<p><strong>The Story.</strong> In June 2012, my wife began her campaign for the Kansas Senate, a 21-week marathon for the newly-redrawn 8th district. This provided me with the unique opportunity to develop a distinctive brand and design a host of high-quality campaign materials on tight timelines and a shoestring budget.</p>
 					<p class="mono"><strong>The Services.</strong> Logo Design, Printed Materials, Web Presence</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -98,7 +98,7 @@
 	<div class="row">
 		<div class="col-12 center">
 			<div class="inner">
-				<?php include('includes/cta.php'); ?>
+				<?php include('includes/cta_campaign.php'); ?>
 			</div>
 		</div>
 	</div>
@@ -107,7 +107,7 @@
 <?php include('includes/footer.php'); ?>
 
 <script type="text/javascript">
-	window.fitText(document.getElementById("fittext"), .67)
+	window.fitText(document.getElementById("fittext"), .75)
 </script>
 
 

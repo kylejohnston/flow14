@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 id="fittext" class="center"><span>Creative Outfitters</span></h1>
+				<h1 id="fittext" class="center">Creative Outfitters</h1>
 					<p>Creative Outfitters is a company with a simple message—we love t-shirts. Creative Outfitters’ attitude sets them apart from the competition, and they needed a look that would do the same.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
@@ -42,7 +42,8 @@
 </div>
 <div class="container item">
 	<div class="row">
-		<div class="push-3 col-6">
+		<div class="col-3 hidden-sm">&#160;</div>
+		<div class="col-6">
 			<div class="inner">
 				<h2>Business Cards</h2>
 				<p>Contact information printed on stickers creates a versatile solution that can be used on business cards, shirt boxes and more.</p>
@@ -61,7 +62,7 @@
 	<div class="row">
 		<div class="col-12 center">
 			<div class="inner">
-				<?php include('includes/cta.php'); ?>
+				<?php include('includes/cta_sb.php'); ?>
 			</div>
 		</div>
 	</div>
@@ -69,7 +70,7 @@
 
 <?php include('includes/footer.php'); ?>
 <script type="text/javascript">
-	window.fitText(document.getElementById("fittext"), .52)
+	window.fitText(document.getElementById("fittext"), .65)
 </script>
 
 

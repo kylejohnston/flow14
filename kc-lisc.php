@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 id="fittext" class="center"><span>Kansas City LISC</span></h1>
+				<h1 id="fittext" class="center">Kansas City LISC</h1>
 					<p><strong>The Story.</strong> Greater Kansas City LISC (Local Initiative Support Corporation) approached me with a need for an infographic they could use to communicate their ties to the community, both in the services and causes they support and how they compare to and interact with other local organizations.</p>
 					<p class="mono"><strong>The Services.</strong> Infographic design &amp; data visualization</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -37,7 +37,7 @@
 			<div class="inner">
 				<p>Initially, I was asked to create a network diagram, but as I looked through the matrix provided, I realized a network diagram would result in an extremely complex visual, making it difficult for viewers to understand and difficult to update in the future.</p>
 				<p>I decided to use <a href="http://d3js.org/" title="d3 - data-driven documents">d3js</a>, a JavaScript library that enables relatively simple and flexible visualization of complex data. d3 provides the added benefits of being maintainable, functional across mobile and desktop devices, and offers the ability to export vector graphics that can be reproduced in print.</p>
-				<p><a href="http://www.flow14.com/lisc/">View the live version here</a></p>
+				<p class="center"><a class="ghost-button" href="http://www.flow14.com/lisc/">View the live version here</a></p>
 				<img data-src="img/samples/kc-lisc/source-data.jpg" class="lazyload" width="100%">
 				<p class="mono">A small portion of the complex source data</p>
 			</div>
@@ -65,7 +65,7 @@
 	<div class="row">
 		<div class="col-12 center">
 			<div class="inner">
-				<?php include('includes/cta.php'); ?>
+				<?php include('includes/cta_np.php'); ?>
 			</div>
 		</div>
 	</div>
@@ -74,7 +74,7 @@
 <?php include('includes/footer.php'); ?>
 
 <script type="text/javascript">
-	window.fitText(document.getElementById("fittext"), .73)
+	window.fitText(document.getElementById("fittext"), .75)
 </script>
 
 </body>

@@ -16,7 +16,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Personal Work.</p>
-				<h1 id="fittext" class="center"><span>iPhone 365 Project</span></h1>
+				<h1 id="fittext" class="center">iPhone 365 Project</h1>
 				<p>Since 2009, I’ve participated in iPhone 365, a project created by a couple of friends who challenged themselves to take a photo a day, every day. At the end of each year, I’ve compiled my photos into a short video, set to the song I listened to the most during the year.</p>
 				<p><strong>Stats.</strong> 2,318 photos since 2009. Year-by-year: 2009: 212 photos, 2010: 280 photos, 2011: 365 photos, 2012: 366 photos (leap year), 2013: 365 photos, 2014: 365 photos, 2015: 365 photos</p>
 				<p class="mono mono-light">&therefore;</p>
@@ -114,7 +114,7 @@
 	</script>
 
 	<script type="text/javascript">
-		window.fitText(document.getElementById("fittext"), .52)
+		window.fitText(document.getElementById("fittext"), .65)
 	</script>
 
 

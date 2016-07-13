@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 id="fittext" class="center"><span>Harmony Hearing Aids</span></h1>
+				<h1 id="fittext" class="center">Harmony Hearing Aids</h1>
 					<p>Harmony Hearing Aids came to flow14 as a new, small business looking for a professional set of materials that would allow them to quickly establish a foothold in a small, highly competitive market.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
@@ -58,7 +58,7 @@
 	<div class="row">
 		<div class="col-12 center">
 			<div class="inner">
-				<?php include('includes/cta.php'); ?>
+				<?php include('includes/cta_sb.php'); ?>
 			</div>
 		</div>
 	</div>
@@ -67,7 +67,7 @@
 <?php include('includes/footer.php'); ?>
 
 <script type="text/javascript">
-	window.fitText(document.getElementById("fittext"), .6)
+	window.fitText(document.getElementById("fittext"), .65)
 </script>
 
 </body>

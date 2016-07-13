@@ -16,7 +16,7 @@
 			<div class="col-8 item">
 				<div class="inner">
 					<p class="mono mono-light">Collect &lsquo;em all.</p>
-					<h1 id="fittext" class="center"><span>Free Fonts</span></h1>
+					<h1 id="fittext" class="center">Free Fonts</h1>
 					<p class="mono mono-light">&therefore;</p>
 				</div>
 			</div>
@@ -84,7 +84,7 @@
 	<?php include('includes/footer.php'); ?>
 
 	<script type="text/javascript">
-		window.fitText(document.getElementById("fittext"), .52)
+		window.fitText(document.getElementById("fittext"), .65)
 	</script>
 
 

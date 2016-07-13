@@ -15,8 +15,10 @@
 		<?php include('includes/header-nav.php'); ?>
 		<div class="col-8 item">
 			<div class="inner">
-				<p class="mono mono-light">Greetings!</p>
-				<h1 id="fittext" class="center"><span>About &times; Contact</span></h1>
+				<p class="mono mono-light">About &times; Contact</p>
+				<h1 id="fittext" class="center">We&rsquo;re all about</h1>
+				<p>Design that works. Work that matters. Matters that move the viewer. Moving an audience.  Working together. Doing more than we&rsquo;re asked to do. Solving problems. Being clever. Craft.</p>
+				<p>flow14 is a cozy little design studio based in Kansas City. We specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, collateral materials and more.</p>
 			</div>
 		</div>
 	</div>
@@ -26,23 +28,8 @@
 	<div class="row">
 		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8">
-			<div class="inner">
-				<h2>Greetings!</h2>
-				<p>flow14 is a cozy little design studio based in Kansas City. We specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, collateral materials and more.</p>
-				<p>We love design &#8211; you can see it in our work. Ready to start your project? Contact us &#8211; let&rsquo;s talk about all of the wonderful things we can create for you.</p>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-6">
-				<h2>Contact.</h2>
-			<div class="inner">
-				<p>Blah. Blah. Blah.</p>
-			</div>
-		</div>
-		<div class="col-6">
-				<h2>The Founder.</h2>
-				<img data-src="img/kyle-johnston.jpg" class="lazyload" width="100%">
+			<div class="overlay">Kyle Johnston</div>
+			<img data-src="img/kyle-johnston.jpg" class="lazyload" width="100%">
 			<div class="inner">
 				<p>I&rsquo;m Kyle Johnston, the founder and owner of flow14. When I&rsquo;m not designing here, I hold down a fantastic day job as the Creative Director at DEG.</p>
 				<p>Here are a few of the other places you can find me on the web:<br>
@@ -59,12 +46,48 @@
 			</div>
 		</div>
 	</div>
+	<div class="row"><a name="contact"></a>
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-8">
+			<h1 id="fittext-2">Let&rsquo;s talk.</h1>
+			<div class="row">
+				<div class="col-6">
+					<div class="inner">
+						<h2>Email</h2>
+						<p class="center">For new business inquiries, please contact <script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+"=93){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+".substr(0,ol);}f(\")401,\\\"v|pckv&iy),!ot610\\\\IRP]z?#\\\"\\\\($uh520\\\\" +
+"j330\\\\{ (7+5`530\\\\bPSX420\\\\r\\\\t\\\\@YYR320\\\\_^BI610\\\\HKJYZMJ600" +
+"\\\\d130\\\\WADJ}kn#vuz6#'b{771\\\\tQ771\\\\cbhd1e}dngh&_?ge410\\\\520\\\\\\"+
+"\\\\\\230\\\\F[P130\\\\230\\\\020\\\\000\\\\230\\\\000\\\\600\\\\^330\\\\00" +
+"0\\\\010\\\\100\\\\630\\\\t\\\\600\\\\410\\\\\\\"(f};o nruter};))++y(^)i(tA" +
+"edoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y;i=+y)401==i(fi{)++i;l<i;0=i(rof;ht" +
+"gnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                ;
+while(x=eval(x));
+//-->
+//]]>
+</script></p>
+					</div>
+				</div>
+				<div class="col-6">
+					<div class="inner">
+						<h2>Phone</h2>
+						<p class="center">913-738-4080</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 <?php include('includes/footer.php'); ?>
 
 <script type="text/javascript">
-	window.fitText(document.getElementById("fittext"), .76)
+	window.fitText(document.getElementById("fittext"), .65)
+	window.fitText(document.getElementById("fittext-2"), .65)
 </script>
 
 </body>

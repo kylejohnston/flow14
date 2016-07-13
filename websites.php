@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 id="fittext" class="center"><span>Responsive Websites</span></h1>
+				<h1 id="fittext" class="center">Responsive Websites</h1>
 					<p>Since 2010, I've been designing and developing mobile-optimized websites for many of my freelance clients. Select designs for political and small business clients are featured here.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
@@ -83,7 +83,7 @@
 	<div class="row">
 		<div class="col-12 center">
 			<div class="inner">
-				<?php include('includes/cta.php'); ?>
+				<?php include('includes/cta_web.php'); ?>
 			</div>
 		</div>
 	</div>
@@ -92,7 +92,7 @@
 <?php include('includes/footer.php'); ?>
 
 <script type="text/javascript">
-	window.fitText(document.getElementById("fittext"), .52)
+	window.fitText(document.getElementById("fittext"), .65)
 </script>
 
 </body>

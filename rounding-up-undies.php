@@ -18,7 +18,7 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
-				<h1 id="fittext" class="center"><span>Rounding Up Undies</span></h1>
+				<h1 id="fittext" class="center">Rounding Up Undies</h1>
 				<p>Rounding Up Undies is a charity that provides hygiene kits to young women in Uganda and Mali. The team at Rounding Up Undies approached me about designing a logo that could be used for their hygiene kit packaging, promotional materials and social presence.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
@@ -107,7 +107,7 @@
 	<div class="row">
 		<div class="col-12 center">
 			<div class="inner">
-				<?php include('includes/cta.php'); ?>
+				<?php include('includes/cta_np.php'); ?>
 			</div>
 		</div>
 	</div>
@@ -116,8 +116,8 @@
 <?php include('includes/footer.php'); ?>
 
 <script type="text/javascript">
-	window.fitText(document.getElementById("fittext"), .52)
-	window.fitText(document.getElementById("fittexttwo"), .35)
+	window.fitText(document.getElementById("fittext"), .65)
+	window.fitText(document.getElementById("fittexttwo"), .3)
 </script>
 
 
