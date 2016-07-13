@@ -23,105 +23,105 @@
 <div class="container">
 	<div class="row">
 		<div class="col-6">
-			<a href="rounding-up-undies.php"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto"></a>
+			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="rounding-up-undies.php">Rounding Up Undies</a></h2>
+					<h2><a href="rounding-up-undies">Rounding Up Undies</a></h2>
 					<p>Distinctive logo design for a non-profit.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="rounding-up-undies.php" class="ghost-button">View the work »</a>
+					<a href="rounding-up-undies" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-6">
-			<a href="creative-outfitters.php"><img class="grad" src="img/samples/creative-outfitters/thumbnail.png" width="100%" height="auto"></a>
+			<a href="creative-outfitters"><img class="grad" src="img/samples/creative-outfitters/thumbnail.png" width="100%" height="auto"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="creative-outfitters.php">Creative Outfitters</a></h2>
+					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
 					<p>Logo design for a unique small business.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="creative-outfitters.php" class="ghost-button">View the work »</a>
+					<a href="creative-outfitters" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 	</div><!-- /row -->
 	<div class="row">
 		<div class="col-6">
-			<a href="lisa-for-kansas.php"><img class="gradrev" src="img/samples/lisa-for-kansas/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload"></a>
-			<a href="lisa-for-kansas.php"<img src="img/samples/lisa-for-kansas/thumbnail.2x.jpg" width="100%"></a>
+			<a href="lisa-for-kansas"><img class="gradrev" src="img/samples/lisa-for-kansas/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload"></a>
+			<a href="lisa-for-kansas"<img src="img/samples/lisa-for-kansas/thumbnail.2x.jpg" width="100%"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="lisa-for-kansas.php">Lisa for US Senate</a></h2>
+					<h2><a href="lisa-for-kansas">Lisa for US Senate</a></h2>
 					<p>Designing a campaign for US Senate.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="lisa-for-kansas.php" class="ghost-button">View the work »</a>
+					<a href="lisa-for-kansas" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-6">
-			<a href="kc-lisc.php"><img src="img/samples/kc-lisc/thumbnail.jpg" width="100%" height="auto" class="lazyload"></a>
+			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.jpg" width="100%" height="auto" class="lazyload"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="kc-lisc.php">KC Lisc</a></h2>
+					<h2><a href="kc-lisc">KC Lisc</a></h2>
 					<p>Interactive inforgraphics tell a better story.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="kc-lisc.php" class="ghost-button">View the work »</a>
+					<a href="kc-lisc" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 	</div><!-- /row -->
 	<div class="row">
 		<div class="col-6">
-			<a href="kansas-dems.php"><img src="img/samples/kansas-dems/thumbnail.jpg" width="100%" height="auto" class="lazyload"></a>
+			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.jpg" width="100%" height="auto" class="lazyload"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="kansas-dems.php">Kansas Dems</a></h2>
+					<h2><a href="kansas-dems">Kansas Dems</a></h2>
 					<p>Rebranding a political party.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="kansas-dems.php" class="ghost-button">View the work »</a>
+					<a href="kansas-dems" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-6">
-			<a href="websites.php"><img class="grad" src="img/samples/websites/thumbnail.png" width="100%" height="auto" class="lazyload"></a>
+			<a href="websites"><img class="grad" src="img/samples/websites/thumbnail.png" width="100%" height="auto" class="lazyload"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="websites.php">Responsive Websites</a></h2>
+					<h2><a href="websites">Responsive Websites</a></h2>
 					<p>Mobile-friendly website designs.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="websites.php" class="ghost-button">View the work »</a>
+					<a href="websites" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 	</div><!-- /row -->
 	<div class="row">
 		<div class="col-6">
-			<a href="lisa-for-kansas-senate.php"><img class="gradrev" src="img/samples/lisa-for-kansas-senate/thumbnail.2x.png" width="100%" height="auto" class="lazyload"></a>
+			<a href="lisa-for-kansas-senate"><img class="gradrev" src="img/samples/lisa-for-kansas-senate/thumbnail.2x.png" width="100%" height="auto" class="lazyload"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="lisa-for-kansas-senate.php">Lisa for Kansas Senate</a></h2>
+					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
 					<p>Designing a campaign for Kansas Senate.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="lisa-for-kansas-senate.php" class="ghost-button">View the work »</a>
+					<a href="lisa-for-kansas-senate" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-6">
-			<a href="harmony-hearing-aids.php"><img class="gradrev" src="img/samples/harmony/thumbnail.png" width="100%" height="auto" class="lazyload"></a>
+			<a href="harmony-hearing-aids"><img class="gradrev" src="img/samples/harmony/thumbnail.png" width="100%" height="auto" class="lazyload"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="harmony-hearing-aids.php">Harmony</a></h2>
+					<h2><a href="harmony-hearing-aids">Harmony</a></h2>
 					<p>Distinctive logo design for a small business.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="harmony-hearing-aids.php" class="ghost-button">View the work »</a>
+					<a href="harmony-hearing-aids" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
@@ -141,26 +141,26 @@
 			</div>
 		</div>
 		<div class="col-4">
-			<a href="iphone-365-project.php"><img src="img/samples/365.jpg" width="100%" height="auto" class="lazyload"></a>
+			<a href="iphone-365-project"><img src="img/samples/365.jpg" width="100%" height="auto" class="lazyload"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="iphone-365-project.php">365 Project</a></h2>
+					<h2><a href="iphone-365-project">365 Project</a></h2>
 					<p>A photo a day, every day, since 2009.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="iphone-365-project.php" class="ghost-button">Watch the videos »</a>
+					<a href="iphone-365-project" class="ghost-button">Watch the videos »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-4">
-			<a href="fonts.php"><img src="img/fonts/thumbnail.jpg" width="100%" height="auto" class="lazyload"></a>
+			<a href="fonts"><img src="img/fonts/thumbnail.jpg" width="100%" height="auto" class="lazyload"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="fonts.php">Fonts</a></h2>
+					<h2><a href="fonts">Fonts</a></h2>
 					<p>A selection of custom fonts I&rsquo;ve made &#8212; free to download.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="fonts.php" class="ghost-button">View the fonts »</a>
+					<a href="fonts" class="ghost-button">View the fonts »</a>
 				</div>
 			</div>
 		</div>
