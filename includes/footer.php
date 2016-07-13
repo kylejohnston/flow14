@@ -34,3 +34,17 @@
 </footer>
 
 <script src="js/flow14.min.js"></script>
+<!-- statcounter analytics -->
+<script type="text/javascript">
+	var sc_project=651567; 
+	var sc_invisible=1; 
+	var sc_security="59987d53"; 
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="statistics for
+vBulletin" href="http://statcounter.com/vbulletin/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/651567/0/59987d53/1/"
+alt="statistics for vBulletin"></a></div></noscript>
+
