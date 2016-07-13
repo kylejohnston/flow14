@@ -3,7 +3,7 @@
 *** (C) ZACH COLE 2016
 **/
 
-@import url("http://overpass-30e2.kxcdn.com/overpass.css");
+@import url(http://overpass-30e2.kxcdn.com/overpass.css);
 @import url(https://fonts.googleapis.com/css?family=Passion+One:700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
 
@@ -17,7 +17,10 @@
 * ORANGE: #FE8D1D;
 */
 
-/* UNIVERSAL */
+/*----------------------------*\
+  #UNIVERSAL
+\*----------------------------*/
+
 html,
 body {
   /*height: 100%;*/
@@ -33,7 +36,11 @@ body {
 }
 
 body { background-image: linear-gradient(#FEC931, #FE8D1D); }
-body.cool { background-color: #1FBAC3; background-image: linear-gradient(#1FBAC3, #D7C115); }
+body.cool { 
+  background-color: #1FBAC3;
+  background-image:
+  linear-gradient(#1FBAC3, #D7C115);
+}
   body.cool h1 span,
   body.cool h2 span { color: #1FBAC3; }
   body.cool footer,
@@ -43,7 +50,57 @@ img { margin:-.22em 0; }
 a:link,a:visited { color: #0E584D; }
 a:hover,a:active { text-decoration: none; }
 
-/* TYPOGRAPHY */
+a.ghost-button:link,
+a.ghost-button:visited {
+  border-radius: 2px;
+  border: 1px solid rgba(14, 88, 77, .8);
+  color: #0E584D;
+  font-weight: bold;
+  margin: .4em;
+  padding: .5em .8em .4em .8em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+a.ghost-button:hover,
+a.ghost-button:active {
+  background-color: #0E584D;
+  border-color: #0E584D;
+  color: #fff;
+}
+
+nav a:link,
+nav a:visited {
+  font-size: .75em;
+  display: block;
+  white-space: nowrap;
+  margin: .4em;
+  padding: .4em .2em;
+  border: 1px solid rgba(14, 88, 77, .8);
+  color: #0E584D;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 2px;
+}
+nav a:hover,
+nav a:active {
+  background-color: #0E584D;
+  border-color: #0E584D;
+  color: #fff;
+}
+
+.left { text-align: left; }
+.right { text-align: right; }
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/*----------------------------*\
+  #TYPOGRAPHY
+\*----------------------------*/
+
 h1 {
   font-size: 2.8rem;
   text-transform: uppercase;
@@ -58,7 +115,7 @@ header h1.logo a {
   display: block;
   width: 266px;
   height: 86px;
-  background: url(../img/flow14-logo.svg);
+  background: url(http://www.flow14.com/beta/img/flow14-logo.svg);
   background-size: 266px 86px;
   text-indent: -9999px;
 }
@@ -101,6 +158,7 @@ p {
   line-height: 1.8;
   font-weight: 400;
   font-family: 'Overpass', sans-serif;
+  margin-bottom: 1.5em;
 }
 .mono { font-family: 'Roboto Mono', sans-serif; }
 p.mono {
@@ -111,16 +169,10 @@ p.mono {
 }
 p.mono-light { color: #fff; }
 
-/* POSITIONING */
-.left { text-align: left; }
-.right { text-align: right; }
-.center {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
+/*----------------------------*\
+  #GRID
+\*----------------------------*/
 
-/* GRID */
 .container {
   width: 100%;
   margin-left: auto;
@@ -176,11 +228,17 @@ p.mono-light { color: #fff; }
 	clear: both;
 }
 
-.hidden-sm {
-  display: none;
-}
+.hidden-sm { display: none; }
+.hidden-lg { display: none; }
 
-/* HEADER × NAV */
+/*--------------------------------------------------------*\
+  #PAGE STRUCTURE
+\*--------------------------------------------------------*/
+
+/*----------------------------*\
+  #HEADER × NAV
+\*----------------------------*/
+
 nav { padding: 0 .8em .8em; }
 nav a:link,
 nav a:visited {
@@ -188,21 +246,25 @@ nav a:visited {
   white-space: nowrap;
   margin: .4em;
   padding: .4em .2em;
-  border: 1px solid rgba(52,52,52,.8);
-  color: #343434;
+  border: 1px solid rgba(14, 88, 77, .8);
+  color: #0E584D;
   text-transform: uppercase;
   text-decoration: none;
   border-radius: 2px;
 }
 nav a:hover,
 nav a:active {
-  background-color: #fff;
-  border-color: #fff;
+  background-color: #0E584D;
+  border-color: #0E584D;
+  color: #fff;
 }
 .shade { background-color: rgba(52,52,52,.05); }
 .shade a { color: #343434; margin: .45em; white-space: nowrap; }
 
-/* BODY */
+/*----------------------------*\
+  #BODY
+\*----------------------------*/
+
 .overlay {
   margin: .4em .4em .2em 0;
   padding: .4em;
@@ -234,8 +296,47 @@ nav a:active {
   margin:0;
   padding: 1em 2em;
 }
+    .sample {
+      display: flex;
+      flex-flow: row wrap;
+      padding: .5em 1em 2.5em 1em;
+      justify-content: space-between;
+    }
+    .sample img {
+      margin: 0;
+      padding: 0;
+    }
+    .sample-desc h2,
+    .sample-desc p {
+      margin: .15em 0;
+      text-align: left;
+    }
+      .sample-desc h2 a:link,
+      .sample-desc h2 a:visited { text-decoration: none; }
+      .sample-desc h2 a:hover,
+      .sample-desc h2 a:active { text-decoration: underline; }
 
-/* FOOTER */
+    .sample-cta {
+      align-self: center;
+      margin-left: -.4em;
+      padding: 1em 1em 1em 0;
+    }
+    .sample-cta a {
+      margin: .4em;
+      padding: .4em .8em;
+      border: 1px solid rgba(14, 88, 77, .8);
+      color: #0E584D;
+      text-transform: uppercase;
+      text-decoration: none;
+      border-radius: 2px;
+     }
+     .grad { background-image: linear-gradient(#FE8D1D, #FEC931); }
+     .gradrev { background-image: linear-gradient(#FEC931, #FE8D1D); }
+
+
+/*----------------------------*\
+  #FOOTER
+\*----------------------------*/
 
 footer {
   margin-top: 2em;
@@ -255,6 +356,10 @@ footer a:hover, footer a:active  { text-decoration: none; }
 .ft-c-3 { background-color: #D7C115; }
 .ft-c-4 { background-color: #FE8D1D; }
 
+/*----------------------------*\
+  #RESPONSIVE STYLES
+\*----------------------------*/
+
 @media only screen and (max-width: 45em) {
   .push-1,.push-2,.push-3,.push-4,.push-5,.push-6 { margin-left: 0; }
   .inner { padding: 1em; }
@@ -263,6 +368,17 @@ footer a:hover, footer a:active  { text-decoration: none; }
   .item-one { order: 2; }
   .item-two { order: 1; }
   .item-three { order: 3; }
+  .grid-item { height: auto !important; }
+  .grid-item-h { height: 200px !important; }
+  .sample {
+    justify-content: center;
+    padding-bottom: 1em;
+  }
+    .sample-desc h2, .sample-desc p { text-align: center; }
+    .sample-desc h2 { font-size: 2.6rem; }
+    .sample-cta { padding: 1em .5em 2em; }
+  .hidden-lg { display: block; }
+
 }
 @media only screen and (max-width: 60em) {
  .scale,.scale1_2,.scale1_3,.scale1_4 { transform: scale(1); }
@@ -291,8 +407,26 @@ footer a:hover, footer a:active  { text-decoration: none; }
   .col-11 { width: 91.66%; }
   .col-12 { width: 100%; }
   .hidden-sm { display: block; }
+  .hidden-lg { display: none; }
   .container {
     width: 100%;
     max-width: 90rem;
   }
 }
+
+@media only screen and (max-width: 80em) { /* 1280px */
+  header h1.logo a {
+    /*margin: .2em auto 0 auto;*/
+    /*padding: 0;*/
+    /*display: block;*/
+    width: 190px;
+    height: 61px;
+    /*background: url(http://www.flow14.com/beta/img/flow14-logo.svg);*/
+    background-size: 190px 61px;
+    /*text-indent: -9999px;*/
+  }
+  /*nav a:link { font-size: .75em; }*/
+
+
+}
+
