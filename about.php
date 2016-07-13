@@ -16,8 +16,11 @@
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">About &times; Contact</p>
-				<h1 id="fittext" class="center">We&rsquo;re all about</h1>
-				<p>Design that works. Work that matters. Matters that move the viewer. Moving an audience.  Working together. Doing more than we&rsquo;re asked to do. Solving problems. Being clever. Craft.</p>
+				<h1 id="fittext" class="center">Hello!</h1>
+				<!-- <h1 id="fittext" class="center">We&rsquo;re all about&hellip;</h1> -->
+				<!-- <p>Design that works. Work that matters. Matters that make a difference. 
+
+				Seeing the big picture. Realizing your potential. Working together. Doing more than we&rsquo;re asked to do. Solving problems. Being clever. Craft.</p> -->
 				<p>flow14 is a cozy little design studio based in Kansas City. We specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, collateral materials and more.</p>
 			</div>
 		</div>
