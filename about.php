@@ -2,40 +2,96 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>About flow14 - Design Works.</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Learn more about flow14, a design studio that specializes in helping small businesses, non-profits, and political groups with logo design, website design and more">
-	<meta name="author" content="Kyle Johnston">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>About &times; Contact flow14 - Design Works.</title>
+	<meta name="description" content="A graphic design studio that specializes in helping small businesses, non-profits, and political groups with logo design, website design and more.">
+	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
-	<?php include('includes/header-nav.php'); ?>
-	<div class="container items">
-		<div class="row">
-			<div class="span7">
-				<h1>Greetings!</h1>
-				<p><span itemprop="name"><strong>flow14</strong></span> is a cozy little design studio based in <span itemprop="addressLocality">Kansas City</span>. We specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, collateral materials and more.</p>
-				<p>We love design – you can see it in <a href="/#work" title="flow14 - work samples">our work</a>. Ready to start your project? <a href="/contact" title="Contact flow14">Contact us</a> &#8211; let&rsquo;s talk about all of the wonderful things we can create for you.</p>
-				<h2>The Founder.</h2>
-				<img style="float:right; margin:0 0 0 1em;" src="img/headshot.png" class="img-circle" alt="">
-				<p>I'm <strong>Kyle Johnston</strong>, the founder and owner of <span itemprop="name">flow14</span>. When I’m not designing here, I hold down a fantastic day job as the Creative Director at Garmin.</p>
+<body class="cool">
+<div class="container">
+	<div class="row">
+		<?php include('includes/header-nav.php'); ?>
+		<div class="col-8 item">
+			<div class="inner">
+				<p class="mono mono-light">About &times; Contact</p>
+				<h1 id="fittext" class="center">Hello!</h1>
+				<!-- <h1 id="fittext" class="center">We&rsquo;re all about&hellip;</h1> -->
+				<!-- <p>Design that works. Work that matters. Matters that make a difference. 
+
+				Seeing the big picture. Realizing your potential. Working together. Doing more than we&rsquo;re asked to do. Solving problems. Being clever. Craft.</p> -->
+				<p>flow14 is a cozy little design studio based in Kansas City. We specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, collateral materials and more.</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container item">
+	<div class="row">
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-8">
+			<div class="overlay">Kyle Johnston</div>
+			<img data-src="img/kyle-johnston.jpg" class="lazyload" width="100%">
+			<div class="inner">
+				<p>I&rsquo;m Kyle Johnston, the founder and owner of flow14. When I&rsquo;m not designing here, I hold down a fantastic day job as the Creative Director at DEG.</p>
 				<p>Here are a few of the other places you can find me on the web:<br>
-					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a><br>
-					<a class="twitter" href="https://twitter.com/creativecohort">Twitter</a><br>
-					<a class="instagram" href="https://instagram.com/kylejohnston/">Instagram</a><br>
-					<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a><br>
-					<a class="github" href="https://github.com/kylejohnston">GitHub</a><br>
-					<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a><br>
-					<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a><br>
-					<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a><br>
-					<a class="vimeo" href="http://vimeo.com/flow14">Vimeo</a><br>
+					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a>, 
+					<a class="twitter" href="https://twitter.com/creativecohort">Twitter</a>, 
+					<a class="instagram" href="https://instagram.com/kylejohnston/">Instagram</a>, 
+					<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a>, 
+					<a class="github" href="https://github.com/kylejohnston">GitHub</a>, 
+					<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a>, 
+					<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a>, 
+					<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a>, 
+					<a class="vimeo" href="http://vimeo.com/flow14">Vimeo</a>
 				</p>
 			</div>
 		</div>
 	</div>
-	<div class="container marketing">
-		<?php include('includes/footer.php'); ?>
+	<div class="row"><a name="contact"></a>
+		<div class="col-2 hidden-sm">&#160;</div>
+		<div class="col-8">
+			<h1 id="fittext-2">Let&rsquo;s talk.</h1>
+			<div class="row">
+				<div class="col-6">
+					<div class="inner">
+						<h2>Email</h2>
+						<p class="center">For new business inquiries, please contact <script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+"=93){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+".substr(0,ol);}f(\")401,\\\"v|pckv&iy),!ot610\\\\IRP]z?#\\\"\\\\($uh520\\\\" +
+"j330\\\\{ (7+5`530\\\\bPSX420\\\\r\\\\t\\\\@YYR320\\\\_^BI610\\\\HKJYZMJ600" +
+"\\\\d130\\\\WADJ}kn#vuz6#'b{771\\\\tQ771\\\\cbhd1e}dngh&_?ge410\\\\520\\\\\\"+
+"\\\\\\230\\\\F[P130\\\\230\\\\020\\\\000\\\\230\\\\000\\\\600\\\\^330\\\\00" +
+"0\\\\010\\\\100\\\\630\\\\t\\\\600\\\\410\\\\\\\"(f};o nruter};))++y(^)i(tA" +
+"edoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y;i=+y)401==i(fi{)++i;l<i;0=i(rof;ht" +
+"gnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                ;
+while(x=eval(x));
+//-->
+//]]>
+</script></p>
+					</div>
+				</div>
+				<div class="col-6">
+					<div class="inner">
+						<h2>Phone</h2>
+						<p class="center">913-738-4080</p>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
-	<?php include('includes/foot.php'); ?>
+</div>
+
+<?php include('includes/footer.php'); ?>
+
+<script type="text/javascript">
+	window.fitText(document.getElementById("fittext"), .65)
+	window.fitText(document.getElementById("fittext-2"), .65)
+</script>
+
 </body>
 </html>
