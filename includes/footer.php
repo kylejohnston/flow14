@@ -18,7 +18,6 @@
 					<h2>Other Projects</h2>
 					<p>
 					<a href="http://blog.flow14.com">Blog (Archive)</a><br>
-					<a href="http://www.singletopicblogofsingletopicblogs.com/">SingleTopicBlogOfSingleTopicBlogs.com</a><br>
 					<a href="http://www.flow14.com/iphone-365-project">365 Project</a><br>
 					</p>
 				</div>
