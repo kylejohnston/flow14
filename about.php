@@ -21,7 +21,7 @@
 				<!-- <p>Design that works. Work that matters. Matters that make a difference. 
 
 				Seeing the big picture. Realizing your potential. Working together. Doing more than we&rsquo;re asked to do. Solving problems. Being clever. Craft.</p> -->
-				<p>flow14 is a cozy little design studio based in Kansas City. We specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, collateral materials and more.</p>
+				<p>flow14 is a cozy little design studio based in Kansas City, founded and owned by Kyle Johnston. I specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, collateral materials and more.</p>
 			</div>
 		</div>
 	</div>
@@ -34,8 +34,7 @@
 			<div class="overlay">Kyle Johnston</div>
 			<img data-src="img/kyle-johnston.jpg" class="lazyload" width="100%">
 			<div class="inner">
-				<p>I&rsquo;m Kyle Johnston, the founder and owner of flow14. When I&rsquo;m not designing here, I hold down a fantastic day job as the Creative Director at DEG.</p>
-				<p>Here are a few of the other places you can find me on the web:<br>
+				<p>Here are a few of the other places you can find me online:<br>
 					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a>, 
 					<a class="twitter" href="https://twitter.com/creativecohort">Twitter</a>, 
 					<a class="instagram" href="https://instagram.com/kylejohnston/">Instagram</a>, 
