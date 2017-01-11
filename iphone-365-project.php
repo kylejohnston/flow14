@@ -26,6 +26,24 @@
 </div>
 <div class="container item">
 	<div class="row">
+		<div class="col-7 video">
+			<iframe width="600" height="338" src="https://www.youtube.com/embed/GB4q3pn4D1Y?rel=0" frameborder="0" allowfullscreen></iframe>
+		</div>
+		<div class="col-5">
+			<div class="inner">
+				<h2>365 Project - 2016</h2>
+				<p class="mono">Production Notes:</p>
+				<p><strong>Cameras:</strong> iPhone 6s, Panasonic Lumix GX8<br>
+				<strong>Apps - Shooting:</strong> Camera (default), <a href="https://itunes.apple.com/us/app/id357404131">SlowShutter</a> (long exposures)<br>
+				<strong>Apps - Editing:</strong> VSCOcam, SKRWT, Blender, Motion Stills, Prisma, Snapseed, Splice, Spark, Bent, Lens Distortions<br>
+				<strong>365 Video:</strong> Downloaded photos and videos from my <a href="https://www.flickr.com/photos/flow14/albums/72157663020001122">365 Flickr album</a> then compiled and edited the video with Adobe Premiere.<br>
+				<strong>Music:</strong> <em>The Rest Is Noise</em> by Jamie XX</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container item">
+	<div class="row">
 		<div class="col-5">
 			<div class="inner">
 				<h2>365 Project - 2015</h2>
