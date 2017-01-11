@@ -141,7 +141,7 @@
 			</div>
 		</div>
 		<div class="col-4">
-			<a href="iphone-365-project"><img src="img/samples/365.jpg" width="100%" height="auto" class="lazyload" alt="365 project"></a>
+			<a href="iphone-365-project"><img src="img/samples/365-2016.jpg" width="100%" height="auto" class="lazyload" alt="365 project"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="iphone-365-project">365 Project</a></h2>
