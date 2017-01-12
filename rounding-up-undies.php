@@ -5,8 +5,9 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Rounding Up Undies | flow14 design works.</title>
-	<meta name="description" content="Logo design developed for Rounding Up Undies, a charity that provides hygiene kits to young women in Uganda and Mali.">
-	<meta name="geo.placename" content="Kansas City">
+	<meta name="description" content="Logo design developed for Rounding Up Undies, a charity that provides hygiene kits to young women in Uganda and Mali." />
+	<meta name="geo.placename" content="Kansas City" />
+	<link rel="canonical" href="http://www.flow14.com/rounding-up-undies" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

@@ -5,8 +5,9 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Lisa Johnston for U.S. Senate |  Logo Design, Printed Materials, Printed Ads, Web Presence, TV Ads | flow14</title>
-	<meta name="description" content="Logo design and campaign materials developed for Lisa Johnston, the 2010 Democratic nominee for US Senate.">
-	<meta name="geo.placename" content="Kansas City">
+	<meta name="description" content="Logo design and campaign materials developed for Lisa Johnston, the 2010 Democratic nominee for US Senate." />
+	<meta name="geo.placename" content="Kansas City" />
+	<link rel="canonical" href="http://www.flow14.com/lisa-for-kansas" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

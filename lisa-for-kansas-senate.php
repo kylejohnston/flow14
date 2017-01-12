@@ -5,8 +5,9 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Lisa for Kansas Senate | Logo Design, Printed Materials, Web Presence | flow14</title>
-	<meta name="description" content="Logo design and campaign materials developed for Lisa Johnston, a candidate for Kansas Senate.">
-	<meta name="geo.placename" content="Kansas City">
+	<meta name="description" content="Logo design and campaign materials developed for Lisa Johnston, a candidate for Kansas Senate." />
+	<meta name="geo.placename" content="Kansas City" />
+	<link rel="canonical" href="http://www.flow14.com/lisa-for-kansas-senate" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

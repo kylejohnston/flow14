@@ -5,8 +5,9 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Creative Outfitters | Logo Design, Business Cards, Website | flow14</title>
-	<meta name="description" content="Logo design and business card design developed for Creative Outfitters, a small business based in Kansas.">
-	<meta name="geo.placename" content="Kansas City">
+	<meta name="description" content="Logo design and business card design developed for Creative Outfitters, a small business based in Kansas." />
+	<meta name="geo.placename" content="Kansas City" />
+	<link rel="canonical" href="http://www.flow14.com/creative-outfitters" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>
