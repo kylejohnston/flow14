@@ -7,7 +7,8 @@
 	<title>Work Sample: Harmony Hearing Aids | Logo Design, Collateral Materials | flow14</title>
 	<meta name="description" content="Logo design and collateral design developed for Harmony Hearing Aids, a small business based in Kansas." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/harmony-hearing-aids" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/harmony-hearing-aids" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

@@ -7,7 +7,8 @@
 	<title>Rounding Up Undies | flow14 design works.</title>
 	<meta name="description" content="Logo design developed for Rounding Up Undies, a charity that provides hygiene kits to young women in Uganda and Mali." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/rounding-up-undies" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/rounding-up-undies" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

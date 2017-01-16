@@ -7,7 +7,8 @@
 	<title>About &times; Contact flow14 - Design Works.</title>
 	<meta name="description" content="A graphic design studio that specializes in helping small businesses, non-profits, and political groups with logo design, website design and more." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/about" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/about" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="cool">

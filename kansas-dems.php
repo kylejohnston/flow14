@@ -7,7 +7,8 @@
 	<title>Work Sample: Kansas Dems | Logo Design, Directory Design | flow14</title>
 	<meta name="description" content="Logo design and directory design developed for the Kansas Democratic Party." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/kansas-dems" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/kansas-dems" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

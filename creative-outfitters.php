@@ -7,7 +7,8 @@
 	<title>Work Sample: Creative Outfitters | Logo Design, Business Cards, Website | flow14</title>
 	<meta name="description" content="Logo design and business card design developed for Creative Outfitters, a small business based in Kansas." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/creative-outfitters" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/creative-outfitters" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

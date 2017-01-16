@@ -7,7 +7,8 @@
 	<title>iPhone 365 Project | flow14 design works.</title>
 	<meta name="description" content="The iPhone 365 project, taking a photo a day, every day, since 2009." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/iphone-365-project" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/iphone-365-project" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="cool">

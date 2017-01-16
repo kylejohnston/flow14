@@ -7,7 +7,8 @@
 	<title>flow14 - Design Works | A Kansas City Design Studio</title>
 	<meta name="description" content="flow14 is a design studio based in Kansas City. We deliver thoughtful designs for small businesses, non-profits, and political groups." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

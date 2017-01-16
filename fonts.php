@@ -7,7 +7,8 @@
 	<title>+ fonts + for free + for show | flow14 design works.</title>
 	<meta name="description" content="A selection of free fonts I've designed." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/fonts" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/fonts" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="cool">

@@ -7,7 +7,8 @@
 	<title>Work Sample: Kansas City LISC | Infographic &times; Data Visualization | flow14</title>
 	<meta name="description" content="Interactivce infographics designed and developed for Kansas City LISC, a local non-profit." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/kc-lisc" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/kc-lisc" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

@@ -7,7 +7,8 @@
 	<title>Work Sample: Lisa for Kansas Senate | Logo Design, Printed Materials, Web Presence | flow14</title>
 	<meta name="description" content="Logo design and campaign materials developed for Lisa Johnston, a candidate for Kansas Senate." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/lisa-for-kansas-senate" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/lisa-for-kansas-senate" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>

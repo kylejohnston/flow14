@@ -7,7 +7,8 @@
 	<title>Work Sample: Responsive Websites | flow14</title>
 	<meta name="description" content="Examples of responsive, mobile-friendly websites we've designed and developed for various small businesses and political groups." />
 	<meta name="geo.placename" content="Kansas City" />
-	<link rel="canonical" href="http://www.flow14.com/websites" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/websites" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
 <body>
