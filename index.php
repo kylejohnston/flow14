@@ -17,12 +17,23 @@
 		<?php include('includes/header-nav.php'); ?>
 		<div class="col-10">
 			<p class="hidden-lg mono mono-light">&because;</p>
-			<h1 id="fittext" style="margin:.17em 0;">design works.</h1>
+			<h2 id="fittext" class="center" style="color: #FE8D1D; margin:.05em 0 .17em 0;">design works.</h2>
 			<p class="hidden-lg mono mono-light">&therefore;</p>
 		</div>
 	</div>
 </div>
 <div class="container">
+	<div class="row">
+		<div class="col-1">&#160;</div>
+		<div class="col-10">
+			<h1 class="center" style="margin:.1em 0 .5em 0;"><div class="inner">Kansas City branding and web design studio focused on making design work for small business and non-profits.</h1>
+		</div>
+		<div class="col-1">&#160;</div>
+	</div>
+</div>
+<div class="container">
+			<div class="inner center"><h2>&times; work samples &times;</h2></div>
+
 	<div class="row">
 		<div class="col-6">
 			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design"></a>
