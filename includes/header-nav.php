@@ -1,4 +1,4 @@
-		<header class="col-2 center shade">
+		<header class="col-2 center">
 			<h1 class="logo"><a href="/">flow14</a></h1>
 			<nav>
 				<a href="/">Design Works &#187;</a>
