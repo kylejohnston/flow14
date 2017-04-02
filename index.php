@@ -11,7 +11,7 @@
 	<link href="http://www.flow14.com/" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
+<body class="warm-flow">
 <div class="container">
 	<div class="row">
 		<?php include('includes/header-nav.php'); ?>
