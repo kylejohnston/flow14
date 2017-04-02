@@ -9,6 +9,13 @@
 @font-face { src: url("http://overpass-30e2.kxcdn.com/Overpass-ExtraLight-Italic.eot"); font-family: 'Overpass'; /* IE9 Compat Modes */ src: url("http://overpass-30e2.kxcdn.com/Overpass-ExtraLight-Italic.eot?#iefix") format("embedded-opentype"), url("http://overpass-30e2.kxcdn.com/Overpass-ExtraLight-Italic.woff") format("woff"), url("http://overpass-30e2.kxcdn.com/Overpass-ExtraLight-Italic.ttf") format("truetype"), url("http://overpass-30e2.kxcdn.com/Overpass-ExtraLight-Italic.svg#Overpass-ExtraLightItalic") format("svg"); /* Legacy iOS */ font-style: italic; font-weight: 200; text-rendering: optimizeLegibility;}
 @font-face {font-family: 'Passion One';font-style: normal;font-weight: 700;src: local('Passion One Bold'), local('PassionOne-Bold'), url(https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2hbnBKKEOwRKgsHDreGcocg.woff) format('woff');}
 @font-face {font-family: 'Roboto Mono';font-style: normal;font-weight: 400;src: local('Roboto Mono'), local('RobotoMono-Regular'), url(https://fonts.gstatic.com/s/robotomono/v4/hMqPNLsu_dywMa4C_DEpY7rIa-7acMAeDBVuclsi6Gc.woff) format('woff');}
+/* Animation via animista.net */
+@-webkit-keyframes warm-flow{0%{background:#FEC931}100%{background:#FE8D1D}}@keyframes warm-flow{0%{background:#FEC931}100%{background:#FE8D1D}}
+@-webkit-keyframes cool-flow{0%{background:#1FBAC3}100%{background:#D7C115}}@keyframes cool-flow{0%{background:#1FBAC3}100%{background:#D7C115}}
+html,
+body{width:100%;margin:0;padding:0;left:0;top:0;font-size:100%;font-family:'Overpass', Helvetica, sans-serif;color:#343434;background-color:#FEC931;}
+.warm-flow {-webkit-animation:warm-flow 7s infinite alternate both; -moz-animation:warm-flow 7s infinite alternate both; animation:warm-flow 7s infinite alternate both;}
+.cool-flow {-webkit-animation:cool-flow 7s infinite alternate both; -moz-animation:cool-flow 7s infinite alternate both; animation:cool-flow 7s infinite alternate both;}
 html,
 body{width:100%;margin:0;padding:0;left:0;top:0;font-size:100%;font-family:'Overpass', Helvetica, sans-serif;color:#343434;background-color:#FEC931;}
 body{background-image:linear-gradient(#FEC931, #FE8D1D);}
