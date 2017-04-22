@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.flow14.com/wordpress/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/2.7.1" --><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.1.2" --><!-- generated-on="Mar 5, 09 6:09 pm" --><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.flow14.com/wordpress/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?>
+<!-- generator="wordpress/2.7.1" -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://www.flow14.com/</loc>
-		<lastmod>2013-03-05T02:09:04+00:00</lastmod>
+		<lastmod>2017-04-22</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -19,11 +22,6 @@
 		<loc>http://www.flow14.com/fonts</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://www.flow14.com/jocart</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.7</priority>
 	</url>
 	<url>
 		<loc>http://www.flow14.com/lisa-for-kansas</loc>
@@ -46,11 +44,6 @@
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/ibgreek</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.7</priority>
-	</url>
-	<url>
 		<loc>http://www.flow14.com/harmony-hearing-aids</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
@@ -61,12 +54,22 @@
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/animal-haven</loc>
+		<loc>http://www.flow14.com/rounding-up-undies</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/96kx</loc>
+		<loc>http://www.flow14.com/kc-lisc</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>http://www.flow14.com/websites</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>http://www.flow14.com/logos</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
