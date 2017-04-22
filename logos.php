@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Work Sample: Logo Design | flow14</title>
+	<title>Logo Design for Small  | flow14</title>
 	<meta name="description" content="Logo designs for small businesses, non-profits, and political groups" />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
@@ -72,11 +72,18 @@
 	</div><!-- /row -->
 	<div class="row">
 		<div class="col-3">&#160;</div>
-		<div class="col-6">
+		<div class="col-6 center">
 			<img src="img/samples/logos/1440x810/sapphirewire-2x.png" width="100%" height="auto" alt="SapphireWire logo">
-			<div class="inner center">
-				<p>&#160;</p>
-			</div>
+		</div>
+		<div class="col-3">&#160;</div>
+	</div><!-- /row -->
+
+	<div class="row">
+		<div class="col-3">&#160;</div>
+		<div class="col-6">
+		<h2>client testimonial</h2>
+			<p class="inner">&ldquo;My logo design was everything I wanted! Kyle was very easy to work with and responded very quickly. The end result was perfect and he sent every format imaginable over to make it easy to use in any application. I would definitely recommend him. I would be very happy to use him again for any design projects.&rdquo;<br><em>&mdash;Chase Rhinehart, Rhinehart Excavating</em></p>
+			<p>&#160;</p>
 		</div>
 		<div class="col-3">&#160;</div>
 	</div><!-- /row -->
@@ -150,7 +157,16 @@
 		</div>
 		<div class="col-3">&#160;</div>
 	</div><!-- /row -->
+</div>
 
+<div class="container">
+	<div class="row">
+		<div class="col-12 center">
+			<div class="inner">
+				<?php include('includes/cta_logo.php'); ?>
+			</div>
+		</div>
+	</div>
 </div>
 
 <?php include('includes/footer.php'); ?>
