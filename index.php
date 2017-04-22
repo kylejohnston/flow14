@@ -32,9 +32,40 @@
 	</div>
 </div>
 <div class="container">
-			<div class="inner center"><h2>&times; work samples &times;</h2></div>
-
+<!-- small businesses -->
+	<div class="inner center"><h2>&times; work samples: small business &times;</h2></div>
 	<div class="row">
+<!-- creative outfitters -->
+		<div class="col-6">
+			<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumbnail.png" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
+			<div class="sample">
+				<div class="sample-desc">
+					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
+					<p>Logo design for a unique small business.</p>
+				</div>
+				<div class="sample-cta">
+					<a href="creative-outfitters" class="ghost-button">View the work »</a>
+				</div>
+			</div>
+		</div>
+<!-- harmony hearing aids -->
+		<div class="col-6">
+			<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumbnail.png" width="100%" height="auto" class="lazyload" alt="Harmony Hearing Aids logo design"></a>
+			<div class="sample">
+				<div class="sample-desc">
+					<h2><a href="harmony-hearing-aids">Harmony</a></h2>
+					<p>Distinctive logo design for a small business.</p>
+				</div>
+				<div class="sample-cta">
+					<a href="harmony-hearing-aids" class="ghost-button">View the work »</a>
+				</div>
+			</div>
+		</div>
+	</div><!-- /row -->
+<!-- non profits -->
+	<div class="inner center"><h2>&times; work samples: non-profits &times;</h2></div>
+	<div class="row">
+<!-- rounding up undies -->
 		<div class="col-6">
 			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design"></a>
 			<div class="sample">
@@ -47,33 +78,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-6">
-			<a href="creative-outfitters"><img class="grad" src="img/samples/creative-outfitters/thumbnail.png" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
-			<div class="sample">
-				<div class="sample-desc">
-					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
-					<p>Logo design for a unique small business.</p>
-				</div>
-				<div class="sample-cta">
-					<a href="creative-outfitters" class="ghost-button">View the work »</a>
-				</div>
-			</div>
-		</div>
-	</div><!-- /row -->
-	<div class="row">
-		<div class="col-6">
-			<a href="lisa-for-kansas"><img class="gradrev" src="img/samples/lisa-for-kansas/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for US Senate design system"></a>
-			<a href="lisa-for-kansas"<img src="img/samples/lisa-for-kansas/thumbnail.2x.jpg" width="100%"></a>
-			<div class="sample">
-				<div class="sample-desc">
-					<h2><a href="lisa-for-kansas">Lisa for US Senate</a></h2>
-					<p>Designing a campaign for US Senate.</p>
-				</div>
-				<div class="sample-cta">
-					<a href="lisa-for-kansas" class="ghost-button">View the work »</a>
-				</div>
-			</div>
-		</div>
+<!-- kc lisc -->
 		<div class="col-6">
 			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
 			<div class="sample">
@@ -87,7 +92,10 @@
 			</div>
 		</div>
 	</div><!-- /row -->
+<!-- political groups -->
+	<div class="inner center"><h2>&times; work samples: political groups &times;</h2></div>
 	<div class="row">
+<!-- kansas dems -->
 		<div class="col-6">
 			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
 			<div class="sample">
@@ -100,22 +108,9 @@
 				</div>
 			</div>
 		</div>
+<!-- lisa for kansas senate -->
 		<div class="col-6">
-			<a href="websites"><img class="grad" src="img/samples/websites/thumbnail.png" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
-			<div class="sample">
-				<div class="sample-desc">
-					<h2><a href="websites">Responsive Websites</a></h2>
-					<p>Mobile-friendly website designs.</p>
-				</div>
-				<div class="sample-cta">
-					<a href="websites" class="ghost-button">View the work »</a>
-				</div>
-			</div>
-		</div>
-	</div><!-- /row -->
-	<div class="row">
-		<div class="col-6">
-			<a href="lisa-for-kansas-senate"><img class="gradrev" src="img/samples/lisa-for-kansas-senate/thumbnail.2x.png" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
+			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.2x.png" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
@@ -126,15 +121,32 @@
 				</div>
 			</div>
 		</div>
+	</div><!-- /row -->
+	<div class="row">
+	<div class="inner center"><h2>&times; work samples: services &times;</h2></div>
+<!-- websites -->
 		<div class="col-6">
-			<a href="harmony-hearing-aids"><img class="gradrev" src="img/samples/harmony/thumbnail.png" width="100%" height="auto" class="lazyload" alt="Harmony Hearing Aids logo design"></a>
+			<a href="websites"><img src="img/samples/websites/thumbnail.png" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
 			<div class="sample">
 				<div class="sample-desc">
-					<h2><a href="harmony-hearing-aids">Harmony</a></h2>
-					<p>Distinctive logo design for a small business.</p>
+					<h2><a href="websites">Responsive Websites</a></h2>
+					<p>Mobile-friendly website designs.</p>
 				</div>
 				<div class="sample-cta">
-					<a href="harmony-hearing-aids" class="ghost-button">View the work »</a>
+					<a href="websites" class="ghost-button">View the work »</a>
+				</div>
+			</div>
+		</div>
+<!-- logos -->
+		<div class="col-6">
+			<a href="logos"><img src="img/samples/logos/thumbnail-2x.png" width="100%" height="auto" class="lazyload" alt="Logo designs"></a>
+			<div class="sample">
+				<div class="sample-desc">
+					<h2><a href="logos">Logo Designs</a></h2>
+					<p>A selection of logo designs.</p>
+				</div>
+				<div class="sample-cta">
+					<a href="logos" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
