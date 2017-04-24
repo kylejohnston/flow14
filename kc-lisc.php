@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Sample: Kansas City LISC | Infographic &times; Data Visualization | flow14</title>
-	<meta name="description" content="Interactivce infographics designed and developed for Kansas City LISC, a local non-profit." />
+	<meta name="description" content="Interactivce infographics designed and developed for Kansas City LISC, a local nonprofit." />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/kc-lisc" rel="canonical" />

@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>flow14 - Design Works | A Kansas City Design Studio</title>
-	<meta name="description" content="flow14 is a design studio based in Kansas City. We deliver thoughtful designs for small businesses, non-profits, and political groups." />
+	<meta name="description" content="flow14 is a design studio based in Kansas City. We deliver thoughtful designs for small businesses, nonprofits, and political groups." />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/" rel="canonical" />
@@ -26,7 +26,7 @@
 	<div class="row">
 		<div class="col-1">&#160;</div>
 		<div class="col-10">
-			<h1 class="center" style="margin:.1em 0 .5em 0;"><div class="inner">Kansas City branding and web design studio focused on making design work for small business and non-profits.</h1>
+			<h1 class="center" style="margin:.1em 0 .5em 0;"><div class="inner">Kansas City branding and web design studio focused on making design work for small business and nonprofits.</h1>
 		</div>
 		<div class="col-1">&#160;</div>
 	</div>
@@ -63,7 +63,7 @@
 		</div>
 	</div><!-- /row -->
 <!-- non profits -->
-	<div class="inner center"><h2>&times; work samples: non-profits &times;</h2></div>
+	<div class="inner center"><h2>&times; work samples: nonprofits &times;</h2></div>
 	<div class="row">
 <!-- rounding up undies -->
 		<div class="col-6">
@@ -71,7 +71,7 @@
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="rounding-up-undies">Rounding Up Undies</a></h2>
-					<p>Distinctive logo design for a non-profit.</p>
+					<p>Distinctive logo design for a nonprofit.</p>
 				</div>
 				<div class="sample-cta">
 					<a href="rounding-up-undies" class="ghost-button">View the work »</a>

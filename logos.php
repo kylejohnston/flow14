@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Work Samples: Logo Design | flow14</title>
-	<meta name="description" content="Logo designs for small businesses, non-profits, and political groups" />
+	<meta name="description" content="Logo designs for small businesses, nonprofits, and political groups" />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/logos" rel="canonical" />
@@ -19,7 +19,7 @@
 			<div class="inner">
 				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center">Logo Designs</h1>
-				<p class="center">A selection of logos designed for small businesses, non-profits and political groups.</p>
+				<p class="center">A selection of logos designed for small businesses, nonprofits and political groups.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
@@ -88,7 +88,7 @@
 		<div class="col-3">&#160;</div>
 	</div><!-- /row -->
 
-	<div class="inner center"><h2>&times; non-profit logo design &times;</h2></div>
+	<div class="inner center"><h2>&times; nonprofit logo design &times;</h2></div>
 	<div class="row">
 		<div class="col-6">
 			<a href="rounding-up-undies"><img src="img/samples/logos/1440x810/rounding-up-undies-2x.png" width="100%" height="auto" alt="Rounding Up Undies logo"></a>

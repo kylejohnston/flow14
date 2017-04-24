@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>About &times; Contact flow14 - Design Works.</title>
-	<meta name="description" content="A graphic design studio that specializes in helping small businesses, non-profits, and political groups with logo design, website design and more." />
+	<meta name="description" content="A graphic design studio that specializes in helping small businesses, nonprofits, and political groups with logo design, website design and more." />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/about" rel="canonical" />
@@ -23,7 +23,7 @@
 				<!-- <p>Design that works. Work that matters. Matters that make a difference. 
 
 				Seeing the big picture. Realizing your potential. Working together. Doing more than we&rsquo;re asked to do. Solving problems. Being clever. Craft.</p> -->
-				<p>flow14 is a cozy little design studio based in Kansas City, founded and owned by Kyle Johnston. I specialize in helping your small business, non-profit, or political group connect with your audience through thoughtfully designed websites, logos, branding and more.</p>
+				<p>flow14 is a cozy little design studio based in Kansas City, founded and owned by Kyle Johnston. I specialize in helping your small business, nonprofit, or political group connect with your audience through thoughtfully designed websites, logos, branding and more.</p>
 			</div>
 		</div>
 	</div>
