@@ -1,5 +1,5 @@
 	<!-- Le styles -->
-	<link href="css/stylesheet.min.css?20170402_1500" rel="stylesheet">
+	<link href="css/stylesheet.min.css?20170428_2100" rel="stylesheet">
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
