@@ -1,5 +1,5 @@
-    <!-- Le javascript
-    ================================================== -->
+<!-- Le javascript
+================================================== -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="//flow14.com/js/jquery.js">\x3C/script>')</script>
 	<script src="//flow14.com/js/jquery.flexslider-min.js"></script>
@@ -7,19 +7,17 @@
 <!-- HubSpot -->
 	<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3292081.js"></script>
 
-<!-- statcounter analytics -->
-	<script type="text/javascript">
-		var sc_project=651567; 
-		var sc_invisible=1; 
-		var sc_security="59987d53"; 
+<!-- Hotjar Tracking Code for http://www.flow14.com -->
+	<script>
+		(function(h,o,t,j,a,r){
+		  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+		  h._hjSettings={hjid:583449,hjsv:5};
+		  a=o.getElementsByTagName('head')[0];
+		  r=o.createElement('script');r.async=1;
+		  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+		  a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 	</script>
-	<script type="text/javascript"
-	src="http://www.statcounter.com/counter/counter.js"></script>
-	<noscript><div class="statcounter"><a title="statistics for
-	vBulletin" href="http://statcounter.com/vbulletin/"
-	target="_blank"><img class="statcounter"
-	src="http://c.statcounter.com/651567/0/59987d53/1/"
-	alt="statistics for vBulletin"></a></div></noscript>
 
 <!-- Pinterest -->
 	<script type="text/javascript">
