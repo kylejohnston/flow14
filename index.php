@@ -17,7 +17,7 @@
 		<?php include('includes/header-nav.php'); ?>
 		<div class="col-10">
 			<p class="hidden-lg mono mono-light">&because;</p>
-			<h2 id="fittext" class="center" style="color: #FE8D1D; margin:.05em 0 .17em 0;">design works.</h2>
+			<h2 id="fittext" class="center" style="color: #FE8D1D; margin:.09em 0 .17em 0;">design works.</h2>
 			<p class="hidden-lg mono mono-light">&therefore;</p>
 		</div>
 	</div>
@@ -26,7 +26,7 @@
 	<div class="row">
 		<div class="col-1">&#160;</div>
 		<div class="col-10">
-			<h1 class="center" style="margin:.1em 0 .5em 0;"><div class="inner">Kansas City branding and web design studio focused on making design work for small business and nonprofits.</h1>
+			<h1 class="center" style="margin:.1em 0 .5em 0;"><div class="inner">Kansas City branding and web design studio focused on making design work for small businesses and nonprofits.</h1>
 		</div>
 		<div class="col-1">&#160;</div>
 	</div>
