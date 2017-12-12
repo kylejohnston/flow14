@@ -32,8 +32,23 @@
 	</div>
 </footer>
 
+<!-- JavaScript - - - - - - - - - - -->
 <script src="js/flow14.min.js"></script>
-<!-- Hotjar Tracking Code for http://www.flow14.com -->
+
+<!-- Analytics - - - - - - - - - - -->
+<!-- StatCounter -->
+	<script type="text/javascript">
+		var sc_project=651567; 
+		var sc_invisible=1; 
+		var sc_security="59987d53"; 
+		var scJsHost = (("https:" == document.location.protocol) ?
+		"https://secure." : "http://www.");
+		document.write("<sc"+"ript type='text/javascript' src='" +
+		scJsHost+
+		"statcounter.com/counter/counter.js'></"+"script>");
+	</script>
+
+<!-- Hotjar -->
 <script>
 	(function(h,o,t,j,a,r){
 		h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
