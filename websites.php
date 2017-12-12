@@ -80,6 +80,22 @@
 		</div>
 	</div>
 </div>
+<div class="container item">
+	<div class="row">
+		<div class="col-6">
+			<div class="inner">
+				<h2>Great Plains SPCA</h2>
+				<img data-src="img/samples/websites/greatplains.960_sh.jpg" class="lazyload" width="100%" alt="GreatPlainsSPCA Website Design" style="border-radius: 4px;">
+			</div>
+		</div>
+		<div class="col-6">
+			<div class="inner">
+				<h2>BorrowersRep</h2>
+				<img data-src="img/samples/websites/borrowersrep.960_sh.jpg" class="lazyload" width="100%" alt="BorrowersRep Website Design" style="border-radius: 4px;">
+			</div>
+		</div>
+	</div>
+</div>
 
 <div class="container">
 	<div class="row">
