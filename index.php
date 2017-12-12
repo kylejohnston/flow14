@@ -80,11 +80,11 @@
 		</div>
 <!-- kc lisc -->
 		<div class="col-6">
-			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
+			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.new.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="kc-lisc">KC Lisc</a></h2>
-					<p>Interactive inforgraphics tell a better story.</p>
+					<p>Interactive infographics tell a better story.</p>
 				</div>
 				<div class="sample-cta">
 					<a href="kc-lisc" class="ghost-button">View the work »</a>
@@ -97,7 +97,7 @@
 	<div class="row">
 <!-- kansas dems -->
 		<div class="col-6">
-			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
+			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.new.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="kansas-dems">Kansas Dems</a></h2>
@@ -110,7 +110,7 @@
 		</div>
 <!-- lisa for kansas senate -->
 		<div class="col-6">
-			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.2x.png" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
+			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.new.2x.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
@@ -123,10 +123,10 @@
 		</div>
 	</div><!-- /row -->
 	<div class="row">
-	<div class="inner center"><h2>&times; work samples: services &times;</h2></div>
+	<div class="inner center"><h2>&times; work samples: websites &amp; logos &times;</h2></div>
 <!-- websites -->
 		<div class="col-6">
-			<a href="websites"><img src="img/samples/websites/thumbnail.png" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
+			<a href="websites"><img src="img/samples/websites/thumbnail.2x.png" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="websites">Responsive Websites</a></h2>
