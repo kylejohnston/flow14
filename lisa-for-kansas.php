@@ -15,17 +15,18 @@
 <header>
 </header>
 <div class="container">
+	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
-		<?php include('includes/header-nav.php'); ?>
+		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8 item">
 			<div class="inner">
-				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center">Lisa Johnston for U.S. Senate</h1>
 					<p><strong>The Story.</strong> In April 2010, my wife announced her candidacy for U.S. Senate, beginning a whirlwind 7+ months of campaigning and traveling all over Kansas. Her campaign gave me the opportunity to create a distinctive brand and design a wide range of campaign materials on tight timelines and a tight budget.</p>
 					<p class="mono"><strong>The Services.</strong> Logo Design, Printed Materials, Printed Ads, Web Presence, TV Spots</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
+		<div class="col-2 hidden-sm">&#160;</div>
 	</div>
 </div>
 

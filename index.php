@@ -13,27 +13,29 @@
 </head>
 <body class="warm-flow">
 <div class="container">
+	<?php include('includes/header-nav.php'); ?>
 	<div class="row">
-		<?php include('includes/header-nav.php'); ?>
+		<div class="col-1 hidden-sm">&#160;</div>
 		<div class="col-10">
 			<p class="hidden-lg mono mono-light">&because;</p>
-			<h2 id="fittext" class="center" style="color: #FE8D1D; margin:.09em 0 .17em 0;">design works.</h2>
+			<h2 id="fittext" class="center" style="color: rgba(52, 52, 52, .6); margin:.09em 0 0 0;">design works&horbar;</h2>
+			<h1 class="center" style="margin:-3rem 0 .5em 0;"><div class="inner">Kansas City branding and web design studio focused on making design work for small businesses and nonprofits.</h1>
 			<p class="hidden-lg mono mono-light">&therefore;</p>
 		</div>
+		<div class="col-1 hidden-sm">&#160;</div>
 	</div>
 </div>
 <div class="container">
 	<div class="row">
 		<div class="col-1">&#160;</div>
 		<div class="col-10">
-			<h1 class="center" style="margin:.1em 0 .5em 0;"><div class="inner">Kansas City branding and web design studio focused on making design work for small businesses and nonprofits.</h1>
 		</div>
 		<div class="col-1">&#160;</div>
 	</div>
 </div>
 <div class="container">
 <!-- small businesses -->
-	<div class="inner center"><h2>&times; work samples: small business &times;</h2></div>
+	<div class="inner center"><h2>work samples: small business&horbar;</h2></div>
 	<div class="row">
 <!-- creative outfitters -->
 		<div class="col-6">
@@ -63,7 +65,7 @@
 		</div>
 	</div><!-- /row -->
 <!-- non profits -->
-	<div class="inner center"><h2>&times; work samples: nonprofits &times;</h2></div>
+	<div class="inner center"><h2>work samples: nonprofits&horbar;</h2></div>
 	<div class="row">
 <!-- rounding up undies -->
 		<div class="col-6">
@@ -93,7 +95,7 @@
 		</div>
 	</div><!-- /row -->
 <!-- political groups -->
-	<div class="inner center"><h2>&times; work samples: political groups &times;</h2></div>
+	<div class="inner center"><h2>work samples: political groups&horbar;</h2></div>
 	<div class="row">
 <!-- kansas dems -->
 		<div class="col-6">
@@ -123,7 +125,7 @@
 		</div>
 	</div><!-- /row -->
 	<div class="row">
-	<div class="inner center"><h2>&times; work samples: websites &amp; logos &times;</h2></div>
+	<div class="inner center"><h2>work samples: websites &amp; logos&horbar;</h2></div>
 <!-- websites -->
 		<div class="col-6">
 			<a href="websites"><img src="img/samples/websites/thumbnail.2x.png" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
@@ -152,7 +154,7 @@
 		</div>
 	</div><!-- /row -->
 	<div class="row">
-		<div class="inner center"><h2>&times; Other works &times;</h2></div>
+		<div class="inner center"><h2>Other works&horbar;</h2></div>
 		<div class="col-4">
 			<a href="http://www.kylewjohnston.com"><img src="img/samples/video.jpg" width="100%" height="auto" class="lazyload" alt="Kyle Johnston advertising portfolio"></a>
 			<div class="sample">

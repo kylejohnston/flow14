@@ -13,8 +13,9 @@
 </head>
 <body class="cool">
 	<div class="container">
+		<?php include('includes/header-nav--small.php'); ?>
 		<div class="row">
-			<?php include('includes/header-nav.php'); ?>
+		<div class="col-2 hidden-sm">&#160;</div>
 			<div class="col-8 item">
 				<div class="inner">
 					<p class="mono mono-light">Collect &lsquo;em all.</p>
@@ -23,6 +24,7 @@
 				</div>
 			</div>
 		</div>
+		<div class="col-2 hidden-sm">&#160;</div>
 	</div>
 	<div class="container item gap">
 		<div class="row">

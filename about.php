@@ -13,8 +13,9 @@
 </head>
 <body class="cool-flow">
 <div class="container">
+	<?php include('includes/header-nav.php'); ?>
 	<div class="row">
-		<?php include('includes/header-nav.php'); ?>
+		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">About &times; Contact</p>
@@ -26,6 +27,7 @@
 				<p>flow14 is a cozy little design studio based in Kansas City, founded and owned by Kyle Johnston. I specialize in helping your small business, nonprofit, or political group connect with your audience through thoughtfully designed websites, logos, branding and more.</p>
 			</div>
 		</div>
+		<div class="col-2 hidden-sm">&#160;</div>
 	</div>
 </div>
 

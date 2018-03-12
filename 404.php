@@ -4,15 +4,16 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Work Sample: JoCART | Logo Design, Web Presence | flow14</title>
-	<meta name="description" content="A description of the page">
+	<title>Oops. | flow14</title>
+	<meta name="description" content="Oops. You've found a missing page.">
 	<meta name="geo.placename" content="Kansas City">
 	<?php include('includes/head.php'); ?>
 </head>
 <body>
 <div class="container">
+	<?php include('includes/header-nav.php'); ?>
 	<div class="row">
-		<?php include('includes/header-nav.php'); ?>
+		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8 item">
 			<div class="inner">
 				<p class="mono mono-light">404</p>
@@ -21,6 +22,7 @@
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
+		<div class="col-2 hidden-sm">&#160;</div>
 	</div>
 </div>
 

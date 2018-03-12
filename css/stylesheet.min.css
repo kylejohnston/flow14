@@ -26,7 +26,9 @@ a.ghost-button:active{background-color:#0E584D;border-color:#0E584D;color:#fff;}
 .center{text-align:center;margin-left:auto;margin-right:auto;}
 h1{font-size:2.8rem;text-transform:uppercase;font-family:'Passion One';text-align:center;line-height:.88 !important;}
 header h1{margin:auto;}
-header h1.logo a{margin:.6em auto .6em .15em;padding:0;display:block;width:266px;height:86px;background:url(http://www.flow14.com/beta/img/flow14-logo.svg);background-size:266px 86px;text-indent:-9999px;}
+header h1.logo a{background:url(http://www.flow14.com/img/flow14-logo.svg);text-indent:-9999px;}
+header h1.logo--large a{margin:.6em auto .6em auto;padding:0;display:block;width:266px;height:86px;background-size:266px 86px;}
+header h1.logo--small a{margin:.3em auto .3em auto;padding:0;display:block;width:133px;height:43px;background-size:133px 43px;}
 .item h1{margin:0;padding:0;line-height:1;color:#343434;}
 h1 span{padding:0 .1em;background-color:#343434;color:#FEC931;}
 h2{font-size:2rem;text-transform:uppercase;font-family:'Passion One';}
@@ -79,7 +81,7 @@ p.mono-light{color:#fff;}
 .hidden-lg{display:none;}
 nav{padding:0 .8em .8em;}
 nav a:link,
-nav a:visited{display:block;white-space:nowrap;margin:.7em .4em;padding:.4em .2em;border:1px solid rgba(14, 88, 77, .8);color:#0E584D;text-transform:uppercase;text-decoration:none;border-radius:2px;}
+nav a:visited{white-space:nowrap;margin:.7em .4em;padding:.4em .4em;/*border:1px solid rgba(14, 88, 77, .8);*/color:#0E584D;text-transform:uppercase;text-decoration:none;border-radius:2px;}
 nav a:hover,
 nav a:active{background-color:#0E584D;border-color:#0E584D;color:#fff;}
 .shade{background-color:rgba(52,52,52,.05);}
@@ -137,7 +139,8 @@ footer a:hover, footer a:active{text-decoration:none;}
 .container{width:100%;}
 }
 @media only screen and (min-width:45em){}
-@media only screen and (min-width:60em){.col-1{width:8.33%;}
+@media only screen and (min-width:60em){
+.col-1{width:8.33%;}
 .col-2{width:16.67%;}
 .col-3{width:25%;}
 .col-4{width:33.33%;}
@@ -153,5 +156,8 @@ footer a:hover, footer a:active{text-decoration:none;}
 .hidden-lg{display:none;}
 .container{width:100%;max-width:90rem;}
 }
-@media only screen and (max-width:80em){header h1.logo a{margin-left:auto;margin-right:auto;width:190px;height:61px;background-size:190px 61px;}
+@media only screen and (max-width:80em){
+header h1.logo a{background:url(http://www.flow14.com/img/flow14-logo.svg);text-indent:-9999px;}
+header h1.logo--large a{margin-left:auto;margin-right:auto;width:190px;height:61px;background-size:190px 61px;}
+header h1.logo--small a{margin-left:auto;margin-right:auto;width:126px;height:41px;background-size:126px 41px;}
 }

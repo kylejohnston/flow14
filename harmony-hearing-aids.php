@@ -15,16 +15,17 @@
 <header>
 </header>
 <div class="container">
+	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
-		<?php include('includes/header-nav.php'); ?>
+		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8 item">
 			<div class="inner">
-				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center">Harmony Hearing Aids</h1>
 					<p>Harmony Hearing Aids came to flow14 as a new, small business looking for a professional set of materials that would allow them to quickly establish a foothold in a small, highly competitive market.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
+		<div class="col-2 hidden-sm">&#160;</div>
 	</div>
 </div>
 

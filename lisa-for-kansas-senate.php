@@ -15,17 +15,18 @@
 <header>
 </header>
 <div class="container">
+	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
-		<?php include('includes/header-nav.php'); ?>
+		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8 item">
 			<div class="inner">
-				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center">Lisa for Kansas Senate</h1>
 					<p><strong>The Story.</strong> In June 2012, my wife began her campaign for the Kansas Senate, a 21-week marathon for the newly-redrawn 8th district. This provided me with the unique opportunity to develop a distinctive brand and design a host of high-quality campaign materials on tight timelines and a shoestring budget.</p>
 					<p class="mono"><strong>The Services.</strong> Logo Design, Printed Materials, Web Presence</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
+		<div class="col-2 hidden-sm">&#160;</div>
 	</div>
 </div>
 

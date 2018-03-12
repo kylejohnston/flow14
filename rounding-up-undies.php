@@ -15,16 +15,17 @@
 <header>
 </header>
 <div class="container">
+	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
-		<?php include('includes/header-nav.php'); ?>
+		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8 item">
 			<div class="inner">
-				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center">Rounding Up Undies</h1>
 				<p>Rounding Up Undies is a charity that provides hygiene kits to young women in Uganda and Mali. The team at Rounding Up Undies approached me about designing a logo that could be used for their hygiene kit packaging, promotional materials and social presence.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
+		<div class="col-2 hidden-sm">&#160;</div>
 	</div>
 </div>
 

@@ -15,16 +15,17 @@
 <header>
 </header>
 <div class="container">
+	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
-		<?php include('includes/header-nav.php'); ?>
+		<div class="col-2 hidden-sm">&#160;</div>
 		<div class="col-8 item">
 			<div class="inner">
-				<p class="mono mono-light">Design Works.</p>
 				<h1 id="fittext" class="center">Responsive Websites</h1>
 					<p>Since 2010, I've been designing and developing mobile-optimized websites for many of my freelance clients. Select designs for political and small business clients are featured here.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
+		<div class="col-2 hidden-sm">&#160;</div>
 	</div>
 </div>
 
