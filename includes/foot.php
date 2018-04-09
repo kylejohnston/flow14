@@ -1,5 +1,5 @@
 <!-- JavaScript - - - - - - - - - - -->
-	<script async src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script async src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="//flow14.com/js/jquery.js">\x3C/script>')</script>
 	<script async src="//flow14.com/js/jquery.flexslider-min.js"></script>
 
