@@ -18,8 +18,8 @@
 		<div class="col-1 hidden-sm">&#160;</div>
 		<div class="col-10">
 			<p class="hidden-lg mono mono-light">&because;</p>
-			<h2 id="fittext" class="center" style="color: rgba(52, 52, 52, .6); margin:.09em 0 0 0;">design works&horbar;</h2>
-			<h1 class="center" style="margin:-3rem 0 .5em 0;"><div class="inner">Kansas City branding and web design studio focused on making design work for growing businesses and nonprofits.</h1>
+			<!-- <h2 id="fittext" class="center" style="color: rgba(52, 52, 52, .6); margin:.09em 0 0 0;">design works&horbar;</h2> -->
+			<h1 class="center" style="margin:2rem 0 .5em 0;"><div class="inner">A branding and web design studio focused on making design work for growing businesses and nonprofits.</h1>
 			<p class="hidden-lg mono mono-light">&therefore;</p>
 		</div>
 		<div class="col-1 hidden-sm">&#160;</div>
@@ -34,9 +34,23 @@
 	</div>
 </div>
 <div class="container">
-<!-- non profits -->
+<!-- NONPROFITS: ROW 1 OF 2 -->
 	<div class="inner center"><h2>design samples: nonprofits&horbar;</h2></div>
 	<div class="row">
+		<!-- HNC LIVING -->
+		<div class="col-6">
+			<a href="hnc-living-foundation"><img src="img/samples/hnc-living/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="HNC Living Foundation Website Redesign"></a>
+			<div class="sample">
+				<div class="sample-desc">
+					<h2><a href="hnc-living-foundation">HNC Living</a></h2>
+					<p>A website redesign with an impact.</p>
+				</div>
+				<div class="sample-cta">
+					<a href="hnc-living-foundation" class="ghost-button">View the work »</a>
+				</div>
+			</div>
+		</div>
+		<!-- ROUNDING UP UNDIES -->
 		<div class="col-6">
 			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design"></a>
 			<div class="sample">
@@ -49,6 +63,9 @@
 				</div>
 			</div>
 		</div>
+	</div><!-- /row -->
+<!-- NONPROFITS: ROW 2 OF 2 -->
+	<div class="row">
 		<div class="col-6">
 			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.new.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
 			<div class="sample">
@@ -63,7 +80,7 @@
 		</div>
 	</div><!-- /row -->
 	<div class="inner center"><h2>design samples: websites &amp; logos&horbar;</h2></div>
-<!-- websites -->
+<!-- WEBSITES -->
 	<div class="row">
 		<div class="col-6">
 			<a href="websites"><img src="img/samples/websites/thumbnail.2x.png" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
@@ -92,14 +109,14 @@
 		</div>
 	</div><!-- /row -->
 <!-- small businesses -->
-	<div class="inner center"><h2>design samples: businesses&horbar;</h2></div>
+	<div class="inner center"><h2>Design Samples: Startup Branding&horbar;</h2></div>
 	<div class="row">
 		<div class="col-6">
 			<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumbnail.png" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
-					<p>Logo design for a unique small business.</p>
+					<p>Logo design for a unique startup.</p>
 				</div>
 				<div class="sample-cta">
 					<a href="creative-outfitters" class="ghost-button">View the work »</a>
@@ -111,7 +128,7 @@
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="harmony-hearing-aids">Harmony</a></h2>
-					<p>Distinctive logo design for a small business.</p>
+					<p>Distinctive logo design for a new business.</p>
 				</div>
 				<div class="sample-cta">
 					<a href="harmony-hearing-aids" class="ghost-button">View the work »</a>
