@@ -67,7 +67,7 @@
 <!-- NONPROFITS: ROW 2 OF 2 -->
 	<div class="row">
 		<div class="col-6">
-			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.new.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
+			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="kc-lisc">KC Lisc</a></h2>
@@ -141,7 +141,7 @@
 	<div class="row">
 <!-- kansas dems -->
 		<div class="col-6">
-			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.new.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
+			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="kansas-dems">Kansas Dems</a></h2>
@@ -154,7 +154,7 @@
 		</div>
 <!-- lisa for kansas senate -->
 		<div class="col-6">
-			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.new.2x.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
+			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
