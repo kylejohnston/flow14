@@ -11,14 +11,14 @@
 	<link href="http://www.flow14.com/harmony-hearing-aids" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
+<body class="neutral">
 <header>
 </header>
 <div class="container">
 	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
 		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8 item">
+		<div class="col-8">
 			<div class="inner">
 				<h1 id="fittext" class="center">Harmony Hearing Aids</h1>
 					<p>Harmony Hearing Aids came to flow14 as a new, small business looking for a professional set of materials that would allow them to quickly establish a foothold in a small, highly competitive market.</p>

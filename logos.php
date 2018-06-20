@@ -11,12 +11,12 @@
 	<link href="http://www.flow14.com/logos" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
+<body class="neutral">
 <div class="container">
 	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
 		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8 item">
+		<div class="col-8">
 			<div class="inner">
 				<h1 id="fittext" class="center">Logo Designs</h1>
 				<p class="center">A selection of logos designed for small businesses, nonprofits and political groups.</p>
@@ -28,7 +28,7 @@
 </div>
 
 <div class="container item">
-	<div class="inner center"><h2>&times; small business logo design &times;</h2></div>
+	<div class="inner center"><h2>&times; startup logo design &times;</h2></div>
 	<div class="row">
 		<div class="col-6">
 			<a href="creative-outfitters"><img src="img/samples/logos/1440x810/creative-outfitters-2x.png" width="100%" height="auto" alt="Creative Outfitters logo"></a>
@@ -80,13 +80,13 @@
 	</div><!-- /row -->
 
 	<div class="row">
-		<div class="col-3">&#160;</div>
+		<div class="col-3 hidden-sm center">&#160;</div>
 		<div class="col-6">
-		<h2>client testimonial</h2>
+		<h2>&horbar; &rdquo; &horbar;<br>client testimonial</h2>
 			<p class="inner">&ldquo;My logo design was everything I wanted! Kyle was very easy to work with and responded very quickly. The end result was perfect and he sent every format imaginable over to make it easy to use in any application. I would definitely recommend him. I would be very happy to use him again for any design projects.&rdquo;<br><em>&mdash;Chase Rhinehart, Rhinehart Excavating</em></p>
 			<p>&#160;</p>
 		</div>
-		<div class="col-3">&#160;</div>
+		<div class="col-3 hidden-sm">&#160;</div>
 	</div><!-- /row -->
 
 	<div class="inner center"><h2>&times; nonprofit logo design &times;</h2></div>

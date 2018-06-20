@@ -11,14 +11,14 @@
 	<link href="http://www.flow14.com/lisa-for-kansas-senate" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
+<body class="neutral">
 <header>
 </header>
 <div class="container">
 	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
 		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8 item">
+		<div class="col-8">
 			<div class="inner">
 				<h1 id="fittext" class="center">Lisa for Kansas Senate</h1>
 					<p><strong>The Story.</strong> In June 2012, my wife began her campaign for the Kansas Senate, a 21-week marathon for the newly-redrawn 8th district. This provided me with the unique opportunity to develop a distinctive brand and design a host of high-quality campaign materials on tight timelines and a shoestring budget.</p>
@@ -43,7 +43,7 @@
 		</div>
 	</div>
 </div>
-<div class="container item gap">
+<div class="container item">
 	<div class="row">
 		<div class="col-6">
 			<div class="inner">

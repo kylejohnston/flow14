@@ -11,14 +11,14 @@
 	<link href="http://www.flow14.com/kc-lisc" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
+<body class="neutral">
 <header>
 </header>
 <div class="container">
 	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
 		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8 item">
+		<div class="col-8">
 			<div class="inner">
 				<h1 id="fittext" class="center">Kansas City LISC</h1>
 					<p><strong>The Story.</strong> Greater Kansas City LISC (Local Initiative Support Corporation) approached me with a need for an infographic they could use to communicate their ties to the community, both in the services and causes they support and how they compare to and interact with other local organizations.</p>
@@ -39,15 +39,18 @@
 		<div class="col-4">
 			<div class="inner">
 				<p>Initially, I was asked to create a network diagram, but as I looked through the matrix provided, I realized a network diagram would result in an extremely complex visual, making it difficult for viewers to understand and difficult to update in the future.</p>
+				<div class="inner">
+									<img data-src="img/samples/kc-lisc/source-data.jpg" class="lazyload" width="100%">
+				<p class="mono">A small portion of the complex source data</p>
+
+				</div>
 				<p>I decided to use <a href="http://d3js.org/" title="d3 - data-driven documents">d3js</a>, a JavaScript library that enables relatively simple and flexible visualization of complex data. d3 provides the added benefits of being maintainable, functional across mobile and desktop devices, and offers the ability to export vector graphics that can be reproduced in print.</p>
 				<p class="center"><a class="ghost-button" href="http://www.flow14.com/lisc/">View the live version here</a></p>
-				<img data-src="img/samples/kc-lisc/source-data.jpg" class="lazyload" width="100%">
-				<p class="mono">A small portion of the complex source data</p>
 			</div>
 		</div>
 	</div>
 </div>
-<div class="container item gap">
+<div class="container item">
 	<div class="row">
 		<div class="col-4">
 			<div class="inner">

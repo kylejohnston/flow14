@@ -11,14 +11,14 @@
 	<link href="http://www.flow14.com/kansas-dems" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
+<body class="neutral">
 <header>
 </header>
 <div class="container">
 	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
 		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8 item">
+		<div class="col-8">
 			<div class="inner">
 				<h1 id="fittext" class="center">Kansas Dems</h1>
 					<p>In late 2011, the Kansas Dems put out a call for entries – they wanted to refresh their brand, starting with a new logo that could be used across a variety of materials, both in print and online.</p>
@@ -31,7 +31,7 @@
 
 <div class="container item">
 	<div class="row">
-		<div class="col-4 background-white">
+		<div class="col-5 background-white">
 			<img src="img/samples/kansas-dems/kdp-logo.png" width="100%">
 		</div>
 		<div class="col-4">
@@ -44,18 +44,18 @@
 </div>
 <div class="container item">
 	<div class="row">
-		<div class="col-4">
+		<div class="col-5">
 			<div class="inner">
 				<h2>Directory Design</h2>
 				<p>Each year, the Kansas Dems produce an expansive directory; printed copies are distributed across the state and electronic copies are available through their website. Starting in 2012, I redesigned the layout of the internal pages and designed the directory cover.</p>
 			</div>
 		</div>
-		<div class="col-8">
+		<div class="col-7">
 			<img data-src="img/samples/kansas-dems/directory-covers.jpg" class="lazyload" width="100%">
 			<p class="mono">Directory Covers, 2012 &mdash; 2014</p>
 		</div>
 	</div>
-	<div class="row gap">
+	<div class="row">
 		<div class="col-5">
 			<img data-src="img/samples/kansas-dems/spread-before.png" class="lazyload" width="100%">
 			<p class="mono">Interior Spread - Before</p>

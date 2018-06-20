@@ -11,17 +11,15 @@
 	<link href="http://www.flow14.com/websites" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
-<header>
-</header>
+<body class="neutral">
 <div class="container">
 	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
 		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8 item">
+		<div class="col-8">
 			<div class="inner">
 				<h1 id="fittext" class="center">Responsive Websites</h1>
-					<p>Since 2010, I've been designing and developing mobile-optimized websites for many of my freelance clients. Select designs for political and small business clients are featured here.</p>
+					<p>Since 2010, I've been designing and developing mobile-optimized websites for many of my  clients. Select designs for nonprofits, political and startup clients are featured here.</p>
 				<p class="mono mono-light">&therefore;</p>
 			</div>
 		</div>
@@ -83,16 +81,32 @@
 </div>
 <div class="container item">
 	<div class="row">
+		<div class="col-3 hidden-sm">&#160;</div>
+		<div class="col-6">
+			<div class="inner"><a name="spca"></a>
+				<h2>HNC Living Foundation</h2>
+				<div class="inner center">
+					<p><a class="ghost-button" href="hnc-living-foundation">Read the case study</a></p>
+				</div>
+				<img src="img/samples/hnc-living/homepage__sm.png" width="100%" alt="HNC Living Foundation Website Design" style="border-radius: 4px;">
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-3 hidden-sm center">&#160;</div>
+		<div class="col-6">
+		<h2>&horbar; &rdquo; &horbar;<br>client testimonial</h2>
+			<p class="inner">&ldquo;Kyle did an excellent job of laying our the opportunities for improving our website. He clearly identified objectives and planned an approach we could follow and participate in that didn&rsquo;t disrupt our normal activities. Our finished product came in on-time, on-budget, and on-target. We will most definitely continue to rely on Kyle and flow14 to keep our web presence current and designed to enhance our brand and identity.&rdquo;<br><em>&mdash;Tom Walsh, HNC Living Foundation Co-Founder</em></p>
+		</div>
+	</div><!-- /row -->
+</div>
+<div class="container item">
+	<div class="row">
+		<div class="col-3 hidden-sm">&#160;</div>
 		<div class="col-6">
 			<div class="inner"><a name="spca"></a>
 				<h2>Great Plains SPCA</h2>
 				<img src="img/samples/websites/greatplains.960_sh.jpg" width="100%" alt="GreatPlainsSPCA Website Design" style="border-radius: 4px;">
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="inner">
-				<h2>BorrowersRep</h2>
-				<img src="img/samples/websites/borrowersrep.960_sh.jpg" width="100%" alt="BorrowersRep Website Design" style="border-radius: 4px;">
 			</div>
 		</div>
 	</div>

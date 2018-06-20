@@ -11,14 +11,14 @@
 	<link href="http://www.flow14.com/lisa-for-kansas" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
+<body class="neutral">
 <header>
 </header>
 <div class="container">
 	<?php include('includes/header-nav--small.php'); ?>
 	<div class="row">
 		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8 item">
+		<div class="col-8">
 			<div class="inner">
 				<h1 id="fittext" class="center">Lisa Johnston for U.S. Senate</h1>
 					<p><strong>The Story.</strong> In April 2010, my wife announced her candidacy for U.S. Senate, beginning a whirlwind 7+ months of campaigning and traveling all over Kansas. Her campaign gave me the opportunity to create a distinctive brand and design a wide range of campaign materials on tight timelines and a tight budget.</p>
@@ -44,7 +44,7 @@
 		</div>
 	</div>
 </div>
-<div class="container item gap">
+<div class="container item">
 	<div class="row">
 		<div class="col-4">
 			<div class="inner">
@@ -114,15 +114,14 @@
 </div>
 <div class="container item">
 	<div class="row">
-		<div class="push-3 col-6">
+		<div class="col-3 hidden-sm">&#160;</div>
+		<div class="col-6">
 			<div class="inner">
 				<h2>TV Spots</h2>
 				<p>Like the print ads, Lisa’s TV spots were written and directed to stand apart from typical campaign spots and introduce Lisa to the voters of Kansas. They all featured Lisa looking directly into the camera, sharing her positions with the viewers.</p>
 			</div>
 		</div>
 	</div>
-</div>
-<div class="container item">
 	<div class="row">
 		<div class="col-6">
 			<div class="inner video">
