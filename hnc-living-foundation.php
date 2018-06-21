@@ -8,7 +8,7 @@
 	<meta name="description" content="Website redesign for HNC Living Foundation, a nonprofit that partners with nonprofit healthcare providers and organizations to fund grants that help head and neck cancer patients live life fully." />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.flow14.com/rounding-up-undies" rel="canonical" />
+	<link href="http://www.flow14.com/hnc-living-foundation" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 	.item { margin-top:2em; padding-bottom:2em; }
