@@ -38,6 +38,7 @@
 	<div class="inner center"><h2>design samples: nonprofits&horbar;</h2></div>
 	<div class="row">
 		<!-- HNC LIVING -->
+		<div class="col-3 hidden-sm">&#160;</div>
 		<div class="col-6">
 			<a href="hnc-living-foundation"><img src="img/samples/hnc-living/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="HNC Living Foundation Website Redesign"></a>
 			<div class="sample">
@@ -50,6 +51,8 @@
 				</div>
 			</div>
 		</div>
+	</div><!-- /row -->
+	<div class="row">
 		<!-- ROUNDING UP UNDIES -->
 		<div class="col-6">
 			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design"></a>
@@ -63,9 +66,7 @@
 				</div>
 			</div>
 		</div>
-	</div><!-- /row -->
-<!-- NONPROFITS: ROW 2 OF 2 -->
-	<div class="row">
+		<!-- KC LISC -->
 		<div class="col-6">
 			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
 			<div class="sample">
@@ -83,7 +84,7 @@
 <!-- WEBSITES -->
 	<div class="row">
 		<div class="col-6">
-			<a href="websites"><img src="img/samples/websites/thumbnail.2x.png" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
+			<a href="websites"><img src="img/samples/websites/thumbnail-alt.2x.jpg" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="websites">Responsive Websites</a></h2>
@@ -96,7 +97,7 @@
 		</div>
 <!-- logos -->
 		<div class="col-6">
-			<a href="logos"><img src="img/samples/logos/thumbnail-2x.png" width="100%" height="auto" class="lazyload" alt="Logo designs"></a>
+			<a href="logos"><img src="img/samples/logos/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Logo designs"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="logos">Logo Designs</a></h2>
@@ -112,7 +113,7 @@
 	<div class="inner center"><h2>Design Samples: Startup Branding&horbar;</h2></div>
 	<div class="row">
 		<div class="col-6">
-			<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumbnail.png" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
+			<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumbnail-alt.2x.png" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
@@ -124,7 +125,7 @@
 			</div>
 		</div>
 		<div class="col-6">
-			<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumbnail.png" width="100%" height="auto" class="lazyload" alt="Harmony Hearing Aids logo design"></a>
+			<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumbnail-alt.2x.png" width="100%" height="auto" class="lazyload" alt="Harmony Hearing Aids logo design"></a>
 			<div class="sample">
 				<div class="sample-desc">
 					<h2><a href="harmony-hearing-aids">Harmony</a></h2>
