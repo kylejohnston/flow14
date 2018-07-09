@@ -63,12 +63,12 @@ p.mono-light{color:#fff;}
 	2. Header
 = = = = = =
 */
-header h1.logo a{background:url(https://www.flow14.com/img/flow14-logo.svg);text-indent:-9999px;}
-header h1.logo--large a{margin-left:auto;margin-right:auto;width:190px;height:61px;background-size:190px 61px;}
-header h1.logo--small a{margin-left:auto;margin-right:auto;width:126px;height:41px;background-size:126px 41px;}
+header h1.logo a{background:url(http://www.flow14.com/img/flow14-logo.svg);text-indent:-9999px;}
+header h1.logo--large a{margin:.6em auto .6em auto;padding:0;display:block;width:266px;height:86px;background-size:266px 86px;}
+header h1.logo--small a{margin:.3em auto .3em auto;padding:0;display:block;width:133px;height:43px;background-size:133px 43px;}
 nav{padding:0 16px 16px;}
 nav a:link,
-nav a:visited{white-space:nowrap;margin:0 8px;padding:8px;color:#0E584D;text-transform:uppercase;text-decoration:none;border-radius:2px;}
+nav a:visited{font-size:.75em;margin:0;padding:8px;color:#0E584D;text-transform:uppercase;text-decoration:none;border-radius:2px;}
 nav a:hover,
 nav a:active{background-color:#0E584D;border-color:#0E584D;color:#fff;}
 
@@ -124,15 +124,14 @@ footer a:hover, footer a:active{text-decoration:none;}
 = = = = = =
 */
 @media (min-width: 544px) {
+	nav a:link,
+	nav a:visited{font-size:1em;}
 }
 @media (min-width: 768px) {
 }
 @media (max-width: 1011px) {
 }
 @media (min-width: 1012px) {
-	header h1.logo a{background:url(https://www.flow14.com/img/flow14-logo.svg);text-indent:-9999px;}
-	header h1.logo--large a{background-size:266px 86px;display:block;height:86px;margin:24px auto;padding:0;width:266px;}
-	header h1.logo--small a{background-size:133px 43px;display:block;height:43px;margin:16px auto;padding:0;width:133px;}
 	.sample-desc h2,
 	.sample-desc p {text-align:left;}
 	.scale{transform:scale(1.2);}
