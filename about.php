@@ -12,87 +12,69 @@
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="cool-flow">
-<div class="container">
 	<?php include('includes/header-nav.php'); ?>
-	<div class="row">
-		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8 item">
-			<div class="inner">
-				<p class="mono mono-light">About &times; Contact</p>
-				<h1 id="fittext" class="center">Hello!</h1>
-				<!-- <h1 id="fittext" class="center">We&rsquo;re all about&hellip;</h1> -->
-				<!-- <p>Design that works. Work that matters. Matters that make a difference. 
-
-				Seeing the big picture. Realizing your potential. Working together. Doing more than we&rsquo;re asked to do. Solving problems. Being clever. Craft.</p> -->
-				<p>flow14 is a cozy little design studio based in Kansas City, founded and owned by Kyle Johnston. I specialize in helping your small business, nonprofit, or political group connect with your audience through thoughtfully designed websites, logos, branding and more.</p>
-			</div>
-		</div>
-		<div class="col-2 hidden-sm">&#160;</div>
-	</div>
-</div>
-
-<div class="container item">
-	<div class="row">
-		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8">
-			<div class="overlay">Kyle Johnston</div>
-			<img data-src="img/kyle-johnston.jpg" class="lazyload" width="100%">
-			<div class="inner">
-				<p class="center">Here are a few of the other places you can find me online:<br>
-					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a>, 
-					<a class="twitter" href="https://twitter.com/creativecohort">Twitter</a>, 
-					<a class="instagram" href="https://instagram.com/kylejohnston/">Instagram</a>, 
-					<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a>, 
-					<a class="github" href="https://github.com/kylejohnston">GitHub</a>, 
-					<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a>, 
-					<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a>, 
-					<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a>, 
-					<a class="vimeo" href="http://vimeo.com/flow14">Vimeo</a>
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="row"><a name="contact"></a>
-		<div class="col-2 hidden-sm">&#160;</div>
-		<div class="col-8">
-			<h1 id="fittext-2">Let&rsquo;s talk.</h1>
-			<div class="row">
-				<div class="col-6">
-					<div class="inner">
-						<h2>Email</h2>
-						<p class="center">For new business inquiries, please contact <script type="text/javascript">
-//<![CDATA[
-<!--
-var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
-"=93){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
-".substr(0,ol);}f(\")401,\\\"v|pckv&iy),!ot610\\\\IRP]z?#\\\"\\\\($uh520\\\\" +
-"j330\\\\{ (7+5`530\\\\bPSX420\\\\r\\\\t\\\\@YYR320\\\\_^BI610\\\\HKJYZMJ600" +
-"\\\\d130\\\\WADJ}kn#vuz6#'b{771\\\\tQ771\\\\cbhd1e}dngh&_?ge410\\\\520\\\\\\"+
-"\\\\\\230\\\\F[P130\\\\230\\\\020\\\\000\\\\230\\\\000\\\\600\\\\^330\\\\00" +
-"0\\\\010\\\\100\\\\630\\\\t\\\\600\\\\410\\\\\\\"(f};o nruter};))++y(^)i(tA" +
-"edoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y;i=+y)401==i(fi{)++i;l<i;0=i(rof;ht" +
-"gnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                ;
-while(x=eval(x));
-//-->
-//]]>
-</script></p>
-					</div>
+	<article class="content">
+		<section class="block">
+			<div class="pattern__2-8-2">
+				<div class="inner">
+					<h1 id="fittext" class="center">Hello!</h1>
+					<p>flow14 is a design studio based in Kansas City. We specialize in helping your growing business, nonprofit, or political group connect with your audience with impactful design and communication.</p>
 				</div>
-				<div class="col-6">
+			</div>
+		</section>
+
+		<section class="block">
+			<div class="pattern__2-8-2">
+				<div class="inner">
+					<div class="overlay">Kyle Johnston</div>
+					<img data-src="img/kyle-johnston-700.jpg" class="lazyload" width="100%">
 					<div class="inner">
-						<h2>Phone</h2>
-						<p class="center">913-738-4080</p>
+						<p><strong>Kyle Johnston</strong> is a designer and creative leader with over 20 years of extensive experience in practicing and leading design, creative strategy, and user experience. He’s used his background in communication design, user-centered digital design, and team leadership to successfully build, manage, and mentor multi-disciplinary teams in creating strategically focused creative work for a range brands, including Garmin, Hallmark, Helzberg Diamonds, AMC Theaters, and more.</p><p> Today, he's focused on helping growing business and nonprofits engage with their audiences through customer-centered design and communication.</p>
+						<p class="text__center spacer-6--bottom"><strong>LET&rsquo;S CONNECT:</strong> <a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a> &bull; <a class="twitter" href="https://twitter.com/kylejohnston">Twitter</a> &bull; <a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a> &bull; <a class="github" href="https://github.com/kylejohnston">GitHub</a></p>
+
+						<!-- <div class="overlay">Lisa Johnston</div>
+						<img data-src="img/lisa-johnston-02.700x350.jpg" class="lazyload" width="100%">
+						<div class="inner">
+							<p><strong>Lisa Johnston</strong> is lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales. Aliquam auctor dui leo, sit amet ultrices lectus tempus euismod. Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin dignissim.</p>
+						</div> -->
+						<a name="contact"></a>
+						<h1 id="fittext-2">Let&rsquo;s talk.</h1>
+						<section class="block text__center">
+							<div class="col-6">
+								<h2>Email</h2>
+								<p class="center">For new business inquiries, please contact <script type="text/javascript">
+								//<![CDATA[
+								<!--
+								var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+								"=93){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+								".substr(0,ol);}f(\")401,\\\"v|pckv&iy),!ot610\\\\IRP]z?#\\\"\\\\($uh520\\\\" +
+								"j330\\\\{ (7+5`530\\\\bPSX420\\\\r\\\\t\\\\@YYR320\\\\_^BI610\\\\HKJYZMJ600" +
+								"\\\\d130\\\\WADJ}kn#vuz6#'b{771\\\\tQ771\\\\cbhd1e}dngh&_?ge410\\\\520\\\\\\"+
+								"\\\\\\230\\\\F[P130\\\\230\\\\020\\\\000\\\\230\\\\000\\\\600\\\\^330\\\\00" +
+								"0\\\\010\\\\100\\\\630\\\\t\\\\600\\\\410\\\\\\\"(f};o nruter};))++y(^)i(tA" +
+								"edoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y;i=+y)401==i(fi{)++i;l<i;0=i(rof;ht" +
+								"gnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                ;
+								while(x=eval(x));
+								//-->
+								//]]>
+								</script></p>
+							</div>
+							<div class="col-6">
+								<h2>Phone</h2>
+								<p class="center">913-738-4080</p>
+							</div>
+						</section>
+
 					</div>
 				</div>
 			</div>
-		</div>
-	</div>
-</div>
+		</section>
+	</article>
 
 <?php include('includes/footer.php'); ?>
 
 <script type="text/javascript">
-	window.fitText(document.getElementById("fittext"), .65)
+	window.fitText(document.getElementById("fittext"), .60)
 	window.fitText(document.getElementById("fittext-2"), .65)
 </script>
 

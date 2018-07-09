@@ -11,206 +11,206 @@
 	<link href="http://www.flow14.com/" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body class="warm-flow">
-<div class="container">
+<body>
 	<?php include('includes/header-nav.php'); ?>
-	<div class="row">
-		<div class="col-1 hidden-sm">&#160;</div>
-		<div class="col-10">
-			<p class="hidden-lg mono mono-light">&because;</p>
-			<!-- <h2 id="fittext" class="center" style="color: rgba(52, 52, 52, .6); margin:.09em 0 0 0;">design works&horbar;</h2> -->
-			<h1 class="center" style="margin:2rem 0 .5em 0;"><div class="inner">A branding and web design studio focused on making design work for growing businesses and nonprofits.</h1>
-			<p class="hidden-lg mono mono-light">&therefore;</p>
+	<section class="block">
+		<div class="pattern__2-8-2 text__center">
+			<div class="inner">
+				<h1>A branding and web design studio focused on making design work for growing businesses and nonprofits.</h1>
+			</div>
 		</div>
-		<div class="col-1 hidden-sm">&#160;</div>
-	</div>
-</div>
-<div class="container">
-	<div class="row">
-		<div class="col-1">&#160;</div>
-		<div class="col-10">
-		</div>
-		<div class="col-1">&#160;</div>
-	</div>
-</div>
-<div class="container">
-<!-- NONPROFITS: ROW 1 OF 2 -->
-	<div class="inner center"><h2>design samples: nonprofits&horbar;</h2></div>
-	<div class="row">
-		<!-- HNC LIVING -->
-		<div class="col-3 hidden-sm">&#160;</div>
-		<div class="col-6">
+	</section>
+
+<?php /* Nonprofits */ ?>
+	<div class="block">
+		<div class="pattern__3-6-3 text__center sample">
+			<h2>design samples: nonprofits&horbar;</h2>
 			<a href="hnc-living-foundation"><img src="img/samples/hnc-living/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="HNC Living Foundation Website Redesign"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="hnc-living-foundation">HNC Living</a></h2>
 					<p>A website redesign with an impact.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="hnc-living-foundation" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-	</div><!-- /row -->
-	<div class="row">
-		<!-- ROUNDING UP UNDIES -->
-		<div class="col-6">
+	</div>
+
+	<div class="block block--flush">
+		<div class="col-6 text__center sample">
 			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="rounding-up-undies">Rounding Up Undies</a></h2>
 					<p>Distinctive logo design for a nonprofit.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="rounding-up-undies" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-		<!-- KC LISC -->
-		<div class="col-6">
+		<div class="col-6 text__center sample">
 			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="kc-lisc">KC Lisc</a></h2>
 					<p>Interactive infographics tell a better story.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="kc-lisc" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-	</div><!-- /row -->
-	<div class="inner center"><h2>design samples: websites &amp; logos&horbar;</h2></div>
-<!-- WEBSITES -->
-	<div class="row">
-		<div class="col-6">
+	</div>
+
+<?php /* Websites and logos */ ?>
+	<div class="block block--flush">
+		<div class="col-12 spacer-0--bottom spacer-6--top">
+			<div class="inner text__center">
+				<h2>design samples: websites &amp; logos&horbar;</h2>
+			</div>
+		</div>
+		<div class="col-6 text__center sample">
 			<a href="websites"><img src="img/samples/websites/thumbnail-alt.2x.jpg" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="websites">Responsive Websites</a></h2>
 					<p>Mobile-friendly website designs.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="websites" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-<!-- logos -->
-		<div class="col-6">
+		<div class="col-6 text__center sample">
 			<a href="logos"><img src="img/samples/logos/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Logo designs"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="logos">Logo Designs</a></h2>
 					<p>A selection of logo designs.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="logos" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-	</div><!-- /row -->
-<!-- small businesses -->
-	<div class="inner center"><h2>Design Samples: Startup Branding&horbar;</h2></div>
-	<div class="row">
-		<div class="col-6">
+	</div>
+
+<?php /* Startup branding */ ?>
+	<div class="block block--flush">
+		<div class="col-12 spacer-0--bottom spacer-6--top">
+			<div class="inner text__center">
+				<h2>Design Samples: Startup Branding&horbar;</h2>
+			</div>
+		</div>
+		<div class="col-6 text__center sample">
 			<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumbnail-alt.2x.png" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
 					<p>Logo design for a unique startup.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="creative-outfitters" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-		<div class="col-6">
+		<div class="col-6 text__center sample">
 			<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumbnail-alt.2x.png" width="100%" height="auto" class="lazyload" alt="Harmony Hearing Aids logo design"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="harmony-hearing-aids">Harmony</a></h2>
 					<p>Distinctive logo design for a new business.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="harmony-hearing-aids" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-	</div><!-- /row -->
-<!-- political groups -->
-	<div class="inner center"><h2>design samples: political groups&horbar;</h2></div>
-	<div class="row">
-<!-- kansas dems -->
-		<div class="col-6">
+	</div>
+
+<?php /* Political */ ?>
+	<div class="block block--flush">
+		<div class="col-12 spacer-0--bottom spacer-6--top">
+			<div class="inner text__center">
+				<h2>design samples: political groups&horbar;</h2>
+			</div>
+		</div>
+		<div class="col-6 text__center sample">
 			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="kansas-dems">Kansas Dems</a></h2>
 					<p>Rebranding a political party.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="kansas-dems" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-<!-- lisa for kansas senate -->
-		<div class="col-6">
+		<div class="col-6 text__center sample">
 			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
 					<p>Designing a campaign for Kansas Senate.</p>
 				</div>
-				<div class="sample-cta">
+				<div class="col-4 align__center sample-cta">
 					<a href="lisa-for-kansas-senate" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
-	</div><!-- /row -->
-	<div class="row">
-	<div class="row">
-		<div class="inner center"><h2>Other works&horbar;</h2></div>
-		<div class="col-4">
+	</div>
+
+<?php /* Other works */ ?>
+	<div class="block block--flush">
+		<div class="col-12 spacer-0--bottom spacer-6--top">
+			<div class="inner text__center">
+				<h2>Other works&horbar;</h2>
+			</div>
+		</div>
+		<div class="col-4 text__center sample">
 			<a href="http://www.kylewjohnston.com"><img src="img/samples/video.jpg" width="100%" height="auto" class="lazyload" alt="Kyle Johnston advertising portfolio"></a>
-			<div class="sample">
-				<div class="sample-desc">
-					<h2><a href="http://www.kylewjohnston.com">Advertising</a></h2>
-					<p>View work from my advertising portfolio at <a href="http://www.kylewjohnston.com">KyleWJohnston.com.</a></p>
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
+					<h2><a href="http://www.kylewjohnston.com">KyleWJohnston.com</a></h2>
+					<p>My other portfolio.</p>
 				</div>
-				<div class="sample-cta">
-					<a href="http://www.kylewjohnston.com" class="ghost-button">View the work »</a>
+				<div class="col-4 align__center sample-cta">
+					<a href="http://www.kylewjohnston.com" class="ghost-button">Go »</a>
 				</div>
 			</div>
 		</div>
-		<div class="col-4">
+		<div class="col-4 text__center sample">
 			<a href="iphone-365-project"><img src="img/samples/365-2016.jpg" width="100%" height="auto" class="lazyload" alt="365 project"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="iphone-365-project">365 Project</a></h2>
-					<p>A photo a day, every day, since 2009.</p>
+					<p>A photo a day, every day.</p>
 				</div>
-				<div class="sample-cta">
-					<a href="iphone-365-project" class="ghost-button">Watch the videos »</a>
+				<div class="col-4 align__center sample-cta">
+					<a href="iphone-365-project" class="ghost-button">Watch »</a>
 				</div>
 			</div>
 		</div>
-		<div class="col-4">
+		<div class="col-4 text__center sample">
 			<a href="fonts"><img src="img/fonts/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Free fonts"></a>
-			<div class="sample">
-				<div class="sample-desc">
+			<div class="block block--flush">
+				<div class="col-8 sample-desc">
 					<h2><a href="fonts">Fonts</a></h2>
-					<p>A selection of custom fonts I&rsquo;ve made &#8212; free to download.</p>
+					<p>Custom fonts &#8211; free to download.</p>
 				</div>
-				<div class="sample-cta">
-					<a href="fonts" class="ghost-button">View the fonts »</a>
+				<div class="col-4 align__center sample-cta">
+					<a href="fonts" class="ghost-button">Fonts »</a>
 				</div>
 			</div>
 		</div>
-	</div><!-- /row -->
-</div>
+	</div>
+
 
 <?php include('includes/footer.php'); ?>
-
 
 <script type="text/javascript">
 	window.fitText(document.getElementById("fittext"), .75)
