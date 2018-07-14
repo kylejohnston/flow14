@@ -1,6 +1,6 @@
 	<!-- Le styles -->
 	<link href="css/gridkit.min.css?20180709_0000" rel="stylesheet">
-	<link href="css/stylesheet.min.css?20180709_0003" rel="stylesheet">
+	<link href="css/stylesheet.min.css?20180714_0000" rel="stylesheet">
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
