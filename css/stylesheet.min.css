@@ -19,12 +19,11 @@
 @-webkit-keyframes cool-flow{0%{background:#1FBAC3}100%{background:#D7C115}}@keyframes cool-flow{0%{background:#1FBAC3}100%{background:#D7C115}}
 .yolo { background: yellow; }
 
-html,
-body{background-color:#FEC931;color:#343434;font-family:'Overpass', Helvetica, sans-serif;font-size:100%;}
+html,body{background-color:#FEC931;color:#343434;font-family:'Overpass', Helvetica, sans-serif;font-size:100%;}
 	.warm-flow {-webkit-animation:warm-flow 7s infinite alternate both; -moz-animation:warm-flow 7s infinite alternate both; animation:warm-flow 7s infinite alternate both;}
 	.cool-flow {-webkit-animation:cool-flow 7s infinite alternate both; -moz-animation:cool-flow 7s infinite alternate both; animation:cool-flow 7s infinite alternate both;}
-html,
-body{background-image:linear-gradient(#FEC931, #FE8D1D);}
+html,body{background-image:linear-gradient(#FEC931, #FE8D1D);}
+html,html a{-webkit-font-smoothing:antialiased;text-shadow:1px 1px 1px rgba(0,0,0,.004)}
 body.neutral{background-color:#f8f8f8;background-image:linear-gradient(#f8f8f8, #d1d1d1);}
 body.cool{background-color:#1FBAC3;background-image:linear-gradient(#1FBAC3, #D7C115);}
 body.cool h1 span,
