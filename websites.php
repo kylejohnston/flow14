@@ -54,11 +54,11 @@
 		</section>
 
 		<section class="block item">
-			<div class="pattern__2-8-2">
+			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Lisa Johnston</h2>
 					<p class="mono"><a href="http://www.lisaforkansas.com">Visit LisaForKansas.com</a></p>
-					<img src="img/samples/websites/lisa-johnston.png" width="100%" alt="Responsive Website Design - Lisa Johnston">
+					<img src="img/samples/websites/lisaforkansas_com--website.png" width="100%" alt="Responsive Website Design - Lisa Johnston">
 				</div>
 			</div>
 		</section>
