@@ -73,9 +73,11 @@
 					<img src="img/samples/hnc-living/homepage__sm.png" width="100%" alt="HNC Living Foundation Website Design" style="border-radius: 4px;">
 				</div>
 			</div>
+		</section>
+		<section class="block testimonial">
 			<div class="pattern__3-6-3">
 				<div class="inner">
-					<h2>&horbar; &rdquo; &horbar;<br>client testimonial</h2>
+					<h2>client testimonial</h2>
 					<p class="inner">&ldquo;Kyle did an excellent job of laying our the opportunities for improving our website. He clearly identified objectives and planned an approach we could follow and participate in that didn&rsquo;t disrupt our normal activities. Our finished product came in on-time, on-budget, and on-target. We will most definitely continue to rely on Kyle and flow14 to keep our web presence current and designed to enhance our brand and identity.&rdquo;<br><em>&mdash;Tom Walsh, HNC Living Foundation Co-Founder</em></p>
 				</div>
 			</div>
