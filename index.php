@@ -11,12 +11,12 @@
 	<link href="http://www.flow14.com/" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body>
+<body class="neutral">
 	<?php include('includes/header-nav.php'); ?>
 	<section class="block">
 		<div class="pattern__2-8-2 text__center">
-			<div class="inner">
-				<h1>A branding and web design studio focused on making design work for growing businesses and nonprofits.</h1>
+			<div class="inner intro">
+				<h1>A branding and web design studio making design work for growing businesses and nonprofits.</h1>
 			</div>
 		</div>
 	</section>
