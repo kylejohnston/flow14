@@ -17,7 +17,7 @@
 /* Animation via animista.net */
 @-webkit-keyframes warm-flow{0%{background:#FEC931}100%{background:#FE8D1D}}@keyframes warm-flow{0%{background:#FEC931}100%{background:#FE8D1D}}
 @-webkit-keyframes cool-flow{0%{background:#1FBAC3}100%{background:#D7C115}}@keyframes cool-flow{0%{background:#1FBAC3}100%{background:#D7C115}}
-.yolo { background: yellow; }
+.yolo { background: yellow; color: hsl(44, 99%, 99%) }
 
 html,body{background-color:#FEC931;color:#343434;font-family:'Overpass', Helvetica, sans-serif;font-size:100%;}
 	.warm-flow {-webkit-animation:warm-flow 7s infinite alternate both; -moz-animation:warm-flow 7s infinite alternate both; animation:warm-flow 7s infinite alternate both;}
@@ -31,15 +31,17 @@ body.cool h2 span{color:#1FBAC3;}
 body.cool footer,
 body.cool footer a{color:#D7C115;}
 /* LINKS */
-a:link,a:visited{color:#0E584D;}
+a:link,a:visited{color:#11656a;}
 a:hover,a:active{text-decoration:none;}
 a.ghost-button:link,
-a.ghost-button:visited{border-radius:2px;border:1px solid rgba(14, 88, 77, .8);color:#0E584D;font-weight:bold;margin:8px;padding:8px 16px;text-decoration:none;text-transform:uppercase;}
+a.ghost-button:visited{border-radius:2px;border:2px solid rgba(17, 101, 106, 0.8);color:#11656a;font-weight:bold;margin:8px;padding:8px 16px;text-decoration:none;text-transform:uppercase;}
 a.ghost-button:hover,
-a.ghost-button:active{background-color:#0E584D;border-color:#0E584D;color:#fff;}
+a.ghost-button:active{background-color:#11656a;border-color:#11656a;color:#fff;}
 /* TYPOGRAPHY */
 h1,h2,h3,h4,h5,h6,p { margin: 8px 0 24px 0; }
-h1{font-family:'Passion One';font-size:2.8rem;line-height:.88 !important;text-align:center;text-transform:uppercase;}
+h1{color: hsl(0,0%,24%);font-family:'Passion One';font-size:1.8rem;letter-spacing:1px;text-align:center;}
+#fittext {text-transform: uppercase;line-height: .9 !important;}
+.intro:before {content:'';background:#FE8D1D;display:block;height:8px;margin:0 auto 16px auto;text-align:center;width:14%;}
 	.item h1 {color:#343434;line-height:1;}
 h2 {font-family:'Passion One';font-size:2rem;text-transform:uppercase;}
 	.item h2 {line-height:1;padding:0;text-align:center;}
@@ -67,9 +69,9 @@ header h1.logo--large a{margin:.6em auto .6em auto;padding:0;display:block;width
 header h1.logo--small a{margin:.3em auto .3em auto;padding:0;display:block;width:133px;height:43px;background-size:133px 43px;}
 nav{padding:0 16px 16px;}
 nav a:link,
-nav a:visited{font-size:.75em;margin:0;padding:8px;color:#0E584D;text-transform:uppercase;text-decoration:none;border-radius:2px;}
+nav a:visited{font-size:.75em;margin:0;padding:8px;/*color:#0E584D;*/text-transform:uppercase;text-decoration:none;border-radius:2px;}
 nav a:hover,
-nav a:active{background-color:#0E584D;border-color:#0E584D;color:#fff;}
+nav a:active{background-color:#11656a;border-color:#11656a;color:#fff;}
 
 /*
 = = = = = =
@@ -131,12 +133,13 @@ footer a:hover, footer a:active{text-decoration:none;}
 @media (max-width: 1011px) {
 }
 @media (min-width: 1012px) {
+	h1{font-size:2.8rem}
 	.sample-desc h2,
 	.sample-desc p {text-align:left;}
 	.scale{transform:scale(1.2);}
-	.scale1_2{transform:scale(1.2);}
-	.scale1_3{transform:scale(1.3);}
-	.scale1_4{transform:scale(1.4);}
+	.scale1_2{transform:scale(1.2)}
+	.scale1_3{transform:scale(1.3)}
+	.scale1_4{transform:scale(1.4)}
 }
 @media (min-width: 1280px) {
 }
