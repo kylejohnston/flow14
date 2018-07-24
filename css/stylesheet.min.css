@@ -64,7 +64,7 @@ p.mono-light{color:#fff;}
 	2. Header
 = = = = = =
 */
-header h1.logo a{background:url(http://www.flow14.com/img/flow14-logo.svg);text-indent:-9999px;}
+header h1.logo a{background:url(//www.flow14.com/img/flow14-logo.svg);text-indent:-9999px;}
 header h1.logo--large a{margin:.6em auto .6em auto;padding:0;display:block;width:266px;height:86px;background-size:266px 86px;}
 header h1.logo--small a{margin:.3em auto .3em auto;padding:0;display:block;width:133px;height:43px;background-size:133px 43px;}
 nav{padding:0 16px 16px;}
