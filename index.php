@@ -27,12 +27,9 @@
 			<h2>design samples: nonprofits&horbar;</h2>
 			<a href="hnc-living-foundation"><img src="img/samples/hnc-living/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="HNC Living Foundation Website Redesign"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="hnc-living-foundation">HNC Living</a></h2>
 					<p>A website redesign with an impact.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="hnc-living-foundation" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
@@ -42,24 +39,18 @@
 		<div class="col-6 text__center sample">
 			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="rounding-up-undies">Rounding Up Undies</a></h2>
 					<p>Distinctive logo design for a nonprofit.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="rounding-up-undies" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
 			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="kc-lisc">KC Lisc</a></h2>
 					<p>Interactive infographics tell a better story.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="kc-lisc" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
@@ -75,24 +66,18 @@
 		<div class="col-6 text__center sample">
 			<a href="websites"><img src="img/samples/websites/thumbnail-alt.2x.jpg" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="websites">Responsive Websites</a></h2>
 					<p>Mobile-friendly website designs.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="websites" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
 			<a href="logos"><img src="img/samples/logos/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Logo designs"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="logos">Logo Designs</a></h2>
 					<p>A selection of logo designs.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="logos" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
@@ -108,24 +93,18 @@
 		<div class="col-6 text__center sample">
 			<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumbnail-alt.2x.png" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
 					<p>Logo design for a unique startup.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="creative-outfitters" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
 			<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumbnail-alt.2x.png" width="100%" height="auto" class="lazyload" alt="Harmony Hearing Aids logo design"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="harmony-hearing-aids">Harmony</a></h2>
 					<p>Distinctive logo design for a new business.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="harmony-hearing-aids" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
@@ -141,24 +120,18 @@
 		<div class="col-6 text__center sample">
 			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="kansas-dems">Kansas Dems</a></h2>
 					<p>Rebranding a political party.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="kansas-dems" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
 			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
 					<p>Designing a campaign for Kansas Senate.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="lisa-for-kansas-senate" class="ghost-button">View the work »</a>
 				</div>
 			</div>
 		</div>
@@ -174,36 +147,27 @@
 		<div class="col-4 text__center sample">
 			<a href="http://www.kylewjohnston.com"><img src="img/samples/video.jpg" width="100%" height="auto" class="lazyload" alt="Kyle Johnston advertising portfolio"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="http://www.kylewjohnston.com">KyleWJohnston.com</a></h2>
 					<p>My other portfolio.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="http://www.kylewjohnston.com" class="ghost-button">Go »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-4 text__center sample">
 			<a href="iphone-365-project"><img src="img/samples/365-2016.jpg" width="100%" height="auto" class="lazyload" alt="365 project"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="iphone-365-project">365 Project</a></h2>
 					<p>A photo a day, every day.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="iphone-365-project" class="ghost-button">Watch »</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-4 text__center sample">
 			<a href="fonts"><img src="img/fonts/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Free fonts"></a>
 			<div class="block block--flush">
-				<div class="col-8 sample-desc">
+				<div class="col-12 sample-desc">
 					<h2><a href="fonts">Fonts</a></h2>
 					<p>Custom fonts &#8211; free to download.</p>
-				</div>
-				<div class="col-4 align__center sample-cta">
-					<a href="fonts" class="ghost-button">Fonts »</a>
 				</div>
 			</div>
 		</div>

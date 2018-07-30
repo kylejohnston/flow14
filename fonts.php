@@ -11,7 +11,7 @@
 	<link href="http://www.flow14.com/fonts" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 </head>
-<body class="cool">
+<body class="neutral">
 	<?php include('includes/header-nav--small.php'); ?>
 	<article class="content">
 		<section class="block">
