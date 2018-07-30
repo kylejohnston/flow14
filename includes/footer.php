@@ -17,16 +17,16 @@
 				<h2>Other Projects&horbar;</h2>
 				<p>
 				<a href="http://blog.flow14.com">Blog (Archive)</a><br>
-				<a href="http://www.flow14.com/iphone-365-project">365 Project</a><br>
+				<a href="https://www.flow14.com/iphone-365-project">365 Project</a><br>
+				<a href="https://memex.flow14.com/">MEMEX</a><br>
 				</p>
 			</div>
 		</div>
 	</div>
 	<div class="block block--flush block--wide block--mobile">
-		<div class="col-3 ft-c-1"></div>
-		<div class="col-3 ft-c-2"></div>
-		<div class="col-3 ft-c-3"></div>
-		<div class="col-3 ft-c-4"></div>
+		<div class="col-4 ft-c-2"></div>
+		<div class="col-4 ft-c-3"></div>
+		<div class="col-4 ft-c-4"></div>
 	</div>
 </footer>
 
