@@ -3,7 +3,7 @@
 		<div class="col-4">
 			<div class="inner">
 				<h2>Elsewhere&horbar;</h2>
-				<p><a href="/">Home</a> / <a href="/">Work</a><!--  / <a href="#">Logo Designs</a> --> / <a href="about">About</a> / <a href="about#contact">Contact</a> / <a href="fonts">Fonts</a></p>
+				<p><a href="/">Home</a> / <a href="/">Work</a><!--  / <a href="#">Logo Designs</a> --> / <a href="about">About</a> / <a href="about#contact">Contact</a> / <a href="https://noted.flow14.com">Noted</a> / <a href="fonts">Fonts</a></p>
 			</div>
 		</div>
 		<div class="col-4">
