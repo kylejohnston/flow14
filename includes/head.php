@@ -1,6 +1,19 @@
+	<meta property="og:title" content="flow14 — design works" />
+	<meta property="og:url" content="https://www.flow14.com" />
+	<meta property="og:image" content="https://www.flow14.com/img/share.png" />
+	<meta property="og:image:width" content="500" />
+	<meta property="og:image:height" content="250" />
+	<meta property="og:description" content="flow14 is a design studio – making design work wonders." />
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@kylejohnston">
+	<meta name="twitter:title" content="flow14 — design works">
+	<meta name="twitter:description" content="flow14 is a design studio – making design work wonders.">
+	<meta name="twitter:image" content="https://www.flow14.com/img/share.png">
+
 	<!-- Le styles -->
 	<link href="css/gridkit.min.css?20180730_0000" rel="stylesheet">
-	<link href="css/stylesheet.min.css?20180730_0000" rel="stylesheet">
+	<link href="css/stylesheet.min.css?20180804_0000" rel="stylesheet">
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
