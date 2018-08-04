@@ -56,7 +56,7 @@ p.mono-light{color:#A6B4C2}
 */
 .logo{fill:#179bcf;fill-rule:evenodd}
 .logo--large{height:72%;margin:16px auto 0;width:72%}
-.logo--small{height:64%;margin:16px auto 0;width:64%}
+.logo--small{height:48%;margin:16px auto 0;width:48%}
 nav{padding:0 16px 16px}
 nav a:link,
 nav a:visited{font-size:.75em;margin:0;padding:8px 12px;color:#179bcf;text-transform:uppercase;text-decoration:none;border-radius:2px}
