@@ -22,10 +22,14 @@
 	</section>
 
 <?php /* Nonprofits */ ?>
-	<div class="block">
-		<div class="pattern__3-6-3 text__center sample">
-			<h2>design samples: nonprofits&horbar;</h2>
-			<a href="hnc-living-foundation"><img src="img/samples/hnc-living/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="HNC Living Foundation Website Redesign"></a>
+	<div class="block block--flush">
+		<div class="col-12 spacer-0--bottom spacer-6--top">
+			<div class="inner text__center">
+				<h2>design samples: nonprofits&horbar;</h2>
+			</div>
+		</div>
+		<div class="col-4 text__center sample">
+			<a href="hnc-living-foundation"><img src="img/samples/hnc-living/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="HNC Living Foundation Website Redesign"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="hnc-living-foundation">HNC Living</a></h2>
@@ -33,11 +37,8 @@
 				</div>
 			</div>
 		</div>
-	</div>
-
-	<div class="block block--flush">
-		<div class="col-6 text__center sample">
-			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.2x.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design"></a>
+		<div class="col-4 text__center sample">
+			<a href="rounding-up-undies"><img src="img/samples/rounding-up-undies/thumbnail.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="rounding-up-undies">Rounding Up Undies</a></h2>
@@ -45,8 +46,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-6 text__center sample">
-			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
+		<div class="col-4 text__center sample">
+			<a href="kc-lisc"><img src="img/samples/kc-lisc/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Kansas City LISC infographic design"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="kc-lisc">KC Lisc</a></h2>
@@ -64,7 +65,7 @@
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
-			<a href="websites"><img src="img/samples/websites/thumbnail-alt.2x.jpg" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
+			<a href="websites"><img src="img/samples/websites/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Responsive website designs"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="websites">Responsive Websites</a></h2>
@@ -73,7 +74,7 @@
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
-			<a href="logos"><img src="img/samples/logos/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Logo designs"></a>
+			<a href="logos"><img src="img/samples/logos/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Logo designs"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="logos">Logo Designs</a></h2>
@@ -91,7 +92,7 @@
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
-			<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumbnail-alt.2x.png" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
+			<a href="creative-outfitters"><img src="img/samples/creative-outfitters/thumbnail.jpg" width="100%" height="auto" alt="Creative Outfitters logo design"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="creative-outfitters">Creative Outfitters</a></h2>
@@ -100,7 +101,7 @@
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
-			<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumbnail-alt.2x.png" width="100%" height="auto" class="lazyload" alt="Harmony Hearing Aids logo design"></a>
+			<a href="harmony-hearing-aids"><img src="img/samples/harmony/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Harmony Hearing Aids logo design"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="harmony-hearing-aids">Harmony</a></h2>
@@ -118,7 +119,7 @@
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
-			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
+			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="kansas-dems">Kansas Dems</a></h2>
@@ -127,7 +128,7 @@
 			</div>
 		</div>
 		<div class="col-6 text__center sample">
-			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.2x.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
+			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h2><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h2>
