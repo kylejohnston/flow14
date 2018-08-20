@@ -12,7 +12,7 @@
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="neutral">
-	<?php include('includes/header-nav--small.php'); ?>
+	<?php include('includes/header-nav.php'); ?>
 	<article class="content">
 		<section class="block">
 			<div class="pattern__2-8-2">

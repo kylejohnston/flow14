@@ -12,7 +12,7 @@
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="neutral">
-	<?php include('includes/header-nav--small.php'); ?>
+	<?php include('includes/header-nav.php'); ?>
 	<article class="content">
 		<section class="block">
 			<div class="pattern__2-8-2">
@@ -56,7 +56,7 @@
 		<section class="block item">
 			<div class="pattern__3-6-3">
 				<div class="inner">
-					<h2>RESEARCH &times; AUDITING</h2>
+					<h2>Research &times; Auditing</h2>
 					<p>I researched scores of nonprofits in cancer care and other areas to understand different models for site organization, content, and calls to action. This research, informed by HNC Living’s goals and audiences, led to a new navigation structure that directly addressed their key audiences: donors, healthcare providers, and patients.</p>
 					<p>Next, a SEO audit underscored the benefits of this approach, and informed a content strategy that spoke more clearly to their audiences and allowed for hyper-relevant calls to action.</p>
 				</div>
@@ -114,7 +114,7 @@
 		<section class="block item">
 			<div class="pattern__3-6-3">
 				<div class="inner">
-					<h2>Clear calls to action</h2>
+					<h2>Clear Calls to Action</h2>
 					<p>New, audience-centric landing pages speak directly to HNC Living’s key audiences, ensuring they clearly understand what the organization has to offer with clear calls to action.</p>
 				</div>
 			</div>
@@ -132,7 +132,7 @@
 			</div>
 			<div class="col-6 order-1 align__center">
 				<div class="inner">
-					<h2>WEBSITE MANUAL</h2>
+					<h2>Website Manual</h2>
 					<p>To ensure the website continues to evolve and serve the HNC Living’s needs well into the future, I created a comprehensive manual that details how to update and maintain the website.</p>
 				</div>
 			</div>
@@ -154,7 +154,7 @@
 		<section class="block testimonial">
 			<div class="pattern__3-6-3">
 				<div class="inner">
-					<h2>client testimonial</h2>
+					<h2 class="upcase heavyweight">Client Testimonial</h2>
 					<p class="inner">&ldquo;Kyle did an excellent job of laying our the opportunities for improving our website. He clearly identified objectives and planned an approach we could follow and participate in that didn&rsquo;t disrupt our normal activities. Our finished product came in on-time, on-budget, and on-target. We will most definitely continue to rely on Kyle and flow14 to keep our web presence current and designed to enhance our brand and identity.&rdquo;<br><em>&mdash;Tom Walsh, HNC Living Foundation Co-Founder</em></p>
 				</div>
 			</div>

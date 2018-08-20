@@ -12,7 +12,7 @@
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="neutral">
-	<?php include('includes/header-nav--small.php'); ?>
+	<?php include('includes/header-nav.php'); ?>
 	<article class="content">
 		<section class="block">
 			<div class="pattern__3-6-3">
@@ -24,7 +24,7 @@
 		</section>
 
 		<section class="block item">
-			<div class="col-12"><h2>&times; startup logo design &times;</h2></div>
+			<div class="col-12"><h2 class="upcase heavyweight">Startup Logo Design</h2></div>
 			<div class="col-6">
 				<a href="creative-outfitters"><img src="img/samples/logos/1440x810/creative-outfitters-2x.png" width="100%" height="auto" alt="Creative Outfitters logo"></a>
 				<div class="inner center">
@@ -65,13 +65,13 @@
 
 		<section class="block testimonial">
 			<div class="pattern__3-6-3">
-				<h2>client testimonial</h2>
+				<h2 class="upcase heavyweight">Client Testimonial</h2>
 				<p class="inner">&ldquo;My logo design was everything I wanted! Kyle was very easy to work with and responded very quickly. The end result was perfect and he sent every format imaginable over to make it easy to use in any application. I would definitely recommend him. I would be very happy to use him again for any design projects.&rdquo;<br><em>&mdash;Chase Rhinehart, Rhinehart Excavating</em></p>
 			</div>
 		</section>
 
 		<section class="block item">
-			<div class="col-12"><h2>&times; nonprofit logo design &times;</h2></div>
+			<div class="col-12"><h2 class="upcase heavyweight">Nonprofit Logo Design</h2></div>
 			<div class="col-6">
 				<a href="rounding-up-undies"><img src="img/samples/logos/1440x810/rounding-up-undies-2x.png" width="100%" height="auto" alt="Rounding Up Undies logo"></a>
 				<div class="inner center">
@@ -93,7 +93,7 @@
 		</section>
 
 		<section class="block item">
-			<div class="col-12"><h2>&times; political logo design &times;</h2></div>
+			<div class="col-12"><h2 class="upcase heavyweight">Political Logo Design</h2></div>
 			<div class="col-6">
 				<a href="lisa-for-kansas"><img src="img/samples/logos/1440x810/lisa-us-senate-2x.png" width="100%" height="auto" alt="Lisa Johnston for US Senate logo"></a>
 				<div class="inner center">

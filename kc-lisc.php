@@ -12,7 +12,7 @@
 	<?php include('includes/head.php'); ?>
 </head>
 <body class="neutral">
-	<?php include('includes/header-nav--small.php'); ?>
+	<?php include('includes/header-nav.php'); ?>
 	<article class="content">
 		<section class="block">
 			<div class="pattern__2-8-2">
@@ -28,7 +28,7 @@
 				<div class="inner">
 					<h2>The Challenge</h2>
 					<p>Initially, I was asked to create a network diagram, but as I looked through the data provided, I realized a network diagram would result in an extremely complex visual, making it difficult for viewers to understand and difficult to update in the future.</p>
-					<h2>THE SOLUTION</h2>
+					<h2>The Solution</h2>
 					<p>I decided to use <a href="http://d3js.org/" title="d3 - data-driven documents">d3js</a>, a JavaScript library that enables relatively simple and flexible visualization of complex data. d3 provides the added benefits of being maintainable, functional across mobile and desktop devices, and offers the ability to export vector graphics that can be reproduced in print.</p>
 					<p class="center"><a class="ghost-button" href="http://www.flow14.com/lisc/">View the live version here</a></p>
 				</div>
@@ -41,7 +41,7 @@
 		<section class="block item">
 			<div class="pattern__3-6-3">
 				<div class="inner">
-					<h2>Interacting with the infographic</h2>
+					<h2>Interacting with the Infographic</h2>
 					<p>Viewers can roll over any of the services or organizations to see how they're connected to each other.</p>
 				</div>
 			</div>
