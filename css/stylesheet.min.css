@@ -13,7 +13,7 @@
 	1. Base Styles
 = = = = = =
 */
-@import url(https://fonts.googleapis.com/css?family=Passion+One:700|Roboto+Mono);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
 /* Animation via animista.net */
 .yolo{background:#ff0;color:#fefdf9}
 
@@ -29,17 +29,18 @@ a.ghost-button:visited{border-radius:2px;border:2px solid rgba(0,160,219,.8);col
 a.ghost-button:hover,
 a.ghost-button:active{background-color:#144F65;border-color:#144F65;color:#F0F8FA}
 /* TYPOGRAPHY */
-h1,h2,h3,h4,h5,h6,p{margin:8px 0 24px}
-h1{color:#1A3135;font-family:'Passion One',sans-serif;font-size:1.8rem;letter-spacing:1px;text-align:center}
-#fittext{text-transform:uppercase;line-height:.9!important}
-.intro:before{content:'';background:#E53B34;border-radius:8px;display:block;height:8px;margin:0 auto 16px;text-align:center;width:14%}
+h1,h2,h3,h4,h5,h6,p{line-height:1;margin:8px 0 16px}
+h1,h2,h3,h4,h5,h6{font-family:'canada-type-gibson',sans-serif}
+h1{color:#1A3135;font-size:1.8rem;font-weight:700;letter-spacing:1px;text-align:center}
+#fittext,#fittext-2,#fittext-3,#fittext-4{text-transform:uppercase;line-height:.9!important}
+.intro:before{content:'';background:#E53B34;border-radius:8px;display:block;height:8px;margin:0 auto 24px;text-align:center;width:14%}
 	.item h1{color:#1A3135;line-height:1}
-h2{font-family:'Passion One',sans-serif;font-size:2rem;text-transform:uppercase}
+h2{font-size:2rem;font-weight:600}
 	.item h2{line-height:1;padding:0;text-align:center}
 	.item h2:before{content:'';background:#00A0DB;border-radius:8px;display:block;height:8px;margin:0 auto 16px;text-align:center;width:8%}
 	.testimonial h2{line-height:1;padding:0;text-align:center}
 	.testimonial h2:before{content:'― ” ―';color:#E53B34;display:block;line-height:1;margin:0 auto;padding:0;text-align:center}
-h3{font-size:1.375rem}
+h3{font-size:1.375rem;font-weight:600}
 	.item h3{text-align:center}
 h4{font-size:1.125rem}
 h5{font-size:1rem}
@@ -48,20 +49,57 @@ p{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubu
 .mono{font-family:'Roboto Mono',monospace}
 p.mono{font-size:.85rem;font-family:'Roboto Mono',monospace;text-align:center;line-height:1.4}
 p.mono-light{color:#A6B4C2}
+.upcase{text-transform:uppercase}
+.heavyweight{font-weight:700}
+.midweight{font-weight:600}
+.lightweight{font-weight:400}
 
 /*
 = = = = = =
 	2. Header
 = = = = = =
 */
-.logo{fill:#179bcf;fill-rule:evenodd}
-.logo--large{height:72%;margin:16px auto 0;width:72%}
+header .hamburger{margin:16px 0 64px 0;}
+.logo{fill:#179BCF;fill-rule:evenodd;}
+.logo--large{height:auto;margin:16px auto 0;width:184px;z-index:110}
 .logo--small{height:48%;margin:16px auto 0;width:48%}
-nav{padding:0 16px 16px}
+.is-opened-navi .logo{fill:#EDF8FD;fill-rule:evenodd;}
+.is-opened-navi .tab{position: fixed;}
+.welcome{height:64vh;margin:0;background:url(../img/texture/waves--1000.jpg) center bottom no-repeat fixed #D7DDE4;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-blend-mode:screen}
+
+nav{display:none}
 nav a:link,
-nav a:visited{font-size:.75em;margin:0;padding:8px 12px;color:#179bcf;text-transform:uppercase;text-decoration:none;border-radius:2px}
+nav a:visited{font-size:.75em;margin:0;padding:12px 12px 12px 12px;color:#179bcf;text-transform:uppercase;text-decoration:none}
 nav a:hover,
 nav a:active{background-color:#144F65;border-color:#144F65;border-radius:24px;color:#F0F8FA}
+a.tab{display:block;position:absolute;top:49px;padding:0;width:60px;height:40px;background:url(../img/tab--large.svg) no-repeat;transform:translateX(0);transition-timing-function:ease;transition-duration:.6s;transition-delay:.1s;right:0}
+a.tab:hover{transform: translateX(-8px);transition-delay:0;-o-transition:0.3s;-ms-transition:0.3s;-moz-transition:0.3s;-webkit-transition:0.3s;transition:0.3s}
+.is-opened-navi a.tab{width:40px;background:url(../img/tab--arrow.svg) no-repeat;transform:translateX(0);right:32px;transition-timing-function:ease;transition-duration:.3s;transition-delay:.2s}
+.is-opened-navi nav{transform:translateY(-200px);transition-duration:.6s;transition-delay:.2s}
+/* Menu */
+.global-menu{width:100vw;height:90vh;display:flex;justify-content:center;align-items:center;text-align:center;position:fixed;top:0;left:0;pointer-events:none;z-index: 100;}
+.global-menu__item{color:#EDF8FD!important;display:block;font-family:canada-type-gibson,sans-serif;font-size:4em;font-weight:700;margin:.25em 0;opacity:0;pointer-events:none;transform:translateY(-100%);transition:transform .3s,opacity .3s}
+.global-menu__item:hover{color:#FFF!important;text-shadow:0 4px 20px #106d92}
+.global-menu__item.is-opened{opacity:1;transform:translateY(0) rotate(0);pointer-events:auto;transition-timing-function:ease;transition-duration:0.3s}
+/* SHOW */
+.global-menu__item.is-opened:nth-of-type(1)	{transition-delay:0.65s}
+.global-menu__item.is-opened:nth-of-type(2)	{transition-delay:0.70s}
+.global-menu__item.is-opened:nth-of-type(3)	{transition-delay:0.75s}
+.global-menu__item.is-opened:nth-of-type(4)	{transition-delay:0.80s}
+/* HIDE */
+.global-menu__item:nth-of-type(1) {transition-delay:0.20s}
+.global-menu__item:nth-of-type(2) {transition-delay:0.15s}
+.global-menu__item:nth-of-type(3) {transition-delay:0.10s}
+.global-menu__item:nth-of-type(4) {transition-delay:0.00s}
+
+.shape-overlays{width:100vw;height:100vh;pointer-events:none;position:fixed;top:0;left:0}
+.shape-overlays.is-opened{pointer-events:auto}
+.shape-overlays__path:nth-of-type(1){fill:#E53B34}
+.shape-overlays__path:nth-of-type(2){fill:#B01C17}
+.shape-overlays__path:nth-of-type(3){fill:#179BCF}
+.hamburger {z-index: 110}
+.global-menu small{display:block;color:#b3e9ff;font-size:1.5rem;font-weight:400;letter-spacing:1.2px}
+
 /* 
 = = = = = =
 	3. Content
@@ -73,17 +111,19 @@ section img{width:100%}
 /* HOMEPAGE CARDS */
 .sample{padding-bottom:32px}
 .sample img{margin:0 0 8px;padding:0}
-.sample-desc h2,.sample-desc p{margin:0 16px;text-align:center}
+.sample-desc h2,.sample-desc h3,.sample-desc p{margin:4px;text-align:center}
+.sample-desc h3{font-size:1.75rem}
 .sample-cta{padding:0 16px}
 .sample-cta a{border:1px solid rgba(14,88,77,.8);border-radius:2px;color:#0E584D;padding:8px;text-decoration:none;text-transform:uppercase}
-
+.icon{height:auto;margin:8px auto;width:64%}
 /* UTILITIES */
 .background-white{background-color:#fff;padding-top:.4em}
 .inner{margin:0;padding:0 16px}
-.overlay{margin:.4em .4em .2em 0;padding:.4em;line-height:1.1rem;color:#fff;border-top:2px solid #fff;border-bottom:1px solid #fff;position:absolute;z-index:10;font-size:.8rem;font-weight:400;font-family:'Roboto Mono',monospace;text-transform:uppercase}
+.overlay{margin:16px 8px 4px 0;padding:4px;line-height:1.1rem;color:#fff;border-top:2px solid #fff;border-bottom:1px solid #fff;position:absolute;font-size:.8rem;font-weight:400;font-family:'Roboto Mono',monospace;text-transform:uppercase}
 .overlay-dark{color:#1A3135;border-top:2px solid #1A3135;border-bottom:1px solid #1A3135;background-color:rgba(255,255,255,.6)}
 .scale,.scale1_2,.scale1_3,.scale1_4{transform:scale(1)}
 .video{padding-bottom:2em;text-align:center}
+.center__things{display:grid;justify-items:center;height:100%}
 
 /*
 = = = = = =
@@ -95,7 +135,7 @@ footer{background-color:#1A3135;margin:40px 0 0;padding-top:24px}
 footer h2{font-size:1.45rem;letter-spacing:.05em}
 footer p{font-size:.85rem}
 footer a:active,footer a:hover{text-decoration:none}
-.ft-c-1,.ft-c-2,.ft-c-3,.ft-c-4{padding:4px 0;white-space:nowrap}
+.ft-c-1,.ft-c-2,.ft-c-3,.ft-c-4{margin-top:24px;padding:4px 0;white-space:nowrap}
 .ft-c-1{background:#94bd00}
 .ft-c-2{background:#FA8335}
 .ft-c-3{background:#179bcf}
@@ -121,13 +161,20 @@ footer a:active,footer a:hover{text-decoration:none}
 @media (max-width: 1011px) {
 }
 @media (min-width: 1012px) {
+	.nav--right{display: flex;justify-content: flex-end;}
+	nav{margin:32px 64px 32px 0;display:flex;justify-content:flex-end}
 	h1{font-size:2.8rem}
+	.logo--large{height:auto;margin:32px auto 0;width:184px;position: absolute;left:calc(50vw - 92px)}
+	.is-opened-navi .logo--large{position: fixed;}
+	.is-opened-navi .tab{position: fixed;}
 	.sample-desc h2,
 	.sample-desc p{text-align:center}
+	.icon{height:auto;margin:16px 0;width:100%}
 	.scale{transform:scale(1.2)}
 	.scale1_2{transform:scale(1.2)}
 	.scale1_3{transform:scale(1.3)}
 	.scale1_4{transform:scale(1.4)}
+	.inner-1{padding:0 4px}.inner-2{padding:0 8px}.inner-3{padding:0 16px}.inner-4{padding:0 24px}.inner-5{padding:0 32px}.inner-6{padding:0 40px}
 }
 @media (min-width: 1280px) {
 }
