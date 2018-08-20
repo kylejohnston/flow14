@@ -1,3 +1,5 @@
+	<link rel="stylesheet" href="https://use.typekit.net/ayz0tps.css">
+
 	<meta property="og:title" content="flow14 — design works" />
 	<meta property="og:url" content="https://www.flow14.com" />
 	<meta property="og:image" content="https://www.flow14.com/img/share.png" />
@@ -13,7 +15,7 @@
 
 	<!-- Le styles -->
 	<link href="css/gridkit.min.css?20180730_0000" rel="stylesheet">
-	<link href="css/stylesheet.min.css?20180804_0000" rel="stylesheet">
+	<link href="css/stylesheet.min.css?20180817_0006" rel="stylesheet">
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
