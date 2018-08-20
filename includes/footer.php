@@ -3,7 +3,7 @@
 		<div class="col-4">
 			<div class="inner">
 				<h2>Elsewhere&horbar;</h2>
-				<p><a href="/">Home</a> / <a href="/">Work</a><!--  / <a href="#">Logo Designs</a> --> / <a href="about">About</a> / <a href="about#contact">Contact</a> / <a href="https://noted.flow14.com">Noted</a> / <a href="fonts">Fonts</a></p>
+				<p><a href="/">Home</a> / <a href="/">Work</a><!--  / <a href="#">Logo Designs</a> --> / <a href="about">About</a> / <a href="contact">Contact</a> / <a href="https://noted.flow14.com">Noted</a></p>
 			</div>
 		</div>
 		<div class="col-4">
@@ -16,9 +16,10 @@
 			<div class="inner">
 				<h2>Other Projects&horbar;</h2>
 				<p>
-				<a href="http://blog.flow14.com">Blog (Archive)</a><br>
-				<a href="https://www.flow14.com/iphone-365-project">365 Project</a><br>
+				<a href="fonts">Fonts</a><br>
 				<a href="https://memex.flow14.com/">MEMEX</a><br>
+				<a href="https://www.flow14.com/iphone-365-project">365 Project</a><br>
+				<a href="http://blog.flow14.com">Blog (Archive)</a><br>
 				</p>
 			</div>
 		</div>
@@ -33,28 +34,21 @@
 
 <!-- JavaScript - - - - - - - - - - -->
 <script src="js/flow14.min.js"></script>
+<script async src="js/menu.min.js"></script>
+
 
 <!-- Analytics - - - - - - - - - - -->
 <!-- StatCounter -->
-	<script type="text/javascript">
-		var sc_project=651567; 
-		var sc_invisible=1; 
-		var sc_security="59987d53"; 
-		var scJsHost = (("https:" == document.location.protocol) ?
-		"https://secure." : "http://www.");
-		document.write("<sc"+"ript type='text/javascript' src='" +
-		scJsHost+
-		"statcounter.com/counter/counter.js'></"+"script>");
-	</script>
-
-<!-- Hotjar -->
-<script>
-	(function(h,o,t,j,a,r){
-		h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-		h._hjSettings={hjid:583449,hjsv:5};
-		a=o.getElementsByTagName('head')[0];
-		r=o.createElement('script');r.async=1;
-		r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-		a.appendChild(r);
-	})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+<script type="text/javascript">
+	var sc_project=651567; 
+	var sc_invisible=1; 
+	var sc_security="59987d53"; 
+	var scJsHost = (("https:" == document.location.protocol) ?
+	"https://secure." : "http://www.");
+	document.write("<sc"+"ript type='text/javascript' src='" +
+	scJsHost+
+	"statcounter.com/counter/counter.js'></"+"script>");
 </script>
+
+<!-- HubSpot -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3292081.js"></script>
