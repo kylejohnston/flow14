@@ -114,33 +114,6 @@
 		</div>
 	</div>
 
-<?php /* Political */ ?>
-	<div class="block block--flush">
-		<div class="col-12 spacer-0--bottom spacer-6--top">
-			<div class="inner text__center">
-				<h2>Design Samples: Political Groups&horbar;</h2>
-			</div>
-		</div>
-		<div class="col-6 text__center sample">
-			<a href="kansas-dems"><img src="img/samples/kansas-dems/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Kansas Dems logo design"></a>
-			<div class="block block--flush">
-				<div class="col-12 sample-desc">
-					<h3><a href="kansas-dems">Kansas Dems</a></h3>
-					<p>Rebranding a political party.</p>
-				</div>
-			</div>
-		</div>
-		<div class="col-6 text__center sample">
-			<a href="lisa-for-kansas-senate"><img src="img/samples/lisa-for-kansas-senate/thumbnail.jpg" width="100%" height="auto" class="lazyload" alt="Lisa Johnston for Kansas Senate design system"></a>
-			<div class="block block--flush">
-				<div class="col-12 sample-desc">
-					<h3><a href="lisa-for-kansas-senate">Lisa for Kansas Senate</a></h3>
-					<p>Designing a campaign for Kansas Senate.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-
 <?php /* Other works */ ?>
 	<div class="block block--flush">
 		<div class="col-12 spacer-0--bottom spacer-6--top">
@@ -158,7 +131,7 @@
 			</div>
 		</div>
 		<div class="col-4 text__center sample">
-			<a href="iphone-365-project"><img src="img/samples/365-2016.jpg" width="100%" height="auto" class="lazyload" alt="365 project"></a>
+			<a href="iphone-365-project"><img src="img/samples/365-2017.jpg" width="100%" height="auto" class="lazyload" alt="365 project"></a>
 			<div class="block block--flush">
 				<div class="col-12 sample-desc">
 					<h3><a href="iphone-365-project">365 Project</a></h3>
