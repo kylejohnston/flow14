@@ -65,7 +65,8 @@ header .hamburger{margin:16px 0 64px 0;}
 .logo--small{height:48%;margin:16px auto 0;width:48%}
 .is-opened-navi .logo{fill:#EDF8FD;fill-rule:evenodd;}
 .is-opened-navi .tab{position: fixed;}
-.welcome{height:64vh;margin:0;background:url(../img/texture/waves--1000.jpg) center bottom no-repeat fixed #D7DDE4;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-blend-mode:screen}
+.welcome{height:64vh;margin:0;}
+body.welcome-home{background:url(../img/texture/waves_sm.jpg) center bottom no-repeat fixed #d7dde4;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-blend-mode:soft-light}
 
 nav{display:none}
 nav a:link,
