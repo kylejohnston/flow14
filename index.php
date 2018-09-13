@@ -10,8 +10,11 @@
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/" rel="canonical" />
 	<?php include('includes/head.php'); ?>
+	<style type="text/css">
+		/* .welcome{background-color:#BDC4CD;background-blend-mode:soft-light} */
+	</style>
 </head>
-<body class="neutral">
+<body class="neutral welcome-home">
 	<section class="welcome">
 		<?php include('includes/header-nav.php'); ?>
 		<div class="block">
