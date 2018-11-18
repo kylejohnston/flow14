@@ -44,8 +44,8 @@
 		<section class="block">
 			<div class="pattern__3-6-3">
 				<div class="inner">
-					<h1 id="fittext-3">What We Do</h1>
-					<p>Results-driven design and creative strategy means we tackle all kinds of challenges. And while the deliverables differ for every project, there are three areas where our work works wonders:</p>
+					<h1 id="fittext-3">What We Do For You</h1>
+					<p>Our focus on results-driven design and creative strategy means we tackle all kinds of challenges. And while the deliverables may differ for every project, there are three areas where our work works wonders:</p>
 				</div>
  			</div>
 		</section>
@@ -72,7 +72,7 @@
 			</div>
 			<div class="col-2">
 				<div class="inner center__things">
-					<img class="icon" src="img/ic--distinguishing.svg" alt="Distinguishing" width="100" height="auto">
+					<img class="icon" src="img/ic--distinguish.svg" alt="Distinguishing" width="100" height="auto">
 				</div>
 			</div>
 			<div class="col-6">
