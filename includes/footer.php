@@ -2,8 +2,8 @@
 	<div class="block">
 		<div class="col-4">
 			<div class="inner">
-				<h2>Elsewhere&horbar;</h2>
-				<p><a href="/">Home</a> / <a href="/">Work</a><!--  / <a href="#">Logo Designs</a> --> / <a href="about">About</a> / <a href="contact">Contact</a> / <a href="https://noted.flow14.com">Noted</a></p>
+				<h2>ﬂow<small>14</small>&horbar;</h2>
+				<p><a href="/">Home</a><br><a href="work">Work</a><br><a href="about">About</a><br><a href="contact">Contact</a><br><a href="https://noted.flow14.com">Noted</a></p>
 			</div>
 		</div>
 		<div class="col-4">
@@ -31,11 +31,9 @@
 	</div>
 </footer>
 
-
 <!-- JavaScript - - - - - - - - - - -->
 <script src="js/flow14.min.js"></script>
 <script async src="js/menu.min.js"></script>
-
 
 <!-- Analytics - - - - - - - - - - -->
 <!-- StatCounter -->
@@ -49,6 +47,5 @@
 	scJsHost+
 	"statcounter.com/counter/counter.js'></"+"script>");
 </script>
-
 <!-- HubSpot -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3292081.js"></script>

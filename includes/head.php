@@ -15,7 +15,7 @@
 
 	<!-- Le styles -->
 	<link href="css/gridkit.min.css?20180730_0000" rel="stylesheet">
-	<link href="css/stylesheet.min.css?20180913_0000" rel="stylesheet">
+	<link href="css/stylesheet.min.css?20181117_0000" rel="stylesheet">
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
