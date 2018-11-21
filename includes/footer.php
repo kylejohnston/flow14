@@ -1,25 +1,25 @@
 <footer>
-	<div class="block">
+	<div class="block block--narrow">
 		<div class="col-4">
 			<div class="inner">
 				<h2>ﬂow<small>14</small>&horbar;</h2>
-				<p><a href="/">Home</a><br><a href="work">Work</a><br><a href="about">About</a><br><a href="contact">Contact</a><br><a href="https://noted.flow14.com">Noted</a></p>
+				<p><a href="/" title="flow14.com homepage">Home</a><br><a href="work" title="Design work by flow14">Work</a><br><a href="about" title="About flow14">About</a><br><a href="contact" title="Contact flow14">Contact</a><br><a href="https://noted.flow14.com" title="Noted. News and musings from flow14">Noted</a></p>
 			</div>
 		</div>
 		<div class="col-4">
 			<div class="inner">
 				<h2>Contact&horbar;</h2>
-				<p>913 738-4080<br><a href="about#contact">Email</a><br>12725 W 126th St,<br>Overland Park, KS</p>
+				<p>913 738-4080<br><a href="about#contact" title="Contact flow14">Email</a><br>12725 W 126th St,<br>Overland Park, KS</p>
 			</div>
 		</div>
 		<div class="col-4">
 			<div class="inner">
 				<h2>Other Projects&horbar;</h2>
 				<p>
-				<a href="fonts">Fonts</a><br>
-				<a href="https://memex.flow14.com/">MEMEX</a><br>
-				<a href="https://www.flow14.com/iphone-365-project">365 Project</a><br>
-				<a href="http://blog.flow14.com">Blog (Archive)</a><br>
+				<a href="fonts" title="Free fonts from flow14">Fonts</a><br>
+				<a href="https://memex.flow14.com/" title="MEMEX. Visual inspiration">MEMEX</a><br>
+				<a href="https://www.flow14.com/iphone-365-project" title="365 Photography Project">365 Project</a><br>
+				<a href="http://blog.flow14.com" title="An archive of the flow14 blog ">Blog (Archive)</a><br>
 				</p>
 			</div>
 		</div>
