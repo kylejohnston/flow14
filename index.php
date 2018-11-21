@@ -18,7 +18,7 @@
 			<div class="pattern__2-8-2">
 				<div class="inner intro">
 					<h1 id="fittext">We Make Design Work Wonders</h1>
-					<p class="text__center heavyweight">A branding and web design studio making design work wonders for growing businesses and nonprofits. <a href="about">Learn more about us…</a></p>
+					<p class="text__center heavyweight">A branding and web design studio making design work wonders for growing businesses and nonprofits. <a href="about" title="Learn more about flow14">Learn more about us…</a></p>
 				</div>
 				<div class="recent"><h4>Recent Projects</h4></div>
 			</div>
@@ -35,47 +35,39 @@
 				<source media="(min-width: 544px)" srcset="img/samples/hnc-living/hnc-living-logo__480.png">
 				<img src="img/samples/hnc-living/hnc-living-logo__480.png"  alt="HNC Living Logo">
 			</picture>
-			<div class="caption"><h3>Website Redesign <a href="hnc-living-foundation">View the Case Study</a></h3></div>
+			<div class="caption"><h3>Logo Redesign <a href="hnc-living-logo-redesign" title="Case Study: HNC Living Logo Redesign">View the Case Study</a></h3></div>
 		</div>
 		<div class="thumbnail"
 		style="grid-column: 8 / 12; grid-row: 2 / span 5; height:auto; z-index:4">
-			<a href="hnc-living-foundation">
-				<picture>
-					<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/homepage__700.jpg">
-					<source media="(min-width: 544px)" srcset="img/samples/hnc-living/thumbnail__480.jpg">
-					<img  src="img/samples/hnc-living/thumbnail__960.jpg"  alt="HNC Living Foundation">
-				</picture>
-			</a>
-			<div class="caption"><h3>Website Redesign <a href="hnc-living-foundation">View the Case Study</a></h3></div>
+			<picture>
+				<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/homepage__700.jpg">
+				<source media="(min-width: 544px)" srcset="img/samples/hnc-living/thumbnail__480.jpg">
+				<img  src="img/samples/hnc-living/thumbnail__960.jpg"  alt="HNC Living Foundation">
+			</picture>
+			<div class="caption"><h3>Website Redesign <a href="hnc-living-foundation" title="Case Study: HNC Living Website Redesign">View the Case Study</a></h3></div>
 		</div>
 		<div class="thumbnail"
 		style="display:grid; grid-column: 3 / 7; grid-row: 2 / 3; height:auto; align-content:end;">
-			<a href="rounding-up-undies">
 			<img src="img/samples/rounding-up-undies/thumbnail.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design">
-			</a>
-			<div class="caption"><h3>Logo Design <a href="rounding-up-undies">View the Case Study</a></h3></div>
+			<div class="caption"><h3>Logo Design <a href="rounding-up-undies" title="Case Study: Rounding Up Undies Logo Design">View the Case Study</a></h3></div>
 		</div>
 		<div class="thumbnail"
 		style="grid-column: 2 / 8; grid-row: 3 / 5; height:auto;">
-			<a href="kc-lisc">
-				<picture>
-					<source media="(min-width: 1012px)" srcset="img/samples/kc-lisc/thumbnail__01.jpg">
-					<source media="(min-width: 544px)" srcset="img/samples/kc-lisc/thumbnail__01.jpg">
-					<img  src="img/samples/kc-lisc/thumbnail__01.jpg"  alt="LISC Kansas City Interactive Infographic">
-				</picture>
-			</a>
-			<div class="caption"><h3>Interactive Infographic <a href="kc-lisc">View the Case Study</a></h3></div>
+			<picture>
+				<source media="(min-width: 1012px)" srcset="img/samples/kc-lisc/thumbnail__01.jpg">
+				<source media="(min-width: 544px)" srcset="img/samples/kc-lisc/thumbnail__01.jpg">
+				<img  src="img/samples/kc-lisc/thumbnail__01.jpg"  alt="LISC Kansas City Interactive Infographic">
+			</picture>
+			<div class="caption"><h3>Interactive Infographic <a href="kc-lisc" title="Case Study: LISC Kansas City Interactive Infographic">View the Case Study</a></h3></div>
 		</div>
 		<div class="thumbnail"
 		style="grid-column: 4 / 8; grid-row: 5 / span 3; height:auto;">
-			<a href="creative-outfitters"></a>	
 			<img src="img/samples/creative-outfitters/business-card.jpg" width="100%" height="auto" alt="Creative Outfitters branding">
-			</a>
-			<div class="caption"><h3>Logo Design &amp; Branding <a href="creative-outfitters">View the Case Study</a></h3></div>
+			<div class="caption"><h3>Logo Design &amp; Branding <a href="creative-outfitters" title="Case Study: Creative Outfitters branding">View the Case Study</a></h3></div>
 		</div>
 		<div class="thumbnail"
 		style="display:grid; align-content:start; grid-column: 8 / 12; grid-row: 7 / span 1; justify-content:center; align-content:center;">
-			<a href="work">
+			<a href="work" title="View more design work made by flow14">
 			<div class="more"><h4>More Work</h4></div>
 			</a>
 		</div>

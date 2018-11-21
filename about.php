@@ -18,7 +18,7 @@
 			<div class="pattern__2-8-2">
 				<div class="inner">
 					<h1 id="fittext" class="center">Who We Are</h1>
-					<p>flow14 is a design studio based in Kansas City. We specialize in making results-driven design that works wonders. We help your growing business, nonprofit, or political group stand out with outstanding work that moves your audience to act.</p>
+					<p>flow<small>14</small> is a design studio based in Kansas City. We specialize in making results-driven design that works wonders. We help your growing business, nonprofit, or political group stand out with outstanding work that moves your audience to act.</p>
 				</div>
 			</div>
 		</section>
@@ -26,17 +26,17 @@
 		<section class="block">
 <?php /* KYLE */ ?>
 			<div class="col-6">
-				<img data-src="img/kyle-johnston-700.jpg" class="lazyload spacer-2--bottom" width="100%">
+				<img data-src="img/kyle-johnston-700.jpg" class="lazyload spacer-2--bottom" width="100%" alt="Kyle Johnston">
 				<div class="inner inner-5">
 					<p><strong>Kyle Johnston</strong> is a designer and creative leader with over 20 years of experience in practicing and leading design, creative strategy, and user experience. He believes keeping your audience at the center of your creative strategy ensures design works to drive business results. His perspective has led to strategically smart, award-winning creative work for well-known brands like Garmin, Hallmark, AMC Theaters, and more.<br>
-					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a> &bull; <a class="twitter" href="https://twitter.com/kylejohnston">Twitter</a> &bull; <a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a> &bull; <a class="github" href="https://github.com/kylejohnston">GitHub</a></p>
+					<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston" title="Kyle Johnston on LinkedIn">LinkedIn</a> &bull; <a class="twitter" href="https://twitter.com/kylejohnston" title="@kylejohnston on Twitter">Twitter</a> &bull; <a class="dribbble" href="https://dribbble.com/kylejohnston" title="@kylejohnston on Dribbble">Dribbble</a> &bull; <a class="github" href="https://github.com/kylejohnston" title="@kylejohnston on GitHub">GitHub</a></p>
 				</div>
 			</div>
 <?php /* LISA */ ?>
 			<div class="col-6">
-				<img data-src="img/lisa-johnston--700.jpg" class="lazyload spacer-2--bottom" width="100%">
+				<img data-src="img/lisa-johnston--700.jpg" class="lazyload spacer-2--bottom" width="100%" alt="Lisa Johnston">
 				<div class="inner">
-					<p><strong>Dr. Lisa Johnston</strong> holds graduate degrees in both psychology and education and brings over 25 years of experience in psychology, statistics/research, communication, and education. She believes understanding emotional impact and assessing results is vital to delivering design and messaging that excites and resonates with the audience. Lisa’s unique perspective is a core pillar of the insights and strategy that drive results for our clients at flow14.</p>
+					<p><strong>Dr. Lisa Johnston</strong> holds graduate degrees in both psychology and education and brings over 25 years of experience in psychology, statistics/research, communication, and education. She believes understanding emotional impact and assessing results is vital to delivering design and messaging that excites and resonates with the audience. Lisa’s unique perspective is a core pillar of the insights and strategy that drive results for our clients at flow<small>14</small>.</p>
 				</div>
 			</div>
 		</section>

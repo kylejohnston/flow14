@@ -25,7 +25,7 @@
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Research &times; Sketches</h2>
-					<p>I started by researching Ugandan art and textiles to gain an understanding of dominant colors and patterns present in the culture. At the same time, I began sketching ideas for shapes and type treatments.</p>
+					<p>We started by researching Ugandan art and textiles to gain an understanding of dominant colors and patterns present in the culture and began sketching ideas for basic shapes and type treatments.</p>
 				</div>
 			</div>
 		</section>
@@ -43,11 +43,11 @@
 			</div>
 		</section>
 
-		<section class="block item">
+		<section class="block block--wide item">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Design Exploration</h2>
-					<p>Based on my research and initial sketches, I explored a variety of visual directions and type treatments. At this stage, I started to incorporate hand-drawn shapes and patterns. I also realized that when the underwear shape was 'folded', it resembled the shape of Africa, so it became a key element in my design recommendations.</p>
+					<p>Based on the research and initial sketches, we explored a variety of visual directions and type treatments. At this stage, we started to incorporate hand-drawn shapes and patterns. We also realized that when the underwear shape was 'folded', it resembled the shape of Africa, so it became a key element in the design recommendations.</p>
 				</div>
 			</div>
 			<div class="col-12">
@@ -60,7 +60,7 @@
 			<div class="col-6">
 				<div class="inner">
 					<h2>Logo Design Options</h2>
-					<p>After exploring many design ideas, I selected three options and presented them to the Rounding Up Undies team. They quickly gravitated to one design. After a round of refinements, we had a design that everyone loved.</p>
+					<p>After exploring many design ideas, we selected three options and presented them to the Rounding Up Undies team. They quickly gravitated to one design. After a round of refinements, we had a design that everyone loved.</p>
 				</div>
 			</div>
 			<div class="col-3 shim"></div>
@@ -85,7 +85,7 @@
 			<div class="col-6">
 				<div class="inner">
 					<h2>Final Logo Design</h2>
-					<p>After a few additional finishing touches (details matter) &#8212; I delivered the final logo along with brand guidelines that ensure the logo will look great as it's used to support and promote the important mission of Rounding Up Undies.</p>
+					<p>After a few additional finishing touches (details matter) &#8212; we delivered the final logo along with brand guidelines to ensure the logo will look great as it's used to support and promote the important mission of Rounding Up Undies.</p>
 				</div>
 			</div>
 			<div class="col-3"></div>

@@ -25,7 +25,7 @@
 
 		<section class="block">
 			<div class="col-6">
-				<img class="scale1_3" src="img/samples/creative-outfitters/logo-1400.png" width="100%">
+				<img class="scale1_3" src="img/samples/creative-outfitters/logo-1400.png" width="100%" alt="Creative Outfitters logo">
 			</div>
 			<div class="col-4 item">
 				<div class="inner">
@@ -46,7 +46,7 @@
 		<section class="block">
 			<div class="col-1 shim"></div>
 			<div class="col-10">
-				<img data-src="img/samples/creative-outfitters/creative-outfitters-card-1400.jpg" class="lazyload" width="100%">
+				<img data-src="img/samples/creative-outfitters/creative-outfitters-card-1400.jpg" class="lazyload" width="100%" alt="Creative Outfitters business cards">
 			</div>
 		</section>
 

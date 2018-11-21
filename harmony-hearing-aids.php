@@ -36,7 +36,7 @@
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--wide">
 			<div class="col-4 item align__center">
 				<div class="inner">
 					<h2>Collateral Materials</h2>

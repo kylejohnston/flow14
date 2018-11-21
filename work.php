@@ -29,22 +29,22 @@
 			<div class="pattern__2-8-2 work-list">
 				<div class="inner">
                     <h3>Nonprofits</h3>
-                    <p class="first"><a href="hnc-living-foundation">HNC Living Foundation</a> Website and logo redesign</p>
-                    <p><a href="rounding-up-undies">Rounding Up Undies</a> Logo design</p>
-                    <p><a href="kc-lisc">LISC Kansas City</a> Interactive infographic</p>
+                    <p class="first"><strong>HNC Living Foundation</strong> <a href="hnc-living-foundation">website redesign</a> and <a href="hnc-living-logo-redesign">logo redesign</a></p>
+                    <p><strong>Rounding Up Undies</strong> <a href="rounding-up-undies">Logo design</a></p>
+                    <p><strong>LISC Kansas City</strong> <a href="kc-lisc">Interactive infographic</a></p>
                     <h3>Startups</h3>
-                    <p class="first"><a href="creative-outfitters">Creative Outfitters</a> Logo design, branding</p>
-                    <p><a href="harmony-hearing-aids">Harmony Hearing Aids</a> Logo design, branding</p>
+                    <p class="first"><strong>Creative Outfitters</strong> <a href="creative-outfitters">Logo design and branding</a></p>
+                    <p><strong>Harmony Hearing Aids</strong> <a href="harmony-hearing-aids">Logo design and branding</a></p>
                     <h3>Design</h3>
-                    <p class="first"><a href="websites">Websites</a></p>
-                    <p><a href="logos">Logos &amp; Branding</a></p>
+                    <p class="first"><strong><a href="websites">Websites</a></strong></p>
+                    <p><strong><a href="logos">Logos and Branding</a></strong></p>
                     <h3>Other Projects</h3>
-                    <p class="first"><a href="#">Noted.</a> News and musings</p>
-                    <p><a href="iphone-365-project">365 Project</a> A photo a day, every day</p>
-                    <p><a href="fonts">Fonts</a> Free to download</p>
+                    <p class="first"><strong><a href="#">Noted.</a></strong> News and musings</p>
+                    <p><strong><a href="iphone-365-project">365 Project</a></strong> A photo a day, every day</p>
+                    <p><strong><a href="fonts">Fonts</a></strong> Free to download</p>
                     <h3>Open Source</h3>
-                    <p class="first"><a href="https://memex.flow14.com">MEMEX</a> A collection of visual inspiration</p>
-                    <p><a href="https://www.flow14.com/css-gridkit/"">GRIDkit</a> A starter kit for CSS Grid layout</p>
+                    <p class="first"><strong><a href="https://memex.flow14.com">MEMEX</a></strong> A collection of visual inspiration</p>
+                    <p><strong><a href="https://www.flow14.com/css-gridkit/"">GRIDkit</a></strong> A starter kit for CSS Grid layout</p>
                 </div>
  			</div>
 		</section>

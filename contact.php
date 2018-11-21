@@ -59,10 +59,10 @@
 							<div class="col-4">
 								<h3>Elsewhere</h3>
 								<p>
-									<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a><br>
-									<a class="twitter" href="https://twitter.com/kylejohnston">Twitter</a><br>
-									<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a><br>
-									<a class="github" href="https://github.com/kylejohnston">GitHub</a>
+									<a class="linkedin" href="https://www.linkedin.com/company/flow14/" title="flow14 on LinkedIn">LinkedIn</a><br>
+									<a class="twitter" href="https://twitter.com/kylejohnston" title="@kylejohnston on Twitter">Twitter</a><br>
+									<a class="dribbble" href="https://dribbble.com/kylejohnston" title="@kylejohnston on Dribbble">Dribbble</a><br>
+									<a class="github" href="https://github.com/kylejohnston" title="@kylejohnston on GitHub">GitHub</a>
 								</p>
 							</div>
 						</section>
