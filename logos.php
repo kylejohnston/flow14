@@ -73,21 +73,30 @@
 		<section class="block item">
 			<div class="col-12"><h2 class="upcase heavyweight">Nonprofit Logo Design</h2></div>
 			<div class="col-6">
+				<a href="hnc-living-logo-redesign"><img src="img/samples/logos/1440x810/hnc-living-logo-2x.png" width="100%" height="auto" alt="HNC Living Foundation logo"></a>
+				<div class="inner center">
+					<p><a class="ghost-button" href="hnc-living-logo-redesign">Read the case study</a></p>
+				</div>
+			</div>
+			<div class="col-6">
 				<a href="rounding-up-undies"><img src="img/samples/logos/1440x810/rounding-up-undies-2x.png" width="100%" height="auto" alt="Rounding Up Undies logo"></a>
 				<div class="inner center">
 					<p><a class="ghost-button" href="rounding-up-undies">Read the case study</a></p>
 				</div>
 			</div>
-			<div class="col-6">
-				<img src="img/samples/logos/1440x810/kapc-2x.png" width="100%" height="auto" alt="KAPC logo">
-			</div>
 		</section>
 
 		<section class="block">
 			<div class="col-6">
-				<img src="img/samples/logos/1440x810/mission-cup-2x.png" width="100%" height="auto" alt="Mission Cup logo">
+				<img src="img/samples/logos/1440x810/kapc-2x.png" width="100%" height="auto" alt="KAPC logo">
 			</div>
 			<div class="col-6">
+				<img src="img/samples/logos/1440x810/mission-cup-2x.png" width="100%" height="auto" alt="Mission Cup logo">
+			</div>
+		</section>
+
+		<section class="block">
+			<div class="pattern__3-6-3">
 				<img src="img/samples/logos/1440x810/kc-metro-art-2x.png" width="100%" height="auto" alt="KC Metro Animal Response Team logo">
 			</div>
 		</section>
