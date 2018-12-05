@@ -50,13 +50,20 @@
 								while(x=eval(x));
 								//-->
 								//]]>
-								</script></p>
-								<h2>Phone</h2>
-								<p>913-738-4080</p>
-								<h2>Location</h2>
-								<p>Overland Park, KS AKA the Kansas City Metro Area</p>
+								</script> or use the form below.</p>
+								<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+								<script>
+								hbspt.forms.create({
+									portalId: "3292081",
+									formId: "f2f77b8f-2a83-4863-9178-c477db328fa6"
+								});
+								</script>
 							</div>
 							<div class="col-4">
+								<h2>Phone</h2>
+								<p>913-738-4080</p>
+								<h2>Our Location</h2>
+								<p>Overland Park, KS &#8212; the Kansas City Metro Area</p>
 								<h3>Elsewhere</h3>
 								<p>
 									<a class="linkedin" href="https://www.linkedin.com/company/flow14/" title="flow14 on LinkedIn">LinkedIn</a><br>
