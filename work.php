@@ -42,7 +42,9 @@
                     <p class="first"><strong><a href="#">Noted.</a></strong> News and musings</p>
                     <p><strong><a href="iphone-365-project">365 Project</a></strong> A photo a day, every day</p>
                     <p><strong><a href="fonts">Fonts</a></strong> Free to download</p>
-                    <h3>Open Source</h3>
+                    
+					<a name="opensource"></a>
+					<h3>Open Source</h3>
                     <p class="first"><strong><a href="https://memex.flow14.com">MEMEX</a></strong> A collection of visual inspiration</p>
                     <p><strong><a href="https://www.flow14.com/css-gridkit/"">GRIDkit</a></strong> A starter kit for CSS Grid layout</p>
                 </div>
