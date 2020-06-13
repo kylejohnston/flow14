@@ -1,0 +1,116 @@
+// SPACERS
+.mx-auto { margin-left: auto; margin-right: auto; }
+.mx-1 { margin-left: 12px; margin-right: 12px; }
+.mx-2 { margin-left: 24px; margin-right: 24px; }
+.mx-3 { margin-left: 48px; margin-right: 48px; }
+.mx-4 { margin-left: 96px; margin-right: 96px; }
+.my-1 { margin-top: 12px; margin-bottom: 12px; }
+.my-2 { margin-top: 24px; margin-bottom: 24px; }
+.my-3 { margin-top: 48px; margin-bottom: 48px; }
+.my-4 { margin-top: 96px; margin-bottom: 96px; }
+.px-1 { padding-left: 12px; padding-right: 12px; }
+.px-2 { padding-left: 24px; padding-right: 24px; }
+.px-3 { padding-left: 48px; padding-right: 48px; }
+.px-4 { padding-left: 96px; padding-right: 96px; }
+.py-1 { padding-top: 12px; padding-bottom: 12px; }
+.py-2 { padding-top: 24px; padding-bottom: 24px; }
+.py-3 { padding-top: 48px; padding-bottom: 48px; }
+.py-4 { padding-top: 96px; padding-bottom: 96px; }
+.shift-1 { margin-top: -12px; }
+.shift-2 { margin-top: -24px; }
+.shift-3 { margin-top: -48px; }
+.shift-4 { margin-top: -96px; }
+@mixin generate($prefix, $property) {
+  // List of sizes to generate for each
+  $sizes: [1, 2, 4, 8];
+  // Spacing to multiply the sizes by
+  $spacing: 12px;
+
+  // Loop through all of the sizes(we use @for rather than @each, as we want access to the index)
+  @for $i from 1 through length($sizes) {
+    // Get the size for the current index
+    $size: nth($sizes, $i);
+
+    // Create the rule
+    .#{$prefix}-#{$i} {
+      #{$property}: $spacing * $size;
+    }
+  }
+}
+
+$rules: [
+  [m, margin],
+  [mt, margin-top],
+  [mr, margin-right],
+  [mb, margin-bottom],
+  [ml, margin-left],
+  [p, padding],
+  [pt, padding-top],
+  [pr, padding-right],
+  [pb, padding-bottom],
+  [pl, padding-left],
+];
+
+@each $item in $rules {
+  @include generate(nth($item, 1), nth($item, 2));
+}
+
+@media screen and (min-width: $break-tablet) {
+  .mx-1 { margin-left: 24px; margin-right: 24px; }
+  .mx-2 { margin-left: 48px; margin-right: 48px; }
+  .mx-3 { margin-left: 96px; margin-right: 96px; }
+  .mx-4 { margin-left: 192px; margin-right: 192px; }
+  .my-1 { margin-top: 24px; margin-bottom: 24px; }
+  .my-2 { margin-top: 48px; margin-bottom: 48px; }
+  .my-3 { margin-top: 96px; margin-bottom: 96px; }
+  .my-4 { margin-top: 192px; margin-bottom: 192px; }
+  .px-1 { padding-left: 24px; padding-right: 24px; }
+  .px-2 { padding-left: 48px; padding-right: 48px; }
+  .px-3 { padding-left: 96px; padding-right: 96px; }
+  .px-4 { padding-left: 192px; padding-right: 192px; }
+  .py-1 { padding-top: 24px; padding-bottom: 24px; }
+  .py-2 { padding-top: 48px; padding-bottom: 48px; }
+  .py-3 { padding-top: 96px; padding-bottom: 96px; }
+  .py-4 { padding-top: 192px; padding-bottom: 192px; }
+  .shift-1 { margin-top: -24px; }
+  .shift-2 { margin-top: -48px; }
+  .shift-3 { margin-top: -96px; }
+  .shift-4 { margin-top: -192px; }
+
+  @mixin generate($prefix, $property) {
+    // List of sizes to generate for each
+    $sizes: [1, 2, 4, 8];
+    // Spacing to multiply the sizes by
+    $spacing: 24px;
+
+    // Loop through all of the sizes(we use @for rather than @each, as we want access to the index)
+    @for $i from 1 through length($sizes) {
+      // Get the size for the current index
+      $size: nth($sizes, $i);
+
+      // Create the rule
+      .#{$prefix}-#{$i} {
+        #{$property}: $spacing * $size;
+      }
+    }
+  }
+
+  $rules: [
+    [m, margin],
+    [mt, margin-top],
+    [mr, margin-right],
+    [mb, margin-bottom],
+    [ml, margin-left],
+    [pt, padding-top],
+    [pr, padding-right],
+    [pb, padding-bottom],
+    [pl, padding-left],
+    [p, padding],
+  ];
+
+  @each $item in $rules {
+    @include generate(nth($item, 1), nth($item, 2));
+  }
+}
+
+

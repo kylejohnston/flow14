@@ -1,0 +1,39 @@
+:root {
+  --base-space: 24px;
+  --offset: var(--base-space); // grid offset (left/right)
+
+  --font-primary: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  --font-headline: 'canada-type-gibson',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+
+  /* set base values */
+  --text--base-size: 1.125em;
+
+  /* line-height */
+  --heading-line-height: 1.1;
+  --body-line-height: 1.5;
+
+  // COLORS
+  --black: #1A3135;
+  --white: #FFFFFF;
+  --blue:  #179BCF;
+  --light-blue: #F0F8FA;
+  --orange: #FA8335;
+  --dark-orange: #E53B34;
+  --color-text: var(--black);
+  --color-link: var(--blue);
+  --color-link-visited: #1278A1;
+}
+// BREAKPOINTS
+$break-phone: 544px;
+$break-tablet: 768px;
+$break-desktop: 1012px;
+$break-wide: 1280px;
+
+@media screen and (min-width: $break-desktop) {
+  :root {
+    --base-space: 48px;
+    --text--base-size: 1.25em;
+  }
+}
+
+
