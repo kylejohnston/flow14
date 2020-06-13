@@ -10,145 +10,123 @@
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/" rel="canonical" />
 	<!-- < ?php include('includes/head.php'); ? > -->
-	<link href="/css/normalize.css" rel="stylesheet">
-	<!-- <link href="/css/stylesheet.min.css" rel="stylesheet"> -->
+	<!-- <link href="/css/normalize.css" rel="stylesheet"> -->
+	<link rel="stylesheet" href="https://use.typekit.net/ayz0tps.css">
+	<link href="/css/main.css" rel="stylesheet">
 
 	<style type="text/css">
-		:root {
-			--base-space: 24px;
-			--grid-offset-left: calc( var(--base-space) * 2 );
-			--grid-offset-right: calc( var(--base-space) * 2 );
-		}
-		body { font-size:clamp(1.25rem, calc( 0.125rem + 1vw), 1.5rem); line-height: 1.5; }
-		.grid {
-			display: grid;
-			grid-template-columns:
-				[full-start] var(--grid-offset-left) [main-start half-left-start] 1fr [intro-start] repeat(2, 1fr) [half-left-end half-right-start] repeat(3, 1fr) [half-right-end main-end] var(--grid-offset-right) [intro-end full-end];
-		}
-		.grid-in {
-			display: grid;
-			grid-template-columns: [full-start half-left-start] repeat(3, 1fr) [half-left-end half-right-start] repeat(3, 1fr) [half-right-end full-end];
-		}
+
 		.grid .item {
 			grid-column: span 1;
-			background: #179BCF22;
+			background: #FFFF0022;
 			/* border: 1px solid #ff0; */
 			height: 100px;
 		}
-		.imgfpo {
-			grid-column: full;
-			min-height: 75vh;
-			background: #BDBDBD;
-			/* margin-top:-96px; */
-		}
-		.shift { margin-top:-96px;}
-		.grid .item:nth-child(even) {
-			background-color: #aaa2;
-		}
-
-		.gutter { background: yellow; }
-		.full { grid-column: full; }
-		.main { grid-column: main; }
-		.intro-block { grid-column: intro; background: #179BCF; color: #F0F8FA; }
-		.half-left { grid-column: half-left; }
-		.half-right { grid-column: half-right; }
-
-		header:after {
-			content: "";
-			background: #179BCF14;
-			height:80vh;
-			position:absolute;
-			left:0;
-			top:0;
-			width:90vw;
-			z-index:-1;
-			background-blend-mode:multiply;
-		}
+		.grid .item:nth-child(even) { background-color: #aaa2; }
 
 
-		.blok { background: #eee; border: 1px solid blue; height:48px; padding:12px; }
-		@media screen and (max-width: 600px) {
-			:root {
-				--base-space: 12px;
-		}
-			.grid {
-				grid-template-columns:
-					[full-start] 24px
-					main
-					24px [full-end];
-			}
-			.half-left { grid-column: main; }
-			.half-right { grid-column: main; }
-
-			.grid-in { grid-template-columns: 1fr; background:#f0f; }
-			/* .grid > .item { grid-column: main; } */
-			/* .grid > .full { grid-column: full;} */
-		}
-
-	.layout {
-		display:grid;
-		grid-template-columns: repeat( 0, 1fr );
-		/* max-width: 72rem; */
-		border: 1px solid red;
-	}
 	</style>
 
 </head>
-<body class="neutral welcome-home homepage" >
+<body>
 	<!--< ?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/header-nav.php'); ? >-->
 
-	<div class="grid" style="">
-		<header class="" style="margin:48px 0 0 48px; display:grid; grid-column: 1 / 3;">
+	<div class="grid">
+		<header class="mt-2 ml-2" style="display:grid; grid-column: 1 / 3;z-index:3;">
 			<div class="logo"><img src="img/flow14-logo.svg" alt="" width="auto" height="36"></div>
 		</header>
 
-		<div class="intro-block" style="display:grid; grid-template-columns:repeat(5,1fr) 48px; margin-top:48px; padding:0 48px;">
-			<h1 style="display:grid;grid-column: 1 / 4;height:50vh;align-content:center;">client Name: short project headline</h1>
-			<p style="grid-column: 1 / 4;margin-bottom:192px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
+		<div class="grid-intro px-2 mt-2">
+			<h1>Client Name: short project headline</h1>
+			<p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
 		</div>
 
 		<article class="main grid-in">
 
-			<div class="imgfpo shift"></div>
-			<div class="half-right">
-				<h2>Headline</h2>
+			<div class="full shift-3">
+				<img class="mb-2" src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt="">
+			</div>
+			<div class="half-right grid-sample">
+				<h2 class="mb-1">Headline</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="#">Donec cursus tincidunt</a> est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
-				<div class="item"></div>
-				<h2>Headline</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
+				<img class="img py-2" src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt="">
+				<!-- <h1 class="text-xxl">XXL Headline</h1> -->
+				<h1>H1 Headline</h1>
+				<h2 class="mb-1">H2 Headline</h2>
+				<h3 class="mb-1">H3 Headline</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
+				<ul>
+					<li>Lorem ipsum dolor sit amet consectetur adipiscing elit</li>
+					<li>Lorem ipsum dolor sit amet consectetur adipiscing elit</li>
+					<li>Lorem ipsum dolor sit amet consectetur adipiscing elit</li>
+				</ul>
 			</div>
 
-		</article>
-		<article class="main grid-in">
-
-			<div class="imgfpo"></div>
-			<div class="half-right">
-				<h2>Headline</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
-				<div class="item"></div>
-				<h2>Headline</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
-			</div>
+			<div class="testimonial my-4">
+				<div class="source pl-1 pr-1 order-2">
+					<p>Some Name, Organization</p>
+				</div>
+				<div class="quote pl-1 pr-1 order-1">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
+				</div>
 
 		</article>
-		<div class="blok full" style="">FULL</div>
-
-		<div class="main grid-in" style="">
-			<!-- <p style="grid-column:span 6">Grid: Main</p> -->
-			<div class="item">Item</div>
-			<div class="item">Item</div>
-			<div class="item">Item</div>
-			<div class="item">Item</div>
-			<div class="item">Item</div>
-			<div class="item">Item</div>
-		</div>
 	</div>
-	<!-- <div class="grid">
-		<div class="item intro-block">Intro</div>
-		<div class="half-right">
-			<div class="blok"><p style="border:1px solid red;">Half-right</p></div>
+
+	<article class="grid-home">
+			<div class="sample-lg-l">
+				<div class="blok"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
+				<div class="content">
+					<div style="position:sticky;top:48px;">
+					<h2 class="mb-1">0.1 Large Left</h2>
+					<p>Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="sample-lg-r">
+				<div class="content order-2">
+					<p class="text-xs uppercase">Category</p>
+					<h2 class="mb-1">0.2 Large Right</h2>
+					<p>Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla.</p>
+				</div>
+				<div class="blok order-1 mb-2"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
+			</div>
+
+			<div class="sample-sm-l">
+				<div class="blok"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
+				<div class="content">
+					<h2 class="mb-1">0.3 Small Left</h2>
+					<p>Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla.</p>
+				</div>
+			</div>
+
+			<div class="sample-sm-r">
+				<div class="content order-2">
+					<h2 class="mb-1">0.4 Small Right</h2>
+					<p>Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla.</p>
+				</div>
+				<div class="blok order-1"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
+			</div>
+
+
+
+	</article>
+	<div class="grid">
+		<div class="blok full">FULL</div>
+
+		<div class="main grid-in">
+			<div class="item">Item</div>
+			<div class="item">Item</div>
+			<div class="item">Item</div>
+			<div class="item">Item</div>
+			<div class="item">Item</div>
+			<div class="item">Item</div>
 		</div>
-	</div> -->
+
+	</div>
 
 
 
