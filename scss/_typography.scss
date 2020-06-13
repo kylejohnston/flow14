@@ -1,128 +1,70 @@
-:root {
-  --font-primary: sans-serif;
-  --font-secondary: serif;
-
-  /* set base values */
-  --text-base-size: 1em;
-  --text-scale-ratio: 1.2;
-
-  /* type scale */
-  --text-xs: calc(1em / (var(--text-scale-ratio) * var(--text-scale-ratio)));
-  --text-sm: calc(1em / var(--text-scale-ratio));
-  --text-md: calc(1em * var(--text-scale-ratio));
-  --text-lg: calc(1em * var(--text-scale-ratio) * var(--text-scale-ratio));
-  --text-xl: calc(1em * var(--text-scale-ratio) * var(--text-scale-ratio) * var(--text-scale-ratio));
-  --text-xxl: calc(1em * var(--text-scale-ratio) * var(--text-scale-ratio) * var(--text-scale-ratio) * var(--text-scale-ratio));
-  --text-xxxl: calc(1em * var(--text-scale-ratio) * var(--text-scale-ratio) * var(--text-scale-ratio) * var(--text-scale-ratio) * var(--text-scale-ratio));
-
-  /* line-height */
-  --heading-line-height: 1.2;
-  --body-line-height: 1.5;
-}
-
-@include breakpoint(md) {
-  :root {
-      --text-base-size: 1.25em;
-      --text-scale-ratio: 1.25;
-  }
-}
+// @include breakpoint(md) {
+//   :root {
+//       --text--base-size: 1.25em;
+//       --text--scale-ratio: 1.25;
+//   }
+// }
 
 body {
-  font-size: var(--text-base-size);
+  // font-size: var(--text--base-size);
   font-family: var(--font-primary);
   color: var(--color-text);
 }
 
-h1, h2, h3, h4, form legend {
-  color: var(--color-text-heading);
-  margin-bottom: var(--space-xxs);
+h1, h2, h3 {
   line-height: var(--heading-line-height);
+  font-family: var(--font-headline);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0 0 12px;
 }
 
 /* text size */
-.text--xxxl {
-  font-size: var(--text-xxxl);
-}
+.text-xxl { font-size: calc(var(--text--base-size) * 2.333333333); font-weight: 700; line-height: .9em; }
+h1, .text-xl { font-size: calc(var(--text--base-size) * 1.555555556); }
+h2, .text-lg { font-size: calc(var(--text--base-size) * 1.222222222); }
+h3, .text-md { font-size: var(--text--base-size); }
+.text-sm, small { font-size: calc(var(--text--base-size) * 0.888888889); }
+.text-xs { font-size: calc(var(--text--base-size) * 0.777777778); }
 
-h1, .text--xxl {
-  font-size: var(--text-xxl);
-}
-
-h2, .text--xl {
-  font-size: var(--text-xl);
-}
-
-h3, .text--lg {
-  font-size: var(--text-lg);
-}
-
-h4, .text--md {
-  font-size: var(--text-md);
-}
-
-.text--sm, small {
-  font-size: var(--text-sm);
-}
-
-.text--xs {
-  font-size: var(--text-xs);
-}
-
-p {
+p, li {
   line-height: var(--body-line-height);
+  font-size: var(--text--base-size);
 }
 
 a {
-  color: var(--color-link);
-
-  &:visited {
-      color: var(--color-link-visited);
-  }
+  &:link { color: var(--blue); text-decoration: none; }
+  &:hover { text-decoration: underline; }
+  &:visited { color: var(--color-link-visited); }
 }
 
-b, strong {
-  font-weight: bold;
-}
+b, strong { font-weight: bold; }
+em { font-style: italic; }
+.uppercase { text-transform: uppercase; }
 
-.text-container {
-  h2, h3, h4 {
-      margin-top: var(--space-sm);
-  }
-
-  ul, ol, p {
-      margin-bottom: var(--space-md);
-  }
-
-  ul, ol {
+ul, ol, p { margin: 0 0 14px; }
+ul, ol {
   list-style-position: outside;
-      padding-left: 24px;
+  padding-left: 24px;
 }
+ul { list-style-type: disc; }
+ol { list-style-type: decimal; }
+ul li, ol li { line-height: var(--body-line-height); }
 
-ul {
-  list-style-type: disc;
-}
-
-ol {
-  list-style-type: decimal;
+@media screen and (min-width: $break-tablet) {
+  h1, h2, h3 {
+    margin: 0 0 24px;
   }
 
-  ul li, ol li {
-      line-height: var(--body-line-height);
+  /* text size */
+  .text-xxl { font-size: calc(var(--text--base-size) * 4.25); font-weight: 700; line-height: .9em; }
+  h1, .text-xl { font-size: calc(var(--text--base-size) * 2.1); }
+  h2, .text-lg { font-size: calc(var(--text--base-size) * 1.4); }
+  h3, .text-md { font-size: var(--text--base-size); }
+  .text-sm, small { font-size: calc(var(--text--base-size) * .8); }
+  .text-xs { font-size: calc(var(--text--base-size) * .7); }
+
   }
 
-  em {
-      font-style: italic;
-  }
 
-  u {
-      text-decoration: underline;
-  }
-}
-
-/* utility classes */
-.truncate {
-  // truncate text if it exceeds parent
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
