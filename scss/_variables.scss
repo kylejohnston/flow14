@@ -9,23 +9,12 @@
   --text--base-size: 1.125em;
 
   /* line-height */
-  --heading-line-height: 1.1;
+  --heading-line-height: 1.2em;
   --body-line-height: 1.5;
-
-  // COLORS
-  --black: #1A3135;
-  --white: #FFFFFF;
-  --blue:  #179BCF;
-  --light-blue: #F0F8FA;
-  --orange: #FA8335;
-  --dark-orange: #E53B34;
-  --color-text: var(--black);
-  --color-link: var(--blue);
-  --color-link-visited: #1278A1;
 }
 // BREAKPOINTS
 $break-phone: 544px;
-$break-tablet: 768px;
+$break-tablet: 770px;
 $break-desktop: 1012px;
 $break-wide: 1280px;
 
