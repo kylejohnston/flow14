@@ -37,7 +37,7 @@
 <!-- JavaScript - - - - - - - - - - -->
 <!-- <script src="js/flow14.min.js"></script> -->
 <!-- <script async src="js/menu.min.js"></script> -->
-<script async src="/js/lazysizes.min.js" async=""></script>
+<!-- <script async src="/js/lazysizes.min.js" async=""></script> -->
 <script async src="/js/animation.js"></script>
 
 <!-- Analytics - - - - - - - - - - -->
