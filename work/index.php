@@ -24,7 +24,7 @@
     </div>
 
     <section class="main grid-in grid-gap shift-4 text-center">
-      <div class="half-left mb-4 grid-content">
+      <div class="half-left mb-4">
         <div class="img img-hover hidden mb-1">
           <a href="/work/right-triangle/">
             <picture class="img">
@@ -39,7 +39,7 @@
         <h3><a href="/work/right-triangle/">Branding and Website Design</a></h3>
       </div>
 
-      <div class="half-right mb-4 grid-content">
+      <div class="half-right mb-4">
         <div class="img img-hover hidden mb-1">
           <a href="/work/websites/">
             <picture class="img">
@@ -53,53 +53,10 @@
         </div>
         <h3><a href="/work/websites/">Website Designs</a></h3>
       </div>
+    </section>
 
-      <div class="half-left mb-4 grid-content">
-        <div class="img img-hover hidden mb-1">
-          <a href="/work/hnc-living/">
-            <picture class="img">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.md.webp" type="image/webp">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.md.png">
-              <img src="/img/samples/hnc-living/thumb-hnc.png" width="100%" height="auto" alt="HNC Living website design" loading="lazy" />
-            </picture>
-          </a>
-        </div>
-        <h3><a href="/work/hnc-living/">Website Redesign</a></h3>
-      </div>
-
-      <div class="half-right mb-4 grid-content">
-        <div class="img img-hover hidden mb-1">
-          <a href="/work/rounding-up-undies/">
-            <picture class="img">
-              <source srcset="/img/samples/rounding-up-undies/thumb.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/rounding-up-undies/thumb.jpg" media="(min-width: 50em)">
-              <source srcset="/img/samples/rounding-up-undies/thumb.md.webp" type="image/webp">
-              <source srcset="/img/samples/rounding-up-undies/thumb.md.jpg">
-              <img src="/img/samples/rounding-up-undies/thumb.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design" loading="lazy" />
-            </picture>
-          </a>
-        </div>
-        <h3><a href="/work/rounding-up-undies/">Logo Design</a></h3>
-      </div>
-
-      <div class="half-left mb-4 grid-content">
-        <div class="img img-hover hidden mb-1">
-          <a href="/work/logos/">
-            <picture class="img">
-              <source srcset="/img/samples/logos/thumb-logos.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/logos/thumb-logos.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/logos/thumb-logos.md.webp" type="image/webp">
-              <source srcset="/img/samples/logos/thumb-logos.md.png">
-              <img src="/img/samples/logos/thumb-logos.png" width="100%" height="auto" alt="Logo designs" loading="lazy" />
-            </picture>
-          </a>
-        </div>
-        <h3><a href="/work/logos/">Logo Designs</a></h3>
-      </div>
-
-      <div class="half-right mb-4 grid-content">
+    <section class="main grid-in grid-gap text-center">
+      <div class="column mb-4">
         <div class="img img-hover hidden mb-1">
           <a href="/work/harmony-hearing-aids/">
             <picture class="img">
@@ -114,7 +71,7 @@
         <h3><a href="/work/harmony-hearing-aids/">Logo Design and Branding</a></h3>
       </div>
 
-      <div class="half-left mb-4 grid-content">
+      <div class="column mb-4">
         <div class="img img-hover hidden mb-1">
           <a href="/work/creative-outfitters/">
             <picture class="img">
@@ -129,7 +86,7 @@
         <h3><a href="/work/creative-outfitters/">Logo Design and Branding</a></h3>
       </div>
 
-      <div class="half-right mb-4 grid-content">
+      <div class="column mb-4">
         <div class="img img-hover hidden mb-1">
           <a href="/work/kc-lisc/">
             <picture class="img">
@@ -144,11 +101,53 @@
         <h3><a href="/work/kc-lisc">Data Visualization</a></h3>
       </div>
     </section>
-    <section class="main grid-in grid-gap">
-      <div class="full m-2">
-        <h2>Labs: Open Source Experiments.</h2>
+
+    <section class="main grid-in grid-gap text-center">
+      <div class="half-left mb-4">
+        <div class="img img-hover hidden mb-1">
+          <a href="/work/logos/">
+            <picture class="img">
+              <source srcset="/img/samples/logos/thumb-logos.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/logos/thumb-logos.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/logos/thumb-logos.md.webp" type="image/webp">
+              <source srcset="/img/samples/logos/thumb-logos.md.png">
+              <img src="/img/samples/logos/thumb-logos.png" width="100%" height="auto" alt="Logo designs" loading="lazy" />
+            </picture>
+          </a>
         </div>
-      <div class="half-left mb-4 grid-content text-center">
+        <h3><a href="/work/logos/">Logo Designs</a></h3>
+      </div>
+
+      <div class="half-right mb-4">
+        <div class="img img-hover hidden mb-1">
+          <a href="/work/hnc-living/">
+            <picture class="img">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.md.webp" type="image/webp">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.md.png">
+              <img src="/img/samples/hnc-living/thumb-hnc.png" width="100%" height="auto" alt="HNC Living website design" loading="lazy" />
+            </picture>
+          </a>
+        </div>
+        <h3><a href="/work/hnc-living/">Website Redesign</a></h3>
+      </div>
+
+      <div class="column mb-4">
+        <div class="img img-hover hidden mb-1">
+          <a href="/work/rounding-up-undies/">
+            <picture class="img">
+              <source srcset="/img/samples/rounding-up-undies/thumb.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/rounding-up-undies/thumb.jpg" media="(min-width: 50em)">
+              <source srcset="/img/samples/rounding-up-undies/thumb.md.webp" type="image/webp">
+              <source srcset="/img/samples/rounding-up-undies/thumb.md.jpg">
+              <img src="/img/samples/rounding-up-undies/thumb.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design" loading="lazy" />
+            </picture>
+          </a>
+        </div>
+        <h3><a href="/work/rounding-up-undies/">Logo Design</a></h3>
+      </div>
+      <div class="column mb-4">
         <div class="img img-hover hidden mb-1">
           <a href="/fonts/">
             <picture class="img">
@@ -162,7 +161,7 @@
         </div>
 				<h3><a href="/fonts/">Open Source Fonts</a></h3>
       </div>
-      <div class="half-right mb-4 grid-content text-center">
+      <div class="column mb-4">
         <div class="img img-hover hidden mb-1">
           <a href="https://memex.flow14.com">
             <picture class="img">
@@ -174,11 +173,9 @@
             </picture>
           </a>
         </div>
-				<h3><a href="https://memex.flow14.com">A tool for collecting visual inspiration</a> ↗</h3>
-				<!-- <p>A tool for collecting visual inspiration.<br><a href="https://memex.flow14.com">MEMEX</a> ⋮ <a href="https://github.com/kylejohnston/memex-core">Source code on GitHub</a>.</p> -->
+        <h3><a href="https://memex.flow14.com">A tool for collecting visual inspiration</a> ↗</h3>
       </div>
     </section>
-
   </div>
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php'); ?>
