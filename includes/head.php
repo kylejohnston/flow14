@@ -1,5 +1,3 @@
-	<link rel="stylesheet" href="https://use.typekit.net/ayz0tps.css">
-
 	<meta property="og:title" content="flow14 — design works" />
 	<meta property="og:url" content="https://www.flow14.com" />
 	<meta property="og:image" content="https://www.flow14.com/img/share.png" />
@@ -13,13 +11,14 @@
 	<meta name="twitter:description" content="flow14 is a design studio – making design work wonders.">
 	<meta name="twitter:image" content="https://www.flow14.com/img/share.png">
 
-	<!-- Le styles -->
-	<link href="css/gridkit.min.css?20180730_0000" rel="stylesheet">
-	<link href="css/stylesheet.min.css?20181121_0000" rel="stylesheet">
+	<!-- Styles -->
+	<link rel="stylesheet" href="https://use.typekit.net/ayz0tps.css">
+	<link href="/css/main.css" rel="stylesheet">
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
 	<![endif]-->
+	<!--
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -29,3 +28,4 @@
 	  ga('create', 'UA-92556-22', 'auto');
 	  ga('send', 'pageview');
 	</script>
+	-->
