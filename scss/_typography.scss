@@ -98,7 +98,6 @@ ul li, ol li {
 
   /* text size */
   .text-xxl { font-size: 10ch; font-weight: 700; line-height: .9em; }
-  // .text-xxl { font-size: calc(var(--text--base-size) * 4.25); font-weight: 700; line-height: .9em; }
   h1, .text-xl { font-size: calc(var(--text--base-size) * 2.1); }
   h2, .text-lg { font-size: calc(var(--text--base-size) * 1.4); }
   h3, .text-md { font-size: var(--text--base-size); }
