@@ -31,7 +31,7 @@
             <source srcset="/img/samples/harmony/harmony-logo.lg.webp" media="(min-width: 63em)" type="image/webp">
             <source srcset="/img/samples/harmony/harmony-logo.lg.png" media="(min-width: 63em)">
             <source srcset="/img/samples/harmony/harmony-logo.webp" type="image/webp">
-            <source srcset="/img/samples/harmony/harmony-logo.jpg">
+            <source srcset="/img/samples/harmony/harmony-logo.png">
             <img class="mb-2" src="/img/samples/harmony/harmony-logo.png" width="100%" height="auto" alt="Harmony Hearing Aids logo design" loading="lazy" />
           </picture>
         </div>
