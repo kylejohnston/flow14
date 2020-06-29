@@ -5,7 +5,7 @@ body {
 
 h1, h2, h3 {
   line-height: var(--heading-line-height);
-  font-family: var(--font-headline);
+  // font-family: var(--font-headline);
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -28,10 +28,10 @@ h1, h2, h3 {
 .bold { font-weight: 700; }
 
 /* text size */
-.text-xxl { font-size: calc(var(--text--base-size) * 2.333333333); font-weight: 700; line-height: .9em; }
-h1, .text-xl { font-size: calc(var(--text--base-size) * 1.555555556); }
-h2, .text-lg { font-size: calc(var(--text--base-size) * 1.222222222); }
-h3, .text-md { font-size: var(--text--base-size); }
+.text-xxl { font-family: var(--font-headline); font-size: calc(var(--text--base-size) * 2.333333333); font-weight: 700; line-height: .9em; }
+h1, .text-xl { font-family: var(--font-headline); font-size: calc(var(--text--base-size) * 1.555555556); }
+h2, .text-lg { font-family: var(--font-headline); font-size: calc(var(--text--base-size) * 1.222222222); }
+h3, .text-md { font-family: var(--font-headline); font-size: var(--text--base-size); }
 .text-sm, small { font-size: calc(var(--text--base-size) * 0.888888889); }
 .text-xs { font-size: calc(var(--text--base-size) * 0.777777778); }
 
