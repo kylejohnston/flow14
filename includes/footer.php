@@ -22,7 +22,6 @@
 			<p class="text-sm">
 				<a href="/fonts/">Fonts</a><br>
 				<a href="https://memex.flow14.com">MEMEX</a> ↗<br>
-				<!-- <a href="#">365 Project</a><br> -->
 				<a href="https://blog.flow14.com">Blog (Archive)</a><br>
 			</p>
 		</div>
@@ -33,12 +32,23 @@
 		<div class="block column background-dark-orange"></div>
 	</div>
 </footer>
+<div class="wave">
+	<div class="global-menu">
+		<div class="global-menu__wrap">
+			<div class="text-xl bold global-menu__item mb-2"><a class="" href="/work/">Work</a></div>
+			<div class="text-xl bold global-menu__item mb-2"><a class="" href="/about/">About</a></div>
+			<div class="text-xl bold global-menu__item"><a class="" href="/contact/">Contact</a></div>
+		</div>
+	</div>
+	<svg class="shape-overlays" viewBox="0 0 100 100" preserveAspectRatio="none">
+		<path class="shape-overlays__path"></path>
+		<path class="shape-overlays__path"></path>
+		<path class="shape-overlays__path"></path>
+	</svg>
+</div>
 
 <!-- JavaScript - - - - - - - - - - -->
-<!-- <script src="js/flow14.min.js"></script> -->
-<!-- <script async src="js/menu.min.js"></script> -->
-<!-- <script async src="/js/lazysizes.min.js" async=""></script> -->
-<script async src="/js/animation.js"></script>
+<script async src="/js/scripts.min.js"></script>
 
 <!-- Analytics - - - - - - - - - - -->
 <!-- StatCounter -->
