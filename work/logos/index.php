@@ -16,7 +16,6 @@
 		<header class="mt-2 ml-2">
       <div>
         <?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/logo.php'); ?>
-        <p class="text-xs uppercase"><a href="/work/">Work/</a></p>
       </div>
 		</header>
 
