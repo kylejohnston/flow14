@@ -33,7 +33,7 @@
             <source srcset="/img/samples/right-triangle/banner.lg.png" media="(min-width: 50em)">
             <source srcset="/img/samples/right-triangle/banner.webp" type="image/webp">
             <source srcset="/img/samples/right-triangle/banner.png">
-            <img class="" src="/img/samples/right-triangle/banner.lg.png" width="100%" height="auto" alt="Rounding Up Undies logo design" loading="lazy">
+            <img class="" src="/img/samples/right-triangle/banner.lg.png" width="100%" height="auto" alt="Rounding Up Undies logo design." loading="lazy">
           </picture>
         </div>
       </div>
@@ -49,7 +49,7 @@
           <source srcset="/img/samples/right-triangle/brand-sprint.png" media="(min-width: 50em)">
           <source srcset="/img/samples/right-triangle/brand-sprint.sm.webp" type="image/webp">
           <source srcset="/img/samples/right-triangle/brand-sprint.sm.png">
-          <img class="" src="/img/samples/right-triangle/brand-sprint.png" width="100%" height="auto" alt="Right Triangle brand design" loading="lazy">
+          <img class="" src="/img/samples/right-triangle/brand-sprint.png" width="100%" height="auto" alt="Right Triangle brand sprint worksheet." loading="lazy">
         </picture>
         <h3>Brand Sprint</h3>
         <p>We kicked off the project with a <a href="https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a">brand sprint</a>. This helped define Right Triangle&rsquo;s &lsquo;why&rsquo;, brand values, and more.</p>
@@ -62,28 +62,28 @@
         <source srcset="/img/samples/right-triangle/concepts-r0.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/right-triangle/concepts-r0.sm.webp" type="image/webp">
         <source srcset="/img/samples/right-triangle/concepts-r0.sm.jpg">
-        <img src="/img/samples/right-triangle/concepts-r0.jpg" width="100%" height="auto" alt="Logo design - sketches" loading="lazy" />
+        <img src="/img/samples/right-triangle/concepts-r0.jpg" width="100%" height="auto" alt="Logo design process - sketches." loading="lazy" />
       </picture>
       <picture class="img half-right mb-1 hidden">
         <source srcset="/img/samples/right-triangle/concepts-r1.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/right-triangle/concepts-r1.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/right-triangle/concepts-r1.sm.webp" type="image/webp">
         <source srcset="/img/samples/right-triangle/concepts-r1.sm.jpg">
-        <img src="/img/samples/right-triangle/concepts-r1.jpg" width="100%" height="auto" alt="Logo design - early concepts" loading="lazy" />
+        <img src="/img/samples/right-triangle/concepts-r1.jpg" width="100%" height="auto" alt="Logo design process - early concepts." loading="lazy" />
       </picture>
       <picture class="img half-left mb-2 hidden">
         <source srcset="/img/samples/right-triangle/concepts-r2.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/right-triangle/concepts-r2.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/right-triangle/concepts-r2.sm.webp" type="image/webp">
         <source srcset="/img/samples/right-triangle/concepts-r2.sm.jpg">
-        <img src="/img/samples/right-triangle/concepts-r2.jpg" width="100%" height="auto" alt="Logo design - concepts and comparison" loading="lazy" />
+        <img src="/img/samples/right-triangle/concepts-r2.jpg" width="100%" height="auto" alt="Logo design process - concepts and competitor comparison." loading="lazy" />
       </picture>
       <picture class="img half-right mb-2 hidden">
         <source srcset="/img/samples/right-triangle/logo.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/right-triangle/logo.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/right-triangle/logo.sm.webp" type="image/webp">
         <source srcset="/img/samples/right-triangle/logo.sm.jpg">
-        <img src="/img/samples/right-triangle/logo.jpg" width="100%" height="auto" alt="Logo design" loading="lazy" />
+        <img src="/img/samples/right-triangle/logo.jpg" width="100%" height="auto" alt="Final Right Triangle logo design." loading="lazy" />
       </picture>
       <div class="half-right grid-content">
         <h3>Logo Design</h3>
@@ -98,7 +98,7 @@
           <source srcset="/img/samples/right-triangle/homepage.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/right-triangle/homepage.sm.webp" type="image/webp">
           <source srcset="/img/samples/right-triangle/homepage.sm.jpg">
-          <img class="shadow" src="/img/samples/right-triangle/homepage.jpg" width="100%" height="auto" alt="Website Redesign - Homepage" loading="lazy" />
+          <img class="shadow" src="/img/samples/right-triangle/homepage.jpg" width="100%" height="auto" alt="Right Triangle Website Redesign - Homepage." loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2">
@@ -116,7 +116,7 @@
           <source srcset="/img/samples/right-triangle/business-card.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/right-triangle/business-card.sm.webp" type="image/webp">
           <source srcset="/img/samples/right-triangle/business-card.sm.png">
-          <img src="/img/samples/right-triangle/business-card.jpg" width="100%" height="auto" alt="Business Cards" loading="lazy" />
+          <img src="/img/samples/right-triangle/business-card.jpg" width="100%" height="auto" alt="Right Triangle Business Cards." loading="lazy" />
         </picture>
         <div class="text-sm text-center mt-1">Business Card Design</div>
       </div>
@@ -126,7 +126,7 @@
           <source srcset="/img/samples/right-triangle/slide-01.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/right-triangle/slide-01.sm.webp" type="image/webp">
           <source srcset="/img/samples/right-triangle/slide-01.sm.jpg">
-          <img class="shadow" src="/img/samples/right-triangle/slide-01.jpg" width="100%" height="auto" alt="PowerPoint Slide" loading="lazy" />
+          <img class="shadow" src="/img/samples/right-triangle/slide-01.jpg" width="100%" height="auto" alt="Right Triangle PowerPoint slide example." loading="lazy" />
         </picture>
         <div class="text-sm text-center mt-1">Presentation Template Design</div>
       </div>
@@ -136,7 +136,7 @@
           <source srcset="/img/samples/right-triangle/slide-02.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/right-triangle/slide-02.sm.webp" type="image/webp">
           <source srcset="/img/samples/right-triangle/slide-02.sm.jpg">
-          <img class="shadow" src="/img/samples/right-triangle/slide-02.jpg" width="100%" height="auto" alt="PowerPoint Slide" loading="lazy" />
+          <img class="shadow" src="/img/samples/right-triangle/slide-02.jpg" width="100%" height="auto" alt="Right Triangle PowerPoint slide example." loading="lazy" />
         </picture>
         <div class="text-sm text-center mt-1">Presentation Template Design</div>
       </div>
@@ -146,7 +146,7 @@
           <source srcset="/img/samples/right-triangle/slide-03.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/right-triangle/slide-03.sm.webp" type="image/webp">
           <source srcset="/img/samples/right-triangle/slide-03.sm.jpg">
-          <img class="shadow" src="/img/samples/right-triangle/slide-03.jpg" width="100%" height="auto" alt="PowerPoint Slide" loading="lazy" />
+          <img class="shadow" src="/img/samples/right-triangle/slide-03.jpg" width="100%" height="auto" alt="Right Triangle PowerPoint slide example." loading="lazy" />
         </picture>
         <div class="text-sm text-center mt-1">Presentation Template Design</div>
       </div>
