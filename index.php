@@ -18,7 +18,7 @@
 		</header> -->
 		<div class="text-center home-intro mb-2" style="">
 			<div class="my-3 px-1" style="grid-column: 2 / 6;">
-				<div class="logo fill-white mb-1 hamburger"><?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/flow14.php'); ?></div>
+				<div class="logo fill-white mb-1"><?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/flow14.php'); ?></div>
 				<h1 class="text-xxl mb-2 color-white" style="">We Make Design Work Wonders</h1>
 				<h2 class="normal-case color-white m-none" style="">We&rsquo;re a branding and web design studio making design work wonders for growing businesses and nonprofits.</h2>
 				<div class="recent"><h3>Featured Projects</h3></div>
