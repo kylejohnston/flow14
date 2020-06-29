@@ -21,7 +21,7 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light-blue">A more effective nonprofit website</div>HNC Living</h1>
+      <h1><div class="color-light-blue">A more effective nonprofit website</div>HNC Living</h1>
       <p>What do you do when your nonprofit has successfully helped more than 1,200 head and neck cancer patients with their treatment and recovery, but you’re ready to expand beyond your local roots?</p>
       <p class="mb-4" style="z-index:99">For <a href="https://www.hncliving.org">HNC Living Foundation</a>, the answer was a new website designed to expand their reach, attract more donors, and &#8211; most importantly &#8211; reach more patients to help them conquer the burdens related to their treatment and recovery.</p>
     </div>
