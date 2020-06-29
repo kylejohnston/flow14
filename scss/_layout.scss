@@ -18,6 +18,8 @@ header:after {
   & svg {
     height: 23px;
     width: 78px;
+    position: relative;
+    z-index:201;
   }
   margin-left: auto;
   margin-right: auto;
