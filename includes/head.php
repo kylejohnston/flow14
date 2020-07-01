@@ -13,12 +13,7 @@
 
 	<!-- Styles -->
 	<link rel="stylesheet" href="https://use.typekit.net/ayz0tps.css">
-	<link href="/css/main.css" rel="stylesheet">
-	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-	<!--[if lt IE 9]>
-		<script src="js/html5shiv.js"></script>
-	<![endif]-->
-	<!--
+	<link href="/css/main.css?20200701_0000" rel="stylesheet">
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -28,4 +23,4 @@
 	  ga('create', 'UA-92556-22', 'auto');
 	  ga('send', 'pageview');
 	</script>
-	-->
+
