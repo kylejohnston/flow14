@@ -129,26 +129,26 @@
 	</section>
 
 	<section class="grid">
-		<div class="main grid-in hidden">
-			<h2 class="text-center brand-title mb-3" style="">Brands We&rsquo;ve Worked With:</h2>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/garmin-logo.svg" alt="Garmin logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/hallmark-logo.svg" alt="Hallmark logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/amc-logo.svg" alt="AMC logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/boston-scientific-logo.svg" alt="Boston Scientific logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/vista-outdoor-logo.svg" alt="Vista Outdoor logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/bushnell-logo.svg" alt=" logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/hv-logo-h.svg" alt="Happy Valley logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/deg-logo.svg" alt="DEG logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/grayduck-logo.svg" alt="Grayduck Health logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/inquest-logo.svg" alt="InQuest Marketing logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/sidebench-logo.svg" alt="Sidebench logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/qwally-logo.svg" alt="Qwally logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/hnc-living-logo.svg" alt="HNC Living logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/one-global-village.svg" alt="One Global Village logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/right-triangle-logo.svg" alt="Right Triangle logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/rounding-up-undies.svg" alt="Rounding Up Undies logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/vmc-group-logo.svg" alt="VMC Group logo."></div>
-			<div class="brand" style=""><img loading="lazy" width="70%" height="70%" src="/img/brands/stay-alfred-logo.svg" alt="Stay Alfred logo."></div>
+		<div class="main grid-brand grid-brand-sm">
+			<h2 class="text-center brand-title mb-1 hidden" style="">Brands We&rsquo;ve Worked With:</h2>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/garmin-logo.svg" alt="Garmin logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/hallmark-logo.svg" alt="Hallmark logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w50" src="/img/brands/amc-logo.svg" alt="AMC logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/boston-scientific-logo.svg" alt="Boston Scientific logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/vista-outdoor-logo.svg" alt="Vista Outdoor logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w100" src="/img/brands/bushnell-logo.svg" alt=" logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/hv-logo-h.svg" alt="Happy Valley logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w50" src="/img/brands/deg-logo.svg" alt="DEG logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w100" src="/img/brands/grayduck-logo.svg" alt="Grayduck Health logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/inquest-logo.svg" alt="InQuest Marketing logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/sidebench-logo.svg" alt="Sidebench logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w50" src="/img/brands/qwally-logo.svg" alt="Qwally logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/hnc-living-logo.svg" alt="HNC Living logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/one-global-village.svg" alt="One Global Village logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/right-triangle-logo.svg" alt="Right Triangle logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/rounding-up-undies.svg" alt="Rounding Up Undies logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/vmc-group-logo.svg" alt="VMC Group logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/stay-alfred-logo.svg" alt="Stay Alfred logo."></div>
 		</div>
 	</section>
 
