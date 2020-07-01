@@ -1,0 +1,17 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#179bcf",
+        "titleBar.activeForeground": "#364045"
+      },
+      "spellright.language": [
+        "en"
+      ],
+      "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "html",
+        "php"
+      ],
+    
+}
