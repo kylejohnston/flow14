@@ -57,7 +57,7 @@
       <div class="half-right grid-content">
         <img class="img mb-2 hidden" src="/img/ic--focusing.svg" alt="Our Approach: Focusing" width="100%" height="auto">
         <h3>Focusing</h3>
-        <p>We help you see the forest for the trees and find the needle in the haystack. We ask the hard questions to understand where you're starting from and where you hope to go. Then, we plot a course and outline the communication tools you need to succeed in your journey.</p>
+        <p>We help you see the forest for the trees and find the needle in the haystack. We ask the hard questions to understand where you're starting from and where you hope to go. Then, we plot a course and outline the strategy you need to succeed in your journey.</p>
         <p class="mb-4"><strong>Typical projects include:</strong> creative strategy, brand strategy, content strategy, user experience (UX) planning, brainstorming workshops</p>
         <img class="img mb-2 hidden" src="/img/ic--distinguish.svg" alt="Our Approach: Distinguishing" width="100%" height="auto">
         <h3>Distinguishing</h3>
