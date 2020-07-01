@@ -29,7 +29,7 @@
 	</div>
 
 	<section class="grid-home">
-			<div class="sample-lg-l hidden">
+			<div class="sample-lg-l hidden shift-1">
 				<div class="img img-hover">
 					<a href="/work/right-triangle/">
 						<picture class="img">
@@ -128,7 +128,7 @@
 
 	</section>
 
-	<section class="grid">
+	<section class="grid my-4">
 		<div class="main grid-brand grid-brand-sm">
 			<h2 class="text-center brand-title mb-1 hidden" style="">Brands We&rsquo;ve Worked With:</h2>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/garmin-logo.svg" alt="Garmin logo."></div>
@@ -149,6 +149,40 @@
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/rounding-up-undies.svg" alt="Rounding Up Undies logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/vmc-group-logo.svg" alt="VMC Group logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/stay-alfred-logo.svg" alt="Stay Alfred logo."></div>
+		</div>
+	</section>
+
+	<section class="grid my-4">
+		<h2 class="mb-2 text-center hidden" style="grid-column: -1 / 1;">Our Approach</h3>
+		<div class="main grid-in">
+			<div class="half-left grid-content my-2 hidden">
+				<div class="text-center">
+					<img class="mb-2 text-center" src="/img/ic--focusing.svg" alt="" width="50%" height="auto">
+				</div>
+				<h3 class="text-center">Focus</h3>
+				<p>We ask the hard questions to understand where you're starting from and where you hope to go. Then, we plot a course and outline the strategy.</p>
+				<p><strong>Capabilities:</strong> Creative and UX Strategy</p>
+			</div>
+		</div>
+		<div class="main grid-in">
+			<div class="half-right grid-content my-2 hidden">
+				<div class="text-center">
+					<img class="mb-2 text-center" src="/img/ic--distinguish.svg" alt="" width="50%" height="auto">
+				</div>
+				<h3 class="text-center">Distinguish</h3>
+				<p class=>We bring your vision to life with results-driven design that breaks through the clutter and distinguishes you from the competition.</p>
+				<p class=><strong>Capabilities:</strong> Branding, UX and Visual Design, Content Development</p>
+			</div>
+		</div>
+		<div class="main grid-in">
+			<div class="half-left grid-content my-2 hidden">
+				<div class="text-center">
+					<img class="mb-2" src="/img/ic--growing.svg" alt="" width="50%" height="auto">
+				</div>
+				<h3 class="text-center">Grow</h3>
+				<p>We assess the impact of our work and help you make sense of the data. You’ll understand what moves your audience and what’s driving your growth.</p>
+				<p><strong>Capabilities:</strong> SEO, Anaytics, Content Optimization</p>
+			</div>
 		</div>
 	</section>
 
