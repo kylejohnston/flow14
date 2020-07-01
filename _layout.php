@@ -9,10 +9,9 @@
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/" rel="canonical" />
-	<!-- < ?php include('includes/head.php'); ? > -->
-	<!-- <link href="/css/normalize.css" rel="stylesheet"> -->
-	<link rel="stylesheet" href="https://use.typekit.net/ayz0tps.css">
-	<link href="/css/main.css" rel="stylesheet">
+	<?php include('includes/head.php'); ?>
+	<!-- <link rel="stylesheet" href="https://use.typekit.net/ayz0tps.css">
+	<link href="/css/main.css" rel="stylesheet"> -->
 
 	<style type="text/css">
 
@@ -32,12 +31,12 @@
 	<!--< ?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/header-nav.php'); ? >-->
 
 	<div class="grid">
-		<header class="mt-2 ml-2" style="display:grid; grid-column: 1 / 3;z-index:3;">
-			<div class="logo"><img src="img/flow14-logo.svg" alt="" width="auto" height="36"></div>
+		<header class="mt-2 ml-2" style="display:grid; grid-column: 1 / 3; z-index:3;">
+			<div class="logo hamburger"><img src="img/flow14-logo.svg" alt="" width="auto" height="36"></div>
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1>Client Name: short project headline</h1>
+			<h1 class="hidden">Client Name: short project headline</h1>
 			<p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
 		</div>
 
@@ -46,7 +45,7 @@
 			<div class="full shift-3">
 				<img class="mb-2" src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt="">
 			</div>
-			<div class="half-right grid-sample">
+			<div class="half-right grid-content">
 				<h2 class="mb-1">Headline</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="#">Donec cursus tincidunt</a> est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla. In convallis commodo sem. Quisque ultricies purus et fermentum blandit. Pellentesque pellentesque est non ligula malesuada sodales.</p>
@@ -77,7 +76,7 @@
 
 	<article class="grid-home">
 			<div class="sample-lg-l">
-				<div class="blok"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
+				<div class="img mb-2"><img class="mb-2" src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
 				<div class="content">
 					<div style="position:sticky;top:48px;">
 					<h2 class="mb-1">0.1 Large Left</h2>
@@ -92,11 +91,11 @@
 					<h2 class="mb-1">0.2 Large Right</h2>
 					<p>Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla.</p>
 				</div>
-				<div class="blok order-1 mb-2"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
+				<div class="img order-1 mb-2"><img class="" src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
 			</div>
 
 			<div class="sample-sm-l">
-				<div class="blok"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
+				<div class="img mb-2"><img class="" src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
 				<div class="content">
 					<h2 class="mb-1">0.3 Small Left</h2>
 					<p>Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla.</p>
@@ -108,7 +107,7 @@
 					<h2 class="mb-1">0.4 Small Right</h2>
 					<p>Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus tincidunt est id fringilla.</p>
 				</div>
-				<div class="blok order-1"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
+				<div class="img order-1 mb-2"><img src="http://placeimg.com/800/600/animals" width="100%" height="auto" alt=""></div>
 			</div>
 
 
@@ -127,9 +126,27 @@
 		</div>
 
 	</div>
+<div class="wave">
+	<div class="global-menu">
+		<div class="global-menu__wrap">
+			<div class="text-xxl global-menu__item mb-2"><a class="" href="/">Home</div>
+			<div class="text-xxl global-menu__item mb-2"><a class="" href="/work/">Work</a></div>
+			<div class="text-xxl global-menu__item mb-2"><a class="" href="/about/">About</a></div>
+			<div class="text-xxl global-menu__item"><a class="" href="/contact/">Contact</a></div>
+		</div>
+	</div>
+	<svg class="shape-overlays" viewBox="0 0 100 100" preserveAspectRatio="none">
+		<path class="shape-overlays__path"></path>
+		<path class="shape-overlays__path"></path>
+		<path class="shape-overlays__path"></path>
+	</svg>
+</div>
 
+<!-- <script src="/js/menu/menu.js"></script> -->
+<!-- <script src="/js/menu/easings.js"></script> -->
+<!-- <script src="/js/menu/demo2.js"></script> -->
 
-
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php'); ?>
 
 </body>
 </html>
