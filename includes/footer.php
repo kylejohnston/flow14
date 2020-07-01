@@ -52,7 +52,7 @@
 
 <!-- Analytics - - - - - - - - - - -->
 <!-- StatCounter -->
-<!-- <script type="text/javascript">
+<script type="text/javascript">
 	var sc_project=651567;
 	var sc_invisible=1;
 	var sc_security="59987d53";
@@ -61,6 +61,6 @@
 	document.write("<sc"+"ript type='text/javascript' src='" +
 	scJsHost+
 	"statcounter.com/counter/counter.js'></"+"script>");
-</script> -->
+</script>
 <!-- HubSpot -->
-<!-- <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3292081.js"></script> -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3292081.js"></script>
