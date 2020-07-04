@@ -19,11 +19,16 @@
       </div>
 		</header>
 
-		<div class="grid-intro px-2 mt-2" style="min-height:41ch">
-    <h1><div class="color-light-blue">Say Hello</div>Contact Us</h1>
-    </div>
 
-    <section class="main grid-in my-4 grid-gap">
+
+    <section class="main grid-in my-3">
+    <div class="half-left grid-content">
+        <h1><div class="color-blue">Say Hello</div>Contact Us</h1>
+      </div>
+    </section>
+
+
+    <section class="main grid-in mt-4 grid-gap">
       <div class="half-left mb-4">
         <div class="grid-content">
           <h2>Email</h2>
@@ -74,6 +79,7 @@
         </div>
       </div>
     </section>
+
   </div>
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php'); ?>
