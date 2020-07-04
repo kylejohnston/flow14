@@ -4,7 +4,7 @@
 }
 .grid-in {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: [full-start half-left-start half-right-start] 1fr [full-end half-left-end half-right-end];
 
   & .column, & .column-sm { grid-column: span 6; }
 
@@ -23,13 +23,13 @@
 .grid-content {
   display: grid;
   grid-column: -1 / 1;
-  grid-template-columns: [edge-start] calc(var(--offset) * 2) [content-start] 1fr [content-end] calc(var(--offset) * 2) [edge-end];
+  grid-template-columns: [full-start] calc(var(--offset) * 2) [content-start] 1fr [content-end] calc(var(--offset) * 2) [full-end];
 
   & > .img {
-    grid-column: edge;
+    grid-column: full;
   }
   & * {
-    grid-column: edge;
+    grid-column: full;
   }
 }
 .home-intro {
@@ -105,7 +105,7 @@
 .source { grid-column: span 6; padding: 0 16px; }
 .quote  { grid-column: span 6; padding: 0 16px; }
 
-.full { grid-column: full; };
+.full { grid-column: -1 / 1; };
 .main { grid-column: main; }
 .content { grid-column: content; }
 .half-left { grid-column: -1 / 1; }
@@ -144,14 +144,14 @@
   }
   .grid-content {
     display: grid;
-    grid-template-columns: [edge-start] calc(var(--offset) * 2) [content-start] 1fr [content-end] calc(var(--offset) * 2) [edge-end];
+    grid-template-columns: [full-start] calc(var(--offset) * 2) [content-start] 1fr [content-end] calc(var(--offset) * 2) [full-end];
 
     & > * {
       grid-column: content;
     }
 
     & > .img {
-    grid-column: edge;
+    grid-column: full;
     }
   }
   .home-intro {
