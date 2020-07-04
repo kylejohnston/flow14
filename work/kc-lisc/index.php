@@ -72,8 +72,8 @@
       </div>
     </section>
 
-    <section class="half-right grid-in mb-4">
-      <div class=" grid-content">
+    <section class="main grid-in mb-4">
+      <div class="half-right grid-content">
         <h3>Need a design that works harder for your nonprofit?</h3>
         <a class="cta my-1" href="/contact/" style=""><h3 class="m-none">Let&rsquo;s Talk<span style="letter-spacing:-3px;">――――</span></h3></a>
       </div>
