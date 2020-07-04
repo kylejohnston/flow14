@@ -108,8 +108,8 @@
 .full { grid-column: full; };
 .main { grid-column: main; }
 .content { grid-column: content; }
-.half-left { grid-column: main; }
-.half-right { grid-column: main; }
+.half-left { grid-column: -1 / 1; }
+.half-right { grid-column: -1 / 1; }
 
 .order-1 { order: 1; }
 .order-2 { order: 2; }
@@ -127,8 +127,6 @@
   .grid-intro {
     grid-column: intro;
     min-height: 82ch;
-    transform: skewY(-4deg);
-    & > h1, & > p { transform: skewY(4deg); }
   }
 }
 @media screen and (min-width: $break-desktop) {
