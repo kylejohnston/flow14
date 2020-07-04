@@ -1,5 +1,5 @@
 :root {
-   --black: #05222E;
+  --black: #05222E;
   --white: #FFFFFF;
   --blue:  #179BCF;
   --light-blue: #D3EBF4;
@@ -43,7 +43,6 @@ body {
 }
 .grid-intro {
   background: var(--blue);
-  background-image:linear-gradient(176deg,hsl(197,100,42),hsl(197,100,55));
   color: var(--white);
   & a:link, & a:visited { color: var(--white); }
   & a:hover, & a:active { color: var(--light-blue); }
