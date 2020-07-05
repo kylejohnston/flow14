@@ -21,7 +21,7 @@
 
 		<div class="grid-intro px-2 mt-2">
 			<h1><div class="color-light-blue">Data Designed Right</div>Right Triangle Consulting</h1>
-      <p class="">Right Triangle Consulting specializes in modernizing data architecture for growing organizations. They wanted to update their brand identity and website in order to fuel their growth and enhance their reputation as data experts with both clients and partners.</p>
+      <p class="">Right Triangle Consulting specializes in modernizing data architecture for growing organizations. They wanted to update their brand identity and website to fuel their growth and enhance their reputation as data experts with both clients and partners.</p>
       <p class="mb-4">From a new logo and website to presentations and email templates, we created a robust, modern brand identity that helps Right Triangle stand out in a crowded market and positions them for growth.<br><br></p>
     </div>
 

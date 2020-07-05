@@ -67,7 +67,7 @@
       <div class="half-right mt-2">
         <div class="grid-content sticky">
           <h3>Interacting with the Infographic</h3>
-					<p>Viewers can roll over any of the services or organizations to see how they're connected to each other.</p>
+					<p>Viewers can rollover any of the services or organizations to see how they're connected to each other.</p>
         </div>
       </div>
     </section>

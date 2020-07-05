@@ -160,7 +160,7 @@
       <div class="half-right my-2 order-1">
         <div class="grid-content sticky">
           <h3>Lisa Johnston</h3>
-          <p>Website design for a Lisa Johnston, a Kansas City-based writer, speaker, and political consultant.</p>
+          <p>Website design for Lisa Johnston, a Kansas City-based writer, speaker, and political consultant.</p>
           <p><a href="#">Visit LisaforKansas.com</a></p>
         </div>
       </div>

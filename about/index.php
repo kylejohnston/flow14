@@ -22,7 +22,7 @@
 		<div class="grid-intro px-2 mt-2">
       <h1>flow14 is a strategically smart design studio</h1>
       <!-- <div class="mb-4"> -->
-        <p>flow<small>14</small> is a design studio based in Kansas City with clients from across the United States. We specialize in making strategically smart, results-driven design that works wonders.</p>
+        <p>flow<small>14</small> is a design studio based in Kansas City with clients from across the United States. We specialize in making strategically smart, results-driven-design that works wonders.</p>
         <p class="mb-4">We can help your growing business, nonprofit, or political group stand out with outstanding work that moves your audience to act.</p>
       <!-- </div> -->
     </div>
@@ -51,7 +51,7 @@
       <div class="half-left mt-2">
         <div class="grid-content sticky">
           <h2>What We Do For You</h2>
-          <p class="mb-4">Our approach focuses on results-driven design and creative strategy means we tackle all kinds of challenges. And while the deliverables may differ for every project, there are three areas where our work works wonders:</p>
+          <p class="mb-4">Our approach focuses on results-driven-design and creative strategy means we tackle all kinds of challenges. And while the deliverables may differ for every project, there are three areas where our work works wonders:</p>
         </div>
       </div>
       <div class="half-right grid-content">
@@ -61,7 +61,7 @@
         <p class="mb-4"><strong>Typical projects include:</strong> creative strategy, brand strategy, content strategy, user experience (UX) planning, brainstorming workshops</p>
         <img class="img mb-2 hidden" src="/img/ic--distinguish.svg" alt="Our Approach: Distinguishing" width="100%" height="auto">
         <h3>Distinguishing</h3>
-        <p>Whether you're starting from scratch or you want to improve something you’ve made, we bring your vision to life with results-driven design that breaks through the clutter and distinguishes you from the competition. Design that reaches the right audience at the right time and moves them to engage with you.</p>
+        <p>Whether you're starting from scratch or you want to improve something you’ve made, we bring your vision to life with results-driven-design that breaks through the clutter and distinguishes you from the competition. Design that reaches the right audience at the right time and moves them to engage with you.</p>
         <p class="mb-4"><strong>Typical projects include:</strong> branding, logo design, website design, UX design, content development</p>
         <img class="img mb-2 hidden" src="/img/ic--growing.svg" alt="Our Approach: Growing" width="100%" height="auto">
         <h3>Growing</h3>

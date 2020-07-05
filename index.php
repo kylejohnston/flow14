@@ -170,7 +170,7 @@
 					<img class="mb-2 text-center" src="/img/ic--distinguish.svg" alt="" width="50%" height="auto">
 				</div>
 				<h3 class="text-center">Distinguish</h3>
-				<p class=>We bring your vision to life with results-driven design that breaks through the clutter and distinguishes you from the competition.</p>
+				<p class=>We bring your vision to life with results-driven-design that breaks through the clutter and distinguishes you from the competition.</p>
 				<p class=><strong>Capabilities:</strong> Branding, UX and Visual Design, Content Development</p>
 			</div>
 		</div>
@@ -181,7 +181,7 @@
 				</div>
 				<h3 class="text-center">Grow</h3>
 				<p>We assess the impact of our work and help you make sense of the data. You’ll understand what moves your audience and what’s driving your growth.</p>
-				<p><strong>Capabilities:</strong> SEO, Anaytics, Content Optimization</p>
+				<p><strong>Capabilities:</strong> SEO, Analytics, Content Optimization</p>
 			</div>
 		</div>
 	</section>
