@@ -66,6 +66,8 @@
           <div class="mb-2">
             <h3>Address</h3>
             <p>12725 W 126th St<br>Overland Park, KS 66213</p>
+            <p><?php  date_default_timezone_set("America/Chicago"); echo "<b>Local time:</b> " . date("g:i a") . " CST"; ?></p>
+
           </div>
           <div class="mb-2">
             <h3>Elsewhere</h3>
