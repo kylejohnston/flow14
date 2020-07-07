@@ -15,15 +15,15 @@
 			</p>
 		</div>
 		<div class="column mx-2 mb-2">
-			<p class="text-sm">12725 W 126th St<br>Overland Park, KS 66213<br>913-738-4080<br><a href="#">Email</a></p>
-		</div>
-		<div class="column mx-2 mb-2">
 			<h3 class="m-none">Labs</h3>
 			<p class="text-sm">
 				<a href="/fonts/">Fonts</a><br>
 				<a href="https://memex.flow14.com">MEMEX</a> ↗<br>
 				<a href="https://blog.flow14.com">Blog (Archive)</a><br>
 			</p>
+		</div>
+		<div class="column mx-2 mb-2">
+			<p class="text-xs">&copy; flow14 <?php echo date('Y') ;?></p>
 		</div>
 	</div>
 	<div class="grid-thirds full">
