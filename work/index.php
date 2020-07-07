@@ -19,7 +19,7 @@
       </div>
 		</header>
 
-		<div class="grid-intro px-2 mt-2p">
+		<div class="grid-intro px-2 mt-2">
 			<h1><div class="color-light-blue">Select Design Works</div>A Few of Our Favorite Things</h1>
     </div>
 
