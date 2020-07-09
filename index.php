@@ -118,7 +118,7 @@
 					</a>
 				</div>
 				<div class="content">
-					<!-- <p class="text-xs uppercase">Category</p> -->
+					<p class="text-xs uppercase">Logo Design</p>
 					<h2 class="mb-1"><a href="/work/rounding-up-undies/">Rounding Up Undies</a></h2>
 					<p>Empowering girls around the world</p>
 				</div>
