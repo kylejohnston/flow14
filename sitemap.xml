@@ -1,1081 +1,1076 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://www.flow14.com/wordpress/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.flow14.com/wordpress/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?>
 <!-- generator="wordpress/2.7.1" -->
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.flow14.com/</loc>
-		<lastmod>2017-04-22</lastmod>
-		<changefreq>daily</changefreq>
+		<loc>https://www.flow14.com/</loc>
+		<lastmod>2020-07-01</lastmod>
+		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/about</loc>
+		<loc>https://www.flow14.com/about/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/contact</loc>
+		<loc>https://www.flow14.com/contact/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/fonts</loc>
+		<loc>https://www.flow14.com/fonts/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/lisa-for-kansas</loc>
+		<loc>https://www.flow14.com/work/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/lisa-for-kansas-senate</loc>
+		<loc>https://www.flow14.com/work/creative-outfitters/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/kansas-dems</loc>
+		<loc>https://www.flow14.com/work/harmony-hearing-aids/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/iphone-365-project</loc>
+		<loc>https://www.flow14.com/work/hnc-living/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/harmony-hearing-aids</loc>
+		<loc>https://www.flow14.com/work/kc-lisc/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/creative-outfitters</loc>
+		<loc>https://www.flow14.com/work/logos/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/rounding-up-undies</loc>
+		<loc>https://www.flow14.com/work/right-triangle/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/kc-lisc</loc>
+		<loc>https://www.flow14.com/work/rounding-up-undies/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/websites</loc>
+		<loc>https://www.flow14.com/work/websites/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.flow14.com/logos</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.7</priority>
-	</url>
-	<url>
-		<loc>http://blog.flow14.com/</loc>
+		<loc>https://blog.flow14.com/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2009/slow-jam-the-news/</loc>
+		<loc>https://blog.flow14.com/2009/slow-jam-the-news/</loc>
 		<lastmod>2009-03-06T02:09:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2009/3-2-1-launch/</loc>
+		<loc>https://blog.flow14.com/2009/3-2-1-launch/</loc>
 		<lastmod>2009-02-15T22:40:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2009/2009/mind-your-own-business/</loc>
+		<loc>https://blog.flow14.com/2009/2009/mind-your-own-business/</loc>
 		<lastmod>2009-02-11T04:24:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2009/googles-next-big-thing/</loc>
+		<loc>https://blog.flow14.com/2009/googles-next-big-thing/</loc>
 		<lastmod>2009-02-05T02:25:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2009/might-as-well-jump/</loc>
+		<loc>https://blog.flow14.com/2009/might-as-well-jump/</loc>
 		<lastmod>2009-01-17T20:35:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2009/nothing-ventured-nothing-gained/</loc>
+		<loc>https://blog.flow14.com/2009/nothing-ventured-nothing-gained/</loc>
 		<lastmod>2009-01-11T21:45:52+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2009/iphone365-in-two-easy-steps/</loc>
+		<loc>https://blog.flow14.com/2009/iphone365-in-two-easy-steps/</loc>
 		<lastmod>2009-01-06T06:32:32+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2009/new-years-resolution-get-a-wingsuit/</loc>
+		<loc>https://blog.flow14.com/2009/new-years-resolution-get-a-wingsuit/</loc>
 		<lastmod>2009-01-03T20:57:00+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/sxswi-recap-day-two/</loc>
+		<loc>https://blog.flow14.com/2008/sxswi-recap-day-two/</loc>
 		<lastmod>2008-12-31T02:25:48+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/local-sort-of/</loc>
+		<loc>https://blog.flow14.com/2008/local-sort-of/</loc>
 		<lastmod>2008-12-19T09:47:43+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/prognosticators-200/</loc>
+		<loc>https://blog.flow14.com/2008/prognosticators-200/</loc>
 		<lastmod>2008-12-16T05:35:10+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/staying-creative/</loc>
+		<loc>https://blog.flow14.com/2008/staying-creative/</loc>
 		<lastmod>2008-12-05T04:46:13+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/throwing-out-an-idea/</loc>
+		<loc>https://blog.flow14.com/2008/throwing-out-an-idea/</loc>
 		<lastmod>2008-12-04T03:09:02+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/hot-links-for-november-09/</loc>
+		<loc>https://blog.flow14.com/2008/hot-links-for-november-09/</loc>
 		<lastmod>2008-11-08T00:49:42+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/burger-king-fresh/</loc>
+		<loc>https://blog.flow14.com/2008/burger-king-fresh/</loc>
 		<lastmod>2008-11-02T08:29:10+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/fennec-the-little-things/</loc>
+		<loc>https://blog.flow14.com/2008/fennec-the-little-things/</loc>
 		<lastmod>2008-10-22T03:57:26+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/joe-the-plumber/</loc>
+		<loc>https://blog.flow14.com/2008/joe-the-plumber/</loc>
 		<lastmod>2008-10-16T12:14:48+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/2-campaigns-2-approaches-to-microtargeting/</loc>
+		<loc>https://blog.flow14.com/2008/2-campaigns-2-approaches-to-microtargeting/</loc>
 		<lastmod>2008-10-15T01:44:40+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/rethinking-republicans/</loc>
+		<loc>https://blog.flow14.com/2008/rethinking-republicans/</loc>
 		<lastmod>2008-10-11T00:23:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/all-kinds-of-awesome/</loc>
+		<loc>https://blog.flow14.com/2008/all-kinds-of-awesome/</loc>
 		<lastmod>2008-10-08T18:23:39+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/hindsights-2020/</loc>
+		<loc>https://blog.flow14.com/2008/hindsights-2020/</loc>
 		<lastmod>2008-09-23T13:08:24+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/best-of-the-web/</loc>
+		<loc>https://blog.flow14.com/2008/best-of-the-web/</loc>
 		<lastmod>2008-09-17T01:22:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/worst-homepage-evar/</loc>
+		<loc>https://blog.flow14.com/2008/worst-homepage-evar/</loc>
 		<lastmod>2008-09-01T19:53:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/im-in-step/</loc>
+		<loc>https://blog.flow14.com/2008/im-in-step/</loc>
 		<lastmod>2008-08-29T06:11:14+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/kanye-olympic-puppeteer/</loc>
+		<loc>https://blog.flow14.com/2008/kanye-olympic-puppeteer/</loc>
 		<lastmod>2008-08-25T03:53:00+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/type-nerdery/</loc>
+		<loc>https://blog.flow14.com/2008/type-nerdery/</loc>
 		<lastmod>2008-08-23T02:50:09+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/stealing-my-thunder/</loc>
+		<loc>https://blog.flow14.com/2008/stealing-my-thunder/</loc>
 		<lastmod>2008-08-21T02:12:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/free-graphic-resources/</loc>
+		<loc>https://blog.flow14.com/2008/free-graphic-resources/</loc>
 		<lastmod>2008-08-19T02:33:19+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/graphic-resources-2/</loc>
+		<loc>https://blog.flow14.com/2008/graphic-resources-2/</loc>
 		<lastmod>2008-08-19T02:32:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/graphic-resources-3/</loc>
+		<loc>https://blog.flow14.com/2008/graphic-resources-3/</loc>
 		<lastmod>2008-08-19T02:32:27+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/graphic-resources-4/</loc>
+		<loc>https://blog.flow14.com/2008/graphic-resources-4/</loc>
 		<lastmod>2008-08-19T02:31:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/nice-clothespins/</loc>
+		<loc>https://blog.flow14.com/2008/nice-clothespins/</loc>
 		<lastmod>2008-08-19T02:28:28+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/360-too-far/</loc>
+		<loc>https://blog.flow14.com/2008/360-too-far/</loc>
 		<lastmod>2008-08-19T02:28:02+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/yay-im-free/</loc>
+		<loc>https://blog.flow14.com/2008/yay-im-free/</loc>
 		<lastmod>2008-08-19T02:27:32+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/inspiration/</loc>
+		<loc>https://blog.flow14.com/2008/inspiration/</loc>
 		<lastmod>2008-08-19T02:26:23+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/sxsw-done/</loc>
+		<loc>https://blog.flow14.com/2008/sxsw-done/</loc>
 		<lastmod>2008-08-19T02:22:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/right/</loc>
+		<loc>https://blog.flow14.com/right/</loc>
 		<lastmod>2008-08-19T02:22:03+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/ds-nuts/</loc>
+		<loc>https://blog.flow14.com/2008/ds-nuts/</loc>
 		<lastmod>2008-08-19T02:21:41+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/bluetooth-johnson/</loc>
+		<loc>https://blog.flow14.com/2008/bluetooth-johnson/</loc>
 		<lastmod>2008-08-19T02:20:34+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/the-cure-for-restless-leg-syndrome/</loc>
+		<loc>https://blog.flow14.com/2008/the-cure-for-restless-leg-syndrome/</loc>
 		<lastmod>2008-08-19T02:19:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/pumas-wit-wisdom/</loc>
+		<loc>https://blog.flow14.com/2008/pumas-wit-wisdom/</loc>
 		<lastmod>2008-08-19T02:18:47+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/flickr-s-picnik/</loc>
+		<loc>https://blog.flow14.com/2008/flickr-s-picnik/</loc>
 		<lastmod>2008-08-19T02:16:38+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/animalhavenkcorg-redesign/</loc>
+		<loc>https://blog.flow14.com/2008/animalhavenkcorg-redesign/</loc>
 		<lastmod>2008-08-19T02:15:44+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/sxswi-recap-day-one/</loc>
+		<loc>https://blog.flow14.com/2008/sxswi-recap-day-one/</loc>
 		<lastmod>2008-08-19T02:13:24+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/urban-photo-safari-2008/</loc>
+		<loc>https://blog.flow14.com/2008/urban-photo-safari-2008/</loc>
 		<lastmod>2008-08-19T02:10:48+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/wordpress-26/</loc>
+		<loc>https://blog.flow14.com/2008/wordpress-26/</loc>
 		<lastmod>2008-08-19T02:09:27+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/the-coke-zero-game/</loc>
+		<loc>https://blog.flow14.com/2008/the-coke-zero-game/</loc>
 		<lastmod>2008-08-19T02:08:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/take-the-survey/</loc>
+		<loc>https://blog.flow14.com/2008/take-the-survey/</loc>
 		<lastmod>2008-07-31T06:55:01+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/meanies/</loc>
+		<loc>https://blog.flow14.com/2008/meanies/</loc>
 		<lastmod>2008-07-11T02:05:20+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/noteworthy-late-june-edition/</loc>
+		<loc>https://blog.flow14.com/2008/noteworthy-late-june-edition/</loc>
 		<lastmod>2008-06-19T04:27:24+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/enkoder-for-leopard/</loc>
+		<loc>https://blog.flow14.com/2008/enkoder-for-leopard/</loc>
 		<lastmod>2008-06-13T00:23:28+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/we-are-the-machines/</loc>
+		<loc>https://blog.flow14.com/2008/we-are-the-machines/</loc>
 		<lastmod>2008-06-11T03:37:39+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/that-design-is-money/</loc>
+		<loc>https://blog.flow14.com/2008/that-design-is-money/</loc>
 		<lastmod>2008-06-07T01:03:32+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/noteworthy-early-june-edition/</loc>
+		<loc>https://blog.flow14.com/2008/noteworthy-early-june-edition/</loc>
 		<lastmod>2008-06-04T03:20:15+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/wii-fit-project/</loc>
+		<loc>https://blog.flow14.com/2008/wii-fit-project/</loc>
 		<lastmod>2008-05-09T06:31:37+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/of-interest-may-8/</loc>
+		<loc>https://blog.flow14.com/2008/of-interest-may-8/</loc>
 		<lastmod>2008-05-08T05:59:11+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/links-o8217-the-week/</loc>
+		<loc>https://blog.flow14.com/2008/links-o8217-the-week/</loc>
 		<lastmod>2008-04-28T06:04:38+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/good-ideas-have-legs/</loc>
+		<loc>https://blog.flow14.com/2008/good-ideas-have-legs/</loc>
 		<lastmod>2008-04-24T03:20:58+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/video-on-flickr/</loc>
+		<loc>https://blog.flow14.com/2008/video-on-flickr/</loc>
 		<lastmod>2008-04-09T04:25:52+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/wordpress-25/</loc>
+		<loc>https://blog.flow14.com/2008/wordpress-25/</loc>
 		<lastmod>2008-03-29T18:29:09+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/photoshop-express/</loc>
+		<loc>https://blog.flow14.com/2008/photoshop-express/</loc>
 		<lastmod>2008-03-27T05:48:06+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/random-internet-awesomeness-2/</loc>
+		<loc>https://blog.flow14.com/2008/random-internet-awesomeness-2/</loc>
 		<lastmod>2008-03-25T04:46:28+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/spherical-video/</loc>
+		<loc>https://blog.flow14.com/2008/spherical-video/</loc>
 		<lastmod>2008-03-16T03:07:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/sxswi-08/</loc>
+		<loc>https://blog.flow14.com/2008/sxswi-08/</loc>
 		<lastmod>2008-03-11T16:20:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/workplace-experiments-that-work/</loc>
+		<loc>https://blog.flow14.com/2008/workplace-experiments-that-work/</loc>
 		<lastmod>2008-03-05T02:55:26+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/blueprint-07-is-here/</loc>
+		<loc>https://blog.flow14.com/2008/blueprint-07-is-here/</loc>
 		<lastmod>2008-02-21T04:54:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/the-producer-of-the-future/</loc>
+		<loc>https://blog.flow14.com/2008/the-producer-of-the-future/</loc>
 		<lastmod>2008-02-06T06:45:10+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/link-dump/</loc>
+		<loc>https://blog.flow14.com/2008/link-dump/</loc>
 		<lastmod>2008-01-18T02:43:29+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/hot-links-for-january-07/</loc>
+		<loc>https://blog.flow14.com/2008/hot-links-for-january-07/</loc>
 		<lastmod>2008-01-08T13:17:25+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/yahoo-mobile-30/</loc>
+		<loc>https://blog.flow14.com/2008/yahoo-mobile-30/</loc>
 		<lastmod>2008-01-08T06:56:34+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/learning-to-love-leopards-spaces/</loc>
+		<loc>https://blog.flow14.com/2008/learning-to-love-leopards-spaces/</loc>
 		<lastmod>2008-01-05T17:14:13+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2008/rock-the-bells/</loc>
+		<loc>https://blog.flow14.com/2008/rock-the-bells/</loc>
 		<lastmod>2007-12-23T02:05:21+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/random-internet-awesomeness/</loc>
+		<loc>https://blog.flow14.com/2007/random-internet-awesomeness/</loc>
 		<lastmod>2007-12-12T02:27:35+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/24-ways-is-back/</loc>
+		<loc>https://blog.flow14.com/2007/24-ways-is-back/</loc>
 		<lastmod>2007-12-01T00:50:09+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/email-standards-project/</loc>
+		<loc>https://blog.flow14.com/2007/email-standards-project/</loc>
 		<lastmod>2007-11-29T03:01:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/hot-links-for-november-24/</loc>
+		<loc>https://blog.flow14.com/2007/hot-links-for-november-24/</loc>
 		<lastmod>2007-11-24T08:02:21+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/hot-links-for-november-16/</loc>
+		<loc>https://blog.flow14.com/2007/hot-links-for-november-16/</loc>
 		<lastmod>2007-11-16T08:04:00+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/give-one-get-one/</loc>
+		<loc>https://blog.flow14.com/2007/give-one-get-one/</loc>
 		<lastmod>2007-11-15T03:17:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/do-you-owe-me-a-beer/</loc>
+		<loc>https://blog.flow14.com/2007/do-you-owe-me-a-beer/</loc>
 		<lastmod>2007-11-10T01:41:24+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/hot-links-for-november-06/</loc>
+		<loc>https://blog.flow14.com/2007/hot-links-for-november-06/</loc>
 		<lastmod>2007-11-06T08:01:06+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/hot-links-for-november-02/</loc>
+		<loc>https://blog.flow14.com/2007/hot-links-for-november-02/</loc>
 		<lastmod>2007-11-02T07:02:22+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/eye-fi-is-here-from-the-future/</loc>
+		<loc>https://blog.flow14.com/2007/eye-fi-is-here-from-the-future/</loc>
 		<lastmod>2007-10-31T03:39:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/tripadvisor-redesigns-beta/</loc>
+		<loc>https://blog.flow14.com/2007/tripadvisor-redesigns-beta/</loc>
 		<lastmod>2007-10-20T03:03:33+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/lovely-laser-cuts/</loc>
+		<loc>https://blog.flow14.com/2007/lovely-laser-cuts/</loc>
 		<lastmod>2007-10-19T05:12:34+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/web-design-survey-results/</loc>
+		<loc>https://blog.flow14.com/2007/web-design-survey-results/</loc>
 		<lastmod>2007-10-17T02:17:14+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/more-motion/</loc>
+		<loc>https://blog.flow14.com/2007/more-motion/</loc>
 		<lastmod>2007-10-11T19:57:27+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/links-of-interest-1011/</loc>
+		<loc>https://blog.flow14.com/2007/links-of-interest-1011/</loc>
 		<lastmod>2007-10-11T15:47:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/links-of-interest-925/</loc>
+		<loc>https://blog.flow14.com/2007/links-of-interest-925/</loc>
 		<lastmod>2007-09-26T03:52:35+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/give-ps-a-chance/</loc>
+		<loc>https://blog.flow14.com/2007/give-ps-a-chance/</loc>
 		<lastmod>2007-09-19T00:17:20+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/links-of-interest-912/</loc>
+		<loc>https://blog.flow14.com/2007/links-of-interest-912/</loc>
 		<lastmod>2007-09-13T05:19:11+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/ipod-touch/</loc>
+		<loc>https://blog.flow14.com/2007/ipod-touch/</loc>
 		<lastmod>2007-09-06T01:00:33+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/mobile-web-design/</loc>
+		<loc>https://blog.flow14.com/2007/mobile-web-design/</loc>
 		<lastmod>2007-08-29T01:58:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/links-of-interest-821/</loc>
+		<loc>https://blog.flow14.com/2007/links-of-interest-821/</loc>
 		<lastmod>2007-08-22T01:33:40+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/for-crows-by-crows/</loc>
+		<loc>https://blog.flow14.com/2007/for-crows-by-crows/</loc>
 		<lastmod>2007-08-17T11:52:29+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/links-of-interest-88/</loc>
+		<loc>https://blog.flow14.com/2007/links-of-interest-88/</loc>
 		<lastmod>2007-08-09T05:00:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/remote-buddy-darwiinremote/</loc>
+		<loc>https://blog.flow14.com/2007/remote-buddy-darwiinremote/</loc>
 		<lastmod>2007-08-04T19:05:01+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/7-steps-to-subtle-suede/</loc>
+		<loc>https://blog.flow14.com/2007/7-steps-to-subtle-suede/</loc>
 		<lastmod>2007-08-02T04:51:06+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/jeremy-cowart-photography/</loc>
+		<loc>https://blog.flow14.com/2007/jeremy-cowart-photography/</loc>
 		<lastmod>2007-08-01T18:22:52+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/the-denver-egotist/</loc>
+		<loc>https://blog.flow14.com/2007/the-denver-egotist/</loc>
 		<lastmod>2007-07-28T18:13:32+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/shave-to-save/</loc>
+		<loc>https://blog.flow14.com/2007/shave-to-save/</loc>
 		<lastmod>2007-07-28T01:46:09+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/recent-readables/</loc>
+		<loc>https://blog.flow14.com/2007/recent-readables/</loc>
 		<lastmod>2007-07-25T04:31:15+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/where-20/</loc>
+		<loc>https://blog.flow14.com/2007/where-20/</loc>
 		<lastmod>2007-07-15T16:53:22+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/hot-links-7-11/</loc>
+		<loc>https://blog.flow14.com/2007/hot-links-7-11/</loc>
 		<lastmod>2007-07-12T03:36:13+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/special-effects/</loc>
+		<loc>https://blog.flow14.com/2007/special-effects/</loc>
 		<lastmod>2007-07-09T12:23:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/soundwave/</loc>
+		<loc>https://blog.flow14.com/2007/soundwave/</loc>
 		<lastmod>2007-07-08T08:33:19+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/good-times/</loc>
+		<loc>https://blog.flow14.com/2007/good-times/</loc>
 		<lastmod>2007-07-08T02:17:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/the-new-design/</loc>
+		<loc>https://blog.flow14.com/2007/the-new-design/</loc>
 		<lastmod>2007-07-07T23:14:42+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/hot-links-for-july-6th/</loc>
+		<loc>https://blog.flow14.com/2007/hot-links-for-july-6th/</loc>
 		<lastmod>2007-07-07T02:01:24+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/hot-links-for-july-3rd/</loc>
+		<loc>https://blog.flow14.com/2007/hot-links-for-july-3rd/</loc>
 		<lastmod>2007-07-04T01:18:17+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/link-o-the-day-june-28th/</loc>
+		<loc>https://blog.flow14.com/2007/link-o-the-day-june-28th/</loc>
 		<lastmod>2007-06-29T00:59:53+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/marketing-as-a-service/</loc>
+		<loc>https://blog.flow14.com/2007/marketing-as-a-service/</loc>
 		<lastmod>2007-06-22T03:52:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/f-you-bob/</loc>
+		<loc>https://blog.flow14.com/2007/f-you-bob/</loc>
 		<lastmod>2007-06-06T00:54:34+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/where-20-notes-2/</loc>
+		<loc>https://blog.flow14.com/2007/where-20-notes-2/</loc>
 		<lastmod>2007-05-30T03:33:49+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/notes-from-where-20/</loc>
+		<loc>https://blog.flow14.com/2007/notes-from-where-20/</loc>
 		<lastmod>2007-05-29T18:36:51+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/sloming-it/</loc>
+		<loc>https://blog.flow14.com/2007/sloming-it/</loc>
 		<lastmod>2007-05-19T18:39:09+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/urban-photo-safari-07/</loc>
+		<loc>https://blog.flow14.com/2007/urban-photo-safari-07/</loc>
 		<lastmod>2007-05-17T06:18:33+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/flickrblockrs/</loc>
+		<loc>https://blog.flow14.com/2007/flickrblockrs/</loc>
 		<lastmod>2007-04-28T00:05:05+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/5-tips-for-design-grads/</loc>
+		<loc>https://blog.flow14.com/2007/5-tips-for-design-grads/</loc>
 		<lastmod>2007-04-22T00:14:23+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/adobe-cs3/</loc>
+		<loc>https://blog.flow14.com/2007/adobe-cs3/</loc>
 		<lastmod>2007-03-27T15:11:19+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/helvetica-the-movie/</loc>
+		<loc>https://blog.flow14.com/2007/helvetica-the-movie/</loc>
 		<lastmod>2007-03-24T15:17:33+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/qashqai-again/</loc>
+		<loc>https://blog.flow14.com/2007/qashqai-again/</loc>
 		<lastmod>2007-03-08T03:18:30+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/sxsw/</loc>
+		<loc>https://blog.flow14.com/2007/sxsw/</loc>
 		<lastmod>2007-03-03T07:04:42+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/we-are-the-web/</loc>
+		<loc>https://blog.flow14.com/2007/we-are-the-web/</loc>
 		<lastmod>2007-02-13T00:03:48+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/beatbox-recipee/</loc>
+		<loc>https://blog.flow14.com/2007/beatbox-recipee/</loc>
 		<lastmod>2007-02-10T01:15:30+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/reinvigorate-returns/</loc>
+		<loc>https://blog.flow14.com/2007/reinvigorate-returns/</loc>
 		<lastmod>2007-01-31T01:35:20+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/the-gatekeeper/</loc>
+		<loc>https://blog.flow14.com/2007/the-gatekeeper/</loc>
 		<lastmod>2007-01-12T04:33:29+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/the-future-is-calling/</loc>
+		<loc>https://blog.flow14.com/2007/the-future-is-calling/</loc>
 		<lastmod>2007-01-12T00:33:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2007/my-resolution/</loc>
+		<loc>https://blog.flow14.com/2007/my-resolution/</loc>
 		<lastmod>2007-01-06T02:06:33+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/remember-quicktime-vr/</loc>
+		<loc>https://blog.flow14.com/2006/remember-quicktime-vr/</loc>
 		<lastmod>2006-12-20T03:54:09+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/cpr-by-cpb/</loc>
+		<loc>https://blog.flow14.com/2006/cpr-by-cpb/</loc>
 		<lastmod>2006-12-02T18:50:05+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/qashqai/</loc>
+		<loc>https://blog.flow14.com/2006/qashqai/</loc>
 		<lastmod>2006-11-21T03:41:25+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/my-job-in-43-seconds/</loc>
+		<loc>https://blog.flow14.com/2006/my-job-in-43-seconds/</loc>
 		<lastmod>2006-11-18T22:13:39+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/wkocd-wow/</loc>
+		<loc>https://blog.flow14.com/2006/wkocd-wow/</loc>
 		<lastmod>2006-11-11T23:09:01+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/doin-it-well/</loc>
+		<loc>https://blog.flow14.com/2006/doin-it-well/</loc>
 		<lastmod>2006-10-29T07:15:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/substance-style/</loc>
+		<loc>https://blog.flow14.com/2006/substance-style/</loc>
 		<lastmod>2006-10-29T07:13:36+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/wordpress-youtube/</loc>
+		<loc>https://blog.flow14.com/2006/wordpress-youtube/</loc>
 		<lastmod>2006-10-16T05:01:11+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/wtf/</loc>
+		<loc>https://blog.flow14.com/2006/wtf/</loc>
 		<lastmod>2006-09-22T02:49:35+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/copywriter-kung-fu/</loc>
+		<loc>https://blog.flow14.com/2006/copywriter-kung-fu/</loc>
 		<lastmod>2006-09-18T23:04:20+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/cpb-strikes-again/</loc>
+		<loc>https://blog.flow14.com/2006/cpb-strikes-again/</loc>
 		<lastmod>2006-09-03T19:41:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/vcams-just-a-fad/</loc>
+		<loc>https://blog.flow14.com/2006/vcams-just-a-fad/</loc>
 		<lastmod>2006-09-01T01:37:25+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/cookie-puss/</loc>
+		<loc>https://blog.flow14.com/2006/cookie-puss/</loc>
 		<lastmod>2006-08-23T02:59:17+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/it-had-to-happen/</loc>
+		<loc>https://blog.flow14.com/2006/it-had-to-happen/</loc>
 		<lastmod>2006-08-22T04:47:39+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/hillman-curtis/</loc>
+		<loc>https://blog.flow14.com/2006/hillman-curtis/</loc>
 		<lastmod>2006-08-05T03:37:26+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/nick-burns/</loc>
+		<loc>https://blog.flow14.com/2006/nick-burns/</loc>
 		<lastmod>2006-07-26T05:25:02+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/tinspiration/</loc>
+		<loc>https://blog.flow14.com/2006/tinspiration/</loc>
 		<lastmod>2006-07-24T18:09:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/im-just/</loc>
+		<loc>https://blog.flow14.com/2006/im-just/</loc>
 		<lastmod>2006-07-23T00:32:01+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/on-ideas/</loc>
+		<loc>https://blog.flow14.com/2006/on-ideas/</loc>
 		<lastmod>2006-07-21T05:29:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/big-time/</loc>
+		<loc>https://blog.flow14.com/2006/big-time/</loc>
 		<lastmod>2006-07-18T03:45:22+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/wk-london-is/</loc>
+		<loc>https://blog.flow14.com/2006/wk-london-is/</loc>
 		<lastmod>2006-07-13T00:51:35+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/mininteractive/</loc>
+		<loc>https://blog.flow14.com/2006/mininteractive/</loc>
 		<lastmod>2006-07-05T11:44:48+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/white-spot/</loc>
+		<loc>https://blog.flow14.com/2006/white-spot/</loc>
 		<lastmod>2006-07-05T11:39:39+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/my-man-mitch/</loc>
+		<loc>https://blog.flow14.com/2006/my-man-mitch/</loc>
 		<lastmod>2006-06-29T07:32:47+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/urban-photo-safari/</loc>
+		<loc>https://blog.flow14.com/2006/urban-photo-safari/</loc>
 		<lastmod>2006-06-07T01:29:13+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/20-funny/</loc>
+		<loc>https://blog.flow14.com/2006/20-funny/</loc>
 		<lastmod>2006-06-05T23:56:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/ive-got-a-secret/</loc>
+		<loc>https://blog.flow14.com/2006/ive-got-a-secret/</loc>
 		<lastmod>2006-05-06T21:21:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/holy-pop/</loc>
+		<loc>https://blog.flow14.com/2006/holy-pop/</loc>
 		<lastmod>2006-05-04T08:08:11+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/v-doh/</loc>
+		<loc>https://blog.flow14.com/2006/v-doh/</loc>
 		<lastmod>2006-04-20T05:32:12+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/smooth-movespart-one/</loc>
+		<loc>https://blog.flow14.com/2006/smooth-movespart-one/</loc>
 		<lastmod>2006-04-08T04:44:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/smooth-movespart-two/</loc>
+		<loc>https://blog.flow14.com/2006/smooth-movespart-two/</loc>
 		<lastmod>2006-04-06T23:28:58+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/local/</loc>
+		<loc>https://blog.flow14.com/2006/local/</loc>
 		<lastmod>2006-03-28T08:02:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/wheres-all-that-clicking-coming-from/</loc>
+		<loc>https://blog.flow14.com/2006/wheres-all-that-clicking-coming-from/</loc>
 		<lastmod>2006-03-18T17:44:45+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/dirty-puppets/</loc>
+		<loc>https://blog.flow14.com/2006/dirty-puppets/</loc>
 		<lastmod>2006-03-10T13:33:25+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/z4byjd/</loc>
+		<loc>https://blog.flow14.com/2006/z4byjd/</loc>
 		<lastmod>2006-02-25T01:58:31+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/v-dub/</loc>
+		<loc>https://blog.flow14.com/2006/v-dub/</loc>
 		<lastmod>2006-02-25T01:42:26+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/links/</loc>
+		<loc>https://blog.flow14.com/2006/links/</loc>
 		<lastmod>2006-02-22T04:51:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/launch/</loc>
+		<loc>https://blog.flow14.com/2006/launch/</loc>
 		<lastmod>2006-02-22T04:33:45+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://blog.flow14.com/2006/easy-fast-and-free/</loc>
+		<loc>https://blog.flow14.com/2006/easy-fast-and-free/</loc>
 		<lastmod>2006-02-19T00:16:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
