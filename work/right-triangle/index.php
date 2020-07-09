@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Right Triangle Brand and Website Design | flow14. A Design Studio.</title>
+	<title>Right Triangle Logo and Website Design | flow14. A Design Studio.</title>
 	<meta name="description" content="Branding and website design for Right Triangle Consulting, a company specializing in strategic data architecture and cloud data management." />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />

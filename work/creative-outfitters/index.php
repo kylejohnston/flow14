@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Creative Outfitters Brand | flow14. A Design Studio.</title>
+	<title>Creative Outfitters Logo Design | flow14. A Design Studio.</title>
 	<meta name="description" content="Logo design and business card design developed for Creative Outfitters, a small business based in Kansas." />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />

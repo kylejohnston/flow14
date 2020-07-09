@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>HNC Living Foundation Website Redesign | flow14. A Design Studio.</title>
+	<title>HNC Living Foundation Website Design | flow14. A Design Studio.</title>
 	<meta name="description" content="Website redesign for HNC Living Foundation, a nonprofit that partners with nonprofit healthcare providers and organizations to fund grants that help head and neck cancer patients live life fully." />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />

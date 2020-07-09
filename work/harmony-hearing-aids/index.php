@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Harmony Hearing Aids Brand | flow14. A Design Studio.</title>
+	<title>Harmony Hearing Aids Logo Design | flow14. A Design Studio.</title>
 	<meta name="description" content="Logo and collateral design developed for Harmony Hearing Aids, a small business based in Kansas." />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
