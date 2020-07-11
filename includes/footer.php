@@ -28,7 +28,7 @@
 			<img class="mb-1" loading="lazy" src="/img/map.svg" alt="flow14 - A design studio based in Kansas City." width="50%" height="auto">
 			<p class="text-sm">Proudly based in Kansas City, <br>where the local time is <?php  date_default_timezone_set("America/Chicago"); echo date("g:i a") . " CST"; ?></p>
 
-			<p class="text-xs">&copy; flow14 <?php echo date('Y') ;?></p>
+			<p class="text-xs">&copy; flow14 <?php echo date('Y') ;?> &horbar; <a href="/sitemap.xml">Sitemap</a></p>
 		</div>
 	</div>
 	<div class="grid-thirds full">
