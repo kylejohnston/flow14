@@ -1,28 +1,33 @@
 <footer class="grid">
 	<div class="grid-in full mt-4">
-		<div class="column-sm mx-2 mb-2">
-			<div class="logo fill-blue">
-				<a href="/"><?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/logo.php'); ?></a>
+		<div class="column mx-2 mb-2">
+			<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/logo.php'); ?>
+			<div class="text-sm m-none">
 			</div>
 		</div>
-		<div class="column-sm mx-2 mb-2">
-			<p class="text-sm">
-				<a href="/" title="flow14.com homepage">Home</a><br>
-				<a href="/work/" title="Design work by flow14">Work</a><br>
-				<a href="/about/" title="About flow14">About</a><br>
-				<a href="/contact/" title="Contact flow14">Contact</a><br>
-				<a href="https://noted.flow14.com" title="Noted. News and musings from flow14">Noted</a>
+
+		<div class="column mx-2 mb-2">
+			<!-- <h3 class="mb-1">Explore</h3> -->
+			<p class="text-md uppercase"><span class="semibold">Explore</span> &horbar;</p>
+			<p class="text-sm mb-2">
+				<a href="/" title="flow14.com homepage">Home</a> ~
+				<a href="/work/" title="Design work by flow14">Work</a> ~
+				<a href="/about/" title="About flow14">About</a> ~
+				<a href="/contact/" title="Contact flow14">Contact</a> ~
+				<a href="https://noted.flow14.com" title="Noted. News and musings from flow14">Noted</a><br>
+			</p>
+			<!-- <h3 class="mb-1">Labs</h3> -->
+			<p class="text-md uppercase"><span class="semibold">Labs</span> &horbar;</p>
+			<p class="text-sm mb-2">
+				<a href="/fonts/">Fonts</a> ~
+				<a href="https://memex.flow14.com">MEMEX</a> ↗ ~
+				<a href="https://blog.flow14.com">Blog (Archive)</a>
 			</p>
 		</div>
 		<div class="column mx-2 mb-2">
-			<h3 class="m-none">Labs</h3>
-			<p class="text-sm">
-				<a href="/fonts/">Fonts</a><br>
-				<a href="https://memex.flow14.com">MEMEX</a> ↗<br>
-				<a href="https://blog.flow14.com">Blog (Archive)</a><br>
-			</p>
-		</div>
-		<div class="column mx-2 mb-2">
+			<img class="mb-1" loading="lazy" src="/img/map.svg" alt="flow14 - A design studio based in Kansas City." width="50%" height="auto">
+			<p class="text-sm">Proudly based in Kansas City, <br>where the local time is <?php  date_default_timezone_set("America/Chicago"); echo date("g:i a") . " CST"; ?></p>
+
 			<p class="text-xs">&copy; flow14 <?php echo date('Y') ;?></p>
 		</div>
 	</div>
