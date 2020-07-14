@@ -55,15 +55,15 @@
         </div>
       </div>
       <div class="half-right grid-content">
-        <img class="img mb-2 hidden" src="/img/ic--focusing.svg" alt="Our Approach: Focusing" width="100%" height="auto">
+        <img class="img mb-2 hidden" src="/img/ic-focus.svg" alt="Our Approach: Focusing" width="100%" height="auto">
         <h3>Focusing</h3>
         <p>We help you see the forest for the trees and find the needle in the haystack. We ask the hard questions to understand where you're starting from and where you hope to go. Then, we plot a course and outline the strategy you need to succeed in your journey.</p>
         <p class="mb-4"><strong>Typical projects include:</strong> creative strategy, brand strategy, content strategy, user experience (UX) planning, brainstorming workshops</p>
-        <img class="img mb-2 hidden" src="/img/ic--distinguish.svg" alt="Our Approach: Distinguishing" width="100%" height="auto">
+        <img class="img mb-2 hidden" src="/img/ic-distinguish.svg" alt="Our Approach: Distinguishing" width="100%" height="auto">
         <h3>Distinguishing</h3>
         <p>Whether you're starting from scratch or you want to improve something you’ve made, we bring your vision to life with results-driven-design that breaks through the clutter and distinguishes you from the competition. Design that reaches the right audience at the right time and moves them to engage with you.</p>
         <p class="mb-4"><strong>Typical projects include:</strong> branding, logo design, website design, UX design, content development</p>
-        <img class="img mb-2 hidden" src="/img/ic--growing.svg" alt="Our Approach: Growing" width="100%" height="auto">
+        <img class="img mb-2 hidden" src="/img/ic-grow.svg" alt="Our Approach: Growing" width="100%" height="auto">
         <h3>Growing</h3>
         <p>Ultimately, you want growth. In revenue, customers, audience, reach. Wherever you seek it, we focus on driving it. We assess the impact of our work and help you make sense of the data. You’ll understand what moves your audience and what’s driving your growth.</p>
         <p><strong>Typical projects include:</strong> SEO, analytics, content optimization, A/B testing</p>
