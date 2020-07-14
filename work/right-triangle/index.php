@@ -109,6 +109,21 @@
       </div>
     </section>
 
+    <section class="main grid-in mb-4">
+      <div class="half-right">
+        <div class="grid-content sticky">
+          <picture class="img mb-2 hidden">
+            <source srcset="/img/samples/right-triangle/icons.webp" media="(min-width: 63em)" type="image/webp">
+            <source srcset="/img/samples/right-triangle/icons.png" media="(min-width: 63em)">
+            <source srcset="/img/samples/right-triangle/icons.sm.webp" type="image/webp">
+            <source srcset="/img/samples/right-triangle/icons.sm.png">
+            <img class="" src="/img/samples/right-triangle/icons.png" width="100%" height="auto" alt="Custom icons" loading="lazy" />
+          </picture>
+          <h3>Custom Icons</h3>
+        </div>
+      </div>
+    </section>
+
     <section class="main grid-in grid-gap mb-3">
       <div class="half-left grid-content hidden mb-2">
         <picture class="img">
