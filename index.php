@@ -50,62 +50,24 @@
 
 			<div class="sample-lg-r hidden">
 				<div class="content order-2">
-					<!-- <p class="text-xs uppercase">Website Designs</p> -->
-					<h2 class="mb-1"><a href="/work/websites/">Website Designs</a></h2>
-					<p>A collection of our favorite website designs</p>
+					<p class="text-xs uppercase">UX and Website Design</p>
+					<h2 class="mb-1"><a href="/work/qwally/">Qwally</a></h2>
+					<p>Inclusive contracting made easy</p>
 				</div>
 				<div class="img img-hover order-1">
-					<a href="/work/websites/">
+					<a href="/work/qwally/">
 						<picture class="img">
-              <source srcset="/img/samples/websites/thumb-websites.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/websites/thumb-websites.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/websites/thumb-websites.md.webp" type="image/webp">
-              <source srcset="/img/samples/websites/thumb-websites.md.png">
-              <img class="" src="/img/samples/websites/thumb-websites.png" width="100%" height="auto" alt="Websites we've designed." loading="lazy" />
+              <source srcset="/img/samples/qwally/thumb.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/qwally/thumb.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/qwally/thumb.md.webp" type="image/webp">
+              <source srcset="/img/samples/qwally/thumb.md.png">
+              <img class="" src="/img/samples/qwally/thumb.png" width="100%" height="auto" alt="UX and website design for Qwally." loading="lazy" />
             </picture>
 					</a>
 				</div>
 			</div>
 
-			<div class="sample-sm-l hidden">
-				<div class="img img-hover">
-					<a href="/work/logos/">
-						<picture class="img">
-              <source srcset="/img/samples/logos/thumb-logos.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/logos/thumb-logos.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/logos/thumb-logos.md.webp" type="image/webp">
-              <source srcset="/img/samples/logos/thumb-logos.md.png">
-              <img src="/img/samples/logos/thumb-logos.png" width="100%" height="auto" alt="Logo we've designed." loading="lazy" />
-            </picture>
-					</a>
-				</div>
-				<div class="content">
-					<h2 class="mb-1"><a href="/work/logos/">Logo Design and Branding</a></h2>
-					<p>A collection of our favorite logo designs</p>
-				</div>
-			</div>
-
-			<div class="sample-sm-r hidden">
-				<div class="img img-hover order-1">
-					<a href="/work/hnc-living/">
-						<picture class="img">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.md.webp" type="image/webp">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.md.png">
-              <img src="/img/samples/hnc-living/thumb-hnc.png" width="100%" height="auto" alt="HNC Living website redesign case study." loading="lazy" />
-            </picture>
-					</a>
-				</div>
-
-				<div class="content order-2">
-					<p class="text-xs uppercase">Website Redesign</p>
-					<h2 class="mb-1"><a href="/work/hnc-living/">HNC Living</a></h2>
-					<p>A more effective nonprofit website</p>
-				</div>
-			</div>
-
-			<div class="sample-sm-l hidden">
+			<!-- <div class="sample-sm-l hidden">
 				<div class="img img-hover">
 					<a href="/work/rounding-up-undies/">
 						<picture class="img">
@@ -121,6 +83,62 @@
 					<p class="text-xs uppercase">Logo Design</p>
 					<h2 class="mb-1"><a href="/work/rounding-up-undies/">Rounding Up Undies</a></h2>
 					<p>Empowering girls around the world</p>
+				</div>
+			</div> -->
+
+			<div class="sample-sm-l hidden">
+				<div class="img img-hover">
+					<a href="/work/websites/">
+						<picture class="img">
+              <source srcset="/img/samples/websites/thumb-websites.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/websites/thumb-websites.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/websites/thumb-websites.md.webp" type="image/webp">
+              <source srcset="/img/samples/websites/thumb-websites.md.png">
+              <img class="" src="/img/samples/websites/thumb-websites.png" width="100%" height="auto" alt="Websites we've designed." loading="lazy" />
+            </picture>
+					</a>
+				</div>
+				<div class="content">
+					<!-- <p class="text-xs uppercase">Website Designs</p> -->
+					<h2 class="mb-1"><a href="/work/websites/">Website Designs</a></h2>
+					<p>A collection of our favorite website designs</p>
+				</div>
+			</div>
+
+			<div class="sample-sm-r hidden">
+				<div class="content order-2">
+					<h2 class="mb-1"><a href="/work/logos/">Logo Design and Branding</a></h2>
+					<p>A collection of our favorite logo designs</p>
+				</div>
+				<div class="img img-hover order-1">
+					<a href="/work/logos/">
+						<picture class="img">
+              <source srcset="/img/samples/logos/thumb-logos.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/logos/thumb-logos.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/logos/thumb-logos.md.webp" type="image/webp">
+              <source srcset="/img/samples/logos/thumb-logos.md.png">
+              <img src="/img/samples/logos/thumb-logos.png" width="100%" height="auto" alt="Logo we've designed." loading="lazy" />
+            </picture>
+					</a>
+				</div>
+			</div>
+
+			<div class="sample-sm-l hidden">
+				<div class="img img-hover">
+					<a href="/work/hnc-living/">
+						<picture class="img">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.md.webp" type="image/webp">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.md.png">
+              <img src="/img/samples/hnc-living/thumb-hnc.png" width="100%" height="auto" alt="HNC Living website redesign case study." loading="lazy" />
+            </picture>
+					</a>
+				</div>
+				<div class="content order-2">
+					<p class="text-xs uppercase">Website Redesign</p>
+					<h2 class="mb-1"><a href="/work/hnc-living/">HNC Living</a></h2>
+					<p>A more effective nonprofit website</p>
 				</div>
 			</div>
 
