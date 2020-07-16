@@ -80,8 +80,8 @@
           <source srcset="/img/samples/qwally/user-flow-01.lg.webp" media="(min-width: 50em)" type="image/webp">
           <source srcset="/img/samples/qwally/user-flow-01.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/user-flow-01.sm.webp" type="image/webp">
-          <source srcset="/img/samples/qwally/user-flow-01.sm.jpg">
-          <img class="" src="/img/samples/qwally/user-flow-01.jpg" width="100%" height="auto" alt="Sample user flow." loading="lazy">
+          <source srcset="/img/samples/qwally/user-flow-01.sm.png">
+          <img class="" src="/img/samples/qwally/user-flow-01.png" width="100%" height="auto" alt="Sample user flow." loading="lazy">
         </picture>
       </div>
       <div class="half-left grid-content">
@@ -116,7 +116,7 @@
           <source srcset="/img/samples/qwally/wireframe-dashboard-01.webp" media="(min-width: 50em)" type="image/webp">
           <source srcset="/img/samples/qwally/wireframe-dashboard-01.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/wireframe-dashboard-01.sm.webp" type="image/webp">
-          <source srcset="/img/samples/qwally/wireframe-dashboard-01.sm.png">
+          <source srcset="/img/samples/qwally/wireframe-dashboard-01.sm.jpg">
           <img class="shadow" src="/img/samples/qwally/wireframe-dashboard-01.png" width="100%" height="auto" alt="Wireframe: dashboard concept 1." loading="lazy">
         </picture>
       </div>
@@ -125,7 +125,7 @@
           <source srcset="/img/samples/qwally/wireframe-dashboard-02.webp" media="(min-width: 50em)" type="image/webp">
           <source srcset="/img/samples/qwally/wireframe-dashboard-02.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/wireframe-dashboard-02.sm.webp" type="image/webp">
-          <source srcset="/img/samples/qwally/wireframe-dashboard-02.sm.png">
+          <source srcset="/img/samples/qwally/wireframe-dashboard-02.sm.jpg">
           <img class="shadow" src="/img/samples/qwally/wireframe-dashboard-02.png" width="100%" height="auto" alt="Wireframe: dashboard concept 2." loading="lazy">
         </picture>
       </div>
@@ -143,7 +143,7 @@
           <source srcset="/img/samples/qwally/wireframe-dashboard-04.webp" media="(min-width: 50em)" type="image/webp">
           <source srcset="/img/samples/qwally/wireframe-dashboard-04.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/wireframe-dashboard-04.sm.webp" type="image/webp">
-          <source srcset="/img/samples/qwally/wireframe-dashboard-04.sm.png">
+          <source srcset="/img/samples/qwally/wireframe-dashboard-04.sm.jpg">
           <img class="shadow" src="/img/samples/qwally/wireframe-dashboard-04.png" width="100%" height="auto" alt="Wireframe: dashboard concept 4." loading="lazy">
         </picture>
       </div>
