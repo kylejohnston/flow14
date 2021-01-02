@@ -10,157 +10,177 @@
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
+	<style>
+	@media screen and (max-width:770px) {
+		.hide { display: none !important; }
+	}
+	</style>
 
 </head>
 <body>
+	<header class="r-fixed">
+			<div class="text-xl uppercase hamburger color-orange" style="position:absolute;z-index:201;">
+				<svg style="width:24px;height:24px;"fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16"></path></svg>
+			</div>
+	</header>
+
 	<div class="grid">
-		<!-- <header class="mt-2 ml-2" style="">
-		</header> -->
-		<div class="text-center home-intro mb-2" style="">
-			<div class="my-3 px-1" style="grid-column: 2 / 6;">
-				<div class="logo fill-white mb-1"><?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/flow14.php'); ?></div>
-				<h1 class="text-xxl mb-2 color-white" style="">We Make Design Work Wonders</h1>
-				<h2 class="normal-case color-white m-none" style="">We&rsquo;re a branding and web design studio making design work wonders for growing businesses and nonprofits.</h2>
-				<div class="recent"><h3>Featured Projects</h3></div>
+		<div class="home-intro px-2 bg-gradient shift-right">
+			<div class="my-3 shift-right-content" style="grid-column: 2 / 6;">
+				<div class="logo fill-black mb-1"><?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/flow14.php'); ?></div>
+				<h1 class="text-xxl mb-2 color-white" style="">Design That Makes a Difference</h1>
+				<h2 class="normal-case color-white mr-3" style="margin-bottom:0">We stay busy by designing things that drive results for your business.</h2>
 			</div>
 		</div>
-		<div class="gradient-block"></div>
 		<div class="color-block"></div>
 	</div>
 
+	<h2 class="text-center brand-title my-3">How We Do It</h2>
+
+	<div data-butter-container="bSlider" class="slider mb-4">
+		<div data-butter-slidable="bSlider" class="slides">
+			<div class="slide text-center">
+				<img class="mb-2 text-center" src="/img/ic-focus.svg" alt="Focus" width="50%" height="auto">
+				<div class="hidden">
+					<h2 class="text-center" style="margin-bottom:.25em;">Vision</h2>
+					<p class="text-center" style="margin-bottom:.25em;">Creative and user experience strategy</p>
+				</div>
+			</div>
+			<div class="slide text-center">
+				<img class="mb-2 text-center" src="/img/ic-distinguish.svg" alt="Distinguish" width="50%" height="auto">
+				<div class="hidden">
+					<h2 class="text-center" style="margin-bottom:.25em;">Action</h2>
+					<p class="text-center" style="margin-bottom:.25em;">UX, visual design, and branding</p>
+				</div>
+			</div>
+			<div class="slide text-center">
+				<img class="mb-2 text-center" src="/img/ic-grow.svg" alt="Grow" width="50%" height="auto">
+				<div class="hidden">
+					<h2 class="text-center" style="margin-bottom:.25em;">Optimization</h2>
+					<p class="text-center" style="margin-bottom:.25em;">SEO, Analytics, Content Optimization</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<h2 class="text-center brand-title mb-3 hidden" style="">What We&rsquo;ve Made</h2>
+
 	<section class="grid-home">
-			<div class="sample-lg-l hidden shift-1">
-				<div class="img img-hover">
-					<a href="/work/right-triangle/">
-						<picture class="img">
-              <source srcset="/img/samples/right-triangle/thumb-right-triangle.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/right-triangle/thumb-right-triangle.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/right-triangle/thumb-right-triangle.md.webp" type="image/webp">
-              <source srcset="/img/samples/right-triangle/thumb-right-triangle.md.png">
-              <img src="/img/samples/right-triangle/thumb-right-triangle.png" width="100%" height="auto" alt="Right Triangle brand and website design case study." loading="lazy" />
-            </picture>
-					</a>
-				</div>
-				<div class="content">
-					<p class="text-xs uppercase">Branding, Website Design</p>
-					<h2 class="mb-1"><a href="/work/right-triangle/">Right Triangle</a></h2>
-					<p>Data designed right</p>
-				</div>
+		<div class="sample-lg-r hidden">
+			<div class="content order-2">
+				<!-- <p class="text-xs uppercase">UX and Website Design</p> -->
+				<h2 class="mb-1"><a href="/work/latest/">Latest Work</a></h2>
+				<p>An inclusive, innovative platform for small businesses. A modern, resposive website redesign. And more…</p>
 			</div>
-
-			<div class="sample-lg-r hidden">
-				<div class="content order-2">
-					<p class="text-xs uppercase">UX and Website Design</p>
-					<h2 class="mb-1"><a href="/work/qwally/">Qwally</a></h2>
-					<p>Inclusive contracting made easy</p>
-				</div>
-				<div class="img img-hover order-1">
-					<a href="/work/qwally/">
-						<picture class="img">
-              <source srcset="/img/samples/qwally/thumb.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/qwally/thumb.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/qwally/thumb.md.webp" type="image/webp">
-              <source srcset="/img/samples/qwally/thumb.md.png">
-              <img class="" src="/img/samples/qwally/thumb.png" width="100%" height="auto" alt="UX and website design for Qwally." loading="lazy" />
-            </picture>
-					</a>
-				</div>
+			<div class="img img-hover order-1">
+				<a href="/work/latest/">
+					<picture class="img">
+						<source srcset="/img/samples/latest/thumb.webp" media="(min-width: 50em)" type="image/webp">
+						<source srcset="/img/samples/latest/thumb.png" media="(min-width: 50em)">
+						<source srcset="/img/samples/latest/thumb.md.webp" type="image/webp">
+						<source srcset="/img/samples/latest/thumb.md.png">
+						<img class="" src="/img/samples/latest/thumb.png" width="100%" height="auto" alt="Latest work" loading="lazy" />
+					</picture>
+				</a>
 			</div>
+		</div>
 
-			<!-- <div class="sample-sm-l hidden">
-				<div class="img img-hover">
-					<a href="/work/rounding-up-undies/">
-						<picture class="img">
-              <source srcset="/img/samples/rounding-up-undies/thumb.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/rounding-up-undies/thumb.jpg" media="(min-width: 50em)">
-              <source srcset="/img/samples/rounding-up-undies/thumb.md.webp" type="image/webp">
-              <source srcset="/img/samples/rounding-up-undies/thumb.md.jpg">
-              <img src="/img/samples/rounding-up-undies/thumb.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design case study." loading="lazy" />
-            </picture>
-					</a>
-				</div>
-				<div class="content">
-					<p class="text-xs uppercase">Logo Design</p>
-					<h2 class="mb-1"><a href="/work/rounding-up-undies/">Rounding Up Undies</a></h2>
-					<p>Empowering girls around the world</p>
-				</div>
-			</div> -->
-
-			<div class="sample-sm-l hidden">
-				<div class="img img-hover">
-					<a href="/work/websites/">
-						<picture class="img">
-              <source srcset="/img/samples/websites/thumb-websites.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/websites/thumb-websites.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/websites/thumb-websites.md.webp" type="image/webp">
-              <source srcset="/img/samples/websites/thumb-websites.md.png">
-              <img class="" src="/img/samples/websites/thumb-websites.png" width="100%" height="auto" alt="Websites we've designed." loading="lazy" />
-            </picture>
-					</a>
-				</div>
-				<div class="content">
-					<!-- <p class="text-xs uppercase">Website Designs</p> -->
-					<h2 class="mb-1"><a href="/work/websites/">Website Designs</a></h2>
-					<p>A collection of our favorite website designs</p>
-				</div>
+		<div class="sample-lg-l hidden">
+			<div class="img img-hover">
+				<a href="/work/right-triangle/">
+					<picture class="img">
+						<source srcset="/img/samples/right-triangle/thumb-right-triangle.webp" media="(min-width: 50em)" type="image/webp">
+						<source srcset="/img/samples/right-triangle/thumb-right-triangle.png" media="(min-width: 50em)">
+						<source srcset="/img/samples/right-triangle/thumb-right-triangle.md.webp" type="image/webp">
+						<source srcset="/img/samples/right-triangle/thumb-right-triangle.md.png">
+						<img src="/img/samples/right-triangle/thumb-right-triangle.png" width="100%" height="auto" alt="Right Triangle brand and website design case study." loading="lazy" />
+					</picture>
+				</a>
 			</div>
-
-			<div class="sample-sm-r hidden">
-				<div class="content order-2">
-					<h2 class="mb-1"><a href="/work/logos/">Logo Design and Branding</a></h2>
-					<p>A collection of our favorite logo designs</p>
-				</div>
-				<div class="img img-hover order-1">
-					<a href="/work/logos/">
-						<picture class="img">
-              <source srcset="/img/samples/logos/thumb-logos.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/logos/thumb-logos.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/logos/thumb-logos.md.webp" type="image/webp">
-              <source srcset="/img/samples/logos/thumb-logos.md.png">
-              <img src="/img/samples/logos/thumb-logos.png" width="100%" height="auto" alt="Logo we've designed." loading="lazy" />
-            </picture>
-					</a>
-				</div>
+			<div class="content">
+				<p class="text-xs uppercase">Branding, Website Design</p>
+				<h2 class="mb-1"><a href="/work/right-triangle/">Right Triangle</a></h2>
+				<p>A new brand and website, designed to break through to a B2B audience.</p>
 			</div>
+		</div>
 
-			<div class="sample-sm-l hidden">
-				<div class="img img-hover">
-					<a href="/work/hnc-living/">
-						<picture class="img">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.md.webp" type="image/webp">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.md.png">
-              <img src="/img/samples/hnc-living/thumb-hnc.png" width="100%" height="auto" alt="HNC Living website redesign case study." loading="lazy" />
-            </picture>
-					</a>
-				</div>
-				<div class="content order-2">
-					<p class="text-xs uppercase">Website Redesign</p>
-					<h2 class="mb-1"><a href="/work/hnc-living/">HNC Living</a></h2>
-					<p>A more effective nonprofit website</p>
-				</div>
+		<div class="sample-lg-r hidden" style="place-items:center;">
+			<div class="content order-2">
+				<p class="text-xs uppercase">UX and Website Design</p>
+				<h2 class="mb-1"><a href="/work/qwally/">Qwally</a></h2>
+				<p>A user experience designed to make inclusive contracting easy for minority-owned businesses and cities.</p>
 			</div>
+			<div class="img img-hover order-1">
+				<a href="/work/qwally/">
+					<picture class="img">
+						<source srcset="/img/samples/qwally/thumb.webp" media="(min-width: 50em)" type="image/webp">
+						<source srcset="/img/samples/qwally/thumb.png" media="(min-width: 50em)">
+						<source srcset="/img/samples/qwally/thumb.md.webp" type="image/webp">
+						<source srcset="/img/samples/qwally/thumb.md.png">
+						<img class="" src="/img/samples/qwally/thumb.png" width="100%" height="auto" alt="UX and website design for Qwally." loading="lazy" />
+					</picture>
+				</a>
+			</div>
+		</div>
 
-			<a class="more" href="/work/"><h3 class="m-none">More Projects <span style="letter-spacing:-3px;">――――</span></h3></a>
+    <section class="main grid-in mb-4">
+      <div class="testimonial">
+				<div class="source pl-1 pr-1 order-2">
+					<p><strong>Qwally</strong><br>Chris Offensend,<br>Co-Founder &amp; CEO</p>
+				</div>
+				<div class="quote pl-1 pr-1 order-1">
+					<p>"What made flow14 the easy choice for us was their focus on fundamentally understanding the problem to be solved and shepherding our team (and our clients) through a process to arrive at a solution that truly helped users accomplish their goals."</p>
+        </div>
+      </div>
+    </section>
 
+
+		<div class="sample-sm-l hidden">
+			<div class="img img-hover">
+				<a href="/work/websites/">
+					<picture class="img">
+						<source srcset="/img/samples/websites/thumb-websites.webp" media="(min-width: 50em)" type="image/webp">
+						<source srcset="/img/samples/websites/thumb-websites.png" media="(min-width: 50em)">
+						<source srcset="/img/samples/websites/thumb-websites.md.webp" type="image/webp">
+						<source srcset="/img/samples/websites/thumb-websites.md.png">
+						<img class="" src="/img/samples/websites/thumb-websites.png" width="100%" height="auto" alt="Websites we've designed." loading="lazy" />
+					</picture>
+				</a>
+			</div>
+			<div class="content">
+				<!-- <p class="text-xs uppercase">Website Designs</p> -->
+				<h2 class="mb-1"><a href="/work/websites/">Website Designs</a></h2>
+				<p>A collection of our favorite website designs.</p>
+			</div>
+		</div>
 	</section>
 
-	<section class="grid my-4">
+	<div class="grid">
+		<section class="main grid-in mb-4">
+			<div class="half-right grid-content">
+				<h3 class="color-orange">Ready for design that makes a difference for your company?</h3>
+				<a class="cta my-1" href="/contact/" style=""><h3 class="m-none">Let&rsquo;s Talk<span style="letter-spacing:-3px;">――――</span></h3></a>
+			</div>
+		</section>
+	</div>
+
+	<section class="grid my-2">
 		<div class="main grid-brand grid-brand-sm">
 			<h2 class="text-center brand-title mb-1 hidden" style="">Brands We&rsquo;ve Worked With:</h2>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/garmin-logo.svg" alt="Garmin logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/hallmark-logo.svg" alt="Hallmark logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w50" src="/img/brands/amc-logo.svg" alt="AMC logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/medtronic-logo.svg" alt="Medtronic logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/boston-scientific-logo.svg" alt="Boston Scientific logo."></div>
-			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/vista-outdoor-logo.svg" alt="Vista Outdoor logo."></div>
-			<div class="brand hidden" style=""><img loading="lazy" class="w100" src="/img/brands/bushnell-logo.svg" alt=" logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w50" src="/img/brands/vista-outdoor-logo.svg" alt="Vista Outdoor logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/bushnell-logo.svg" alt=" logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/hv-logo-h.svg" alt="Happy Valley logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w50" src="/img/brands/deg-logo.svg" alt="DEG logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w100" src="/img/brands/grayduck-logo.svg" alt="Grayduck Health logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/inquest-logo.svg" alt="InQuest Marketing logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/sidebench-logo.svg" alt="Sidebench logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w50" src="/img/brands/qwally-logo.svg" alt="Qwally logo."></div>
+			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/get-konnected-logo.svg" alt="Get Konnected logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/hnc-living-logo.svg" alt="HNC Living logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/one-global-village.svg" alt="One Global Village logo."></div>
 			<div class="brand hidden" style=""><img loading="lazy" class="w75" src="/img/brands/right-triangle-logo.svg" alt="Right Triangle logo."></div>
@@ -170,44 +190,11 @@
 		</div>
 	</section>
 
-	<section class="grid my-4">
-		<h2 class="mb-2 text-center hidden" style="grid-column: -1 / 1;">Our Approach</h3>
-		<div class="main grid-in">
-			<div class="half-left grid-content my-2 hidden">
-				<div class="text-center">
-					<img class="mb-2 text-center" src="/img/ic-focus.svg" alt="Focus" width="50%" height="auto">
-				</div>
-				<h3 class="text-center">Focus</h3>
-				<p>We ask the hard questions to understand where you're starting from and where you hope to go. Then, we plot a course and outline the strategy.</p>
-				<p><strong>Capabilities:</strong> Creative and UX Strategy</p>
-			</div>
-		</div>
-		<div class="main grid-in">
-			<div class="half-right grid-content my-2 hidden">
-				<div class="text-center">
-					<img class="mb-2 text-center" src="/img/ic-distinguish.svg" alt="Distinguish" width="50%" height="auto">
-				</div>
-				<h3 class="text-center">Distinguish</h3>
-				<p class=>We bring your vision to life with results-driven-design that breaks through the clutter and distinguishes you from the competition.</p>
-				<p class=><strong>Capabilities:</strong> Branding, UX and Visual Design, Content Development</p>
-			</div>
-		</div>
-		<div class="main grid-in">
-			<div class="half-left grid-content my-2 hidden">
-				<div class="text-center">
-					<img class="mb-2" src="/img/ic-grow.svg" alt="Grow" width="50%" height="auto">
-				</div>
-				<h3 class="text-center">Grow</h3>
-				<p>We assess the impact of our work and help you make sense of the data. You’ll understand what moves your audience and what’s driving your growth.</p>
-				<p><strong>Capabilities:</strong> SEO, Analytics, Content Optimization</p>
-			</div>
-		</div>
-	</section>
-
-
-
-
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php'); ?>
 
+	<script src="/js/butter-slider.js"></script>
+	<script>
+		butterSlider.autoInit()
+	</script>
 </body>
 </html>
