@@ -16,25 +16,25 @@
 		<header class="mt-2 ml-2">
       <div>
         <?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/logo.php'); ?>
-    </div>
+      </div>
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light-blue">Inclusive Contracting Made Easy</div>Qwally</h1>
+			<h1><div class="color-light">Inclusive Contracting Made Easy</div>Qwally</h1>
       <p>Qwally is a cloud-based software startup that helps small businesses navigate local government contracting.</p>
       <p class="mb-4">They were developing a SaaS platform for local governments, starting with the City of Mobile, Alabama. They connected with flow14 to define and design the user experience, including the user journey, information architecture, wireframes, and visual design.</p>
     </div>
 
     <section class="main grid-in mb-2 grid-gap shift-2">
       <div class="grid-content">
-        <picture class="img hidden">
-          <source srcset="/img/samples/qwally/user-journey-02.lg.webp" media="(min-width: 50em)" type="image/webp">
-          <source srcset="/img/samples/qwally/user-journey-02.jpg" media="(min-width: 50em)">
-          <source srcset="/img/samples/qwally/user-journey-02.sm.webp" type="image/webp">
-          <source srcset="/img/samples/qwally/user-journey-02.sm.jpg">
-          <img class="" src="/img/samples/qwally/user-journey-02.jpg" width="100%" height="auto" alt="Qwally meeting with Mobile Alabama city officials." loading="lazy">
+        <picture class="img mb-2 hidden">
+          <source srcset="/img/samples/qwally/work-with-city-of-mobile.webp" media="(min-width: 50em)" type="image/webp">
+          <source srcset="/img/samples/qwally/work-with-city-of-mobile.png" media="(min-width: 50em)">
+          <source srcset="/img/samples/qwally/work-with-city-of-mobile.sm.webp" type="image/webp">
+          <source srcset="/img/samples/qwally/work-with-city-of-mobile.sm.png">
+          <img class="shadow" src="/img/samples/qwally/work-with-city-of-mobile.png" width="100%" height="auto" alt="Work with City of Mobile Homepage" loading="lazy">
+          <div class="text-sm text-center mt-1 mb-2">Work with City of Mobile homepage</div>
         </picture>
-        <div class="text-sm text-center mt-1 mb-2">Qwally meeting with Mobile, AL City Officials</div>
       </div>
       <div class="half-left grid-content">
         <picture class="img mb-2 hidden">
@@ -46,13 +46,14 @@
         </picture>
       </div>
       <div class="half-right grid-content">
-        <picture class="img mb-2 hidden">
-          <source srcset="/img/samples/qwally/user-journey-01.webp" media="(min-width: 50em)" type="image/webp">
-          <source srcset="/img/samples/qwally/user-journey-01.jpg" media="(min-width: 50em)">
-          <source srcset="/img/samples/qwally/user-journey-01.sm.webp" type="image/webp">
-          <source srcset="/img/samples/qwally/user-journey-01.sm.jpg">
-          <img class="" src="/img/samples/qwally/user-journey-01.jpg" width="100%" height="auto" alt="User story and user flow diagram." loading="lazy">
+        <picture class="img hidden">
+          <source srcset="/img/samples/qwally/user-journey-02.lg.webp" media="(min-width: 50em)" type="image/webp">
+          <source srcset="/img/samples/qwally/user-journey-02.jpg" media="(min-width: 50em)">
+          <source srcset="/img/samples/qwally/user-journey-02.sm.webp" type="image/webp">
+          <source srcset="/img/samples/qwally/user-journey-02.sm.jpg">
+          <img class="" src="/img/samples/qwally/user-journey-02.jpg" width="100%" height="auto" alt="Qwally meeting with Mobile Alabama city officials." loading="lazy">
         </picture>
+        <div class="text-sm text-center mt-1 mb-2">Qwally meeting with Mobile, AL City Officials</div>
       </div>
     </section>
     <section class="main grid-in mb-4">
