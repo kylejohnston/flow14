@@ -40,9 +40,9 @@
 <div class="wave">
 	<div class="global-menu">
 		<div class="global-menu__wrap">
-			<div class="text-xl bold global-menu__item mb-2"><a class="" href="/work/">Work</a></div>
-			<div class="text-xl bold global-menu__item mb-2"><a class="" href="/about/">About</a></div>
-			<div class="text-xl bold global-menu__item"><a class="" href="/contact/">Contact</a></div>
+			<div class="text-xxl bold global-menu__item mb-2"><a class="" href="/work/">Work</a></div>
+			<div class="text-xxl bold global-menu__item mb-2"><a class="" href="/about/">About</a></div>
+			<div class="text-xxl bold global-menu__item"><a class="" href="/contact/">Contact</a></div>
 		</div>
 	</div>
 	<svg class="shape-overlays" viewBox="0 0 100 100" preserveAspectRatio="none">
