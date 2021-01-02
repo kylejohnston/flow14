@@ -2,7 +2,7 @@
   --black: #05222E;
   --white: #FFFFFF;
   --blue:  #179BCF;
-  --light-blue: #D3EBF4;
+  --light: #FCF0E8;
   --orange: #FA8335;
   --dark-orange: #E53B34;
   --color-text: var(--black);
@@ -13,7 +13,7 @@
   &-black { color: var(--black); }
   &-white { color: var(--white); }
   &-blue { color: var(--blue); }
-  &-light-blue { color: var(--light-blue); }
+  &-light { color: var(--light); }
   &-dark-blue { color: var(--dark-blue); }
   &-orange { color: var(--orange); }
   &-dark-orange { color: var(--dark-orange); }
@@ -22,7 +22,7 @@
   &-black { svg { fill: var(--black); } }
   &-white { svg { fill: var(--white); } }
   &-blue { svg { fill: var(--blue); } }
-  &-light-blue { svg { fill: var(--light-blue); } }
+  &-light { svg { fill: var(--light); } }
   &-dark-blue { svg { fill: var(--dark-blue); } }
   &-orange { svg { fill: var(--orange); } }
   &-dark-orange { svg { fill: var(--dark-orange); } }
@@ -31,19 +31,19 @@
   &-black { background: var(--black); }
   &-white { background: var(--white); }
   &-blue { background: var(--blue); }
-  &-light-blue { background: var(--light-blue); }
+  &-light { background: var(--light); }
   &-dark-blue { background: var(--dark-blue); }
   &-orange { background: var(--orange); }
   &-dark-orange { background: var(--dark-orange); }
 }
 
 body {
-  background-color: var(--light-blue);
+  background-color: var(--light);
   background-image:linear-gradient(#FFFFFF,#F0F7FA);
 }
 .grid-intro {
-  background: var(--blue);
+  background: linear-gradient(-45deg,var(--dark-orange),var(--orange));
   color: var(--white);
   & a:link, & a:visited { color: var(--white); }
-  & a:hover, & a:active { color: var(--light-blue); }
+  & a:hover, & a:active { color: var(--light); }
 }

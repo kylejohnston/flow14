@@ -25,7 +25,7 @@ footer .hamburger { display: none; }
   text-transform:uppercase;
 }
 .recent h3 {
-  color: var(--light-blue);
+  color: var(--light);
   position:relative;
   top: 96px;
 }
@@ -41,6 +41,43 @@ footer .hamburger { display: none; }
   top:96px
 }
 .brand-title { grid-column: -1 / 1; }
+.r-reverse { color: var(--white) !important; }
+.r-reverse-blue { color: var(--orange) !important; }
+.r-reverse-blue:hover { color: var(--orange) !important; }
+.r-fixed { position:absolute; top:44px; right:48px; }
+@media screen and (min-width: $break-desktop) {
+  .r-reverse { color: var(--black) !important; }
+  .r-reverse-blue { color: var(--dark-orange) !important; }
+  .r-fixed { position:fixed; z-index:200;top:120px;left:48px; }
+}
+
+.slider {
+	width: 100vw;
+	overflow-x: hidden;
+}
+.slides {
+	display: flex;
+  will-change: transform;
+	overflow-x: visible;
+}
+.slide {
+  flex: 0 0 auto;
+  width:80vw;
+  max-width: 400px;
+  margin-right: 24px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background:#fffe;
+  padding:24px 20px;
+  border-radius:6px;
+  border-radius: 2px;
+}
+.slide:first-of-type {
+  margin-left: 16px;
+}
+
 .grid-brand {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -72,28 +109,27 @@ footer .hamburger { display: none; }
   box-shadow: 0 4px 30px hsla(197,12,50,.4);
   overflow:hidden;
 }
+.bg-gradient {
+  background:
+  linear-gradient(#EEFF33,var(--dark-orange)),
+  var(--orange);
+	// linear-gradient(90deg,var(--orange),transparent),
+	// linear-gradient(135deg,transparent,var(--blue));
+}
 .gradient-block {
-  background: linear-gradient(90deg, var(--light-blue), var(--blue));
-  height: 70ch;
+  margin-bottom:24px;
+  padding-bottom:80%;
   width:100vw;
-  // opacity: .5;
+  // min-height:80vh;
   position: absolute;
-
+  background:
+	linear-gradient(#EEFC3E,transparent),
+	linear-gradient(90deg,var(--dark-orange),transparent),
+	linear-gradient(-90deg,var(--blue),transparent);
+  background-blend-mode: screen;
   top: 0;
   right: 0;
   z-index:-1;
-  // border-radius:10px;
-
-  &:before {
-    content: "";
-    position: absolute;
-		top: 0;
-		left: 0;
-		bottom: 0;
-    right: 0;
-		mask-image: linear-gradient(to bottom, transparent, var(--black));
-    background: linear-gradient(90deg, var(--blue), var(--dark-orange));
-  }
 }
 .color-block {
   content: "";
@@ -109,14 +145,14 @@ footer .hamburger { display: none; }
 .cta {
   text-transform: uppercase;
   background: none;
-  border: 2px solid var(--blue);
+  border: 2px solid var(--orange);
   padding: 24px;
-  color: var(--blue) !important;
+  color: var(--orange) !important;
   text-decoration: none;
   width:28ch;
 
   &:hover {
-    background: var(--blue);
+    background:linear-gradient(var(--dark-orange),var(--orange));
     color: var(--white) !important;
     text-decoration: none;
   }
@@ -124,8 +160,8 @@ footer .hamburger { display: none; }
 .more {
   grid-column: main;
   text-transform: uppercase;
-  background: var(--blue);
-  border: 2px solid var(--blue);
+  background:linear-gradient(var(--dark-orange),var(--orange));
+  border: 2px solid var(--orange);
   margin: -48px 0 96px 0;
   padding: 24px;
   color: var(--white) !important;
@@ -134,7 +170,7 @@ footer .hamburger { display: none; }
 
   &:hover {
     background: none;
-    color: var(--blue) !important;
+    color: var(--orange) !important;
     text-decoration: none;
   }
 }
@@ -151,9 +187,6 @@ footer .block {
 // footer .grid-in { grid-template-columns: repeat(6, 1fr); }
 
 @media screen and (min-width: $break-tablet) {
-  // header:after {
-  //   transform: skewY(4deg);
-  // }
   .logo svg {
     height: 31px;
     width: 104px;
@@ -161,7 +194,6 @@ footer .block {
   .color-block {
     width:90vw;
     height:84ch;
-    transform: skewY(4deg);
   }
   .grid-brand {
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
@@ -175,7 +207,7 @@ footer .block {
   }
   .gradient-block {
     width:90vw;
-    transform: skewY(-4deg);
+    padding-bottom: 48%;
     &:before {
       border-radius:2px;
     }
@@ -192,4 +224,11 @@ footer .block {
     margin-bottom:240px;
     padding: 36px 24px;
   }
+}
+@media screen and (min-width: $break-desktop) {
+  .slides { justify-content: center; }
+  .slide { background: none; }
+  .slide:first-of-type { margin-left: 0; }
+  .shift-right { transform:translateX(48px) }
+  .shift-right-content { transform:translateX(-48px) }
 }

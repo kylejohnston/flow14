@@ -181,6 +181,7 @@
       display: grid;
       grid-template-columns: repeat(6, 1fr);
       margin-bottom: 192px;
+      place-items: center;
     }
 
     & .sample-lg-l {

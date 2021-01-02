@@ -42,15 +42,15 @@ p, li {
 
 a {
   &:link {
-    color: var(--blue);
-    text-decoration-color: #179BCF66;
+    color: var(--orange);
+    text-decoration-color: #FA833533;
     text-underline-offset: .15em;
   }
   &:hover {
-    text-decoration-color: var(--dark-orange);
+    text-decoration-color: var(--orange);
   }
   &:visited {
-    color: var(--blue);
+    color: var(--orange);
   }
 }
 a.white {
