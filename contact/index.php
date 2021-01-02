@@ -23,7 +23,7 @@
 
     <section class="main grid-in my-3">
     <div class="half-left grid-content">
-        <h1><div class="color-blue">Say Hello</div>Contact Us</h1>
+        <h1><div class="color-dark-orange">Say Hello</div>Contact Us</h1>
       </div>
     </section>
 

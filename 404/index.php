@@ -17,7 +17,7 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2" style="min-height:41ch">
-    <h1><div class="color-light-blue">Oops…</div>Page Not Found.</h1>
+    <h1><div class="color-light">Oops…</div>Page Not Found.</h1>
     </div>
 
     <section class="main grid-in mt-3 mb-4 grid-gap">

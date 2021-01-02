@@ -20,7 +20,7 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light-blue">Bringing Data to Life</div>Kansas City LISC</h1>
+			<h1><div class="color-light">Bringing Data to Life</div>Kansas City LISC</h1>
       <p class="mb-4">Greater Kansas City LISC (Local Initiative Support Corporation) approached flow<small>14</small> with a need for an infographic they could use to communicate their ties to the community, both in the services and causes they support and how they compare to and interact with other local organizations.</p>
     </div>
 
