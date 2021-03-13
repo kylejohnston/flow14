@@ -63,8 +63,23 @@
 		</div>
 	</div>
 
-	<h2 class="text-center brand-title mb-3 hidden" style="">What We&rsquo;ve Made</h2>
+	<div class="grid">
+		<section class="main grid-in mb-4">
+			<div class="half-left grid-content" style="">
+				<h2>Work in Progress</h2>
+			</div>
+			<div class="half-right grid-content">
+				<ul style="list-style-type:'&horbar; ' !important;">
+					<li>Conducting a user experience audit for a medical technology company</li>
+					<li>Designing digital and retail marketing materials for a Boston-based cannabis company</li>
+					<li>Providing design and frontend development support to a GovTech startup</li>
+					<li>Redesigning a website for a national pilot training academy</li>
+				</ul>
+			</div>
+		</section>
+	</div>
 
+	<h2 class="text-center brand-title mb-3 hidden" style="">What We&rsquo;ve Made</h2>
 	<section class="grid-home">
 		<div class="sample-lg-r hidden">
 			<div class="content order-2">
