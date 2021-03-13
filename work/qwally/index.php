@@ -20,7 +20,7 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light">Inclusive Contracting Made Easy</div>Qwally</h1>
+			<h1><div class="color-light light smaller">Inclusive Contracting Made Easy</div>Qwally</h1>
       <p>Qwally is a cloud-based software startup that helps small businesses navigate local government contracting.</p>
       <p class="mb-4">They were developing a SaaS platform for local governments, starting with the City of Mobile, Alabama. They connected with flow14 to define and design the user experience, including the user journey, information architecture, wireframes, and visual design.</p>
     </div>

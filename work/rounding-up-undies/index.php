@@ -20,7 +20,7 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light">Empowering girls around the world</div>Rounding Up Undies</h1>
+			<h1><div class="color-light light smaller">Empowering girls around the world</div>Rounding Up Undies</h1>
       <p class="mb-4">Rounding Up Undies is a nonprofit that provides hygiene kits to young women in impoverished areas like Uganda and Mali. We worked with the team at Rounding Up Undies to design a logo to launch their brand, applying it to hygiene kit packaging, promotional materials, and more.</p>
     </div>
 

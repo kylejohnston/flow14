@@ -20,7 +20,7 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light">Select Design Works</div>A Few of Our Favorite Things</h1>
+			<h1><div class="color-light light smaller">Select Design Works</div>A Few of Our Favorite Things</h1>
     </div>
 
     <section class="main grid-in grid-gap shift-4">
