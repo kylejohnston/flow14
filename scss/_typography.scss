@@ -24,6 +24,8 @@ h1, h2, h3 {
     text-shadow: 0 1px 5px #0006;
   }
 }
+.smaller { font-size: 1.25rem; }
+.light { font-weight: 100; }
 .semibold { font-weight: 600; }
 .bold { font-weight: 700; }
 
@@ -72,10 +74,11 @@ ul, ol {
   list-style-position: outside;
   padding-left: 1em;
 }
-ul { list-style-type: disc; }
+ul { list-style-type: disc; list-style-type: '― ';}
 ol { list-style-type: decimal; }
 ul li, ol li {
   line-height: var(--body-line-height);
+  margin-bottom: 8px;
   &::marker { color: var(--blue); }
 }
 
