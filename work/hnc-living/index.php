@@ -21,12 +21,21 @@
 
 		<div class="grid-intro px-2 mt-2">
       <h1><div class="color-light light smaller">A more effective nonprofit website</div>HNC Living</h1>
-      <p>What do you do when your nonprofit has successfully helped more than 1,200 head and neck cancer patients with their treatment and recovery, but you’re ready to expand beyond your local roots?</p>
-      <p class="mb-4" style="z-index:99">For <a href="https://www.hncliving.org">HNC Living Foundation</a>, the answer was a new website designed to expand their reach, attract more donors, and &#8211; most importantly &#8211; reach more patients to help them conquer the burdens related to their treatment and recovery.</p>
+
     </div>
 
+    <section class="main grid-in mt-3 mb-4">
+      <div class="half-left grid-content mb-2">
+        <h2>Details</h2>
+      </div>
+      <div class="half-right grid-content">
+        <p>What do you do when your nonprofit has successfully helped more than 1,200 head and neck cancer patients with their treatment and recovery, but you’re ready to expand beyond your local roots?</p>
+        <p class="" style="z-index:99">For <a href="https://www.hncliving.org">HNC Living Foundation</a>, the answer was a new website designed to expand their reach, attract more donors, and &#8211; most importantly &#8211; reach more patients to help them conquer the burdens related to their treatment and recovery.</p>
+      </div>
+    </section>
+
     <section class="main grid-in mb-4">
-      <div class="half-left grid-content shift-3 mb-2">
+      <div class="half-left grid-content mb-2">
         <picture class="img hidden">
           <source srcset="/img/samples/hnc-living/homepage.lg.webp" media="(min-width: 63em)" type="image/webp">
           <source srcset="/img/samples/hnc-living/homepage.lg.jpg" media="(min-width: 63em)">

@@ -21,8 +21,6 @@
 
 		<div class="grid-intro px-2 mt-2">
 			<h1><div class="color-light light smaller">Inclusive Contracting Made Easy</div>Qwally</h1>
-      <p>Qwally is a cloud-based software startup that helps small businesses navigate local government contracting.</p>
-      <p class="mb-4">They were developing a SaaS platform for local governments, starting with the City of Mobile, Alabama. They connected with flow14 to define and design the user experience, including the user journey, information architecture, wireframes, and visual design.</p>
     </div>
 
     <section class="main grid-in mb-2 grid-gap shift-2">
@@ -36,6 +34,21 @@
           <div class="text-sm text-center mt-1 mb-2">Work with City of Mobile homepage</div>
         </picture>
       </div>
+    </section>
+
+    <section class="main grid-in mb-3">
+      <div class="half-left grid-content mb-2">
+        <h2>Details</h2>
+      </div>
+      <div class="half-right grid-content">
+        <p>Qwally is a cloud-based software startup that helps small businesses navigate local government contracting.</p>
+        <p class="">They were developing a SaaS platform for local governments, starting with the City of Mobile, Alabama. They connected with flow14 to define and design the user experience, including the user journey, information architecture, wireframes, and visual design.</p>
+      </div>
+    </section>
+
+
+
+    <section class="main grid-in grid-gap mb-4">
       <div class="half-left grid-content">
         <picture class="img mb-2 hidden">
           <source srcset="/img/samples/qwally/user-flow-story.webp" media="(min-width: 50em)" type="image/webp">
@@ -55,8 +68,6 @@
         </picture>
         <div class="text-sm text-center mt-1 mb-2">Qwally meeting with Mobile, AL City Officials</div>
       </div>
-    </section>
-    <section class="main grid-in mb-4">
       <div class="half-right grid-content">
         <h3>Visualizing the User Journey</h3>
         <p>We started by creating a detailed user journey diagram to visualize the steps that could be required of a business owner seeking to work with the city.</p>

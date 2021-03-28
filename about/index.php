@@ -21,13 +21,19 @@
 
 		<div class="grid-intro px-2 mt-2">
       <h1>flow14 is a strategically smart design studio</h1>
-      <!-- <div class="mb-4"> -->
-        <p>flow<small>14</small> is a design studio based in Kansas City with clients from across the United States. We specialize in making strategically smart, results-driven-design that makes a difference.</p>
-        <p class="mb-4">We can help your growing business, nonprofit, or political group stand out with outstanding work that moves your audience to act.</p>
-      <!-- </div> -->
     </div>
 
-    <section class="main grid-in shift-2 grid-gap">
+    <section class="main grid-in my-3">
+      <div class="half-left grid-content mb-2">
+        <h2>About Us</h2>
+      </div>
+      <div class="half-right grid-content">
+        <p>flow<small>14</small> is a design studio based in Kansas City with clients from across the United States. We specialize in making strategically smart, results-driven-design that makes a difference.</p>
+        <p class="">We can help your growing business, nonprofit, or political group stand out with outstanding work that moves your audience to act.</p>
+      </div>
+    </section>
+
+    <section class="main grid-in grid-gap">
       <div class="half-left grid-content mb-4">
         <div class="img hidden mb-2">
           <img class="img lazyload" src="/img/kyle-johnston-700.jpg" width="100%" height="auto" alt="Kyle Johnston">

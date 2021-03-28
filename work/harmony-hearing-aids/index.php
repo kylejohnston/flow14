@@ -21,8 +21,16 @@
 
 		<div class="grid-intro px-2 mt-2">
 			<h1><div class="color-light light smaller">A brand that breaks through the noise</div>Harmony Hearing Aids</h1>
-      <p class="mb-4">Harmony Hearing Aids came to flow14 as a new, small business looking for a professional set of materials that would allow them to quickly establish a foothold in a highly competitive market.</p>
     </div>
+
+    <section class="main grid-in my-3">
+      <div class="half-left grid-content mb-2">
+        <h2>Details</h2>
+      </div>
+      <div class="half-right grid-content">
+        <p class="">Harmony Hearing Aids came to flow14 as a new, small business looking for a professional set of materials that would allow them to quickly establish a foothold in a highly competitive market.</p>
+      </div>
+    </section>
 
     <section class="main grid-in mt-2 mb-4">
       <div class="full">

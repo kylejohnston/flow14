@@ -21,11 +21,19 @@
 
 		<div class="grid-intro px-2 mt-2">
 			<h1><div class="color-light light smaller">Bringing Data to Life</div>Kansas City LISC</h1>
-      <p class="mb-4">Greater Kansas City LISC (Local Initiative Support Corporation) approached flow<small>14</small> with a need for an infographic they could use to communicate their ties to the community, both in the services and causes they support and how they compare to and interact with other local organizations.</p>
     </div>
 
+    <section class="main grid-in my-3">
+      <div class="half-left grid-content mb-2">
+        <h2>Details</h2>
+      </div>
+      <div class="half-right grid-content">
+        <p class="">Greater Kansas City LISC (Local Initiative Support Corporation) approached flow<small>14</small> with a need for an infographic they could use to communicate their ties to the community, both in the services and causes they support and how they compare to and interact with other local organizations.</p>
+      </div>
+    </section>
+
     <section class="main grid-in mt-2 mb-4">
-      <div class="full shift-4">
+      <div class="full">
         <div class="grid-content">
           <picture class="img hidden mb-2">
             <source srcset="/img/samples/kc-lisc/chord-diagram.lg.webp" media="(min-width: 63em)" type="image/webp">

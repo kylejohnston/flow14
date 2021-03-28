@@ -21,11 +21,9 @@
 
 		<div class="grid-intro px-2 mt-2">
 			<h1><div class="color-light light smaller">Data Designed Right</div>Right Triangle Consulting</h1>
-      <p class="">Right Triangle Consulting specializes in modernizing data architecture for growing organizations. They wanted to update their brand identity and website to fuel their growth and enhance their reputation as data experts with both clients and partners.</p>
-      <p class="mb-4">From a new logo and website to presentations and email templates, we created a robust, modern brand identity that helps Right Triangle stand out in a crowded market and positions them for growth.<br><br></p>
     </div>
 
-    <section class="main grid-in mt-2 mb-4">
+    <section class="main grid-in mt-2 mb-3">
       <div class="full shift-4">
         <div class="grid-content">
           <picture class="img mb-2 hidden">
@@ -36,6 +34,16 @@
             <img class="" src="/img/samples/right-triangle/banner.lg.png" width="100%" height="auto" alt="Rounding Up Undies logo design." loading="lazy">
           </picture>
         </div>
+      </div>
+    </section>
+
+    <section class="main grid-in mb-4">
+      <div class="half-left grid-content mb-2">
+        <h2>Details</h2>
+      </div>
+      <div class="half-right grid-content">
+        <p class="">Right Triangle Consulting specializes in modernizing data architecture for growing organizations. They wanted to update their brand identity and website to fuel their growth and enhance their reputation as data experts with both clients and partners.</p>
+        <p class="">From a new logo and website to presentations and email templates, we created a robust, modern brand identity that helps Right Triangle stand out in a crowded market and positions them for growth.</p>
       </div>
     </section>
 

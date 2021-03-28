@@ -21,8 +21,17 @@
 
 		<div class="grid-intro px-2 mt-2">
       <h1><div class="color-light light smaller">For the Love of Tees</div>Creative Outfitters</h1>
-      <p class="mb-4">Creative Outfitters is a company with a simple message &#8211; &lsquo;we love t-shirts&rsquo;. Creative Outfitters&rsquo; attitude sets them apart from the competition, so we designed a visual brand to match their attitude.</p>
     </div>
+
+    <section class="main grid-in mt-3 mb-4">
+      <div class="half-left grid-content mb-2">
+        <h2>Details</h2>
+      </div>
+      <div class="half-right grid-content">
+        <p>Creative Outfitters is a company with a simple message &#8211; &lsquo;we love t-shirts&rsquo;.</p>
+        <p>Creative Outfitters&rsquo; attitude sets them apart from the competition, so we designed a visual brand to match their attitude.</p>
+      </div>
+    </section>
 
     <section class="main grid-in mb-4">
       <div class="full grid-content shift-3">

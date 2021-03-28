@@ -20,9 +20,19 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1>Websites that work.</h1>
-      <p>Since 2010, we&rsquo;ve been designing and developing mobile-optimized websites for many clients. Select designs for nonprofits, political, and startup clients are featured here.</p>
+			<h1>Websites that make a difference.</h1>
     </div>
+
+    <section class="main grid-in my-3">
+      <div class="half-left grid-content mb-2">
+        <h2>Details</h2>
+      </div>
+      <div class="half-right grid-content">
+        <p>Since 2010, we&rsquo;ve been designing and developing websites with a focus on creating effective user experiences that drive measurable business results.</p>
+        <p>Select designs for nonprofits, political, and startup clients are featured here.</p>
+      </div>
+    </section>
+
 
     <section class="main grid-in mb-4">
       <div class="half-left grid-content order-2" style="z-index:2">
