@@ -40,17 +40,10 @@
 .grid-intro {
   grid-column: full;
   display: grid;
-  grid-template-columns:1fr;
-
-  & > h1 {
-    display:grid;
-    align-content:center;
-    grid-column: span 1;
-    height:50vh;
-  }
+  align-content: center;
+  min-height: 80vh;
   & > p {
-    grid-column: span 1;
-    // margin-bottom:96px;
+    max-width: 60ch;
   }
 }
 
@@ -126,7 +119,6 @@
   .grid-gap { grid-gap: var(--base-space); }
   .grid-intro {
     grid-column: intro;
-    min-height: 82ch;
   }
 }
 @media screen and (min-width: $break-desktop) {
