@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.flow14.com/</loc>
-		<lastmod>2020-07-01</lastmod>
+		<lastmod>2021-05-15</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -43,6 +43,11 @@
 	</url>
 	<url>
 		<loc>https://www.flow14.com/work/kc-lisc/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://www.flow14.com/work/latest/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.7</priority>
 	</url>
