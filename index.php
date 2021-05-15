@@ -84,16 +84,16 @@
 			<div class="order-2 content">
 				<!-- <p class="text-xs uppercase">UX and Website Design</p> -->
 				<h2 class="mb-1"><a href="/work/latest/">Latest Work</a></h2>
-				<p>An inclusive, innovative platform for small businesses. A modern, resposive website redesign. And more…</p>
+				<p>A modern, resposive website redesign for a pilot training school. An inclusive, innovative platform for small businesses. And more…</p>
 			</div>
 			<div class="order-1 img img-hover">
 				<a href="/work/latest/">
 					<picture class="img">
-						<source srcset="/img/samples/latest/thumb.webp" media="(min-width: 50em)" type="image/webp">
-						<source srcset="/img/samples/latest/thumb.png" media="(min-width: 50em)">
-						<source srcset="/img/samples/latest/thumb.md.webp" type="image/webp">
-						<source srcset="/img/samples/latest/thumb.md.png">
-						<img class="" src="/img/samples/latest/thumb.png" width="100%" height="auto" alt="Latest work" loading="lazy" />
+						<source srcset="/img/samples/latest/thumb.webp?202105" media="(min-width: 50em)" type="image/webp">
+						<source srcset="/img/samples/latest/thumb.png?202105" media="(min-width: 50em)">
+						<source srcset="/img/samples/latest/thumb.md.webp?202105" type="image/webp">
+						<source srcset="/img/samples/latest/thumb.md.png?202105">
+						<img class="" src="/img/samples/latest/thumb.png?202105" width="100%" height="auto" alt="Latest work" loading="lazy" />
 					</picture>
 				</a>
 			</div>
