@@ -26,15 +26,26 @@
 
     <section class="main grid-in mb-4">
       <div class="half-left grid-content order-2" style="z-index:2">
-        <picture class="img hidden mb-2">
-          <source srcset="/img/samples/latest/get-konnected-home.lg.webp" media="(min-width: 63em)" type="image/webp">
-          <source srcset="/img/samples/latest/get-konnected-home.lg.jpg" media="(min-width: 63em)">
-          <source srcset="/img/samples/latest/get-konnected-home.webp" type="image/webp">
-          <source srcset="/img/samples/latest/get-konnected-home.jpg">
-          <img class="shadow" src="/img/samples/latest/get-konnected-home.lg.jpg" width="100%" height="auto" alt="Get Konnected Branding and Website Design" loading="lazy" />
+        <picture class="img hidden mb-2 shift-3">
+          <source srcset="/img/samples/latest/flyhaa_com.lg.webp" media="(min-width: 63em)" type="image/webp">
+          <source srcset="/img/samples/latest/flyhaa_com.lg.jpg" media="(min-width: 63em)">
+          <source srcset="/img/samples/latest/flyhaa_com.webp" type="image/webp">
+          <source srcset="/img/samples/latest/flyhaa_com.jpg">
+          <img class="shadow" src="/img/samples/latest/flyhaa_com.lg.jpg" width="100%" height="auto" alt="Hillsboro Aero Academy Website Design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1">
+        <div class="grid-content sticky">
+          <h3>Hillsboro Aero Academy</h3>
+          <p>A new website design for Hillsboro Aero Academy, a pilot training school based in Oregon.</p>
+          <p>Key features include a powerful content management system and a responsive, SEO-optimized design.</p>
+          <p><a href="https://flyhaa.com">Visit FlyHAA.com</a></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="main grid-in mb-4">
+      <div class="half-left my-2">
         <div class="grid-content sticky">
           <h3>Get Konnected!</h3>
           <p>A new brand and website design for Get Konnected, a Boston-based social impact venture.</p>
@@ -42,6 +53,15 @@
           <p>The easy-to-use, mobile-optimized website features the GK Market, an innovative marketplace that supports small businesses in Boston and beyond.</p>
           <p><a href="https://getkonnected.com/">Visit GetKonnected.com</a></p>
         </div>
+      </div>
+      <div class="half-right grid-content" style="z-index:2">
+        <picture class="img hidden mb-2">
+          <source srcset="/img/samples/latest/get-konnected-home.lg.webp" media="(min-width: 63em)" type="image/webp">
+          <source srcset="/img/samples/latest/get-konnected-home.lg.jpg" media="(min-width: 63em)">
+          <source srcset="/img/samples/latest/get-konnected-home.webp" type="image/webp">
+          <source srcset="/img/samples/latest/get-konnected-home.jpg">
+          <img class="shadow" src="/img/samples/latest/get-konnected-home.lg.jpg" width="100%" height="auto" alt="Get Konnected Branding and Website Design" loading="lazy" />
+        </picture>
       </div>
     </section>
 
@@ -57,13 +77,7 @@
     </section>
 
     <section class="main grid-in mb-4">
-      <div class="half-left my-2">
-        <div class="grid-content sticky">
-          <h3>Northland OBGYN</h3>
-          <p>Website redesign for a Kansas City-based OBGYN clinic. The new site features an SEO-friendly content structure and a modern, mobile-optimized design.</p>
-        </div>
-      </div>
-      <div class="half-right grid-content">
+      <div class="half-left grid-content order-2">
         <picture class="img hidden mb-2">
           <source srcset="/img/samples/latest/northland-obgyn.lg.webp" media="(min-width: 63em)" type="image/webp">
           <source srcset="/img/samples/latest/northland-obgyn.lg.jpg" media="(min-width: 63em)">
@@ -72,19 +86,25 @@
           <img class="shadow" src="/img/samples/latest/northland-obgyn.jpg" width="100%" height="auto" alt="Northland OBGYN website design" loading="lazy" />
         </picture>
       </div>
+      <div class="half-right my-2 order-1">
+        <div class="grid-content sticky">
+          <h3>Northland OBGYN</h3>
+          <p>Website redesign for a Kansas City-based OBGYN clinic. The new site features an SEO-friendly content structure and a modern, mobile-optimized design.</p>
+        </div>
+      </div>
     </section>
 
     <section class="main grid-in mb-4">
       <picture class="full mb-2 hidden">
-        <source srcset="/img/samples/latest/happy-valley-flyers.lg.webp" media="(min-width: 63em)" type="image/webp">
-        <source srcset="/img/samples/latest/happy-valley-flyers.lg.jpg" media="(min-width: 63em)">
-        <source srcset="/img/samples/latest/happy-valley-flyers.webp" type="image/webp">
-        <source srcset="/img/samples/latest/happy-valley-flyers.jpg">
-        <img class="" src="/img/samples/latest/happy-valley-flyers.jpg" width="100%" height="auto" alt="Happy Valley Holiday Flyers" loading="lazy" />
+        <source srcset="/img/samples/latest/happy-valley-spring-flyers.lg.webp" media="(min-width: 63em)" type="image/webp">
+        <source srcset="/img/samples/latest/happy-valley-spring-flyers.lg.jpg" media="(min-width: 63em)">
+        <source srcset="/img/samples/latest/happy-valley-spring-flyers.webp" type="image/webp">
+        <source srcset="/img/samples/latest/happy-valley-spring-flyers.jpg">
+        <img class="" src="/img/samples/latest/happy-valley-spring-flyers.jpg" width="100%" height="auto" alt="Happy Valley Spring Flyers" loading="lazy" />
       </picture>
       <div class="half-right grid-content mb-3">
-        <h3>Happy Valley Holiday Flyers</h3>
-        <p>A series of Holiday Flyers designed for Happy Valley, a Boston-based cannabis dispensary. The designs were used for both printed flyers and in-store digital displays.</p>
+        <h3>Happy Valley Spring Flyers</h3>
+        <p>A series of Spring Flyers designed for Happy Valley, a Boston-based cannabis dispensary. The designs were used for both printed flyers and in-store digital displays.</p>
       </div>
     </section>
 
