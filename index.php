@@ -84,16 +84,16 @@
 			<div class="order-2 content">
 				<!-- <p class="text-xs uppercase">UX and Website Design</p> -->
 				<h2 class="mb-1"><a href="/work/latest/">Latest Work</a></h2>
-				<p>A modern, resposive website redesign for a pilot training school. An inclusive, innovative platform for small businesses. And more…</p>
+				<p>A modern, resposive website redesign for a pilot training school. Fresh designs for Spring marketing promotions. And more…</p>
 			</div>
 			<div class="order-1 img img-hover">
 				<a href="/work/latest/">
 					<picture class="img">
-						<source srcset="/img/samples/latest/thumb.webp?202105" media="(min-width: 50em)" type="image/webp">
-						<source srcset="/img/samples/latest/thumb.png?202105" media="(min-width: 50em)">
-						<source srcset="/img/samples/latest/thumb.md.webp?202105" type="image/webp">
-						<source srcset="/img/samples/latest/thumb.md.png?202105">
-						<img class="" src="/img/samples/latest/thumb.png?202105" width="100%" height="auto" alt="Latest work" loading="lazy" />
+						<source srcset="/img/samples/latest/thumb-20210524.webp" media="(min-width: 50em)" type="image/webp">
+						<source srcset="/img/samples/latest/thumb-20210524.png" media="(min-width: 50em)">
+						<source srcset="/img/samples/latest/thumb-20210524.md.webp" type="image/webp">
+						<source srcset="/img/samples/latest/thumb-20210524.md.png">
+						<img class="" src="/img/samples/latest/thumb-20210524.png" width="100%" height="auto" alt="Latest work" loading="lazy" />
 					</picture>
 				</a>
 			</div>
@@ -118,13 +118,27 @@
 			</div>
 		</div>
 
-		<div class="hidden sample-lg-r" style="place-items:center;">
+		<div class="hidden sample-lg-r">
 			<div class="order-2 content">
 				<p class="text-xs uppercase">UX and Website Design</p>
-				<h2 class="mb-1"><a href="/work/qwally/">Qwally</a></h2>
-				<p>A user experience designed to make inclusive contracting easy for minority-owned businesses and cities.</p>
+				<h2 class="mb-1"><a href="/work/get-konnected/">Get Konnected</a></h2>
+				<p>Driving Diversity for Businesses in Boston with a fresh user experience and design for an inclusive web platform.</p>
 			</div>
 			<div class="order-1 img img-hover">
+				<a href="/work/get-konnected/">
+					<picture class="img">
+						<source srcset="/img/samples/get-konnected/thumb.webp" media="(min-width: 50em)" type="image/webp">
+						<source srcset="/img/samples/get-konnected/thumb.png" media="(min-width: 50em)">
+						<source srcset="/img/samples/get-konnected/thumb.md.webp" type="image/webp">
+						<source srcset="/img/samples/get-konnected/thumb.md.png">
+						<img class="" src="/img/samples/get-konnected/thumb.png" width="100%" height="auto" alt="Get Konnected website design" loading="lazy" />
+					</picture>
+				</a>
+			</div>
+		</div>
+
+		<div class="hidden sample-lg-l" style="place-items:center;">
+			<div class="img img-hover">
 				<a href="/work/qwally/">
 					<picture class="img">
 						<source srcset="/img/samples/qwally/thumb.webp" media="(min-width: 50em)" type="image/webp">
@@ -134,6 +148,11 @@
 						<img class="" src="/img/samples/qwally/thumb.png" width="100%" height="auto" alt="UX and website design for Qwally." loading="lazy" />
 					</picture>
 				</a>
+			</div>
+			<div class="content">
+				<p class="text-xs uppercase">UX and Website Design</p>
+				<h2 class="mb-1"><a href="/work/qwally/">Qwally</a></h2>
+				<p>A user experience designed to make inclusive contracting easy for minority-owned businesses and cities.</p>
 			</div>
 		</div>
 
