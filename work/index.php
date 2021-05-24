@@ -28,11 +28,11 @@
         <div class="img img-hover hidden mb-2">
           <a href="/work/latest/">
             <picture class="img">
-              <source srcset="/img/samples/latest/thumb.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/latest/thumb.jpg" media="(min-width: 50em)">
-              <source srcset="/img/samples/latest/thumb.md.webp" type="image/webp">
-              <source srcset="/img/samples/latest/thumb.md.jpg">
-              <img src="/img/samples/latest/thumb.jpg" width="100%" height="auto" alt="Latest work." loading="lazy" />
+              <source srcset="/img/samples/latest/thumb-20210524.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/latest/thumb-20210524.jpg" media="(min-width: 50em)">
+              <source srcset="/img/samples/latest/thumb-20210524.md.webp" type="image/webp">
+              <source srcset="/img/samples/latest/thumb-20210524.md.jpg">
+              <img src="/img/samples/latest/thumb-20210524.jpg" width="100%" height="auto" alt="Latest work." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -41,29 +41,18 @@
       </div>
       <div class="half-right mb-4">
         <div class="img img-hover hidden mb-2">
-          <a href="/work/qwally/">
+          <a href="/work/get-konnected/">
             <picture class="img">
-              <source srcset="/img/samples/qwally/thumb.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/qwally/thumb.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/qwally/thumb.md.webp" type="image/webp">
-              <source srcset="/img/samples/qwally/thumb.md.png">
-            <img src="/img/samples/qwally/thumb.png" width="100%" height="auto" alt="UX and website design for Qwally." loading="lazy" />
+              <source srcset="/img/samples/get-konnected/thumb.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/get-konnected/thumb.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/get-konnected/thumb.md.webp" type="image/webp">
+              <source srcset="/img/samples/get-konnected/thumb.md.png">
+              <img src="/img/samples/get-konnected/thumb.png" width="100%" height="auto" alt="Get Konnected website redesign." loading="lazy" />
             </picture>
           </a>
         </div>
-        <h3 class="mb-1"><a href="/work/qwally/">Qwally</a></h3>
-        <p>User Experience (UX) strategy and website design</p>
-      </div>
-    </section>
-
-    <section class="main grid-in mb-4">
-      <div class="testimonial">
-				<div class="source pl-1 pr-1 order-2">
-					<p><strong>Chris Offensend</strong><br>Co-Founder &amp; CEO<br>Qwally</p>
-				</div>
-				<div class="quote pl-1 pr-1 order-1">
-					<p>"We were looking to turn some loose ideas and research into a software platform for city governments. What made flow14 the easy choice for us was Kyle's focus on fundamentally understanding the problem to be solved and shepherding our team (and our clients) through that process to arrive at a solution that truly helped users accomplish their goals. As we&rsquo;ve grown and encountered new challenges and opportunities, we&rsquo;ve been grateful to consider flow14 as a trusted advisor and direct extension of our team."</p>
-        </div>
+        <h3 class="mb-1"><a href="/work/get-konnected/">Get Konnected</a></h3>
+        <p>Website design</p>
       </div>
     </section>
 
@@ -85,6 +74,25 @@
       </div>
       <div class="half-right mb-4">
         <div class="img img-hover hidden mb-2">
+          <a href="/work/qwally/">
+            <picture class="img">
+              <source srcset="/img/samples/qwally/thumb.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/qwally/thumb.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/qwally/thumb.md.webp" type="image/webp">
+              <source srcset="/img/samples/qwally/thumb.md.png">
+            <img src="/img/samples/qwally/thumb.png" width="100%" height="auto" alt="UX and website design for Qwally." loading="lazy" />
+            </picture>
+          </a>
+        </div>
+        <h3 class="mb-1"><a href="/work/qwally/">Qwally</a></h3>
+        <p>User Experience (UX) strategy and website design</p>
+      </div>
+    </section>
+
+
+    <section class="main grid-in grid-gap">
+      <div class="half-left mb-4">
+        <div class="img img-hover hidden mb-2">
           <a href="/work/websites/">
             <picture class="img">
               <source srcset="/img/samples/websites/thumb-websites.webp" media="(min-width: 50em)" type="image/webp">
@@ -97,10 +105,8 @@
         </div>
         <h3 class="mb-1"><a href="/work/websites/">Website Designs</a></h3>
       </div>
-    </section>
 
-    <section class="main grid-in grid-gap">
-      <div class="half-left mb-4">
+      <div class="half-right mb-4">
         <div class="img img-hover hidden mb-2">
           <a href="/work/logos/">
             <picture class="img">
@@ -113,22 +119,6 @@
           </a>
         </div>
         <h3 class="mb-1"><a href="/work/logos/">Logo Designs</a></h3>
-      </div>
-
-      <div class="half-right mb-4">
-        <div class="img img-hover hidden mb-2">
-          <a href="/work/hnc-living/">
-            <picture class="img">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.png" media="(min-width: 50em)">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.md.webp" type="image/webp">
-              <source srcset="/img/samples/hnc-living/thumb-hnc.md.png">
-              <img src="/img/samples/hnc-living/thumb-hnc.png" width="100%" height="auto" alt="HNC Living website design." loading="lazy" />
-            </picture>
-          </a>
-        </div>
-        <h3 class="mb-1"><a href="/work/hnc-living/">HNC Living</a></h3>
-        <p>Website redesign</p>
       </div>
     </section>
 
@@ -146,6 +136,21 @@
     <section class="main grid-in grid-gap">
       <div class="column mb-4">
         <div class="img img-hover hidden mb-2">
+          <a href="/work/hnc-living/">
+            <picture class="img">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.png" media="(min-width: 50em)">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.md.webp" type="image/webp">
+              <source srcset="/img/samples/hnc-living/thumb-hnc.md.png">
+              <img src="/img/samples/hnc-living/thumb-hnc.png" width="100%" height="auto" alt="HNC Living website design." loading="lazy" />
+            </picture>
+          </a>
+        </div>
+        <h3 class="mb-1"><a href="/work/hnc-living/">HNC Living</a></h3>
+        <p>Nonprofit website redesign</p>
+      </div>
+      <div class="column mb-4">
+        <div class="img img-hover hidden mb-2">
           <a href="/work/rounding-up-undies/">
             <picture class="img">
               <source srcset="/img/samples/rounding-up-undies/thumb.webp" media="(min-width: 50em)" type="image/webp">
@@ -157,23 +162,7 @@
           </a>
         </div>
         <h3 class="mb-1"><a href="/work/rounding-up-undies/">Rounding Up Undies</a></h3>
-        <p>Logo design</p>
-      </div>
-
-      <div class="column mb-4">
-        <div class="img img-hover hidden mb-2">
-          <a href="/work/harmony-hearing-aids/">
-            <picture class="img">
-              <source srcset="/img/samples/harmony/thumb.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/harmony/thumb.jpg" media="(min-width: 50em)">
-              <source srcset="/img/samples/harmony/thumb.md.webp" type="image/webp">
-              <source srcset="/img/samples/harmony/thumb.md.jpg">
-              <img src="/img/samples/harmony/thumb.jpg" width="100%" height="auto" alt="Harmony Hearing Aids logo design." loading="lazy" />
-            </picture>
-          </a>
-        </div>
-        <h3 class="mb-1"><a href="/work/harmony-hearing-aids/">Harmony Hearing Aids</a></h3>
-        <p>Logo design and branding</p>
+        <p>Nonprofit logo design</p>
       </div>
 
       <div class="column mb-4">
@@ -196,18 +185,18 @@
     <section class="main grid-in grid-gap">
       <div class="column mb-4">
         <div class="img img-hover hidden mb-2">
-          <a href="/work/kc-lisc/">
+          <a href="/work/harmony-hearing-aids/">
             <picture class="img">
-              <source srcset="/img/samples/kc-lisc/thumb.webp" media="(min-width: 50em)" type="image/webp">
-              <source srcset="/img/samples/kc-lisc/thumb.jpg" media="(min-width: 50em)">
-              <source srcset="/img/samples/kc-lisc/thumb.md.webp" type="image/webp">
-              <source srcset="/img/samples/kc-lisc/thumb.md.jpg">
-              <img src="/img/samples/kc-lisc/thumb.jpg" width="100%" height="auto" alt="Data Visualization for Kansas City LISC." loading="lazy" />
+              <source srcset="/img/samples/harmony/thumb.webp" media="(min-width: 50em)" type="image/webp">
+              <source srcset="/img/samples/harmony/thumb.jpg" media="(min-width: 50em)">
+              <source srcset="/img/samples/harmony/thumb.md.webp" type="image/webp">
+              <source srcset="/img/samples/harmony/thumb.md.jpg">
+              <img src="/img/samples/harmony/thumb.jpg" width="100%" height="auto" alt="Harmony Hearing Aids logo design." loading="lazy" />
             </picture>
           </a>
         </div>
-        <h3 class="mb-1"><a href="/work/kc-lisc/">LISC Kansas City</a></h3>
-        <p>Data Visualization</p>
+        <h3 class="mb-1"><a href="/work/harmony-hearing-aids/">Harmony Hearing Aids</a></h3>
+        <p>Logo design and branding</p>
       </div>
       <div class="column mb-4">
         <div class="img img-hover hidden mb-2">
