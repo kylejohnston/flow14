@@ -45,6 +45,20 @@
     </section>
 
     <section class="main grid-in mb-4">
+      <picture class="full mb-2 hidden">
+        <source srcset="/img/samples/latest/happy-valley-spring-flyers.lg.webp" media="(min-width: 63em)" type="image/webp">
+        <source srcset="/img/samples/latest/happy-valley-spring-flyers.lg.jpg" media="(min-width: 63em)">
+        <source srcset="/img/samples/latest/happy-valley-spring-flyers.webp" type="image/webp">
+        <source srcset="/img/samples/latest/happy-valley-spring-flyers.jpg">
+        <img class="" src="/img/samples/latest/happy-valley-spring-flyers.jpg" width="100%" height="auto" alt="Happy Valley Spring Flyers" loading="lazy" />
+      </picture>
+      <div class="half-right grid-content mb-3">
+        <h3>Happy Valley Spring Flyers</h3>
+        <p>A series of Spring Flyers designed for Happy Valley, a Boston-based cannabis dispensary. The designs were used for both printed flyers and in-store digital displays.</p>
+      </div>
+    </section>
+
+    <section class="main grid-in mb-4">
       <div class="half-left my-2">
         <div class="grid-content sticky">
           <h3>Get Konnected!</h3>
@@ -52,6 +66,7 @@
           <p>Combining the design expertise of flow14 and an innovative technology platform developed by Qwally, we launched the new Get Konnected website in November 2020.</p>
           <p>The easy-to-use, mobile-optimized website features the GK Market, an innovative marketplace that supports small businesses in Boston and beyond.</p>
           <p><a href="https://getkonnected.com/">Visit GetKonnected.com</a></p>
+          <p><a href="/work/get-konnected/">View our case study</a></p>
         </div>
       </div>
       <div class="half-right grid-content" style="z-index:2">
@@ -93,21 +108,6 @@
         </div>
       </div>
     </section>
-
-    <section class="main grid-in mb-4">
-      <picture class="full mb-2 hidden">
-        <source srcset="/img/samples/latest/happy-valley-spring-flyers.lg.webp" media="(min-width: 63em)" type="image/webp">
-        <source srcset="/img/samples/latest/happy-valley-spring-flyers.lg.jpg" media="(min-width: 63em)">
-        <source srcset="/img/samples/latest/happy-valley-spring-flyers.webp" type="image/webp">
-        <source srcset="/img/samples/latest/happy-valley-spring-flyers.jpg">
-        <img class="" src="/img/samples/latest/happy-valley-spring-flyers.jpg" width="100%" height="auto" alt="Happy Valley Spring Flyers" loading="lazy" />
-      </picture>
-      <div class="half-right grid-content mb-3">
-        <h3>Happy Valley Spring Flyers</h3>
-        <p>A series of Spring Flyers designed for Happy Valley, a Boston-based cannabis dispensary. The designs were used for both printed flyers and in-store digital displays.</p>
-      </div>
-    </section>
-
 
     <!-- <section class="main grid-in mb-4">
       <div class="full mb-2">
