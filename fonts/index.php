@@ -25,28 +25,28 @@
 
     <section class="main grid-in mb-4">
       <div class="half-right grid-content">
-        <div class="img hidden shift-2 mb-2"><img class="lazyload" src="/img/fonts/sporty-1400.png" width="100%" height="auto" alt="Open source font: Sporty"></div>
+        <div class="img hidden shift-2 mb-2"><img class="lazyload" src="/img/fonts/sporty-1400.png" width="700" height="400" alt="Open source font: Sporty"></div>
         <h3>Sporty</h3>
         <p>A collegiate-style display font. Includes uppercase characters with minimal punctuation.<br><a href="http://www.flow14.com/font-files/sporty.zip" title="download this font" onClick="_gaq.push(['_trackEvent', 'Fonts', 'Download', 'Sporty-Mac']);">Download Mac</a> | <a href="http://www.flow14.com/font-files/spopctt.zip" title="download this font"  onClick="_gaq.push(['_trackEvent', 'Fonts', 'Download', 'Sporty-PC']);">Download - PC</a></p>
       </div>
     </section>
     <section class="main grid-in mb-4">
       <div class="half-left grid-content">
-        <div class="img hidden shift-2 mb-2"><img class="lazyload" src="/img/fonts/bodolive-1400.png" width="100%" height="auto" alt="Open source font: Bodolive"></div>
+        <div class="img hidden shift-2 mb-2"><img class="lazyload" src="/img/fonts/bodolive-1400.png" width="700" height="400" alt="Open source font: Bodolive"></div>
         <h3>Bodolive</h3>
         <p>A mutation of two heavyweight display fonts. Includes upper and lowercase characters and basic punctuation.<br><a href="http://www.flow14.com/font-files/bodolive.zip" title="download this font"  onClick="_gaq.push(['_trackEvent', 'Fonts', 'Download', 'Bodolive-Mac']);">Download Mac</a> | <a href="http://www.flow14.com/font-files/bodpctt.zip" title="download this font" onClick="_gaq.push(['_trackEvent', 'Fonts', 'Download', 'Bodolive-PC']);">Download - PC</a></p>
       </div>
     </section>
     <section class="main grid-in mb-4">
       <div class="half-right grid-content">
-        <div class="img hidden shift-2 mb-2"><img class="lazyload" src="/img/fonts/meteors-1400.png" width="100%" height="auto" alt="Open source font: Meteors"></div>
+        <div class="img hidden shift-2 mb-2"><img class="lazyload" src="/img/fonts/meteors-1400.png" width="700" height="400" alt="Open source font: Meteors"></div>
         <h3>Meteors</h3>
         <p>A font based on type from the classic video game Asteroids. Includes upper and lowercase characters and basic punctuation.<br><a href="http://www.flow14.com/font-files/meteors.zip" title="download this font"  onClick="_gaq.push(['_trackEvent', 'Fonts', 'Download', 'Meteors-Mac']);">Download Mac</a> | <a href="http://www.flow14.com/font-files/metpctt.zip" title="download this font" onClick="_gaq.push(['_trackEvent', 'Fonts', 'Download', 'Meteors-PC']);">Download - PC</a></p>
       </div>
     </section>
     <section class="main grid-in mb-4">
       <div class="half-left grid-content">
-        <div class="img hidden shift-2 mb-2"><img class="lazyload" src="/img/fonts/jellyphant-1400.png" width="100%" height="auto" alt="Open source font: Jellyphant"></div>
+        <div class="img hidden shift-2 mb-2"><img class="lazyload" src="/img/fonts/jellyphant-1400.png" width="700" height="400" alt="Open source font: Jellyphant"></div>
         <h3>jellyphant</h3>
         <p>An all lowercase display font &#8212; no uppercase, no numbers, no punctuation, just basic letters.<br><a href="http://www.flow14.com/font-files/jellyphant.zip" title="download this font"  onClick="_gaq.push(['_trackEvent', 'Fonts', 'Download', 'Jellyphant-Mac']);">Download Mac</a> | <a href="http://www.flow14.com/font-files/jelpctt.zip" title="download this font"  onClick="_gaq.push(['_trackEvent', 'Fonts', 'Download', 'Jellyphant-PC']);">Download - PC</a></p>
       </div>

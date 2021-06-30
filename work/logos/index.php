@@ -27,35 +27,35 @@
 		<section class="main grid-brand mt-2 mb-4" style="">
       <!-- <h2 class="text-center brand-title mb-3" style="">Startup &amp; Small Business Logo Design</h2> -->
 			<div class="brand hidden my-2" style="">
-				<img class="w50" loading="lazy" src="/img/samples/logos/right-triangle-logo.svg" alt="Right Triangle">
+				<img class="w50" loading="lazy" src="/img/samples/logos/right-triangle-logo.svg" alt="Right Triangle" width="162" height="86">
 				<p class="shift-3"><a href="/work/right-triangle/">Case Study</a></p>
 			</div>
 			<div class="brand hidden my-2" style="">
-				<img class="w75" loading="lazy" src="/img/samples/logos/creative-outfitters.svg" alt="Creative Outfitters">
+				<img class="w75" loading="lazy" src="/img/samples/logos/creative-outfitters.svg" alt="Creative Outfitters" width="718" height="443">
 				<p class="shift-3"><a href="/work/creative-outfitters/">Case Study</a></p>
 			</div>
 			<div class="brand hidden my-2" style="">
-				<img class="w75" loading="lazy" src="/img/samples/logos/harmony.svg" alt="Harmony Hearing Aids">
+				<img class="w75" loading="lazy" src="/img/samples/logos/harmony.svg" alt="Harmony Hearing Aids" width="818" height="210">
 				<p class="shift-3"><a href="/work/harmony-hearing-aids/">Case Study</a></p>
 			</div>
 
 			<div class="brand hidden my-2">
-				<img class="w75" loading="lazy" src="/img/samples/logos/rounding-up-undies.svg" alt="Rounding Up Undies">
+				<img class="w75" loading="lazy" src="/img/samples/logos/rounding-up-undies.svg" alt="Rounding Up Undies" width="148" height="44">
 				<p class="shift-3"><a href="/work/rounding-up-undies/">Case Study</a></p>
 			</div>
-			<div class="brand hidden my-2" style=""><img class="w75" loading="lazy" src="/img/samples/logos/one-global-village.svg" alt="One Global Village"></div>
-      <div class="brand hidden my-2" style=""><img class="w50" loading="lazy" src="/img/samples/logos/campaign-win.svg" alt="Campaign and Win"></div>
+			<div class="brand hidden my-2" style=""><img class="w75" loading="lazy" src="/img/samples/logos/one-global-village.svg" alt="One Global Village" width="668" height="358"></div>
+      <div class="brand hidden my-2" style=""><img class="w50" loading="lazy" src="/img/samples/logos/campaign-win.svg" alt="Campaign and Win" width="618" height="434"></div>
 
-			<div class="brand hidden my-2" style=""><img class="w50" loading="lazy" src="/img/samples/logos/kansas-dems.svg" alt="Kansas Dems"></div>
-			<div class="brand hidden my-2" style=""><img class="w50" loading="lazy" src="/img/samples/logos/shawnas-sweets.svg" alt="Shawna's Sweets"></div>
-			<div class="brand hidden my-2" style=""><img class="w50" loading="lazy" width="70%" height="70%" src="/img/samples/logos/ypo-kc.svg" alt="YPO Kansas City"></div>
+			<div class="brand hidden my-2" style=""><img class="w50" loading="lazy" src="/img/samples/logos/kansas-dems.svg" alt="Kansas Dems" width="468" height="412"></div>
+			<div class="brand hidden my-2" style=""><img class="w50" loading="lazy" src="/img/samples/logos/shawnas-sweets.svg" alt="Shawna's Sweets" width="468" height="468"></div>
+			<div class="brand hidden my-2" style=""><img class="w50" loading="lazy" width="70%" height="70%" src="/img/samples/logos/ypo-kc.svg" alt="YPO Kansas City" width="768" height="364"></div>
 
-			<div class="brand hidden my-2" style=""><img class="w75" loading="lazy" src="/img/samples/logos/dean-lawn.svg" alt="Dean Lawn and Landscape"></div>
-			<div class="brand hidden my-2" style=""><img class="w75" loading="lazy" src="/img/samples/logos/taylor-excavating.svg" alt="Taylor Excavating"></div>
+			<div class="brand hidden my-2" style=""><img class="w75" loading="lazy" src="/img/samples/logos/dean-lawn.svg" alt="Dean Lawn and Landscape" width="668" height="284"></div>
+			<div class="brand hidden my-2" style=""><img class="w75" loading="lazy" src="/img/samples/logos/taylor-excavating.svg" alt="Taylor Excavating" width="568" height="336"></div>
 
-			<div class="brand hidden my-2" style=""><img class="w50" loading="lazy" src="/img/samples/logos/green-suitcase-society.svg" alt="Green Suitcase Society"></div>
-			<div class="brand hidden my-2" style=""><img class="w75" loading="lazy" src="/img/samples/logos/mission-cup.svg" alt="Mission Cup"></div>
-			<div class="brand hidden my-2" style=""><img class="w100" loading="lazy" src="/img/samples/logos/sapphirewire.svg" alt="SapphireWire"></div>
+			<div class="brand hidden my-2" style=""><img class="w50" loading="lazy" src="/img/samples/logos/green-suitcase-society.svg" alt="Green Suitcase Society" width="418" height="424"></div>
+			<div class="brand hidden my-2" style=""><img class="w75" loading="lazy" src="/img/samples/logos/mission-cup.svg" alt="Mission Cup" width="668" height="282"></div>
+			<div class="brand hidden my-2" style=""><img class="w100" loading="lazy" src="/img/samples/logos/sapphirewire.svg" alt="SapphireWire" width="868" height="122"></div>
     </section>
     <section class="main grid-in mb-4">
       <div class="testimonial hidden">

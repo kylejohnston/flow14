@@ -41,7 +41,7 @@
           <source srcset="/img/samples/hnc-living/homepage.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/hnc-living/homepage.webp" type="image/webp">
           <source srcset="/img/samples/hnc-living/homepage.jpg">
-          <img class="shadow" src="/img/samples/hnc-living/homepage.jpg" width="100%" height="auto" alt="HNCLiving.org - New Homepage Design" loading="lazy" />
+          <img class="shadow" src="/img/samples/hnc-living/homepage.jpg" width="960" height="1739" alt="HNCLiving.org - New Homepage Design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right mt-2">
@@ -77,7 +77,7 @@
           <source srcset="/img/samples/hnc-living/vision.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/hnc-living/vision.sm.webp" type="image/webp">
           <source srcset="/img/samples/hnc-living/vision.sm.jpg">
-          <img class="" src="/img/samples/hnc-living/vision.jpg" width="100%" height="auto" alt="HNCLiving.org - Project Vision" loading="lazy" />
+          <img class="" src="/img/samples/hnc-living/vision.jpg" width="961" height="1221" alt="HNCLiving.org - Project Vision" loading="lazy" />
         </picture>
 
       </div>
@@ -89,7 +89,7 @@
         <source srcset="/img/samples/hnc-living/research.lg.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/hnc-living/research.webp" type="image/webp">
         <source srcset="/img/samples/hnc-living/research.jpg">
-        <img class="" src="/img/samples/hnc-living/research.jpg" width="100%" height="auto" alt="Competitive Research" loading="lazy" />
+        <img class="" src="/img/samples/hnc-living/research.jpg" width="1400" height="700" alt="Competitive Research" loading="lazy" />
       </picture>
       <div class="half-right grid-content mb-3">
         <h3>Competitive Research</h3>
@@ -101,7 +101,7 @@
           <source srcset="/img/samples/hnc-living/ia-audit.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/hnc-living/ia-audit.webp" type="image/webp">
           <source srcset="/img/samples/hnc-living/ia-audit.jpg">
-          <img class="" src="/img/samples/hnc-living/ia-audit.jpg" width="100%" height="auto" alt="Information architecture audit" loading="lazy" />
+          <img class="" src="/img/samples/hnc-living/ia-audit.jpg" width="960" height="418" alt="Information architecture audit" loading="lazy" />
         </picture>
         <h3>Information Architecture Audit</h3>
         <p>The competitive research, combined with HNC Living’s goals and audiences, led to a new navigation structure that directly addressed their key audiences: donors, healthcare providers, and patients.</p>
@@ -112,7 +112,7 @@
           <source srcset="/img/samples/hnc-living/copywriting.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/hnc-living/copywriting.webp" type="image/webp">
           <source srcset="/img/samples/hnc-living/copywriting.jpg">
-          <img class="" src="/img/samples/hnc-living/copywriting.jpg" width="100%" height="auto" alt="Copywriting and SEO" loading="lazy" />
+          <img class="" src="/img/samples/hnc-living/copywriting.jpg" width="960" height="480" alt="Copywriting and SEO" loading="lazy" />
         </picture>
         <h3>Copywriting &amp; Content Strategy</h3>
         <p>For the all-important website content, we created a collaborative document that allowed project stakeholders to provide real-time suggestions and edits.</p>
@@ -126,7 +126,7 @@
         <source srcset="/img/samples/hnc-living/page-comp.lg.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/hnc-living/page-comp.webp" type="image/webp">
         <source srcset="/img/samples/hnc-living/page-comp.jpg">
-        <img class="" src="/img/samples/hnc-living/page-comp.jpg" width="100%" height="auto" alt="Page Designs" loading="lazy" />
+        <img class="" src="/img/samples/hnc-living/page-comp.jpg" width="1400" height="800" alt="Page Designs" loading="lazy" />
       </picture>
       <div class="half-right grid-content">
         <h3>Page Comps</h3>
@@ -141,14 +141,14 @@
           <source srcset="/img/samples/hnc-living/for-patients.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/hnc-living/for-patients.webp" type="image/webp">
           <source srcset="/img/samples/hnc-living/for-patients.jpg">
-          <img class="shadow" src="/img/samples/hnc-living/for-patients.jpg" width="100%" height="auto" alt="Patients page" loading="lazy" />
+          <img class="shadow" src="/img/samples/hnc-living/for-patients.jpg" width="960" height="1723" alt="Patients page" loading="lazy" />
         </picture>
         <picture class="img hidden mb-2">
           <source srcset="/img/samples/hnc-living/for-providers.lg.webp" media="(min-width: 63em)" type="image/webp">
           <source srcset="/img/samples/hnc-living/for-providers.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/hnc-living/for-providers.webp" type="image/webp">
           <source srcset="/img/samples/hnc-living/for-providers.jpg">
-          <img class="shadow" src="/img/samples/hnc-living/for-providers.jpg" width="100%" height="auto" alt="Providers page" loading="lazy" />
+          <img class="shadow" src="/img/samples/hnc-living/for-providers.jpg" width="960" height="1731" alt="Providers page" loading="lazy" />
         </picture>
       </div>
       <div class="half-right mt-2">

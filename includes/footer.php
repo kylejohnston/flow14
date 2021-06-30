@@ -25,7 +25,7 @@
 			</p>
 		</div>
 		<div class="column mx-2 mb-2">
-			<img class="mb-1" loading="lazy" src="/img/map.svg" alt="flow14 - A design studio based in Kansas City." width="50%" height="auto">
+			<img class="mb-1" loading="lazy" src="/img/map.svg" style="width:50%; height:auto;" alt="flow14 - A design studio based in Kansas City." width="183" height="119">
 			<p class="text-sm">Proudly based in Kansas City, <br>where the local time is <?php  date_default_timezone_set("America/Chicago"); echo date("g:i a") . " CST"; ?></p>
 
 			<p class="text-xs">&copy; flow14 <?php echo date('Y') ;?> &horbar; <a href="/sitemap.xml">Sitemap</a></p>

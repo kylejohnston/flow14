@@ -31,7 +31,7 @@
             <source srcset="/img/samples/rounding-up-undies/banner.lg.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/rounding-up-undies/banner.webp" type="image/webp">
             <source srcset="/img/samples/rounding-up-undies/banner.jpg">
-            <img src="/img/samples/rounding-up-undies/banner.lg.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design" loading="lazy">
+            <img src="/img/samples/rounding-up-undies/banner.lg.jpg" width="1920" height="720" alt="Rounding Up Undies logo design" loading="lazy">
           </picture>
         </div>
       </div>
@@ -59,14 +59,14 @@
           <source srcset="/img/samples/rounding-up-undies/research.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/rounding-up-undies/research.sm.webp" type="image/webp">
           <source srcset="/img/samples/rounding-up-undies/research.sm.jpg">
-          <img src="/img/samples/rounding-up-undies/research.jpg" width="100%" height="auto" alt="Visual Research" loading="lazy" />
+          <img src="/img/samples/rounding-up-undies/research.jpg" width="720" height="360" alt="Visual Research" loading="lazy" />
         </picture>
         <picture class="img mb-2 hidden">
           <source srcset="/img/samples/rounding-up-undies/sketches.webp" media="(min-width: 50em)" type="image/webp">
           <source srcset="/img/samples/rounding-up-undies/sketches.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/rounding-up-undies/sketches.sm.webp" type="image/webp">
           <source srcset="/img/samples/rounding-up-undies/sketches.sm.jpg">
-          <img src="/img/samples/rounding-up-undies/sketches.jpg" width="100%" height="auto" alt="Logo sketches" loading="lazy" />
+          <img src="/img/samples/rounding-up-undies/sketches.jpg" width="720" height="720" alt="Logo sketches" loading="lazy" />
         </picture>
       </div>
     </section>
@@ -77,7 +77,7 @@
         <source srcset="/img/samples/rounding-up-undies/exploration.lg.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/rounding-up-undies/exploration.webp" type="image/webp">
         <source srcset="/img/samples/rounding-up-undies/exploration.jpg">
-        <img src="/img/samples/rounding-up-undies/exploration.jpg" width="100%" height="auto" alt="Logo design exploration" loading="lazy" />
+        <img src="/img/samples/rounding-up-undies/exploration.jpg" width="1921" height="702" alt="Logo design exploration" loading="lazy" />
       </picture>
       <div class="half-right grid-content">
         <h3>Design Exploration</h3>
@@ -93,7 +93,7 @@
             <source srcset="/img/samples/rounding-up-undies/concepts-r1.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/rounding-up-undies/concepts-r1.sm.webp" type="image/webp">
             <source srcset="/img/samples/rounding-up-undies/concepts-r1.sm.jpg">
-            <img src="/img/samples/rounding-up-undies/concepts-r1.jpg" width="100%" height="auto" alt="Logo design concepts, round 1" loading="lazy" />
+            <img src="/img/samples/rounding-up-undies/concepts-r1.jpg" width="961" height="1305" alt="Logo design concepts, round 1" loading="lazy" />
           </picture>
           <div class="text-sm text-center mt-1">Round 1</div>
         </div>
@@ -103,7 +103,7 @@
             <source srcset="/img/samples/rounding-up-undies/concepts-r2.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/rounding-up-undies/concepts-r2.sm.webp" type="image/webp">
             <source srcset="/img/samples/rounding-up-undies/concepts-r2.sm.jpg">
-            <img src="/img/samples/rounding-up-undies/concepts-r2.jpg" width="100%" height="auto" alt="Logo design concepts, round 2" loading="lazy" />
+            <img src="/img/samples/rounding-up-undies/concepts-r2.jpg" width="961" height="1305" alt="Logo design concepts, round 2" loading="lazy" />
           </picture>
           <div class="text-sm text-center mt-1">Round 2</div>
         </div>
@@ -123,14 +123,14 @@
           <source srcset="/img/samples/rounding-up-undies/logo-final.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/rounding-up-undies/logo-final.sm.webp" type="image/webp">
           <source srcset="/img/samples/rounding-up-undies/logo-final.sm.jpg">
-          <img src="/img/samples/rounding-up-undies/logo-final.jpg" width="100%" height="auto" alt="Final logo design" loading="lazy" />
+          <img src="/img/samples/rounding-up-undies/logo-final.jpg" width="720" height="270" alt="Final logo design" loading="lazy" />
         </picture>
         <picture class="img mb-2 hidden">
           <source srcset="/img/samples/rounding-up-undies/logo-guidelines.webp" media="(min-width: 50em)" type="image/webp">
           <source srcset="/img/samples/rounding-up-undies/logo-guidelines.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/rounding-up-undies/logo-guidelines.sm.webp" type="image/webp">
           <source srcset="/img/samples/rounding-up-undies/logo-guidelines.sm.jpg">
-          <img src="/img/samples/rounding-up-undies/logo-guidelines.jpg" width="100%" height="auto" alt="Logo guidelines" loading="lazy" />
+          <img src="/img/samples/rounding-up-undies/logo-guidelines.jpg" width="720" height="932" alt="Logo guidelines" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1 mb-2">

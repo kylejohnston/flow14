@@ -41,7 +41,7 @@
           <source srcset="/img/samples/right-triangle/homepage.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/right-triangle/homepage.sm.webp" type="image/webp">
           <source srcset="/img/samples/right-triangle/homepage.sm.jpg">
-          <img class="shadow" src="/img/samples/right-triangle/homepage.jpg" width="100%" height="auto" alt="Right Triangle website design" loading="lazy" />
+          <img class="shadow" src="/img/samples/right-triangle/homepage.jpg" width="960" height="2987" alt="Right Triangle website design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1">
@@ -66,7 +66,7 @@
           <source srcset="/img/samples/hnc-living/homepage.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/hnc-living/homepage.webp" type="image/webp">
           <source srcset="/img/samples/hnc-living/homepage.jpg">
-          <img class="shadow" src="/img/samples/hnc-living/homepage.jpg" width="100%" height="auto" alt="HNCLiving.org - New Homepage Design" loading="lazy" />
+          <img class="shadow" src="/img/samples/hnc-living/homepage.jpg" width="960" height="1739" alt="HNCLiving.org - New Homepage Design" loading="lazy" />
         </picture>
       </div>
     </section>
@@ -89,7 +89,7 @@
           <source srcset="/img/samples/websites/hawaiian-bros.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/websites/hawaiian-bros.webp" type="image/webp">
           <source srcset="/img/samples/websites/hawaiian-bros.jpg">
-          <img class="shadow" src="/img/samples/websites/hawaiian-bros.jpg" width="100%" height="auto" alt="Hawaiian Bros website design" loading="lazy" />
+          <img class="shadow" src="/img/samples/websites/hawaiian-bros.jpg" width="960" height="2632" alt="Hawaiian Bros website design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1">
@@ -115,7 +115,7 @@
           <source srcset="/img/samples/vmc-group/homepage.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/vmc-group/homepage.sm.webp" type="image/webp">
           <source srcset="/img/samples/vmc-group/homepage.sm.jpg">
-          <img class="shadow" src="/img/samples/vmc-group/homepage.jpg" width="100%" height="auto" alt="VMC Group website redesign" loading="lazy" />
+          <img class="shadow" src="/img/samples/vmc-group/homepage.jpg" width="960" height="3619" alt="VMC Group website redesign" loading="lazy" />
         </picture>
       </div>
     </section>
@@ -127,7 +127,7 @@
           <source srcset="/img/samples/websites/happy-valley.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/websites/happy-valley.webp" type="image/webp">
           <source srcset="/img/samples/websites/happy-valley.jpg">
-          <img class="shadow" src="/img/samples/websites/happy-valley.jpg" width="100%" height="auto" alt="Happy Valley website design" loading="lazy" />
+          <img class="shadow" src="/img/samples/websites/happy-valley.jpg" width="960" height="2556" alt="Happy Valley website design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1">
@@ -152,7 +152,7 @@
           <source srcset="/img/samples/websites/qwally.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/websites/qwally.webp" type="image/webp">
           <source srcset="/img/samples/websites/qwally.jpg">
-          <img class="shadow" src="/img/samples/websites/qwally.jpg" width="100%" height="auto" alt="Qwally website design" loading="lazy" />
+          <img class="shadow" src="/img/samples/websites/qwally.jpg" width="960" height="1907" alt="Qwally website design" loading="lazy" />
         </picture>
       </div>
     </section>
@@ -164,7 +164,7 @@
           <source srcset="/img/samples/websites/lisaforkansas.lg.png" media="(min-width: 63em)">
           <source srcset="/img/samples/websites/lisaforkansas.webp" type="image/webp">
           <source srcset="/img/samples/websites/lisaforkansas.png">
-          <img class="" src="/img/samples/websites/lisaforkansas.png" width="100%" height="auto" alt="Lisa for Kansas website design" loading="lazy" />
+          <img class="" src="/img/samples/websites/lisaforkansas.png" width="720" height="1219" alt="Lisa for Kansas website design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1">
@@ -189,7 +189,7 @@
           <source srcset="/img/samples/websites/sa-partner-v2.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/websites/sa-partner-v2.webp" type="image/webp">
           <source srcset="/img/samples/websites/sa-partner-v2.jpg">
-          <img class="shadow" src="/img/samples/websites/sa-partner-v2.jpg" width="100%" height="auto" alt="Stay Alfred Partnership design" loading="lazy" />
+          <img class="shadow" src="/img/samples/websites/sa-partner-v2.jpg" width="960" height="4547" alt="Stay Alfred Partnership design" loading="lazy" />
         </picture>
       </div>
     </section>
@@ -201,7 +201,7 @@
           <source srcset="/img/samples/websites/sa-greensuit.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/websites/sa-greensuit.webp" type="image/webp">
           <source srcset="/img/samples/websites/sa-greensuit.jpg">
-          <img class="shadow" src="/img/samples/websites/sa-greensuit.jpg" width="100%" height="auto" alt="Stay Alfred event landing page" loading="lazy" />
+          <img class="shadow" src="/img/samples/websites/sa-greensuit.jpg" width="960" height="1547" alt="Stay Alfred event landing page" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1">

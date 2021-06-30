@@ -5,7 +5,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>flow14 - Design Works Wonders | A Kansas City Design Studio</title>
-	<meta name="description" content="flow14 is a design studio based in Kansas City. We make design work wonders for small businesses, nonprofits, and political groups." />
+	<meta name="description" content="flow14 is a design studio based in Kansas City. We make design work wonders for small businesses, nonprofits, and political groups" />
 	<meta name="geo.placename" content="Kansas City" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/" rel="canonical" />
@@ -40,21 +40,21 @@
 	<div data-butter-container="bSlider" class="mb-4 slider">
 		<div data-butter-slidable="bSlider" class="slides">
 			<div class="text-center slide">
-				<img class="mb-2 text-center" src="/img/ic-focus.svg" alt="Focus" width="50%" height="auto">
+				<img class="mb-2 text-center" style="width:50%; height:auto;" src="/img/ic-focus.svg" alt="Focus" width="184" height="130">
 				<div class="hidden">
 					<h2 class="text-center" style="margin-bottom:.25em;">Vision</h2>
 					<p class="text-center" style="margin-bottom:.25em;">Creative and user experience strategy</p>
 				</div>
 			</div>
 			<div class="text-center slide">
-				<img class="mb-2 text-center" src="/img/ic-distinguish.svg" alt="Distinguish" width="50%" height="auto">
+				<img class="mb-2 text-center" style="width:50%; height:auto;" src="/img/ic-distinguish.svg" alt="Distinguish" width="184" height="132">
 				<div class="hidden">
 					<h2 class="text-center" style="margin-bottom:.25em;">Action</h2>
 					<p class="text-center" style="margin-bottom:.25em;">UX, visual design, and branding</p>
 				</div>
 			</div>
 			<div class="text-center slide">
-				<img class="mb-2 text-center" src="/img/ic-grow.svg" alt="Grow" width="50%" height="auto">
+				<img class="mb-2 text-center" style="width:50%; height:auto;" src="/img/ic-grow.svg" alt="Grow" width="183" height="130">
 				<div class="hidden">
 					<h2 class="text-center" style="margin-bottom:.25em;">Optimization</h2>
 					<p class="text-center" style="margin-bottom:.25em;">SEO, Analytics, Content Optimization</p>
@@ -93,7 +93,7 @@
 						<source srcset="/img/samples/latest/thumb-20210524.png" media="(min-width: 50em)">
 						<source srcset="/img/samples/latest/thumb-20210524.md.webp" type="image/webp">
 						<source srcset="/img/samples/latest/thumb-20210524.md.png">
-						<img class="" src="/img/samples/latest/thumb-20210524.png" width="100%" height="auto" alt="Latest work" loading="lazy" />
+						<img class="" src="/img/samples/latest/thumb-20210524.png" width="750" height="413" alt="Latest work" loading="lazy" />
 					</picture>
 				</a>
 			</div>
@@ -107,7 +107,7 @@
 						<source srcset="/img/samples/right-triangle/thumb-right-triangle.png" media="(min-width: 50em)">
 						<source srcset="/img/samples/right-triangle/thumb-right-triangle.md.webp" type="image/webp">
 						<source srcset="/img/samples/right-triangle/thumb-right-triangle.md.png">
-						<img src="/img/samples/right-triangle/thumb-right-triangle.png" width="100%" height="auto" alt="Right Triangle brand and website design case study." loading="lazy" />
+						<img src="/img/samples/right-triangle/thumb-right-triangle.png" width="750" height="413" alt="Right Triangle brand and website design case study" loading="lazy" />
 					</picture>
 				</a>
 			</div>
@@ -131,7 +131,7 @@
 						<source srcset="/img/samples/get-konnected/thumb.png" media="(min-width: 50em)">
 						<source srcset="/img/samples/get-konnected/thumb.md.webp" type="image/webp">
 						<source srcset="/img/samples/get-konnected/thumb.md.png">
-						<img class="" src="/img/samples/get-konnected/thumb.png" width="100%" height="auto" alt="Get Konnected website design" loading="lazy" />
+						<img class="" src="/img/samples/get-konnected/thumb.png" width="750" height="413" alt="Get Konnected website design" loading="lazy" />
 					</picture>
 				</a>
 			</div>
@@ -145,7 +145,7 @@
 						<source srcset="/img/samples/qwally/thumb.png" media="(min-width: 50em)">
 						<source srcset="/img/samples/qwally/thumb.md.webp" type="image/webp">
 						<source srcset="/img/samples/qwally/thumb.md.png">
-						<img class="" src="/img/samples/qwally/thumb.png" width="100%" height="auto" alt="UX and website design for Qwally." loading="lazy" />
+						<img class="" src="/img/samples/qwally/thumb.png" width="750" height="413" alt="UX and website design for Qwally" loading="lazy" />
 					</picture>
 				</a>
 			</div>
@@ -162,7 +162,7 @@
 					<p><strong>Qwally</strong><br>Chris Offensend,<br>Co-Founder &amp; CEO</p>
 				</div>
 				<div class="order-1 pl-1 pr-1 quote">
-					<p>"What made flow14 the easy choice for us was their focus on fundamentally understanding the problem to be solved and shepherding our team (and our clients) through a process to arrive at a solution that truly helped users accomplish their goals."</p>
+					<p>"What made flow14 the easy choice for us was their focus on fundamentally understanding the problem to be solved and shepherding our team (and our clients) through a process to arrive at a solution that truly helped users accomplish their goals"</p>
         </div>
       </div>
     </section>
@@ -176,7 +176,7 @@
 						<source srcset="/img/samples/websites/thumb-websites.png" media="(min-width: 50em)">
 						<source srcset="/img/samples/websites/thumb-websites.md.webp" type="image/webp">
 						<source srcset="/img/samples/websites/thumb-websites.md.png">
-						<img class="" src="/img/samples/websites/thumb-websites.png" width="100%" height="auto" alt="Websites we've designed." loading="lazy" />
+						<img class="" src="/img/samples/websites/thumb-websites.png" width="750" height="413" alt="Websites we've designed" loading="lazy" />
 					</picture>
 				</a>
 			</div>
@@ -200,26 +200,26 @@
 	<section class="grid my-2">
 		<div class="main grid-brand grid-brand-sm">
 			<h2 class="hidden mb-1 text-center brand-title" style="">Brands We&rsquo;ve Worked With:</h2>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/garmin-logo.svg" alt="Garmin logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/hallmark-logo.svg" alt="Hallmark logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w50" src="/img/brands/amc-logo.svg" alt="AMC logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/medtronic-logo.svg" alt="Medtronic logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/boston-scientific-logo.svg" alt="Boston Scientific logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w50" src="/img/brands/vista-outdoor-logo.svg" alt="Vista Outdoor logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/bushnell-logo.svg" alt=" logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/hv-logo-h.svg" alt="Happy Valley logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w50" src="/img/brands/deg-logo.svg" alt="DEG logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w100" src="/img/brands/grayduck-logo.svg" alt="Grayduck Health logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/inquest-logo.svg" alt="InQuest Marketing logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/sidebench-logo.svg" alt="Sidebench logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w50" src="/img/brands/qwally-logo.svg" alt="Qwally logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/get-konnected-logo.svg" alt="Get Konnected logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/hnc-living-logo.svg" alt="HNC Living logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/one-global-village.svg" alt="One Global Village logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/right-triangle-logo.svg" alt="Right Triangle logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/rounding-up-undies.svg" alt="Rounding Up Undies logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/vmc-group-logo.svg" alt="VMC Group logo."></div>
-			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/stay-alfred-logo.svg" alt="Stay Alfred logo."></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/garmin-logo.svg" alt="Garmin logo" width="786" height="113"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/hallmark-logo.svg" alt="Hallmark logo" width="154" height="59"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w50" src="/img/brands/amc-logo.svg" alt="AMC logo" width="247" height="247"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/medtronic-logo.svg" alt="Medtronic logo" width="600" height="100"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/boston-scientific-logo.svg" alt="Boston Scientific logo" width="417" height="141"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w50" src="/img/brands/vista-outdoor-logo.svg" alt="Vista Outdoor logo" width="81" height="71"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/bushnell-logo.svg" alt="Bushnell logo" width="124" height="25"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/hv-logo-h.svg" alt="Happy Valley logo" width="96" height="361"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w50" src="/img/brands/deg-logo.svg" alt="DEG logo" width="66" height="40"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w100" src="/img/brands/grayduck-logo.svg" alt="Grayduck Health logo" width="199" height="28"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/inquest-logo.svg" alt="InQuest Marketing logo" width="1205" height="306"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/sidebench-logo.svg" alt="Sidebench logo" width="125" height="30"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w50" src="/img/brands/qwally-logo.svg" alt="Qwally logo" width="240" height="151"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/get-konnected-logo.svg" alt="Get Konnected logo" width="500" height="125"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/hnc-living-logo.svg" alt="HNC Living logo" width="" height=""></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/one-global-village.svg" alt="One Global Village logo" width="432" height="232"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/right-triangle-logo.svg" alt="Right Triangle logo" width="162" height="86"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/rounding-up-undies.svg" alt="Rounding Up Undies logo" width="148" height="44"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/vmc-group-logo.svg" alt="VMC Group logo" width="612" height="185"></div>
+			<div class="hidden brand" style=""><img loading="lazy" class="w75" src="/img/brands/stay-alfred-logo.svg" alt="Stay Alfred logo" width="117" height="29"></div>
 		</div>
 	</section>
 

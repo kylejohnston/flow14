@@ -40,7 +40,7 @@
             <source srcset="/img/samples/harmony/harmony-logo.lg.png" media="(min-width: 63em)">
             <source srcset="/img/samples/harmony/harmony-logo.webp" type="image/webp">
             <source srcset="/img/samples/harmony/harmony-logo.png">
-            <img class="mb-2" src="/img/samples/harmony/harmony-logo.png" width="100%" height="auto" alt="Harmony Hearing Aids logo design" loading="lazy" />
+            <img class="mb-2" src="/img/samples/harmony/harmony-logo.png" width="1400" height="400" alt="Harmony Hearing Aids logo design" loading="lazy" />
           </picture>
         </div>
       </div>
@@ -59,7 +59,7 @@
           <source srcset="/img/samples/harmony/harmony-card.lg.png" media="(min-width: 63em)">
           <source srcset="/img/samples/harmony/harmony-card.webp" type="image/webp">
           <source srcset="/img/samples/harmony/harmony-card.png">
-          <img class="mb-2" src="/img/samples/harmony/harmony-card.png" width="100%" height="auto" alt="Harmony Hearing Aids business card" loading="lazy" />
+          <img class="mb-2" src="/img/samples/harmony/harmony-card.png" width="960" height="613" alt="Harmony Hearing Aids business card" loading="lazy" />
         </picture>
         <h3>Business Cards</h3>
         <p>Created with an older audience in mind, business cards and other collateral materials feature a clean, uncluttered design that's easy to read.</p>

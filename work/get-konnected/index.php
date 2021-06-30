@@ -42,7 +42,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-00.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-00.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-00.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-00.sm.jpg" width="100%" height="auto" alt="Project Checkpoint" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-00.sm.jpg" width="720" height="405" alt="Project Checkpoint" loading="lazy">
           </picture>
         </div>
       </div>
@@ -53,7 +53,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-01.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-01.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-01.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-01.sm.jpg" width="100%" height="auto" alt="Agenda" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-01.sm.jpg" width="720" height="405" alt="Agenda" loading="lazy">
           </picture>
         </div>
       </div>
@@ -64,7 +64,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-02.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-02.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-02.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-02.sm.jpg" width="100%" height="auto" alt="Information Architecture" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-02.sm.jpg" width="720" height="405" alt="Information Architecture" loading="lazy">
           </picture>
         </div>
       </div>
@@ -76,14 +76,14 @@
         <source srcset="/img/samples/get-konnected/gk-process-03.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-03.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-03.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-03.md.jpg" width="100%" height="auto" alt="Goals" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-03.md.jpg" width="720" height="405" alt="Goals" loading="lazy" />
       </picture>
       <picture class="img half-right mb-2 hidden">
       <source srcset="/img/samples/get-konnected/gk-process-05.md.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-05.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-05.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-05.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-05.md.jpg" width="100%" height="auto" alt="Proposed Organization" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-05.md.jpg" width="720" height="405" alt="Proposed Organization" loading="lazy" />
       </picture>
     </section>
 
@@ -95,7 +95,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-06.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-06.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-06.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-06.sm.jpg" width="100%" height="auto" alt="Wireframes - Homepage" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-06.sm.jpg" width="720" height="405" alt="Wireframes - Homepage" loading="lazy">
           </picture>
         </div>
       </div>
@@ -113,14 +113,14 @@
         <source srcset="/img/samples/get-konnected/gk-process-07.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-07.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-07.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-07.md.jpg" width="100%" height="auto" alt="Homepage Wireframes" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-07.md.jpg" width="720" height="405" alt="Homepage Wireframes" loading="lazy" />
       </picture>
       <picture class="img half-right mb-2 hidden">
       <source srcset="/img/samples/get-konnected/gk-process-08.md.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-08.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-08.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-08.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-08.md.jpg" width="100%" height="auto" alt="Homepage Wireframes" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-08.md.jpg" width="720" height="405" alt="Homepage Wireframes" loading="lazy" />
       </picture>
     </section>
 
@@ -132,7 +132,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-09.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-09.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-09.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-09.sm.jpg" width="100%" height="auto" alt="Wireframes - Market" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-09.sm.jpg" width="720" height="405" alt="Wireframes - Market" loading="lazy">
           </picture>
         </div>
       </div>
@@ -150,14 +150,14 @@
         <source srcset="/img/samples/get-konnected/gk-process-010.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-010.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-010.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-010.md.jpg" width="100%" height="auto" alt="Onboarding, Concept 1" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-010.md.jpg" width="720" height="405" alt="Onboarding, Concept 1" loading="lazy" />
       </picture>
       <picture class="img half-right mb-2 hidden">
       <source srcset="/img/samples/get-konnected/gk-process-011.md.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-011.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-011.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-011.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-011.md.jpg" width="100%" height="auto" alt="Onboarding, Concept 2" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-011.md.jpg" width="720" height="405" alt="Onboarding, Concept 2" loading="lazy" />
       </picture>
     </section>
 
@@ -169,7 +169,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-012.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-012.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-012.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-012.sm.jpg" width="100%" height="auto" alt="Moodboards" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-012.sm.jpg" width="720" height="405" alt="Moodboards" loading="lazy">
           </picture>
         </div>
       </div>
@@ -180,7 +180,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-013.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-013.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-013.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-013.sm.jpg" width="100%" height="auto" alt="Moodboard 1" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-013.sm.jpg" width="720" height="405" alt="Moodboard 1" loading="lazy">
           </picture>
         </div>
       </div>
@@ -191,7 +191,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-014.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-014.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-014.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-014.sm.jpg" width="100%" height="auto" alt="Moodboard 2" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-014.sm.jpg" width="720" height="405" alt="Moodboard 2" loading="lazy">
           </picture>
         </div>
       </div>
@@ -205,7 +205,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-00.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-00.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-00.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-00.sm.jpg" width="100%" height="auto" alt="Project Checkpoint" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-00.sm.jpg" width="720" height="405" alt="Project Checkpoint" loading="lazy">
           </picture>
         </div>
       </div>
@@ -216,7 +216,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-015.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-015.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-015.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-015.sm.jpg" width="100%" height="auto" alt="Checkpoint Agenda" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-015.sm.jpg" width="720" height="405" alt="Checkpoint Agenda" loading="lazy">
           </picture>
         </div>
       </div>
@@ -231,14 +231,14 @@
         <source srcset="/img/samples/get-konnected/gk-process-016.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-016.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-016.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-016.md.jpg" width="100%" height="auto" alt="Wireframe, Marketplace" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-016.md.jpg" width="720" height="405" alt="Wireframe, Marketplace" loading="lazy" />
       </picture>
       <picture class="img half-right mb-2 hidden">
       <source srcset="/img/samples/get-konnected/gk-process-019.md.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-019.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-019.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-019.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-019.md.jpg" width="100%" height="auto" alt="Wireframe, Profile Creation" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-019.md.jpg" width="720" height="405" alt="Wireframe, Profile Creation" loading="lazy" />
       </picture>
     </section>
 
@@ -248,14 +248,14 @@
         <source srcset="/img/samples/get-konnected/gk-process-017.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-017.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-017.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-017.md.jpg" width="100%" height="auto" alt="Wireframe, Profile" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-017.md.jpg" width="720" height="405" alt="Wireframe, Profile" loading="lazy" />
       </picture>
       <picture class="img half-right mb-2 hidden">
       <source srcset="/img/samples/get-konnected/gk-process-018.md.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-018.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-018.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-018.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-018.md.jpg" width="100%" height="auto" alt="Wireframe, Profile Questions" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-018.md.jpg" width="720" height="405" alt="Wireframe, Profile Questions" loading="lazy" />
       </picture>
     </section>
 
@@ -267,7 +267,7 @@
             <source srcset="/img/samples/get-konnected/gk-process-020.md.jpg" media="(min-width: 50em)">
             <source srcset="/img/samples/get-konnected/gk-process-020.sm.webp" type="image/webp">
             <source srcset="/img/samples/get-konnected/gk-process-020.sm.jpg">
-            <img class="" src="/img/samples/get-konnected/gk-process-020.sm.jpg" width="100%" height="auto" alt="Design Concepts" loading="lazy">
+            <img class="" src="/img/samples/get-konnected/gk-process-020.sm.jpg" width="720" height="405" alt="Design Concepts" loading="lazy">
           </picture>
         </div>
       </div>
@@ -285,14 +285,14 @@
         <source srcset="/img/samples/get-konnected/gk-process-021.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-021.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-021.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-021.md.jpg" width="100%" height="auto" alt="Design Elements" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-021.md.jpg" width="720" height="405" alt="Design Elements" loading="lazy" />
       </picture>
       <picture class="img half-right mb-2 hidden">
       <source srcset="/img/samples/get-konnected/gk-process-022.md.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-022.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-022.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-022.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-022.md.jpg" width="100%" height="auto" alt="Design Concept Summary" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-022.md.jpg" width="720" height="405" alt="Design Concept Summary" loading="lazy" />
       </picture>
     </section>
 
@@ -302,14 +302,14 @@
         <source srcset="/img/samples/get-konnected/gk-process-023.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-023.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-023.sm.jpg">
-        <img class="" src="/img/samples/get-konnected/gk-process-023.md.jpg" width="100%" height="auto" alt="Concept Updates" loading="lazy" />
+        <img class="" src="/img/samples/get-konnected/gk-process-023.md.jpg" width="720" height="405" alt="Concept Updates" loading="lazy" />
       </picture>
       <picture class="img half-right mb-2 hidden">
       <source srcset="/img/samples/get-konnected/gk-process-024.md.webp" media="(min-width: 63em)" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-024.md.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/get-konnected/gk-process-024.sm.webp" type="image/webp">
         <source srcset="/img/samples/get-konnected/gk-process-024.sm.jpg">
-        <img class="shadow" src="/img/samples/get-konnected/gk-process-024.md.jpg" width="100%" height="auto" alt="Concept Comparison" loading="lazy" />
+        <img class="shadow" src="/img/samples/get-konnected/gk-process-024.md.jpg" width="720" height="405" alt="Concept Comparison" loading="lazy" />
       </picture>
     </section>
 
@@ -326,7 +326,7 @@
           <source srcset="/img/samples/latest/get-konnected-home.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/latest/get-konnected-home.webp" type="image/webp">
           <source srcset="/img/samples/latest/get-konnected-home.jpg">
-          <img class="shadow" src="/img/samples/latest/get-konnected-home.lg.jpg" width="100%" height="auto" alt="Get Konnected Branding and Website Design" loading="lazy" />
+          <img class="shadow" src="/img/samples/latest/get-konnected-home.lg.jpg" width="960" height="4130" alt="Get Konnected Branding and Website Design" loading="lazy" />
         </picture>
       </div>
     </section>

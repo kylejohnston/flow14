@@ -32,7 +32,7 @@
               <source srcset="/img/samples/latest/thumb-20210524.jpg" media="(min-width: 50em)">
               <source srcset="/img/samples/latest/thumb-20210524.md.webp" type="image/webp">
               <source srcset="/img/samples/latest/thumb-20210524.md.jpg">
-              <img src="/img/samples/latest/thumb-20210524.jpg" width="100%" height="auto" alt="Latest work." loading="lazy" />
+              <img src="/img/samples/latest/thumb-20210524.jpg" width="750" height="413" alt="Latest work." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -47,7 +47,7 @@
               <source srcset="/img/samples/get-konnected/thumb.png" media="(min-width: 50em)">
               <source srcset="/img/samples/get-konnected/thumb.md.webp" type="image/webp">
               <source srcset="/img/samples/get-konnected/thumb.md.png">
-              <img src="/img/samples/get-konnected/thumb.png" width="100%" height="auto" alt="Get Konnected website redesign." loading="lazy" />
+              <img src="/img/samples/get-konnected/thumb.png" width="750" height="413" alt="Get Konnected website redesign." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -65,7 +65,7 @@
               <source srcset="/img/samples/right-triangle/thumb-right-triangle.png" media="(min-width: 50em)">
               <source srcset="/img/samples/right-triangle/thumb-right-triangle.md.webp" type="image/webp">
               <source srcset="/img/samples/right-triangle/thumb-right-triangle.md.png">
-              <img src="/img/samples/right-triangle/thumb-right-triangle.png" width="100%" height="auto" alt="Right Triangle brand and website design." loading="lazy" />
+              <img src="/img/samples/right-triangle/thumb-right-triangle.png" width="750" height="413" alt="Right Triangle brand and website design." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -80,7 +80,7 @@
               <source srcset="/img/samples/qwally/thumb.png" media="(min-width: 50em)">
               <source srcset="/img/samples/qwally/thumb.md.webp" type="image/webp">
               <source srcset="/img/samples/qwally/thumb.md.png">
-            <img src="/img/samples/qwally/thumb.png" width="100%" height="auto" alt="UX and website design for Qwally." loading="lazy" />
+            <img src="/img/samples/qwally/thumb.png" width="750" height="413" alt="UX and website design for Qwally." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -99,7 +99,7 @@
               <source srcset="/img/samples/websites/thumb-websites.png" media="(min-width: 50em)">
               <source srcset="/img/samples/websites/thumb-websites.md.webp" type="image/webp">
               <source srcset="/img/samples/websites/thumb-websites.md.png">
-              <img src="/img/samples/websites/thumb-websites.png" width="100%" height="auto" alt="Website Design Samples." loading="lazy" />
+              <img src="/img/samples/websites/thumb-websites.png" width="750" height="413" alt="Website Design Samples." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -114,7 +114,7 @@
               <source srcset="/img/samples/logos/thumb-logos.png" media="(min-width: 50em)">
               <source srcset="/img/samples/logos/thumb-logos.md.webp" type="image/webp">
               <source srcset="/img/samples/logos/thumb-logos.md.png">
-              <img src="/img/samples/logos/thumb-logos.png" width="100%" height="auto" alt="Logo designs." loading="lazy" />
+              <img src="/img/samples/logos/thumb-logos.png" width="750" height="413" alt="Logo designs." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -142,7 +142,7 @@
               <source srcset="/img/samples/hnc-living/thumb-hnc.png" media="(min-width: 50em)">
               <source srcset="/img/samples/hnc-living/thumb-hnc.md.webp" type="image/webp">
               <source srcset="/img/samples/hnc-living/thumb-hnc.md.png">
-              <img src="/img/samples/hnc-living/thumb-hnc.png" width="100%" height="auto" alt="HNC Living website design." loading="lazy" />
+              <img src="/img/samples/hnc-living/thumb-hnc.png" width="750" height="413" alt="HNC Living website design." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -157,7 +157,7 @@
               <source srcset="/img/samples/rounding-up-undies/thumb.jpg" media="(min-width: 50em)">
               <source srcset="/img/samples/rounding-up-undies/thumb.md.webp" type="image/webp">
               <source srcset="/img/samples/rounding-up-undies/thumb.md.jpg">
-              <img src="/img/samples/rounding-up-undies/thumb.jpg" width="100%" height="auto" alt="Rounding Up Undies logo design." loading="lazy" />
+              <img src="/img/samples/rounding-up-undies/thumb.jpg" width="750" height="413" alt="Rounding Up Undies logo design." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -173,7 +173,7 @@
               <source srcset="/img/samples/creative-outfitters/thumb.jpg" media="(min-width: 50em)">
               <source srcset="/img/samples/creative-outfitters/thumb.md.webp" type="image/webp">
               <source srcset="/img/samples/creative-outfitters/thumb.md.jpg">
-              <img src="/img/samples/creative-outfitters/thumb.jpg" width="100%" height="auto" alt="Creative Outfitters logo design." loading="lazy" />
+              <img src="/img/samples/creative-outfitters/thumb.jpg" width="750" height="413" alt="Creative Outfitters logo design." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -191,7 +191,7 @@
               <source srcset="/img/samples/harmony/thumb.jpg" media="(min-width: 50em)">
               <source srcset="/img/samples/harmony/thumb.md.webp" type="image/webp">
               <source srcset="/img/samples/harmony/thumb.md.jpg">
-              <img src="/img/samples/harmony/thumb.jpg" width="100%" height="auto" alt="Harmony Hearing Aids logo design." loading="lazy" />
+              <img src="/img/samples/harmony/thumb.jpg" width="750" height="413" alt="Harmony Hearing Aids logo design." loading="lazy" />
             </picture>
           </a>
         </div>
@@ -206,7 +206,7 @@
               <source srcset="/img/fonts/thumb.jpg" media="(min-width: 50em)">
               <source srcset="/img/fonts/thumb.md.webp" type="image/webp">
               <source srcset="/img/fonts/thumb.md.jpg">
-              <img src="/img/fonts/thumb.jpg" width="100%" height="auto" alt="Free and open source fonts" loading="lazy" />
+              <img src="/img/fonts/thumb.jpg" width="750" height="413" alt="Free and open source fonts" loading="lazy" />
             </picture>
           </a>
         </div>
@@ -220,7 +220,7 @@
               <source srcset="/img/memex/thumb.jpg" media="(min-width: 50em)">
               <source srcset="/img/memex/thumb.md.webp" type="image/webp">
               <source srcset="/img/memex/thumb.md.jpg">
-              <img src="/img/memex/thumb.jpg" width="100%" height="auto" alt="MEMEX. Visual inspiration." loading="lazy" />
+              <img src="/img/memex/thumb.jpg" width="750" height="413" alt="MEMEX. Visual inspiration." loading="lazy" />
             </picture>
           </a>
         </div>

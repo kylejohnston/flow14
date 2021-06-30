@@ -40,7 +40,7 @@
           <source srcset="/img/samples/creative-outfitters/logo.lg.png" media="(min-width: 63em)">
           <source srcset="/img/samples/creative-outfitters/logo.webp" type="image/webp">
           <source srcset="/img/samples/creative-outfitters/logo.png">
-          <img class="" src="/img/samples/creative-outfitters/logo.png" width="100%" height="auto" alt="Creative Outfitters logo design" loading="lazy" />
+          <img class="" src="/img/samples/creative-outfitters/logo.png" width="1400" height="740" alt="Creative Outfitters logo design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right">
@@ -58,7 +58,7 @@
           <source srcset="/img/samples/creative-outfitters/business-card.lg.png" media="(min-width: 63em)">
           <source srcset="/img/samples/creative-outfitters/business-card.sm.webp" type="image/webp">
           <source srcset="/img/samples/creative-outfitters/business-card.sm.jpg">
-          <img class="mb-2" src="/img/samples/creative-outfitters/business-card.png" width="100%" height="auto" alt="Creative Outfitters business card design" loading="lazy" />
+          <img class="mb-2" src="/img/samples/creative-outfitters/business-card.png" width="1400" height="550" alt="Creative Outfitters business card design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right">

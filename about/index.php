@@ -36,7 +36,7 @@
     <section class="main grid-in grid-gap">
       <div class="half-left grid-content mb-4">
         <div class="img hidden mb-2">
-          <img class="img lazyload" src="/img/kyle-johnston-700.jpg" width="100%" height="auto" alt="Kyle Johnston">
+          <img class="img lazyload" src="/img/kyle-johnston-700.jpg" width="700" height="350" alt="Kyle Johnston">
         </div>
         <h3>Kyle Johnston</h3>
         <p>Kyle  is a designer and creative leader with over 20 years of experience in practicing and leading design, creative strategy, and user experience.</p>
@@ -46,7 +46,7 @@
       </div>
       <div class="half-right grid-content mb-4">
         <div class="img hidden mb-2">
-          <img class="img lazyload" src="/img/lisa-johnston-700.jpg" width="100%" height="auto" alt="Lisa Johnston">
+          <img class="img lazyload" src="/img/lisa-johnston-700.jpg" width="700" height="350" alt="Lisa Johnston">
         </div>
         <h3>Dr. Lisa Johnston</h3>
         <p>Lisa holds graduate degrees in both psychology and education and brings over 25 years of experience in psychology, statistics/research, communication, and education.</p>
@@ -62,19 +62,19 @@
       </div>
       <div class="half-right grid-content">
         <div class="px-2">
-          <img class="img mb-2 hidden" src="/img/ic-focus.svg" alt="Our Approach: Focusing" width="100%" height="auto">
+          <img class="img mb-2 hidden" src="/img/ic-focus.svg" alt="Our Approach: Focusing" width="416" height="294">
         </div>
         <h3>Focusing</h3>
         <p>We help you see the forest for the trees and find the needle in the haystack. We ask the hard questions to understand where you're starting from and where you hope to go. Then, we plot a course and outline the strategy you need to succeed in your journey.</p>
         <p class="mb-4"><strong>Typical projects include:</strong> creative strategy, brand strategy, content strategy, user experience (UX) planning, brainstorming workshops</p>
         <div class="px-2">
-        	<img class="img mb-2 hidden" src="/img/ic-distinguish.svg" alt="Our Approach: Distinguishing" width="100%" height="auto">
+        	<img class="img mb-2 hidden" src="/img/ic-distinguish.svg" alt="Our Approach: Distinguishing" width="416" height="298">
         </div>
         <h3>Distinguishing</h3>
         <p>Whether you're starting from scratch or you want to improve something you’ve made, we bring your vision to life with results-driven-design that breaks through the clutter and distinguishes you from the competition. Design that reaches the right audience at the right time and moves them to engage with you.</p>
         <p class="mb-4"><strong>Typical projects include:</strong> branding, logo design, website design, UX design, content development</p>
         <div class="px-2">
-          <img class="img mb-2 hidden" src="/img/ic-grow.svg" alt="Our Approach: Growing" width="100%" height="auto">
+          <img class="img mb-2 hidden" src="/img/ic-grow.svg" alt="Our Approach: Growing" width="416" height="296">
         </div>
         <h3>Growing</h3>
         <p>Ultimately, you want growth. In revenue, customers, audience, reach. Wherever you seek it, we focus on driving it. We assess the impact of our work and help you make sense of the data. You’ll understand what moves your audience and what’s driving your growth.</p>

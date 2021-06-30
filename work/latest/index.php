@@ -31,7 +31,7 @@
           <source srcset="/img/samples/latest/flyhaa_com.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/latest/flyhaa_com.webp" type="image/webp">
           <source srcset="/img/samples/latest/flyhaa_com.jpg">
-          <img class="shadow" src="/img/samples/latest/flyhaa_com.lg.jpg" width="100%" height="auto" alt="Hillsboro Aero Academy Website Design" loading="lazy" />
+          <img class="shadow" src="/img/samples/latest/flyhaa_com.lg.jpg" width="960" height="3548" alt="Hillsboro Aero Academy Website Design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1">
@@ -50,7 +50,7 @@
         <source srcset="/img/samples/latest/happy-valley-spring-flyers.lg.jpg" media="(min-width: 63em)">
         <source srcset="/img/samples/latest/happy-valley-spring-flyers.webp" type="image/webp">
         <source srcset="/img/samples/latest/happy-valley-spring-flyers.jpg">
-        <img class="" src="/img/samples/latest/happy-valley-spring-flyers.jpg" width="100%" height="auto" alt="Happy Valley Spring Flyers" loading="lazy" />
+        <img class="" src="/img/samples/latest/happy-valley-spring-flyers.jpg" width="1440" height="739" alt="Happy Valley Spring Flyers" loading="lazy" />
       </picture>
       <div class="half-right grid-content mb-3">
         <h3>Happy Valley Spring Flyers</h3>
@@ -75,7 +75,7 @@
           <source srcset="/img/samples/latest/get-konnected-home.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/latest/get-konnected-home.webp" type="image/webp">
           <source srcset="/img/samples/latest/get-konnected-home.jpg">
-          <img class="shadow" src="/img/samples/latest/get-konnected-home.lg.jpg" width="100%" height="auto" alt="Get Konnected Branding and Website Design" loading="lazy" />
+          <img class="shadow" src="/img/samples/latest/get-konnected-home.lg.jpg" width="960" height="4130" alt="Get Konnected Branding and Website Design" loading="lazy" />
         </picture>
       </div>
     </section>
@@ -98,7 +98,7 @@
           <source srcset="/img/samples/latest/northland-obgyn.lg.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/latest/northland-obgyn.webp" type="image/webp">
           <source srcset="/img/samples/latest/northland-obgyn.jpg">
-          <img class="shadow" src="/img/samples/latest/northland-obgyn.jpg" width="100%" height="auto" alt="Northland OBGYN website design" loading="lazy" />
+          <img class="shadow" src="/img/samples/latest/northland-obgyn.jpg" width="960" height="2342" alt="Northland OBGYN website design" loading="lazy" />
         </picture>
       </div>
       <div class="half-right my-2 order-1">
