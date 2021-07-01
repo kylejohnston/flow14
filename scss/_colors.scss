@@ -3,6 +3,7 @@
   --white: #FFFFFF;
   --blue:  #179BCF;
   --light: #FCF0E8;
+  --medium: #50646D;
   --orange: #FA8335;
   --dark-orange: #E53B34;
   --color-text: var(--black);
@@ -14,6 +15,7 @@
   &-white { color: var(--white); }
   &-blue { color: var(--blue); }
   &-light { color: var(--light); }
+  &-medium { color: var(--medium); }
   &-dark-blue { color: var(--dark-blue); }
   &-orange { color: var(--orange); }
   &-dark-orange { color: var(--dark-orange); }
@@ -42,8 +44,8 @@ body {
   background-image:linear-gradient(#FFFFFF,#F0F7FA);
 }
 .grid-intro {
-  background: linear-gradient(-45deg,var(--dark-orange),var(--orange));
-  color: var(--white);
+  background: #F0F7FA;
+  color: var(--black);
   & a:link, & a:visited { color: var(--white); }
   & a:hover, & a:active { color: var(--light); }
 }
