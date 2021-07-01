@@ -20,8 +20,9 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-      <h1><div class="color-light light smaller">A more effective nonprofit website</div>HNC Living</h1>
-
+			<h1 class="larger">HNC Living</h1>
+      <h2 class="text-md color-medium light">A more effective nonprofit website</h2>
+      <p class="text-sm color-medium">Services: User Experience &amp; Visual Design, Content Development, SEO, WordPress Development</p>
     </div>
 
     <section class="main grid-in mt-3 mb-4">

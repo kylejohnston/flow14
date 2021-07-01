@@ -20,11 +20,11 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1>Logo Designs</h1>
-      <p class="mb-4">A collection of some of the logos we&rsquo;ve designed for startups, small businesses, and nonprofits.</p>
+			<h1 class="larger">Logo Designs</h1>
+      <p>A collection of some of the logos we&rsquo;ve designed for startups, small businesses, and nonprofits.</p>
     </div>
 
-		<section class="main grid-brand mt-2 mb-4" style="">
+		<section class="main grid-brand mb-4 shift-3">
       <!-- <h2 class="text-center brand-title mb-3" style="">Startup &amp; Small Business Logo Design</h2> -->
 			<div class="brand hidden my-2" style="">
 				<img class="w50" loading="lazy" src="/img/samples/logos/right-triangle-logo.svg" alt="Right Triangle" width="162" height="86">

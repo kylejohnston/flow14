@@ -20,7 +20,9 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light light smaller">A brand that breaks through the noise</div>Harmony Hearing Aids</h1>
+			<h1 class="larger">Harmony Hearing Aids</h1>
+      <h2 class="text-md color-medium light">A brand that breaks through the noise</h2>
+      <p class="text-sm color-medium">Services: Design &amp; Branding</p>
     </div>
 
     <section class="main grid-in my-3">

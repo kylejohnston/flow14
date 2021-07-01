@@ -20,11 +20,13 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light light smaller">Data Designed Right</div>Right Triangle Consulting</h1>
+			<h1 class="larger">Right Triangle</h1>
+      <h2 class="text-md color-medium light">Data Designed Right</h2>
+      <p class="text-sm color-medium">Services: Branding, Design, Web Design, WordPress Development</p>
     </div>
 
     <section class="main grid-in mt-2 mb-3">
-      <div class="full shift-4">
+      <div class="full shift-3">
         <div class="grid-content">
           <picture class="img mb-2 hidden">
             <source srcset="/img/samples/right-triangle/banner.lg.webp" media="(min-width: 50em)" type="image/webp">

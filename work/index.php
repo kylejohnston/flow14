@@ -20,10 +20,10 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light light smaller">Select Design Works</div>A Few of Our Favorite Things</h1>
+			<h1><div class="color-medium light smaller">Select Design Works</div><span class="">A Few of Our Favorite Things</span></h1>
     </div>
 
-    <section class="main grid-in grid-gap shift-4">
+    <section class="main grid-in grid-gap shift-3">
       <div class="half-left mb-4">
         <div class="img img-hover hidden mb-2">
           <a href="/work/latest/">
@@ -36,7 +36,7 @@
             </picture>
           </a>
         </div>
-        <h3 class="mb-1"><a href="/work/right-triangle/">Latest Work</a></h3>
+        <h3 class="mb-1"><a href="/work/latest/">Latest Work</a></h3>
         <p>Our newest designs</p>
       </div>
       <div class="half-right mb-4">

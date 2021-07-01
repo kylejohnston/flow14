@@ -20,7 +20,9 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light light smaller">Empowering girls around the world</div>Rounding Up Undies</h1>
+			<h1 class="larger">Rounding Up Undies</h1>
+      <h2 class="text-md color-medium light">Empowering girls around the world</h2>
+      <p class="text-sm color-medium">Services: Logo Design</p>
     </div>
 
     <section class="main grid-in mt-2 mb-2">

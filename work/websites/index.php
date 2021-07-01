@@ -20,21 +20,12 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1>Websites that make a difference.</h1>
+			<h1 class="">Websites that make a difference.</h1>
+      <p>Since 2010, we&rsquo;ve been designing and developing websites with a focus on creating effective user experiences that drive measurable business results.</p>
+        <p>Select designs for nonprofits, political, and startup clients are featured here.</p>
     </div>
 
-    <section class="main grid-in my-3">
-      <div class="half-left grid-content mb-2">
-        <h2>Details</h2>
-      </div>
-      <div class="half-right grid-content">
-        <p>Since 2010, we&rsquo;ve been designing and developing websites with a focus on creating effective user experiences that drive measurable business results.</p>
-        <p>Select designs for nonprofits, political, and startup clients are featured here.</p>
-      </div>
-    </section>
-
-
-    <section class="main grid-in mb-4">
+    <section class="main grid-in mb-4 mt-2">
       <div class="half-left grid-content order-2" style="z-index:2">
         <picture class="img hidden mb-2">
           <source srcset="/img/samples/right-triangle/homepage.webp" media="(min-width: 63em)" type="image/webp">

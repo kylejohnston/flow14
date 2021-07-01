@@ -20,8 +20,8 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1>Latest Work</h1>
-      <p>A snapshot of our newest work. Full case studies coming soon.</p>
+			<h1 class="larger">Latest Work</h1>
+      <p class="">A snapshot of our newest work. Full case studies coming soon.</p>
     </div>
 
     <section class="main grid-in mb-4">

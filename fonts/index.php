@@ -20,7 +20,7 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light">Free &amp; Open Source</div>Fonts</h1>
+			<h1><div class="color-medium light smaller">Free &amp; Open Source</div><span class="">Fonts</span></h1>
     </div>
 
     <section class="main grid-in mb-4">

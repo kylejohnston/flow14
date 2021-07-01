@@ -20,7 +20,9 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-      <h1><div class="color-light light smaller">For the Love of Tees</div>Creative Outfitters</h1>
+			<h1 class="larger">Creative Outfitters</h1>
+      <h2 class="text-md color-medium light">For the Love of Tees</h2>
+      <p class="text-sm color-medium">Services: Design &amp; Branding</p>
     </div>
 
     <section class="main grid-in mt-3 mb-4">

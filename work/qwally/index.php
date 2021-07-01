@@ -20,7 +20,9 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light light smaller">Inclusive Contracting Made Easy</div>Qwally</h1>
+			<h1 class="larger">Qwally</h1>
+      <h2 class="text-md color-medium light">Inclusive Contracting Made Easy</h2>
+      <p class="text-sm color-medium">Services: User Experience &amp; Visual Design</p>
     </div>
 
     <section class="main grid-in mb-2 grid-gap shift-2">

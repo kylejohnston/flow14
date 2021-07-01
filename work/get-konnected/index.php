@@ -20,7 +20,9 @@
 		</header>
 
 		<div class="grid-intro px-2 mt-2">
-			<h1><div class="color-light light smaller">Driving Diversity for Businesses in Boston</div>Get Konnected</h1>
+			<h1 class="larger">Get Konnected</h1>
+      <h2 class="text-md color-medium light">Driving Diversity for Businesses in Boston</h2>
+      <p class="text-sm color-medium">Services: UX &amp; Visual Design, Frontend Development, Branding</p>
     </div>
 
     <section class="main grid-in mt-3 mb-4">
